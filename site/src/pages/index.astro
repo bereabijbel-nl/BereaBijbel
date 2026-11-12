@@ -107,6 +107,36 @@ for (const v of voorbeeldVerzen) {
 ---
 
 <Base title="BereaBijbel" huidigeNav="home">
+	<div slot="hero" class="hero-wrap">
+		<section class="hero">
+			<svg class="hero-ringen" viewBox="0 0 380 380" aria-hidden="true">
+				<g fill="none" stroke="#f2b632" stroke-width="1.5">
+					<circle cx="190" cy="190" r="48" fill="#ffe9a8" stroke="none" />
+					<circle cx="190" cy="190" r="76" opacity="0.8" />
+					<circle cx="190" cy="190" r="110" opacity="0.55" />
+					<circle cx="190" cy="190" r="146" opacity="0.35" />
+					<circle cx="190" cy="190" r="184" opacity="0.2" />
+				</g>
+			</svg>
+			<svg class="hero-golf" viewBox="0 0 1100 80" preserveAspectRatio="none" aria-hidden="true">
+				<g fill="none" stroke="#5aa9d6" stroke-width="1.5">
+					<path d="M0 34 C170 8 310 54 480 32 S790 12 960 34 S1060 38 1100 26" opacity="0.8" />
+					<path d="M0 50 C170 24 310 70 480 48 S790 28 960 50 S1060 54 1100 42" opacity="0.5" />
+					<path d="M0 66 C170 40 310 86 480 64 S790 44 960 66 S1060 70 1100 58" opacity="0.3" />
+				</g>
+			</svg>
+			<div class="hero-inhoud">
+				<p class="hero-oog">Bijbelstudie vanuit de grondtekst</p>
+				<h1>Neem serieus wat er staat. En zie <span class="mark">waarom.</span></h1>
+				<p class="hero-tekst">Een Nederlandse vertaling rechtstreeks uit het Hebreeuws, Aramees en Grieks. Klik op een vers en zie bij elk woord de grondtekst.</p>
+				<div class="hero-knoppen">
+					<a class="pill-btn" href={`/${VOORBEELD_BOEK}/${VOORBEELD_HOOFDSTUK}`}>Lees {voorbeeldBoekInfo.naam_nl} {VOORBEELD_HOOFDSTUK}</a>
+					<a class="tweede" href="/over">Over dit project</a>
+				</div>
+			</div>
+		</section>
+	</div>
+
 	<div class="zoekbalk">
 		<svg class="zoek-icoon" width="16" height="16" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
 			<circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="1.6" />
