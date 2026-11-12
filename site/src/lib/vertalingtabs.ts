@@ -99,6 +99,17 @@ function buildTabs(d: VersDetail): string {
 		if (d.kjv !== null) inhoud += blok("KJV", d.kjv);
 		tabs.push({ id: "bijbels", naam: "Bijbels", inhoud });
 	}
+	// Nog niet gebouwd: wel zichtbaar, zodat duidelijk is waar dit naartoe gaat.
+	tabs.push({
+		id: "beslissing",
+		naam: "Beslissing",
+		inhoud: '<p class="placeholder-detail">In ontwikkeling. Hier komt te staan welke keuzes bij dit vers zijn gemaakt, welke alternatieven er waren en waarom.</p>',
+	});
+	tabs.push({
+		id: "geschiedenis",
+		naam: "Geschiedenis",
+		inhoud: '<p class="placeholder-detail">In ontwikkeling. Hier komen de versies van dit vers te staan, met datum en reden.</p>',
+	});
 	let html = "";
 	if (tabs.length > 1) {
 		html += '<div class="tabs" role="tablist">';

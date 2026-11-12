@@ -131,9 +131,29 @@ for (const v of verzen) {
 		}),
 	};
 }
+
+// Vorige en volgende hoofdstuk, ook over boekgrenzen heen.
+const boekIndex = alleBoeken.findIndex((b) => b.code === boek);
+function koppelNaar(code: string, hoofdstuknr: number) {
+	const b = alleBoeken.find((x) => x.code === code)!;
+	return { href: `/${code}/${hoofdstuknr}`, naam: `${b.naam_nl} ${hoofdstuknr}` };
+}
+const vorige =
+	hoofdstukNummer > 1
+		? koppelNaar(boek!, hoofdstukNummer - 1)
+		: boekIndex > 0
+			? koppelNaar(alleBoeken[boekIndex - 1].code, alleBoeken[boekIndex - 1].hoofdstukken)
+			: null;
+const volgende =
+	hoofdstukNummer < boekInfo.hoofdstukken
+		? koppelNaar(boek!, hoofdstukNummer + 1)
+		: boekIndex < alleBoeken.length - 1
+			? koppelNaar(alleBoeken[boekIndex + 1].code, 1)
+			: null;
 ---
 
 <Base title={`${boekInfo.naam_nl} ${hoofdstukNummer} — BereaBijbel`} huidigeNav="bijbel">
+	<p class="kruimel"><a href="/bijbel">Bijbel</a> › <a href={`/${boek}/`}>{boekInfo.naam_nl}</a></p>
 	<div class="zoekbalk">
 		<svg class="zoek-icoon" width="16" height="16" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
 			<circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="1.6" />
@@ -158,6 +178,14 @@ for (const v of verzen) {
 		</select>
 	</nav>
 
+	<div class="weergave-rij">
+		<div class="weergave" role="group" aria-label="Weergave">
+			<button type="button" data-modus="lezen" aria-pressed="false">Lezen</button>
+			<button type="button" data-modus="studie" aria-pressed="true">Studie</button>
+		</div>
+		<span class="weergave-hint" id="weergave-hint">Klik op een vers voor de grondtekst.</span>
+	</div>
+
 	<div id="chapter-verses">
 		{verzen.map((v) => (
 			<div class="vers" id={`vers-${v.vers}`} data-vers={v.vers}>
@@ -179,6 +207,29 @@ for (const v of verzen) {
 			</div>
 		))}
 	</div>
+
+	<nav class="bladeren" aria-label="Hoofdstuk bladeren">
+		{vorige ? <a class="bladeren-knop" href={vorige.href} rel="prev">&larr; {vorige.naam}</a> : <span></span>}
+		{volgende ? <a class="bladeren-knop primair" href={volgende.href} rel="next">{volgende.naam} &rarr;</a> : <span></span>}
+	</nav>
+
+	<style is:global>
+		.kruimel { margin: 0 0 1.4rem; text-align: center; font-family: var(--ui-font); font-size: 0.9rem; color: var(--tertiary); }
+		.kruimel a { color: var(--tertiary); }
+		.weergave-rij { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 0.6rem 1rem; margin: 0 0 1.6rem; font-family: var(--ui-font); }
+		.weergave { display: inline-flex; gap: 0.25rem; padding: 0.25rem; background: var(--bg); border: 1px solid var(--border); border-radius: 999px; box-shadow: 0 6px 18px rgba(35, 43, 77, 0.06); }
+		.weergave button { min-height: 2.3rem; padding: 0 1.2rem; border: 0; border-radius: 999px; background: transparent; font: 700 0.9rem var(--ui-font); color: var(--tertiary); cursor: pointer; }
+		.weergave button[aria-pressed="true"] { background: var(--goud); color: var(--goud-tekst); }
+		.weergave-hint { font-size: 0.85rem; color: var(--tertiary); }
+		#chapter-verses.modus-lezen .vnr, #chapter-verses.modus-lezen .meld-btn { display: none; }
+		#chapter-verses.modus-lezen .vers-hoofd { cursor: text; padding-left: 0.8rem; }
+		#chapter-verses.modus-lezen .vers-hoofd:hover { background: none; }
+		#chapter-verses.modus-lezen { font-size: 1.2rem; line-height: 1.9; }
+		.bladeren { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.6rem; }
+		.bladeren-knop { display: inline-flex; align-items: center; min-height: 2.9rem; padding: 0 1.4rem; border: 1.5px solid var(--border); border-radius: 999px; font-family: var(--ui-font); font-weight: 700; font-size: 0.95rem; color: var(--dark); text-decoration: none; background: var(--bg); }
+		.bladeren-knop:hover { background: var(--bg-soft); }
+		.bladeren-knop.primair { background: var(--goud); border-color: var(--goud); color: var(--goud-tekst); }
+	</style>
 
 	<script type="application/json" id="boekenindex" set:html={JSON.stringify(alleBoeken)} />
 	<script type="application/json" id="versdetail" set:html={JSON.stringify(versDetail)} />
@@ -256,6 +307,7 @@ for (const v of verzen) {
 				const hoofd = row.querySelector(".vers-hoofd");
 				hoofd?.addEventListener("click", (e) => {
 					if ((e.target as HTMLElement).closest("[data-meld]")) return;
+					if (document.getElementById("chapter-verses")?.classList.contains("modus-lezen")) return;
 					const open = row.classList.contains("open");
 					document.querySelectorAll(".vers.open").forEach((r) => {
 						r.classList.remove("open");
@@ -301,9 +353,34 @@ for (const v of verzen) {
 			setTimeout(() => target.classList.remove("flits"), 1600);
 		}
 
+		function initModus() {
+			const verzen = document.getElementById("chapter-verses");
+			const hint = document.getElementById("weergave-hint");
+			const knoppen = document.querySelectorAll<HTMLButtonElement>(".weergave button");
+			if (!verzen) return;
+			function zet(modus: string) {
+				const lezen = modus === "lezen";
+				verzen!.classList.toggle("modus-lezen", lezen);
+				knoppen.forEach((k) => k.setAttribute("aria-pressed", String(k.dataset.modus === modus)));
+				if (hint) hint.hidden = lezen;
+				if (lezen) {
+					document.querySelectorAll(".vers.open").forEach((r) => {
+						r.classList.remove("open");
+						r.querySelector(".vers-detail")?.remove();
+					});
+				}
+				try { localStorage.setItem("bb-modus", modus); } catch {}
+			}
+			knoppen.forEach((k) => k.addEventListener("click", () => zet(k.dataset.modus!)));
+			let bewaard = "studie";
+			try { bewaard = localStorage.getItem("bb-modus") === "lezen" ? "lezen" : "studie"; } catch {}
+			zet(bewaard);
+		}
+
 		initZoek();
 		initSelects();
 		initVersen();
+		initModus();
 		markeerVanuitHash();
 	</script>
 </Base>
