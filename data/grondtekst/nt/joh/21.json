@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 21,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -313,8 +313,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ανεβησαν",
-          "strong": "G305",
+          "tekst": "ενεβησαν",
+          "strong": "G1684",
           "morf": "V-2AAI-3P"
         },
         {
@@ -633,14 +633,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "αυτο",
@@ -1193,7 +1188,12 @@
           "morf": "A-NUI"
         },
         {
-          "tekst": "πεντηκοντατριων",
+          "tekst": "πεντηκοντα",
+          "strong": "G4004",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "τριων",
           "strong": "G5140",
           "morf": "A-GPM"
         },

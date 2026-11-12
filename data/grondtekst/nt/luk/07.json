@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -118,9 +118,9 @@
           "morf": "V-PAP-NSM"
         },
         {
-          "tekst": "ημελλεν",
+          "tekst": "εμελλεν",
           "strong": "G3195",
-          "morf": "V-IAI-3S-ATT"
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "τελευταν",
@@ -618,7 +618,7 @@
           "morf": "V-2AAN"
         },
         {
-          "tekst": "αλλα",
+          "tekst": "αλλ",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -765,7 +765,7 @@
         {
           "tekst": "ερχου",
           "strong": "G2064",
-          "morf": "V-PNI-2S"
+          "morf": "V-PNM-2S"
         },
         {
           "tekst": "και",
@@ -903,8 +903,8 @@
           "morf": "P-2DP"
         },
         {
-          "tekst": "ουδε",
-          "strong": "G3761",
+          "tekst": "ουτε",
+          "strong": "G3777",
           "morf": "CONJ-N"
         },
         {
@@ -1023,9 +1023,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τη",
+          "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSF"
+          "morf": "T-DSM"
         },
         {
           "tekst": "εξης",
@@ -1233,19 +1233,14 @@
           "morf": "A-NSM"
         },
         {
-          "tekst": "ην",
-          "strong": "G1510",
-          "morf": "V-IAI-3S"
-        },
-        {
           "tekst": "συν",
           "strong": "G4862",
           "morf": "PREP"
         },
         {
           "tekst": "αυτη",
-          "strong": "G3778",
-          "morf": "P-NSF"
+          "strong": "G846",
+          "morf": "P-DSF"
         }
       ]
     },
@@ -1488,8 +1483,8 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "απαντας",
-          "strong": "G537",
+          "tekst": "παντας",
+          "strong": "G3956",
           "morf": "A-APM"
         },
         {
@@ -2278,19 +2273,14 @@
           "morf": "V-PAN"
         },
         {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τους",
+          "tekst": "τοις",
           "strong": "G3588",
-          "morf": "T-APM"
+          "morf": "T-DPM"
         },
         {
-          "tekst": "οχλους",
+          "tekst": "οχλοις",
           "strong": "G3793",
-          "morf": "N-APM"
+          "morf": "N-DPM"
         },
         {
           "tekst": "περι",
@@ -2933,26 +2923,6 @@
       "vers": 31,
       "woorden": [
         {
-          "tekst": "ειπεν",
-          "strong": "G3004",
-          "morf": "V-2AAI-3S"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "κυριος",
-          "strong": "G2962",
-          "morf": "N-NSM"
-        },
-        {
           "tekst": "τινι",
           "strong": "G5101",
           "morf": "I-DSN"
@@ -3288,14 +3258,14 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "τελωνων",
-          "strong": "G5057",
-          "morf": "N-GPM"
-        },
-        {
           "tekst": "φιλος",
           "strong": "G5384",
           "morf": "A-NSM"
+        },
+        {
+          "tekst": "τελωνων",
+          "strong": "G5057",
+          "morf": "N-GPM"
         },
         {
           "tekst": "και",

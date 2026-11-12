@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -653,9 +653,9 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "τουτου",
+          "tekst": "τουτο",
           "strong": "G3778",
-          "morf": "D-GSN"
+          "morf": "D-ASN"
         },
         {
           "tekst": "ουκ",
@@ -760,7 +760,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -785,7 +785,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -828,7 +828,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -945,7 +945,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -978,9 +978,14 @@
           "morf": "P-GPM"
         },
         {
-          "tekst": "διαπαντος",
-          "strong": "G1275",
-          "morf": "ADV"
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντος",
+          "strong": "G3956",
+          "morf": "A-GSN"
         },
         {
           "tekst": "συγκαμψον",
@@ -1723,11 +1728,6 @@
           "morf": "V-API-3P"
         },
         {
-          "tekst": "οι",
-          "strong": "G3588",
-          "morf": "T-NPM"
-        },
-        {
           "tekst": "κλαδοι",
           "strong": "G2798",
           "morf": "N-NPM"
@@ -1888,9 +1888,9 @@
           "morf": "P-2GS"
         },
         {
-          "tekst": "φεισηται",
+          "tekst": "φεισεται",
           "strong": "G5339",
-          "morf": "V-ADS-3S"
+          "morf": "V-FDI-3S"
         }
       ]
     },
@@ -1899,7 +1899,7 @@
       "woorden": [
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -2073,11 +2073,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εστιν",
-          "strong": "G1510",
-          "morf": "V-PAI-3S"
-        },
-        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -2086,6 +2081,11 @@
           "tekst": "θεος",
           "strong": "G2316",
           "morf": "N-NSM"
+        },
+        {
+          "tekst": "εστιν",
+          "strong": "G1510",
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "παλιν",
@@ -2348,7 +2348,7 @@
           "morf": "V-2RAI-3S"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -2778,9 +2778,9 @@
           "morf": "T-DSN"
         },
         {
-          "tekst": "ημετερω",
-          "strong": "G2251",
-          "morf": "S-1PDSN"
+          "tekst": "υμετερω",
+          "strong": "G5212",
+          "morf": "S-2PDSN"
         },
         {
           "tekst": "ελεει",

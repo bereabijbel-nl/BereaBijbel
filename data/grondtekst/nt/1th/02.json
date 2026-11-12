@@ -2,7 +2,7 @@
   "boek": "1th",
   "boeknummer": 52,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -85,11 +85,6 @@
         {
           "tekst": "αλλα",
           "strong": "G235",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
           "morf": "CONJ"
         },
         {
@@ -523,7 +518,7 @@
           "morf": "CONJ-N"
         },
         {
-          "tekst": "απ",
+          "tekst": "απο",
           "strong": "G575",
           "morf": "PREP"
         },
@@ -648,9 +643,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ιμειρομενοι",
+          "tekst": "ομειρομενοι",
           "strong": "G2442",
-          "morf": "V-PMP-NPM"
+          "morf": "V-PNP-NPM"
         },
         {
           "tekst": "υμων",
@@ -1053,9 +1048,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μαρτυρουμενοι",
-          "strong": "G3140",
-          "morf": "V-PMP-NPM"
+          "tekst": "μαρτυρομενοι",
+          "strong": "G3143",
+          "morf": "V-PNP-NPM"
         },
         {
           "tekst": "εις",
@@ -1403,9 +1398,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ταυτα",
-          "strong": "G3778",
-          "morf": "D-APN"
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
+        },
+        {
+          "tekst": "αυτα",
+          "strong": "G846",
+          "morf": "P-APN"
         },
         {
           "tekst": "επαθετε",
@@ -1718,7 +1718,7 @@
           "morf": "N-VPM"
         },
         {
-          "tekst": "αποφανισθεντες",
+          "tekst": "απορφανισθεντες",
           "strong": "G642",
           "morf": "V-APP-NPM"
         },
@@ -1990,11 +1990,6 @@
         {
           "tekst": "ιησου",
           "strong": "G2424",
-          "morf": "N-GSM"
-        },
-        {
-          "tekst": "χριστου",
-          "strong": "G5547",
           "morf": "N-GSM"
         },
         {

@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 16,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -141,11 +141,6 @@
           "tekst": "ποιησουσιν",
           "strong": "G4160",
           "morf": "V-FAI-3P"
-        },
-        {
-          "tekst": "υμιν",
-          "strong": "G4771",
-          "morf": "P-2DP"
         },
         {
           "tekst": "οτι",
@@ -528,6 +523,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "εγω",
+          "strong": "G1473",
+          "morf": "P-1NS"
+        },
+        {
           "tekst": "μη",
           "strong": "G3361",
           "morf": "PRT-N"
@@ -778,14 +778,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "θεωρειτε",
@@ -1193,9 +1188,9 @@
           "morf": "S-1SGSN"
         },
         {
-          "tekst": "ληψεται",
+          "tekst": "λαμβανει",
           "strong": "G2983",
-          "morf": "V-FDI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "και",
@@ -1276,11 +1271,6 @@
           "tekst": "οτι",
           "strong": "G3754",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "εγω",
-          "strong": "G1473",
-          "morf": "P-1NS"
         },
         {
           "tekst": "υπαγω",
@@ -1893,14 +1883,9 @@
           "morf": "N-ASN"
         },
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "μνημονευει",
@@ -2363,14 +2348,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "εν",
@@ -2754,7 +2734,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -3133,9 +3113,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "εξετε",
+          "tekst": "εχετε",
           "strong": "G2192",
-          "morf": "V-FAI-2P"
+          "morf": "V-PAI-2P"
         },
         {
           "tekst": "αλλα",

@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -128,8 +128,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "συζητησεως",
-          "strong": "G4803",
+          "tekst": "ζητησεως",
+          "strong": "G2214",
           "morf": "N-GSF"
         },
         {
@@ -1173,6 +1173,11 @@
           "morf": "N-GSF"
         },
         {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
           "tekst": "κυριου",
           "strong": "G2962",
           "morf": "N-GSM"
@@ -1180,11 +1185,6 @@
         {
           "tekst": "ιησου",
           "strong": "G2424",
-          "morf": "N-GSM"
-        },
-        {
-          "tekst": "χριστου",
-          "strong": "G5547",
           "morf": "N-GSM"
         },
         {
@@ -1573,7 +1573,7 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -1915,7 +1915,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "απεχεσθαι",
@@ -1998,7 +1998,7 @@
       "vers": 21,
       "woorden": [
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -2188,11 +2188,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
           "tekst": "παυλω",
           "strong": "G3972",
           "morf": "N-DSM"
@@ -2223,7 +2218,7 @@
           "morf": "V-PPP-ASM"
         },
         {
-          "tekst": "βαρσαβαν",
+          "tekst": "βαρσαββαν",
           "strong": "G923",
           "morf": "N-ASM"
         },
@@ -3023,9 +3018,9 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
+          "tekst": "τε",
+          "strong": "G5037",
+          "morf": "PRT"
         },
         {
           "tekst": "και",
@@ -3161,41 +3156,6 @@
           "tekst": "αποστολους",
           "strong": "G652",
           "morf": "N-APM"
-        }
-      ]
-    },
-    {
-      "vers": 34,
-      "woorden": [
-        {
-          "tekst": "εδοξεν",
-          "strong": "G1380",
-          "morf": "V-AAI-3S"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
-          "tekst": "σιλα",
-          "strong": "G4609",
-          "morf": "N-DSM"
-        },
-        {
-          "tekst": "επιμειναι",
-          "strong": "G1961",
-          "morf": "V-AAN"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G847",
-          "morf": "ADV"
         }
       ]
     },

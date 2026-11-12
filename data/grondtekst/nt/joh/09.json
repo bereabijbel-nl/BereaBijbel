@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 9,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -146,11 +146,6 @@
           "tekst": "απεκριθη",
           "strong": "G611",
           "morf": "V-ADI-3S"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "ιησους",
@@ -803,9 +798,9 @@
           "morf": "V-API-3P"
         },
         {
-          "tekst": "σοι",
+          "tekst": "σου",
           "strong": "G4771",
-          "morf": "P-2DS"
+          "morf": "P-2GS"
         },
         {
           "tekst": "οι",
@@ -1223,6 +1218,11 @@
           "morf": "V-AAI-3S"
         },
         {
+          "tekst": "μου",
+          "strong": "G1473",
+          "morf": "P-1GS"
+        },
+        {
           "tekst": "επι",
           "strong": "G1909",
           "morf": "PREP"
@@ -1236,11 +1236,6 @@
           "tekst": "οφθαλμους",
           "strong": "G3788",
           "morf": "N-APM"
-        },
-        {
-          "tekst": "μου",
-          "strong": "G1473",
-          "morf": "P-1GS"
         },
         {
           "tekst": "και",
@@ -1753,6 +1748,11 @@
           "morf": "V-ADI-3P"
         },
         {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "αυτοις",
           "strong": "G846",
           "morf": "P-DPM"
@@ -1953,9 +1953,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G848",
-          "morf": "P-GSM"
+          "tekst": "εαυτου",
+          "strong": "G1438",
+          "morf": "F-3GSM"
         },
         {
           "tekst": "λαλησει",
@@ -2526,11 +2526,6 @@
           "tekst": "ελοιδορησαν",
           "strong": "G3058",
           "morf": "V-AAI-3P"
-        },
-        {
-          "tekst": "ουν",
-          "strong": "G3767",
-          "morf": "CONJ"
         },
         {
           "tekst": "αυτον",
@@ -3216,6 +3211,11 @@
           "tekst": "ειπεν",
           "strong": "G3004",
           "morf": "V-2AAI-3S"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "τις",

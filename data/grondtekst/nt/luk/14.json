@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 14,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -25,7 +25,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ελθειν",
@@ -333,8 +333,8 @@
           "morf": "P-2GP"
         },
         {
-          "tekst": "ονος",
-          "strong": "G3688",
+          "tekst": "υιος",
+          "strong": "G5207",
           "morf": "N-NSM"
         },
         {
@@ -758,9 +758,9 @@
           "morf": "V-AOP-NSM"
         },
         {
-          "tekst": "αναπεσον",
+          "tekst": "αναπεσε",
           "strong": "G377",
-          "morf": "V-AAM-2S"
+          "morf": "V-2AAM-2S"
         },
         {
           "tekst": "εις",
@@ -1318,9 +1318,9 @@
           "morf": "V-FDI-3S"
         },
         {
-          "tekst": "αρτον",
-          "strong": "G740",
-          "morf": "N-ASM"
+          "tekst": "αριστον",
+          "strong": "G712",
+          "morf": "N-ASN"
         },
         {
           "tekst": "εν",
@@ -2221,6 +2221,41 @@
           "tekst": "δειπνου",
           "strong": "G1173",
           "morf": "N-GSN"
+        },
+        {
+          "tekst": "πολλοι",
+          "strong": "G4183",
+          "morf": "A-NPM"
+        },
+        {
+          "tekst": "γαρ",
+          "strong": "G1063",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εισιν",
+          "strong": "G1510",
+          "morf": "V-PAI-3P"
+        },
+        {
+          "tekst": "κλητοι",
+          "strong": "G2822",
+          "morf": "A-NPM"
+        },
+        {
+          "tekst": "ολιγοι",
+          "strong": "G3641",
+          "morf": "A-NPM"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκλεκτοι",
+          "strong": "G1588",
+          "morf": "A-NPM"
         }
       ]
     },
@@ -2333,9 +2368,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "εαυτου",
-          "strong": "G1438",
-          "morf": "F-3GSM"
+          "tekst": "αυτου",
+          "strong": "G846",
+          "morf": "P-GSM"
         },
         {
           "tekst": "και",
@@ -2538,14 +2573,14 @@
           "morf": "V-PNI-3S"
         },
         {
-          "tekst": "μου",
-          "strong": "G1473",
-          "morf": "P-1GS"
-        },
-        {
           "tekst": "ειναι",
           "strong": "G1510",
           "morf": "V-PAN"
+        },
+        {
+          "tekst": "μου",
+          "strong": "G1473",
+          "morf": "P-1GS"
         },
         {
           "tekst": "μαθητης",
@@ -2576,6 +2611,11 @@
           "tekst": "υμων",
           "strong": "G4771",
           "morf": "P-2GP"
+        },
+        {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
         },
         {
           "tekst": "θελων",
@@ -2638,8 +2678,8 @@
           "morf": "T-APN"
         },
         {
-          "tekst": "προς",
-          "strong": "G4314",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {
@@ -2910,7 +2950,7 @@
         {
           "tekst": "χιλιαδων",
           "strong": "G5505",
-          "morf": "N-NPF"
+          "morf": "N-GPF"
         },
         {
           "tekst": "ερχομενω",
@@ -2953,14 +2993,14 @@
           "morf": "ADV"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
-        },
-        {
           "tekst": "πορρω",
           "strong": "G4206",
           "morf": "ADV"
+        },
+        {
+          "tekst": "αυτου",
+          "strong": "G846",
+          "morf": "P-GSM"
         },
         {
           "tekst": "οντος",

@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 6,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -263,7 +263,7 @@
           "morf": "V-AAI-3S"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -678,11 +678,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
-        },
-        {
           "tekst": "οι",
           "strong": "G3588",
           "morf": "T-NPM"
@@ -929,8 +924,8 @@
         },
         {
           "tekst": "τι",
-          "strong": "G5101",
-          "morf": "I-NSN"
+          "strong": "G5100",
+          "morf": "X-ASN"
         },
         {
           "tekst": "εξεστιν",
@@ -978,8 +973,8 @@
           "morf": "PRT"
         },
         {
-          "tekst": "απολεσαι",
-          "strong": "G622",
+          "tekst": "αποκτειναι",
+          "strong": "G615",
           "morf": "V-AAN"
         }
       ]
@@ -1013,14 +1008,9 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
-          "tekst": "ανθρωπω",
-          "strong": "G444",
-          "morf": "N-DSM"
+          "tekst": "αυτω",
+          "strong": "G846",
+          "morf": "P-DSM"
         },
         {
           "tekst": "εκτεινον",
@@ -1056,11 +1046,6 @@
           "tekst": "εποιησεν",
           "strong": "G4160",
           "morf": "V-AAI-3S"
-        },
-        {
-          "tekst": "ουτως",
-          "strong": "G3779",
-          "morf": "ADV"
         },
         {
           "tekst": "και",
@@ -2203,9 +2188,9 @@
       "vers": 23,
       "woorden": [
         {
-          "tekst": "χαιρετε",
+          "tekst": "χαρητε",
           "strong": "G5463",
-          "morf": "V-PAM-2P"
+          "morf": "V-2AOM-2P"
         },
         {
           "tekst": "εν",
@@ -2473,11 +2458,6 @@
           "morf": "INJ"
         },
         {
-          "tekst": "υμιν",
-          "strong": "G4771",
-          "morf": "P-2DP"
-        },
-        {
           "tekst": "οταν",
           "strong": "G3752",
           "morf": "CONJ"
@@ -2496,11 +2476,6 @@
           "tekst": "ειπωσιν",
           "strong": "G3004",
           "morf": "V-2AAS-3P"
-        },
-        {
-          "tekst": "παντες",
-          "strong": "G3956",
-          "morf": "A-NPM"
         },
         {
           "tekst": "οι",
@@ -2656,11 +2631,6 @@
           "tekst": "υμιν",
           "strong": "G4771",
           "morf": "P-2DP"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "προσευχεσθε",
@@ -3203,11 +3173,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "οι",
-          "strong": "G3588",
-          "morf": "T-NPM"
-        },
-        {
           "tekst": "αμαρτωλοι",
           "strong": "G268",
           "morf": "A-NPM"
@@ -3346,11 +3311,6 @@
           "tekst": "υιοι",
           "strong": "G5207",
           "morf": "N-NPM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "υψιστου",

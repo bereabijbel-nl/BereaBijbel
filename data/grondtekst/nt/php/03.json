@@ -2,7 +2,7 @@
   "boek": "php",
   "boeknummer": 50,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -193,9 +193,9 @@
           "morf": "N-DSN"
         },
         {
-          "tekst": "θεω",
+          "tekst": "θεου",
           "strong": "G2316",
-          "morf": "N-DSM"
+          "morf": "N-GSM"
         },
         {
           "tekst": "λατρευοντες",
@@ -543,9 +543,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μενουνγε",
-          "strong": "G3304",
+          "tekst": "μεν",
+          "strong": "G3303",
           "morf": "PRT"
+        },
+        {
+          "tekst": "ουν",
+          "strong": "G3767",
+          "morf": "CONJ"
         },
         {
           "tekst": "και",
@@ -810,7 +815,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "γνωναι",
@@ -1815,7 +1820,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "δυνασθαι",

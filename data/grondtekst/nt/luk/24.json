@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 24,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -220,7 +220,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "διαπορεισθαι",
@@ -253,14 +253,14 @@
           "morf": "V-2AMM-2S"
         },
         {
-          "tekst": "δυο",
-          "strong": "G1417",
-          "morf": "A-NUI"
-        },
-        {
           "tekst": "ανδρες",
           "strong": "G435",
           "morf": "N-NPM"
+        },
+        {
+          "tekst": "δυο",
+          "strong": "G1417",
+          "morf": "A-NUI"
         },
         {
           "tekst": "επεστησαν",
@@ -1155,7 +1155,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ομιλειν",
@@ -1245,7 +1245,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -1416,11 +1416,6 @@
           "tekst": "παροικεις",
           "strong": "G3939",
           "morf": "V-PAI-2S"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
         },
         {
           "tekst": "ιερουσαλημ",
@@ -2175,7 +2170,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "πιστευειν",
@@ -2368,9 +2363,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
+          "tekst": "εαυτου",
+          "strong": "G1438",
+          "morf": "F-3GSM"
         }
       ]
     },
@@ -2530,7 +2525,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μειναι",
@@ -2570,7 +2565,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "κατακλιθηναι",
@@ -3820,7 +3815,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "συνιεναι",
@@ -4280,7 +4275,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ευλογειν",
@@ -4408,9 +4403,14 @@
           "morf": "V-IAI-3P"
         },
         {
-          "tekst": "διαπαντος",
-          "strong": "G1275",
-          "morf": "ADV"
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντος",
+          "strong": "G3956",
+          "morf": "A-GSN"
         },
         {
           "tekst": "εν",

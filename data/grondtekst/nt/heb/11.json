@@ -2,7 +2,7 @@
   "boek": "heb",
   "boeknummer": 58,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -330,7 +330,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -798,11 +798,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "την",
-          "strong": "G3588",
-          "morf": "T-ASF"
-        },
-        {
           "tekst": "γην",
           "strong": "G1093",
           "morf": "N-ASF"
@@ -1148,9 +1143,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ωσει",
-          "strong": "G5616",
+          "tekst": "ως",
+          "strong": "G5613",
           "morf": "ADV"
+        },
+        {
+          "tekst": "η",
+          "strong": "G3588",
+          "morf": "T-NSF"
         },
         {
           "tekst": "αμμος",
@@ -1266,16 +1266,6 @@
           "tekst": "ιδοντες",
           "strong": "G3708",
           "morf": "V-2AAP-NPM"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "πεισθεντες",
-          "strong": "G3982",
-          "morf": "V-APP-NPM"
         },
         {
           "tekst": "και",
@@ -1453,8 +1443,8 @@
       "vers": 16,
       "woorden": [
         {
-          "tekst": "νυνι",
-          "strong": "G3570",
+          "tekst": "νυν",
+          "strong": "G3568",
           "morf": "ADV"
         },
         {
@@ -1993,7 +1983,7 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -2103,7 +2093,7 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -2233,14 +2223,9 @@
           "morf": "T-GPM"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "αιγυπτω",
+          "tekst": "αιγυπτου",
           "strong": "G125",
-          "morf": "N-DSF"
+          "morf": "N-GSF"
         },
         {
           "tekst": "θησαυρων",
@@ -2753,7 +2738,7 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },

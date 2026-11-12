@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 14,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -193,14 +193,9 @@
           "morf": "V-AOS-1S"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ετοιμασω",
           "strong": "G2090",
-          "morf": "V-AAS-1S"
+          "morf": "V-FAI-1S"
         },
         {
           "tekst": "υμιν",
@@ -1063,11 +1058,6 @@
           "morf": "P-1DS"
         },
         {
-          "tekst": "εστιν",
-          "strong": "G1510",
-          "morf": "V-PAI-3S"
-        },
-        {
           "tekst": "ει",
           "strong": "G1487",
           "morf": "COND"
@@ -1361,6 +1351,11 @@
           "tekst": "αιτησητε",
           "strong": "G154",
           "morf": "V-AAS-2P"
+        },
+        {
+          "tekst": "με",
+          "strong": "G1473",
+          "morf": "P-1AS"
         },
         {
           "tekst": "εν",
@@ -1753,14 +1748,9 @@
           "morf": "P-1AS"
         },
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "θεωρει",
@@ -1903,9 +1893,14 @@
           "morf": "P-1DS"
         },
         {
-          "tekst": "καγω",
-          "strong": "G2504",
-          "morf": "P-1NS-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εγω",
+          "strong": "G1473",
+          "morf": "P-1NS"
         },
         {
           "tekst": "εν",
@@ -2113,6 +2108,11 @@
           "morf": "N-VSM"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "τι",
           "strong": "G5101",
           "morf": "I-NSN"
@@ -2176,11 +2176,6 @@
           "tekst": "απεκριθη",
           "strong": "G611",
           "morf": "V-ADI-3S"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "ιησους",
@@ -2928,14 +2923,9 @@
       "vers": 30,
       "woorden": [
         {
-          "tekst": "ουκ",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ετι",
-          "strong": "G2089",
-          "morf": "ADV"
+          "tekst": "ουκετι",
+          "strong": "G3765",
+          "morf": "ADV-N"
         },
         {
           "tekst": "πολλα",
@@ -2981,11 +2971,6 @@
           "tekst": "κοσμου",
           "strong": "G2889",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "τουτου",
-          "strong": "G3778",
-          "morf": "D-GSM"
         },
         {
           "tekst": "αρχων",

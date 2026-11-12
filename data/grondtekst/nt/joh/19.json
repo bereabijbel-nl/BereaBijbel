@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 19,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -249,7 +249,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -399,7 +399,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -481,6 +481,11 @@
           "tekst": "σταυρωσον",
           "strong": "G4717",
           "morf": "V-AAM-2S"
+        },
+        {
+          "tekst": "αυτον",
+          "strong": "G846",
+          "morf": "P-ASM"
         },
         {
           "tekst": "λεγει",
@@ -651,11 +656,6 @@
           "tekst": "υιον",
           "strong": "G5207",
           "morf": "N-ASM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "θεου",
@@ -943,11 +943,6 @@
           "morf": "V-ADI-3S"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιησους",
           "strong": "G2424",
           "morf": "N-NSM"
@@ -1178,9 +1173,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
+          "tekst": "εαυτον",
+          "strong": "G1438",
+          "morf": "F-3ASM"
         },
         {
           "tekst": "ποιων",
@@ -1394,7 +1389,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -1603,8 +1598,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "απηγαγον",
-          "strong": "G520",
+          "tekst": "ηγαγον",
+          "strong": "G71",
           "morf": "V-2AAI-3P"
         }
       ]
@@ -1648,9 +1643,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
+          "tekst": "τοπον",
+          "strong": "G5117",
+          "morf": "N-ASM"
         },
         {
           "tekst": "λεγομενον",
@@ -1938,16 +1933,6 @@
           "morf": "V-IAI-3S"
         },
         {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
-        },
-        {
-          "tekst": "πολεως",
-          "strong": "G4172",
-          "morf": "N-GSF"
-        },
-        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -1956,6 +1941,16 @@
           "tekst": "τοπος",
           "strong": "G5117",
           "morf": "N-NSM"
+        },
+        {
+          "tekst": "της",
+          "strong": "G3588",
+          "morf": "T-GSF"
+        },
+        {
+          "tekst": "πολεως",
+          "strong": "G4172",
+          "morf": "N-GSF"
         },
         {
           "tekst": "οπου",
@@ -2288,7 +2283,7 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "αρραφος",
+          "tekst": "αραφος",
           "strong": "G729",
           "morf": "A-NSM"
         },
@@ -2818,11 +2813,6 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "αυτην",
-          "strong": "G846",
-          "morf": "P-ASF"
-        },
-        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -2831,6 +2821,11 @@
           "tekst": "μαθητης",
           "strong": "G3101",
           "morf": "N-NSM"
+        },
+        {
+          "tekst": "αυτην",
+          "strong": "G846",
+          "morf": "P-ASF"
         },
         {
           "tekst": "εις",
@@ -2863,9 +2858,9 @@
           "morf": "D-ASN"
         },
         {
-          "tekst": "ειδως",
-          "strong": "G1492",
-          "morf": "V-RAP-NSM"
+          "tekst": "ιδων",
+          "strong": "G3708",
+          "morf": "V-2AAP-NSM"
         },
         {
           "tekst": "ο",
@@ -3145,7 +3140,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSN"
+          "morf": "T-GSM"
         },
         {
           "tekst": "σταυρου",
@@ -3160,7 +3155,7 @@
         {
           "tekst": "σωματα",
           "strong": "G4983",
-          "morf": "N-APN"
+          "morf": "N-NPN"
         },
         {
           "tekst": "εν",
@@ -3170,12 +3165,12 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "σαββατω",
           "strong": "G4521",
-          "morf": "N-DSM"
+          "morf": "N-DSN"
         },
         {
           "tekst": "επει",
@@ -3218,9 +3213,9 @@
           "morf": "N-NSF"
         },
         {
-          "tekst": "εκεινη",
+          "tekst": "εκεινου",
           "strong": "G1565",
-          "morf": "D-DSF"
+          "morf": "D-GSN"
         },
         {
           "tekst": "του",
@@ -3508,7 +3503,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ευθυς",
+          "tekst": "ευθεως",
           "strong": "G2112",
           "morf": "ADV"
         },
@@ -3568,14 +3563,14 @@
           "morf": "A-NSF"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
-        },
-        {
           "tekst": "εστιν",
           "strong": "G1510",
           "morf": "V-PAI-3S"
+        },
+        {
+          "tekst": "αυτου",
+          "strong": "G846",
+          "morf": "P-GSM"
         },
         {
           "tekst": "η",
@@ -3683,6 +3678,11 @@
           "morf": "V-2FPI-3S"
         },
         {
+          "tekst": "απ",
+          "strong": "G575",
+          "morf": "PREP"
+        },
+        {
           "tekst": "αυτου",
           "strong": "G846",
           "morf": "P-GSM"
@@ -3748,11 +3748,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ταυτα",
           "strong": "G3778",
           "morf": "D-APN"
@@ -3771,11 +3766,6 @@
           "tekst": "πιλατον",
           "strong": "G4091",
           "morf": "N-ASM"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "ιωσηφ",
@@ -4033,8 +4023,8 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "ωσει",
-          "strong": "G5616",
+          "tekst": "ως",
+          "strong": "G5613",
           "morf": "ADV"
         },
         {
@@ -4096,6 +4086,11 @@
           "tekst": "αυτο",
           "strong": "G846",
           "morf": "P-ASN"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "οθονιοις",

@@ -2,7 +2,7 @@
   "boek": "rev",
   "boeknummer": 66,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -18,9 +18,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ταυτα",
+          "tekst": "τουτο",
           "strong": "G3778",
-          "morf": "D-APN"
+          "morf": "D-ASN"
         },
         {
           "tekst": "ειδον",
@@ -168,9 +168,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "παν",
-          "strong": "G3956",
-          "morf": "A-ASN"
+          "tekst": "τι",
+          "strong": "G5100",
+          "morf": "X-ASN"
         },
         {
           "tekst": "δενδρον",
@@ -203,9 +203,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "αναβαντα",
+          "tekst": "αναβαινοντα",
           "strong": "G305",
-          "morf": "V-2AAP-ASM"
+          "morf": "V-PAP-ASM"
         },
         {
           "tekst": "απο",
@@ -383,7 +383,7 @@
           "morf": "N-APN"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -478,9 +478,24 @@
           "morf": "V-RPP-GPM"
         },
         {
-          "tekst": "ρμδ",
+          "tekst": "εκατον",
+          "strong": "G1540",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "τεσσαρακοντα",
+          "strong": "G5062",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "τεσσαρες",
           "strong": "G5064",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NPF"
         },
         {
           "tekst": "χιλιαδες",
@@ -488,9 +503,9 @@
           "morf": "N-NPF"
         },
         {
-          "tekst": "εσφραγισμενοι",
+          "tekst": "εσφραγισμενων",
           "strong": "G4972",
-          "morf": "V-RPP-NPM"
+          "morf": "V-RPP-GPM"
         },
         {
           "tekst": "εκ",
@@ -538,9 +553,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
@@ -548,9 +563,9 @@
           "morf": "N-NPF"
         },
         {
-          "tekst": "εσφραγισμενοι",
+          "tekst": "εσφραγισμεναι",
           "strong": "G4972",
-          "morf": "V-RPP-NPM"
+          "morf": "V-RPP-NPF"
         },
         {
           "tekst": "εκ",
@@ -563,24 +578,19 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "ρουβην",
+          "tekst": "ρουβιμ",
           "strong": "G4502",
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -598,19 +608,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         }
       ]
     },
@@ -633,19 +638,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -663,19 +663,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -693,19 +688,14 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         }
       ]
     },
@@ -728,19 +718,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -758,19 +743,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -783,24 +763,19 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "ισασχαρ",
+          "tekst": "ισαχαρ",
           "strong": "G2466",
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         }
       ]
     },
@@ -823,19 +798,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -853,19 +823,14 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
           "strong": "G5505",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "εσφραγισμενοι",
-          "strong": "G4972",
-          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "εκ",
@@ -883,9 +848,9 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ιβ",
+          "tekst": "δωδεκα",
           "strong": "G1427",
-          "morf": "A-NUI-ABB"
+          "morf": "A-NUI"
         },
         {
           "tekst": "χιλιαδες",
@@ -893,9 +858,9 @@
           "morf": "N-NPF"
         },
         {
-          "tekst": "εσφραγισμενοι",
+          "tekst": "εσφραγισμεναι",
           "strong": "G4972",
-          "morf": "V-RPP-NPM"
+          "morf": "V-RPP-NPF"
         }
       ]
     },
@@ -948,19 +913,14 @@
           "morf": "V-AAN"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
-        },
-        {
           "tekst": "ουδεις",
           "strong": "G3762",
           "morf": "A-NSM-N"
         },
         {
-          "tekst": "ηδυνατο",
+          "tekst": "εδυνατο",
           "strong": "G1410",
-          "morf": "V-INI-3S-ATT"
+          "morf": "V-INI-3S"
         },
         {
           "tekst": "εκ",
@@ -1008,9 +968,9 @@
           "morf": "N-GPF"
         },
         {
-          "tekst": "εστωτες",
+          "tekst": "εστωτας",
           "strong": "G2476",
-          "morf": "V-RAP-NPM"
+          "morf": "V-RAP-APM"
         },
         {
           "tekst": "ενωπιον",
@@ -1048,9 +1008,9 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "περιβεβλημενοι",
+          "tekst": "περιβεβλημενους",
           "strong": "G4016",
-          "morf": "V-RPP-NPM"
+          "morf": "V-RPP-APM"
         },
         {
           "tekst": "στολας",
@@ -1068,9 +1028,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "φοινικες",
+          "tekst": "φοινικας",
           "strong": "G5404",
-          "morf": "N-NPM"
+          "morf": "N-APM"
         },
         {
           "tekst": "εν",
@@ -1103,9 +1063,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "κραζοντες",
+          "tekst": "κραζουσιν",
           "strong": "G2896",
-          "morf": "V-PAP-NPM"
+          "morf": "V-PAI-3P"
         },
         {
           "tekst": "φωνη",
@@ -1163,14 +1123,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "του",
+          "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-DSM"
         },
         {
-          "tekst": "θρονου",
+          "tekst": "θρονω",
           "strong": "G2362",
-          "morf": "N-GSM"
+          "morf": "N-DSM"
         },
         {
           "tekst": "και",
@@ -1213,9 +1173,9 @@
           "morf": "N-NPM"
         },
         {
-          "tekst": "εστηκεσαν",
+          "tekst": "ειστηκεισαν",
           "strong": "G2476",
-          "morf": "V-LAI-3P-ATT"
+          "morf": "V-LAI-3P"
         },
         {
           "tekst": "κυκλω",
@@ -1298,9 +1258,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "προσωπον",
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
+        },
+        {
+          "tekst": "προσωπα",
           "strong": "G4383",
-          "morf": "N-ASN"
+          "morf": "N-APN"
         },
         {
           "tekst": "αυτων",
@@ -1603,9 +1568,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ειρηκα",
-          "strong": "G2046",
-          "morf": "V-RAI-1S-ATT"
+          "tekst": "ειπον",
+          "strong": "G3004",
+          "morf": "V-2AAI-1S"
         },
         {
           "tekst": "αυτω",
@@ -1616,6 +1581,11 @@
           "tekst": "κυριε",
           "strong": "G2962",
           "morf": "N-VSM"
+        },
+        {
+          "tekst": "μου",
+          "strong": "G1473",
+          "morf": "P-1GS"
         },
         {
           "tekst": "συ",
@@ -1721,16 +1691,6 @@
           "tekst": "ελευκαναν",
           "strong": "G3021",
           "morf": "V-AAI-3P"
-        },
-        {
-          "tekst": "στολας",
-          "strong": "G4749",
-          "morf": "N-APF"
-        },
-        {
-          "tekst": "αυτων",
-          "strong": "G846",
-          "morf": "P-GPM"
         },
         {
           "tekst": "εν",
@@ -1873,14 +1833,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "του",
+          "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-DSM"
         },
         {
-          "tekst": "θρονου",
+          "tekst": "θρονω",
           "strong": "G2362",
-          "morf": "N-GSM"
+          "morf": "N-DSM"
         },
         {
           "tekst": "σκηνωσει",
@@ -1933,9 +1893,14 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ουδε",
+          "tekst": "ουδ",
           "strong": "G3761",
           "morf": "CONJ-N"
+        },
+        {
+          "tekst": "ου",
+          "strong": "G3756",
+          "morf": "PRT-N"
         },
         {
           "tekst": "μη",
@@ -2028,9 +1993,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "ποιμανει",
+          "tekst": "ποιμαινει",
           "strong": "G4165",
-          "morf": "V-FAI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "αυτους",
@@ -2043,9 +2008,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "οδηγησει",
+          "tekst": "οδηγει",
           "strong": "G3594",
-          "morf": "V-FAI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "αυτους",
@@ -2058,9 +2023,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ζωσας",
-          "strong": "G2198",
-          "morf": "V-PAP-APF"
+          "tekst": "ζωης",
+          "strong": "G2222",
+          "morf": "N-GSF"
         },
         {
           "tekst": "πηγας",
@@ -2103,8 +2068,8 @@
           "morf": "N-ASN"
         },
         {
-          "tekst": "απο",
-          "strong": "G575",
+          "tekst": "εκ",
+          "strong": "G1537",
           "morf": "PREP"
         },
         {

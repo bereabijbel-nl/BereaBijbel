@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 24,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -536,152 +536,12 @@
           "tekst": "εκρατησαμεν",
           "strong": "G2902",
           "morf": "V-AAI-1P"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "κατα",
-          "strong": "G2596",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "ημετερον",
-          "strong": "G2251",
-          "morf": "S-1PASM"
-        },
-        {
-          "tekst": "νομον",
-          "strong": "G3551",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "ηθελησαμεν",
-          "strong": "G2309",
-          "morf": "V-AAI-1P"
-        },
-        {
-          "tekst": "κρινειν",
-          "strong": "G2919",
-          "morf": "V-PAN"
-        }
-      ]
-    },
-    {
-      "vers": 7,
-      "woorden": [
-        {
-          "tekst": "παρελθων",
-          "strong": "G3928",
-          "morf": "V-2AAP-NSM"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "λυσιας",
-          "strong": "G3079",
-          "morf": "N-NSM"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "χιλιαρχος",
-          "strong": "G5506",
-          "morf": "N-NSM"
-        },
-        {
-          "tekst": "μετα",
-          "strong": "G3326",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "πολλης",
-          "strong": "G4183",
-          "morf": "A-GSF"
-        },
-        {
-          "tekst": "βιας",
-          "strong": "G970",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "εκ",
-          "strong": "G1537",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "των",
-          "strong": "G3588",
-          "morf": "T-GPF"
-        },
-        {
-          "tekst": "χειρων",
-          "strong": "G5495",
-          "morf": "N-GPF"
-        },
-        {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
-        },
-        {
-          "tekst": "απηγαγεν",
-          "strong": "G520",
-          "morf": "V-2AAI-3S"
         }
       ]
     },
     {
       "vers": 8,
       "woorden": [
-        {
-          "tekst": "κελευσας",
-          "strong": "G2753",
-          "morf": "V-AAP-NSM"
-        },
-        {
-          "tekst": "τους",
-          "strong": "G3588",
-          "morf": "T-APM"
-        },
-        {
-          "tekst": "κατηγορους",
-          "strong": "G2725",
-          "morf": "N-APM"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
-        },
-        {
-          "tekst": "ερχεσθαι",
-          "strong": "G2064",
-          "morf": "V-PNN"
-        },
-        {
-          "tekst": "επι",
-          "strong": "G1909",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "σε",
-          "strong": "G4771",
-          "morf": "P-2AS"
-        },
         {
           "tekst": "παρ",
           "strong": "G3844",
@@ -753,7 +613,7 @@
       "vers": 9,
       "woorden": [
         {
-          "tekst": "συνεθεντο",
+          "tekst": "συνεπεθεντο",
           "strong": "G4934",
           "morf": "V-2AMI-3P"
         },
@@ -973,11 +833,6 @@
           "morf": "N-NPF"
         },
         {
-          "tekst": "η",
-          "strong": "G2228",
-          "morf": "PRT"
-        },
-        {
           "tekst": "δεκαδυο",
           "strong": "G1177",
           "morf": "A-NUI"
@@ -1143,6 +998,11 @@
           "morf": "V-AAN"
         },
         {
+          "tekst": "με",
+          "strong": "G1473",
+          "morf": "P-1AS"
+        },
+        {
           "tekst": "δυνανται",
           "strong": "G1410",
           "morf": "V-PNI-3P"
@@ -1293,14 +1153,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
           "tekst": "τοις",
           "strong": "G3588",
-          "morf": "T-DPN"
+          "morf": "T-DPM"
         },
         {
           "tekst": "προφηταις",
@@ -1448,9 +1303,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "εχειν",
+          "tekst": "εχων",
           "strong": "G2192",
-          "morf": "V-PAN"
+          "morf": "V-PAP-NSM"
         },
         {
           "tekst": "προς",
@@ -1483,9 +1338,14 @@
           "morf": "N-APM"
         },
         {
-          "tekst": "διαπαντος",
-          "strong": "G1275",
-          "morf": "ADV"
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντος",
+          "strong": "G3956",
+          "morf": "A-GSN"
         }
       ]
     },
@@ -1668,9 +1528,9 @@
           "morf": "R-APM"
         },
         {
-          "tekst": "εδει",
+          "tekst": "δει",
           "strong": "G1163",
-          "morf": "V-IAI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "επι",
@@ -1748,14 +1608,9 @@
           "morf": "V-2AAM-3P"
         },
         {
-          "tekst": "ει",
-          "strong": "G1487",
-          "morf": "COND"
-        },
-        {
           "tekst": "τι",
-          "strong": "G5100",
-          "morf": "X-ASN"
+          "strong": "G5101",
+          "morf": "I-ASN"
         },
         {
           "tekst": "ευρον",
@@ -2188,11 +2043,6 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
-        },
-        {
           "tekst": "ουση",
           "strong": "G1510",
           "morf": "V-PAP-DSF"
@@ -2406,11 +2256,6 @@
           "tekst": "αμα",
           "strong": "G260",
           "morf": "ADV"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "και",

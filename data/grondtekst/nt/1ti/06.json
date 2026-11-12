@@ -2,7 +2,7 @@
   "boek": "1ti",
   "boeknummer": 54,
   "hoofdstuk": 6,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -448,7 +448,7 @@
       "vers": 5,
       "woorden": [
         {
-          "tekst": "παραδιατριβαι",
+          "tekst": "διαπαρατριβαι",
           "strong": "G3859",
           "morf": "N-NPF"
         },
@@ -1063,11 +1063,6 @@
           "morf": "R-ASF"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "εκληθης",
           "strong": "G2564",
           "morf": "V-API-2S"
@@ -1608,14 +1603,14 @@
           "morf": "P-1DP"
         },
         {
-          "tekst": "πλουσιως",
-          "strong": "G4146",
-          "morf": "ADV"
-        },
-        {
           "tekst": "παντα",
           "strong": "G3956",
           "morf": "A-APN"
+        },
+        {
+          "tekst": "πλουσιως",
+          "strong": "G4146",
+          "morf": "ADV"
         },
         {
           "tekst": "εις",
@@ -1758,8 +1753,8 @@
           "morf": "T-ASF"
         },
         {
-          "tekst": "παρακαταθηκην",
-          "strong": "G3872",
+          "tekst": "παραθηκην",
+          "strong": "G3866",
           "morf": "N-ASF"
         },
         {
@@ -1876,66 +1871,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τιμοθεον",
-          "strong": "G5095",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "πρωτη",
-          "strong": "G4413",
-          "morf": "A-NSF-S"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "λαοδικειας",
-          "strong": "G2993",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "ητις",
-          "strong": "G3748",
-          "morf": "R-NSF"
-        },
-        {
-          "tekst": "εστιν",
-          "strong": "G1510",
-          "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "μητροπολις",
-          "strong": "G3390",
-          "morf": "N-NSF"
-        },
-        {
-          "tekst": "φρυγιας",
-          "strong": "G5435",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
-        },
-        {
-          "tekst": "πακατιανης",
-          "strong": "G3818",
-          "morf": "A-GSF"
         }
       ]
     }

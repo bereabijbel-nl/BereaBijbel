@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 26,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -158,16 +158,6 @@
           "morf": "A-ASM"
         },
         {
-          "tekst": "μελλων",
-          "strong": "G3195",
-          "morf": "V-PAP-NSM"
-        },
-        {
-          "tekst": "απολογεισθαι",
-          "strong": "G626",
-          "morf": "V-PNN"
-        },
-        {
           "tekst": "επι",
           "strong": "G1909",
           "morf": "PREP"
@@ -176,6 +166,16 @@
           "tekst": "σου",
           "strong": "G4771",
           "morf": "P-2GS"
+        },
+        {
+          "tekst": "μελλων",
+          "strong": "G3195",
+          "morf": "V-PAP-NSM"
+        },
+        {
+          "tekst": "απολογεισθαι",
+          "strong": "G626",
+          "morf": "V-PNN"
         },
         {
           "tekst": "σημερον",
@@ -210,7 +210,7 @@
         {
           "tekst": "παντων",
           "strong": "G3956",
-          "morf": "A-GPM"
+          "morf": "A-GPN"
         },
         {
           "tekst": "των",
@@ -228,8 +228,8 @@
           "morf": "A-APM"
         },
         {
-          "tekst": "εθων",
-          "strong": "G1485",
+          "tekst": "ηθων",
+          "strong": "G2239",
           "morf": "N-GPN"
         },
         {
@@ -661,11 +661,6 @@
           "tekst": "υπο",
           "strong": "G5259",
           "morf": "PREP"
-        },
-        {
-          "tekst": "των",
-          "strong": "G3588",
-          "morf": "T-GPM"
         },
         {
           "tekst": "ιουδαιων",
@@ -1633,9 +1628,9 @@
           "morf": "R-APM"
         },
         {
-          "tekst": "νυν",
-          "strong": "G3568",
-          "morf": "ADV"
+          "tekst": "εγω",
+          "strong": "G1473",
+          "morf": "P-1NS"
         },
         {
           "tekst": "σε",
@@ -1670,11 +1665,11 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
-          "tekst": "επιστρεψαι",
-          "strong": "G1994",
+          "tekst": "υποστρεψαι",
+          "strong": "G5290",
           "morf": "V-AAN"
         },
         {
@@ -1740,7 +1735,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "λαβειν",
@@ -1948,9 +1943,9 @@
           "morf": "N-DPN"
         },
         {
-          "tekst": "απηγγελλον",
+          "tekst": "απαγγελλων",
           "strong": "G518",
-          "morf": "V-IAI-1S"
+          "morf": "V-PAP-NSM"
         },
         {
           "tekst": "μετανοειν",
@@ -2023,11 +2018,6 @@
           "morf": "D-GPN"
         },
         {
-          "tekst": "με",
-          "strong": "G1473",
-          "morf": "P-1AS"
-        },
-        {
           "tekst": "οι",
           "strong": "G3588",
           "morf": "T-NPM"
@@ -2036,6 +2026,11 @@
           "tekst": "ιουδαιοι",
           "strong": "G2453",
           "morf": "A-NPM"
+        },
+        {
+          "tekst": "με",
+          "strong": "G1473",
+          "morf": "P-1AS"
         },
         {
           "tekst": "συλλαβομενοι",
@@ -2133,9 +2128,9 @@
           "morf": "V-RAI-1S"
         },
         {
-          "tekst": "μαρτυρουμενος",
-          "strong": "G3140",
-          "morf": "V-PPP-NSM"
+          "tekst": "μαρτυρομενος",
+          "strong": "G3143",
+          "morf": "V-PNP-NSM"
         },
         {
           "tekst": "μικρω",
@@ -2213,7 +2208,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         }
@@ -2448,7 +2443,7 @@
           "morf": "N-VSM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -2586,11 +2581,6 @@
           "tekst": "γαρ",
           "strong": "G1063",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "εστιν",
-          "strong": "G1510",
-          "morf": "V-PAI-3S"
         },
         {
           "tekst": "εν",

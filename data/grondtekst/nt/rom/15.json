@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -86,11 +86,6 @@
           "tekst": "εκαστος",
           "strong": "G1538",
           "morf": "A-NSM"
-        },
-        {
-          "tekst": "γαρ",
-          "strong": "G1063",
-          "morf": "CONJ"
         },
         {
           "tekst": "ημων",
@@ -301,6 +296,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
         },
         {
           "tekst": "της",
@@ -558,9 +558,9 @@
           "morf": "V-2AMI-3S"
         },
         {
-          "tekst": "ημας",
-          "strong": "G1473",
-          "morf": "P-1AP"
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
         },
         {
           "tekst": "εις",
@@ -593,13 +593,13 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ιησουν",
-          "strong": "G2424",
+          "tekst": "χριστον",
+          "strong": "G5547",
           "morf": "N-ASM"
         },
         {
-          "tekst": "χριστον",
-          "strong": "G5547",
+          "tekst": "ιησουν",
+          "strong": "G2424",
           "morf": "N-ASM"
         },
         {
@@ -1065,7 +1065,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "πιστευειν",
@@ -1233,9 +1233,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αλληλους",
-          "strong": "G240",
-          "morf": "C-APM"
+          "tekst": "αλλους",
+          "strong": "G243",
+          "morf": "A-APM"
         },
         {
           "tekst": "νουθετειν",
@@ -1521,6 +1521,11 @@
           "tekst": "προς",
           "strong": "G4314",
           "morf": "PREP"
+        },
+        {
+          "tekst": "τον",
+          "strong": "G3588",
+          "morf": "T-ASM"
         },
         {
           "tekst": "θεον",
@@ -1920,7 +1925,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ελθειν",
@@ -2005,7 +2010,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ελθειν",

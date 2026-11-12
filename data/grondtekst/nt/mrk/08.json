@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 8,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -143,14 +143,14 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ημερας",
+          "tekst": "ημεραι",
           "strong": "G2250",
-          "morf": "N-APF"
+          "morf": "N-NPF"
         },
         {
           "tekst": "τρεις",
           "strong": "G5140",
-          "morf": "A-APF"
+          "morf": "A-NPF"
         },
         {
           "tekst": "προσμενουσιν",
@@ -1021,11 +1021,6 @@
           "tekst": "εις",
           "strong": "G1519",
           "morf": "PREP"
-        },
-        {
-          "tekst": "το",
-          "strong": "G3588",
-          "morf": "T-ASN"
         },
         {
           "tekst": "πλοιον",
@@ -1910,7 +1905,7 @@
         {
           "tekst": "δενδρα",
           "strong": "G1186",
-          "morf": "N-NPN"
+          "morf": "N-APN"
         },
         {
           "tekst": "ορω",
@@ -2153,9 +2148,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ο",
+          "tekst": "οι",
           "strong": "G3588",
-          "morf": "T-NSM"
+          "morf": "T-NPM"
         },
         {
           "tekst": "μαθηται",
@@ -2598,6 +2593,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPM"
+        },
+        {
           "tekst": "αρχιερεων",
           "strong": "G749",
           "morf": "N-GPM"
@@ -2606,6 +2606,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPM"
         },
         {
           "tekst": "γραμματεων",
@@ -2928,9 +2933,9 @@
           "morf": "P-1GS"
         },
         {
-          "tekst": "ελθειν",
-          "strong": "G2064",
-          "morf": "V-2AAN"
+          "tekst": "ακολουθειν",
+          "strong": "G190",
+          "morf": "V-PAN"
         },
         {
           "tekst": "απαρνησασθω",
@@ -3063,14 +3068,14 @@
           "morf": "T-ASF"
         },
         {
+          "tekst": "εαυτου",
+          "strong": "G1438",
+          "morf": "F-3GSM"
+        },
+        {
           "tekst": "ψυχην",
           "strong": "G5590",
           "morf": "N-ASF"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
         },
         {
           "tekst": "ενεκεν",
@@ -3248,9 +3253,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "επαισχυνθη",

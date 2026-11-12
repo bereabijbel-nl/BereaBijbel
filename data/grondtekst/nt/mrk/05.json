@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -188,8 +188,8 @@
           "morf": "T-DPN"
         },
         {
-          "tekst": "μνημειοις",
-          "strong": "G3419",
+          "tekst": "μνημασιν",
+          "strong": "G3418",
           "morf": "N-DPN"
         },
         {
@@ -213,9 +213,9 @@
           "morf": "A-NSM-N"
         },
         {
-          "tekst": "ηδυνατο",
+          "tekst": "εδυνατο",
           "strong": "G1410",
-          "morf": "V-INI-3S-ATT"
+          "morf": "V-INI-3S"
         },
         {
           "tekst": "αυτον",
@@ -358,9 +358,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "διαπαντος",
-          "strong": "G1275",
-          "morf": "ADV"
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντος",
+          "strong": "G3956",
+          "morf": "A-GSN"
         },
         {
           "tekst": "νυκτος",
@@ -838,14 +843,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τα",
+          "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-APN"
+          "morf": "T-DSN"
         },
         {
-          "tekst": "ορη",
+          "tekst": "ορει",
           "strong": "G3735",
-          "morf": "N-APN"
+          "morf": "N-DSN"
         },
         {
           "tekst": "αγελη",
@@ -1358,14 +1363,14 @@
       "vers": 16,
       "woorden": [
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "διηγησαντο",
           "strong": "G1334",
           "morf": "V-ADI-3P"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "αυτοις",
@@ -1673,9 +1678,9 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "εποιησεν",
+          "tekst": "πεποιηκεν",
           "strong": "G4160",
-          "morf": "V-AAI-3S"
+          "morf": "V-RAI-3S"
         },
         {
           "tekst": "και",
@@ -2253,9 +2258,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "εαυτης",
-          "strong": "G1438",
-          "morf": "F-3GSF"
+          "tekst": "αυτης",
+          "strong": "G846",
+          "morf": "P-GSF"
         },
         {
           "tekst": "παντα",
@@ -3413,8 +3418,8 @@
           "morf": "V-2AAP-NSM"
         },
         {
-          "tekst": "απαντας",
-          "strong": "G537",
+          "tekst": "παντας",
+          "strong": "G3956",
           "morf": "A-APM"
         },
         {

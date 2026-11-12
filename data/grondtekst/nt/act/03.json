@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -93,7 +93,7 @@
           "morf": "T-ASF"
         },
         {
-          "tekst": "εννατην",
+          "tekst": "ενατην",
           "strong": "G1766",
           "morf": "A-ASF"
         }
@@ -215,7 +215,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "αιτειν",
@@ -321,11 +321,6 @@
           "tekst": "ελεημοσυνην",
           "strong": "G1654",
           "morf": "N-ASF"
-        },
-        {
-          "tekst": "λαβειν",
-          "strong": "G2983",
-          "morf": "V-2AAN"
         }
       ]
     },
@@ -1190,7 +1185,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "περιπατειν",
@@ -1301,6 +1296,11 @@
           "tekst": "υμεις",
           "strong": "G4771",
           "morf": "P-2NP"
+        },
+        {
+          "tekst": "μεν",
+          "strong": "G3303",
+          "morf": "PRT"
         },
         {
           "tekst": "παρεδωκατε",
@@ -1938,8 +1938,8 @@
           "morf": "T-ASM"
         },
         {
-          "tekst": "προκεκηρυγμενον",
-          "strong": "G4296",
+          "tekst": "προκεχειρισμενον",
+          "strong": "G4400",
           "morf": "V-RPP-ASM"
         },
         {
@@ -1948,13 +1948,13 @@
           "morf": "P-2DP"
         },
         {
-          "tekst": "ιησουν",
-          "strong": "G2424",
+          "tekst": "χριστον",
+          "strong": "G5547",
           "morf": "N-ASM"
         },
         {
-          "tekst": "χριστον",
-          "strong": "G5547",
+          "tekst": "ιησουν",
+          "strong": "G2424",
           "morf": "N-ASM"
         }
       ]
@@ -2041,6 +2041,11 @@
           "tekst": "παντων",
           "strong": "G3956",
           "morf": "A-GPM"
+        },
+        {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPM"
         },
         {
           "tekst": "αγιων",
@@ -2143,9 +2148,9 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "υμων",
-          "strong": "G4771",
-          "morf": "P-2GP"
+          "tekst": "ημων",
+          "strong": "G1473",
+          "morf": "P-1GP"
         },
         {
           "tekst": "εκ",
@@ -2253,9 +2258,9 @@
           "morf": "R-NSF"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "μη",
@@ -2373,8 +2378,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "προκατηγγειλαν",
-          "strong": "G4293",
+          "tekst": "κατηγγειλαν",
+          "strong": "G2605",
           "morf": "V-AAI-3P"
         },
         {
@@ -2496,6 +2501,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "τω",
@@ -2620,7 +2630,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "αποστρεφειν",

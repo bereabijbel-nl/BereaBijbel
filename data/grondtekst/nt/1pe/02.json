@@ -2,7 +2,7 @@
   "boek": "1pe",
   "boeknummer": 60,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -358,13 +358,8 @@
       "vers": 6,
       "woorden": [
         {
-          "tekst": "διο",
-          "strong": "G1352",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
+          "tekst": "διοτι",
+          "strong": "G1360",
           "morf": "CONJ"
         },
         {
@@ -948,6 +943,16 @@
           "morf": "P-2GP"
         },
         {
+          "tekst": "εχοντες",
+          "strong": "G2192",
+          "morf": "V-PAP-NPM"
+        },
+        {
+          "tekst": "καλην",
+          "strong": "G2570",
+          "morf": "A-ASF"
+        },
+        {
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
@@ -961,16 +966,6 @@
           "tekst": "εθνεσιν",
           "strong": "G1484",
           "morf": "N-DPN"
-        },
-        {
-          "tekst": "εχοντες",
-          "strong": "G2192",
-          "morf": "V-PAP-NPM"
-        },
-        {
-          "tekst": "καλην",
-          "strong": "G2570",
-          "morf": "A-ASF"
         },
         {
           "tekst": "ινα",
@@ -1173,11 +1168,6 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "μεν",
-          "strong": "G3303",
-          "morf": "PRT"
-        },
-        {
           "tekst": "κακοποιων",
           "strong": "G2555",
           "morf": "A-GPM"
@@ -1378,9 +1368,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "αγαπατε",
+          "tekst": "αγαπησατε",
           "strong": "G25",
-          "morf": "V-PAM-2P"
+          "morf": "V-AAM-2P"
         },
         {
           "tekst": "τον",
@@ -1718,9 +1708,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "υμων",
-          "strong": "G4771",
-          "morf": "P-2GP"
+          "tekst": "ημων",
+          "strong": "G1473",
+          "morf": "P-1GP"
         },
         {
           "tekst": "υμιν",

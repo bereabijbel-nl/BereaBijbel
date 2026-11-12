@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -38,7 +38,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "βηθφαγη",
+          "tekst": "βηθσφαγη",
           "strong": "G967",
           "morf": "N-PRI"
         },
@@ -333,9 +333,9 @@
           "morf": "P-ASM"
         },
         {
-          "tekst": "αποστελει",
+          "tekst": "αποστελλει",
           "strong": "G649",
-          "morf": "V-FAI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "ωδε",
@@ -366,11 +366,6 @@
           "tekst": "ευρον",
           "strong": "G2147",
           "morf": "V-2AAI-3P"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
         },
         {
           "tekst": "πωλον",
@@ -893,7 +888,7 @@
           "morf": "P-1GP"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -1134,8 +1129,8 @@
         },
         {
           "tekst": "αρα",
-          "strong": "G686",
-          "morf": "PRT"
+          "strong": "G687",
+          "morf": "PRT-I"
         },
         {
           "tekst": "ευρησει",
@@ -1293,8 +1288,8 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "ουδεις",
-          "strong": "G3762",
+          "tekst": "μηδεις",
+          "strong": "G3367",
           "morf": "A-NSM-N"
         },
         {
@@ -1733,9 +1728,9 @@
           "morf": "P-ASM"
         },
         {
-          "tekst": "απολεσουσιν",
+          "tekst": "απολεσωσιν",
           "strong": "G622",
-          "morf": "V-FAI-3P"
+          "morf": "V-AAS-3P"
         },
         {
           "tekst": "εφοβουντο",
@@ -1934,7 +1929,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -1976,6 +1971,11 @@
           "tekst": "αποκριθεις",
           "strong": "G611",
           "morf": "V-AOP-NSM"
+        },
+        {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
         },
         {
           "tekst": "ιησους",
@@ -2233,9 +2233,9 @@
           "morf": "V-PNP-NPM"
         },
         {
-          "tekst": "αιτεισθε",
+          "tekst": "αιτησθε",
           "strong": "G154",
-          "morf": "V-PMI-2P"
+          "morf": "V-PPS-2P"
         },
         {
           "tekst": "πιστευετε",
@@ -2738,9 +2738,14 @@
           "morf": "P-2AP"
         },
         {
-          "tekst": "καγω",
-          "strong": "G2504",
-          "morf": "P-1NS-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εγω",
+          "strong": "G1473",
+          "morf": "P-1NS"
         },
         {
           "tekst": "ενα",
@@ -2961,11 +2966,6 @@
           "tekst": "αλλ",
           "strong": "G235",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "εαν",
-          "strong": "G1437",
-          "morf": "COND"
         },
         {
           "tekst": "ειπωμεν",

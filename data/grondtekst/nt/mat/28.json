@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 28,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -793,11 +793,6 @@
           "morf": "V-2AMM-2S"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιησους",
           "strong": "G2424",
           "morf": "N-NSM"
@@ -963,9 +958,14 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "κακει",
-          "strong": "G2546",
-          "morf": "ADV-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκει",
+          "strong": "G1563",
+          "morf": "ADV"
         },
         {
           "tekst": "με",
@@ -1596,11 +1596,6 @@
           "tekst": "πορευθεντες",
           "strong": "G4198",
           "morf": "V-AOP-NPM"
-        },
-        {
-          "tekst": "ουν",
-          "strong": "G3767",
-          "morf": "CONJ"
         },
         {
           "tekst": "μαθητευσατε",

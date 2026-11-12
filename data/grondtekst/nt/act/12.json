@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 12,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -201,6 +201,11 @@
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "αι",
+          "strong": "G3588",
+          "morf": "T-NPF"
         },
         {
           "tekst": "ημεραι",
@@ -1643,7 +1648,7 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "δ",
+          "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
         },
@@ -2358,14 +2363,14 @@
           "morf": "V-IAI-3S"
         },
         {
-          "tekst": "θεου",
-          "strong": "G2316",
-          "morf": "N-GSM"
-        },
-        {
           "tekst": "φωνη",
           "strong": "G5456",
           "morf": "N-NSF"
+        },
+        {
+          "tekst": "θεου",
+          "strong": "G2316",
+          "morf": "N-GSM"
         },
         {
           "tekst": "και",
@@ -2436,11 +2441,6 @@
           "tekst": "εδωκεν",
           "strong": "G1325",
           "morf": "V-AAI-3S"
-        },
-        {
-          "tekst": "την",
-          "strong": "G3588",
-          "morf": "T-ASF"
         },
         {
           "tekst": "δοξαν",
@@ -2553,8 +2553,8 @@
           "morf": "V-AAI-3P"
         },
         {
-          "tekst": "εξ",
-          "strong": "G1537",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {

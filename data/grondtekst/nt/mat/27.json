@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 27,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -950,7 +950,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "κατηγορεισθαι",
@@ -2708,9 +2708,9 @@
           "morf": "N-PRI"
         },
         {
-          "tekst": "ος",
+          "tekst": "ο",
           "strong": "G3739",
-          "morf": "R-NSM"
+          "morf": "R-NSN"
         },
         {
           "tekst": "εστιν",
@@ -2841,101 +2841,6 @@
           "tekst": "βαλλοντες",
           "strong": "G906",
           "morf": "V-PAP-NPM"
-        },
-        {
-          "tekst": "κληρον",
-          "strong": "G2819",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "ινα",
-          "strong": "G2443",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "πληρωθη",
-          "strong": "G4137",
-          "morf": "V-APS-3S"
-        },
-        {
-          "tekst": "το",
-          "strong": "G3588",
-          "morf": "T-NSN"
-        },
-        {
-          "tekst": "ρηθεν",
-          "strong": "G2046",
-          "morf": "V-APP-NSN"
-        },
-        {
-          "tekst": "υπο",
-          "strong": "G5259",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
-          "tekst": "προφητου",
-          "strong": "G4396",
-          "morf": "N-GSM"
-        },
-        {
-          "tekst": "διεμερισαντο",
-          "strong": "G1266",
-          "morf": "V-AMI-3P"
-        },
-        {
-          "tekst": "τα",
-          "strong": "G3588",
-          "morf": "T-APN"
-        },
-        {
-          "tekst": "ιματια",
-          "strong": "G2440",
-          "morf": "N-APN"
-        },
-        {
-          "tekst": "μου",
-          "strong": "G1473",
-          "morf": "P-1GS"
-        },
-        {
-          "tekst": "εαυτοις",
-          "strong": "G1438",
-          "morf": "F-3DPM"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "επι",
-          "strong": "G1909",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "ιματισμον",
-          "strong": "G2441",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "μου",
-          "strong": "G1473",
-          "morf": "P-1GS"
-        },
-        {
-          "tekst": "εβαλον",
-          "strong": "G906",
-          "morf": "V-2AAI-3P"
         },
         {
           "tekst": "κληρον",
@@ -3358,6 +3263,16 @@
           "morf": "A-GPM-C"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "φαρισαιων",
+          "strong": "G5330",
+          "morf": "N-GPM"
+        },
+        {
           "tekst": "ελεγον",
           "strong": "G3004",
           "morf": "V-IAI-3P"
@@ -3451,6 +3366,11 @@
           "tekst": "πιστευσομεν",
           "strong": "G4100",
           "morf": "V-FAI-1P"
+        },
+        {
+          "tekst": "επ",
+          "strong": "G1909",
+          "morf": "PREP"
         },
         {
           "tekst": "αυτω",
@@ -3598,9 +3518,9 @@
           "morf": "V-IAI-3P"
         },
         {
-          "tekst": "αυτω",
+          "tekst": "αυτον",
           "strong": "G846",
-          "morf": "P-DSM"
+          "morf": "P-ASM"
         }
       ]
     },
@@ -3668,7 +3588,7 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "εννατης",
+          "tekst": "ενατης",
           "strong": "G1766",
           "morf": "A-GSF"
         }
@@ -3693,7 +3613,7 @@
           "morf": "T-ASF"
         },
         {
-          "tekst": "εννατην",
+          "tekst": "ενατην",
           "strong": "G1766",
           "morf": "A-ASF"
         },
@@ -3743,7 +3663,7 @@
           "morf": "HEB"
         },
         {
-          "tekst": "λαμα",
+          "tekst": "λιμα",
           "strong": "G2982",
           "morf": "HEB"
         },
@@ -3783,9 +3703,14 @@
           "morf": "P-1GS"
         },
         {
+          "tekst": "ινα",
+          "strong": "G2443",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "τι",
           "strong": "G5101",
-          "morf": "I-ASN"
+          "morf": "I-NSN"
         },
         {
           "tekst": "με",

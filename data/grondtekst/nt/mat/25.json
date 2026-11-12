@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 25,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -138,6 +138,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "αι",
+          "strong": "G3588",
+          "morf": "T-NPF"
+        },
+        {
           "tekst": "πεντε",
           "strong": "G4002",
           "morf": "A-NUI"
@@ -178,9 +183,9 @@
           "morf": "N-APF"
         },
         {
-          "tekst": "εαυτων",
-          "strong": "G1438",
-          "morf": "F-3GPF"
+          "tekst": "αυτων",
+          "strong": "G846",
+          "morf": "P-GPF"
         },
         {
           "tekst": "ουκ",
@@ -1539,7 +1544,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -1784,7 +1789,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -2134,7 +2139,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -2553,9 +2558,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "εκβαλλετε",
+          "tekst": "εκβαλετε",
           "strong": "G1544",
-          "morf": "V-PAM-2P"
+          "morf": "V-2AAM-2P"
         },
         {
           "tekst": "εις",
@@ -3836,11 +3841,6 @@
           "tekst": "αποκριθησονται",
           "strong": "G611",
           "morf": "V-FOI-3P"
-        },
-        {
-          "tekst": "αυτω",
-          "strong": "G846",
-          "morf": "P-DSM"
         },
         {
           "tekst": "και",

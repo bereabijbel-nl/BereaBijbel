@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 21,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -296,11 +296,6 @@
           "tekst": "ανευροντες",
           "strong": "G429",
           "morf": "V-2AAP-NPM"
-        },
-        {
-          "tekst": "τους",
-          "strong": "G3588",
-          "morf": "T-APM"
         },
         {
           "tekst": "μαθητας",
@@ -743,9 +738,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "ηλθομεν",
+          "tekst": "ηλθον",
           "strong": "G2064",
-          "morf": "V-2AAI-1P"
+          "morf": "V-2AAI-3P"
         },
         {
           "tekst": "εις",
@@ -796,11 +791,6 @@
           "tekst": "ευαγγελιστου",
           "strong": "G2099",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "οντος",
@@ -1018,21 +1008,6 @@
           "morf": "P-GSM"
         },
         {
-          "tekst": "τας",
-          "strong": "G3588",
-          "morf": "T-APF"
-        },
-        {
-          "tekst": "χειρας",
-          "strong": "G5495",
-          "morf": "N-APF"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "τους",
           "strong": "G3588",
           "morf": "T-APM"
@@ -1041,6 +1016,21 @@
           "tekst": "ποδας",
           "strong": "G4228",
           "morf": "N-APM"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "τας",
+          "strong": "G3588",
+          "morf": "T-APF"
+        },
+        {
+          "tekst": "χειρας",
+          "strong": "G5495",
+          "morf": "N-APF"
         },
         {
           "tekst": "ειπεν",
@@ -1225,7 +1215,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -1263,9 +1253,9 @@
           "morf": "V-ADI-3S"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
+          "tekst": "τε",
+          "strong": "G5037",
+          "morf": "PRT"
         },
         {
           "tekst": "ο",
@@ -1498,7 +1488,7 @@
           "morf": "D-APF"
         },
         {
-          "tekst": "αποσκευασαμενοι",
+          "tekst": "επισκευασαμενοι",
           "strong": "G643",
           "morf": "V-ADP-NPM"
         },
@@ -1878,14 +1868,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "ειπον",
+          "tekst": "ειποντες",
           "strong": "G3004",
-          "morf": "V-2AAI-3P"
-        },
-        {
-          "tekst": "τε",
-          "strong": "G5037",
-          "morf": "PRT"
+          "morf": "V-2AAP-NPM"
         },
         {
           "tekst": "αυτω",
@@ -2008,7 +1993,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "μωσεως",
+          "tekst": "μωυσεως",
           "strong": "G3475",
           "morf": "N-GSM"
         },
@@ -3023,9 +3008,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "προεωρακοτες",
-          "strong": "G4308",
-          "morf": "V-RAP-NPM"
+          "tekst": "εωρακοτες",
+          "strong": "G3708",
+          "morf": "V-RAP-NPM-ATT"
         },
         {
           "tekst": "τροφιμον",
@@ -3428,14 +3413,14 @@
       "vers": 33,
       "woorden": [
         {
-          "tekst": "τοτε",
-          "strong": "G5119",
-          "morf": "ADV"
-        },
-        {
           "tekst": "εγγισας",
           "strong": "G1448",
           "morf": "V-AAP-NSM"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "ο",
@@ -3868,11 +3853,6 @@
           "morf": "V-2AAN"
         },
         {
-          "tekst": "τι",
-          "strong": "G5100",
-          "morf": "X-ASN"
-        },
-        {
           "tekst": "προς",
           "strong": "G4314",
           "morf": "PREP"
@@ -4248,9 +4228,9 @@
           "morf": "V-2ADP-GSF"
         },
         {
-          "tekst": "προσεφωνησεν",
+          "tekst": "προσεφωνει",
           "strong": "G4377",
-          "morf": "V-AAI-3S"
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "τη",

@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1698,6 +1698,11 @@
           "morf": "T-NPM"
         },
         {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
           "tekst": "χριστου",
           "strong": "G5547",
           "morf": "N-GSM"
@@ -1853,7 +1858,7 @@
           "morf": "V-PAN"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -2523,7 +2528,7 @@
           "morf": "N-APN"
         },
         {
-          "tekst": "χρησθ",
+          "tekst": "χρηστα",
           "strong": "G5543",
           "morf": "A-APN"
         },
@@ -2951,11 +2956,6 @@
           "tekst": "μεν",
           "strong": "G3303",
           "morf": "PRT"
-        },
-        {
-          "tekst": "σαρξ",
-          "strong": "G4561",
-          "morf": "N-NSF"
         },
         {
           "tekst": "ανθρωπων",
@@ -3738,9 +3738,9 @@
           "morf": "A-GSM"
         },
         {
-          "tekst": "φορεσομεν",
+          "tekst": "φορεσωμεν",
           "strong": "G5409",
-          "morf": "V-FAI-1P"
+          "morf": "V-AAS-1P"
         },
         {
           "tekst": "και",

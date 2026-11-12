@@ -2,7 +2,7 @@
   "boek": "heb",
   "boeknummer": 58,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -78,13 +78,13 @@
           "morf": "P-1GP"
         },
         {
-          "tekst": "χριστον",
-          "strong": "G5547",
+          "tekst": "ιησουν",
+          "strong": "G2424",
           "morf": "N-ASM"
         },
         {
-          "tekst": "ιησουν",
-          "strong": "G2424",
+          "tekst": "χριστον",
+          "strong": "G5547",
           "morf": "N-ASM"
         }
       ]
@@ -128,7 +128,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -188,7 +188,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "μωσην",
+          "tekst": "μωυσην",
           "strong": "G3475",
           "morf": "N-ASM"
         },
@@ -323,7 +323,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -458,7 +458,7 @@
           "morf": "P-1NP"
         },
         {
-          "tekst": "",
+          "tekst": "εανπερ",
           "strong": "G1437",
           "morf": "COND"
         },
@@ -980,7 +980,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "αποστηναι",
@@ -1038,7 +1038,7 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -1078,11 +1078,6 @@
           "morf": "V-APS-3S"
         },
         {
-          "tekst": "τις",
-          "strong": "G5100",
-          "morf": "X-NSM"
-        },
-        {
           "tekst": "εξ",
           "strong": "G1537",
           "morf": "PREP"
@@ -1091,6 +1086,11 @@
           "tekst": "υμων",
           "strong": "G4771",
           "morf": "P-2GP"
+        },
+        {
+          "tekst": "τις",
+          "strong": "G5100",
+          "morf": "X-NSM"
         },
         {
           "tekst": "απατη",
@@ -1138,7 +1138,7 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "",
+          "tekst": "εανπερ",
           "strong": "G1437",
           "morf": "COND"
         },
@@ -1195,7 +1195,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "λεγεσθαι",
@@ -1343,7 +1343,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "μωσεως",
+          "tekst": "μωυσεως",
           "strong": "G3475",
           "morf": "N-GSM"
         }

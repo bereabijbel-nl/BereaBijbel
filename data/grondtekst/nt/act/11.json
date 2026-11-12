@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -408,7 +408,7 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -1255,7 +1255,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "αρξασθαι",
@@ -1613,8 +1613,13 @@
           "morf": "V-PAP-NPM"
         },
         {
-          "tekst": "αραγε",
+          "tekst": "αρα",
           "strong": "G686",
+          "morf": "PRT"
+        },
+        {
+          "tekst": "γε",
+          "strong": "G1065",
           "morf": "PRT"
         },
         {
@@ -2338,11 +2343,6 @@
           "morf": "V-2AAP-NSM"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
-        },
-        {
           "tekst": "ηγαγεν",
           "strong": "G71",
           "morf": "V-2AAI-3S"
@@ -2391,11 +2391,6 @@
           "tekst": "συναχθηναι",
           "strong": "G4863",
           "morf": "V-APN"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
         },
         {
           "tekst": "τη",
@@ -2683,7 +2678,7 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ηυπορειτο",
+          "tekst": "ευπορειτο",
           "strong": "G2141",
           "morf": "V-IMI-3S"
         },

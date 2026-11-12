@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 12,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -258,7 +258,7 @@
           "morf": "V-AAI-3S"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -583,9 +583,9 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "μειζων",
+          "tekst": "μειζον",
           "strong": "G3173",
-          "morf": "A-NSM-C"
+          "morf": "A-NSN-C"
         },
         {
           "tekst": "εστιν",
@@ -696,11 +696,6 @@
           "tekst": "εστιν",
           "strong": "G1510",
           "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "του",
@@ -1698,11 +1693,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
           "tekst": "τω",
           "strong": "G3588",
           "morf": "T-DSN"
@@ -1893,7 +1883,7 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         }
@@ -2328,11 +2318,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εγω",
-          "strong": "G1473",
-          "morf": "P-1NS"
-        },
-        {
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
@@ -2346,6 +2331,11 @@
           "tekst": "θεου",
           "strong": "G2316",
           "morf": "N-GSM"
+        },
+        {
+          "tekst": "εγω",
+          "strong": "G1473",
+          "morf": "P-1NS"
         },
         {
           "tekst": "εκβαλλω",
@@ -2743,9 +2733,9 @@
           "morf": "R-NSM"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "ειπη",
@@ -2863,14 +2853,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τουτω",
-          "strong": "G3778",
-          "morf": "D-DSM"
-        },
-        {
           "tekst": "τω",
           "strong": "G3588",
           "morf": "T-DSM"
+        },
+        {
+          "tekst": "νυν",
+          "strong": "G3568",
+          "morf": "ADV"
         },
         {
           "tekst": "αιωνι",
@@ -3168,24 +3158,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
-        },
-        {
-          "tekst": "καρδιας",
-          "strong": "G2588",
-          "morf": "N-GSF"
-        },
-        {
           "tekst": "εκβαλλει",
           "strong": "G1544",
           "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "τα",
-          "strong": "G3588",
-          "morf": "T-APN"
         },
         {
           "tekst": "αγαθα",
@@ -4003,7 +3978,7 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "σολομωντος",
+          "tekst": "σολομωνος",
           "strong": "G4672",
           "morf": "N-GSM"
         },
@@ -4023,7 +3998,7 @@
           "morf": "A-NSN-C"
         },
         {
-          "tekst": "σολομωντος",
+          "tekst": "σολομωνος",
           "strong": "G4672",
           "morf": "N-GSM"
         },

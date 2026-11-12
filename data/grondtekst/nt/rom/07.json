@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -183,6 +183,16 @@
           "morf": "T-GSM"
         },
         {
+          "tekst": "νομου",
+          "strong": "G3551",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
           "tekst": "ανδρος",
           "strong": "G435",
           "morf": "N-GSM"
@@ -300,7 +310,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -633,9 +643,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "αποθανοντος",
+          "tekst": "αποθανοντες",
           "strong": "G599",
-          "morf": "V-2AAP-GSM"
+          "morf": "V-2AAP-NPM"
         },
         {
           "tekst": "εν",

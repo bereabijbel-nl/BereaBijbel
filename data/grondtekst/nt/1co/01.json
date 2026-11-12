@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -2493,9 +2493,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "καυχησεται",
+          "tekst": "καυχησηται",
           "strong": "G2744",
-          "morf": "V-FMI-3S"
+          "morf": "V-ADS-3S"
         },
         {
           "tekst": "πασα",
@@ -2513,9 +2513,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "θεου",
+          "strong": "G2316",
+          "morf": "N-GSM"
         }
       ]
     },

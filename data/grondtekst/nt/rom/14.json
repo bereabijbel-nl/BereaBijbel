@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 14,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -503,6 +503,11 @@
           "morf": "V-PAI-3S"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -818,8 +823,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ανεζησεν",
-          "strong": "G326",
+          "tekst": "εζησεν",
+          "strong": "G2198",
           "morf": "V-AAI-3S"
         },
         {
@@ -1253,9 +1258,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "εαυτου",
-          "strong": "G1438",
-          "morf": "F-3GSN"
+          "tekst": "αυτου",
+          "strong": "G846",
+          "morf": "P-GSN"
         },
         {
           "tekst": "ει",
@@ -1923,9 +1928,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "σαυτον",
+          "tekst": "σεαυτον",
           "strong": "G4572",
-          "morf": "F-2ASM-K"
+          "morf": "F-2ASM"
         },
         {
           "tekst": "εχε",
@@ -2081,6 +2086,286 @@
           "tekst": "εστιν",
           "strong": "G1510",
           "morf": "V-PAI-3S"
+        }
+      ]
+    },
+    {
+      "vers": 24,
+      "woorden": [
+        {
+          "tekst": "τω",
+          "strong": "G3588",
+          "morf": "T-DSM"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "δυναμενω",
+          "strong": "G1410",
+          "morf": "V-PNP-DSM"
+        },
+        {
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
+        },
+        {
+          "tekst": "στηριξαι",
+          "strong": "G4741",
+          "morf": "V-AAN"
+        },
+        {
+          "tekst": "κατα",
+          "strong": "G2596",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "το",
+          "strong": "G3588",
+          "morf": "T-ASN"
+        },
+        {
+          "tekst": "ευαγγελιον",
+          "strong": "G2098",
+          "morf": "N-ASN"
+        },
+        {
+          "tekst": "μου",
+          "strong": "G1473",
+          "morf": "P-1GS"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "το",
+          "strong": "G3588",
+          "morf": "T-ASN"
+        },
+        {
+          "tekst": "κηρυγμα",
+          "strong": "G2782",
+          "morf": "N-ASN"
+        },
+        {
+          "tekst": "ιησου",
+          "strong": "G2424",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "χριστου",
+          "strong": "G5547",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "κατα",
+          "strong": "G2596",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "αποκαλυψιν",
+          "strong": "G602",
+          "morf": "N-ASF"
+        },
+        {
+          "tekst": "μυστηριου",
+          "strong": "G3466",
+          "morf": "N-GSN"
+        },
+        {
+          "tekst": "χρονοις",
+          "strong": "G5550",
+          "morf": "N-DPM"
+        },
+        {
+          "tekst": "αιωνιοις",
+          "strong": "G166",
+          "morf": "A-DPM"
+        },
+        {
+          "tekst": "σεσιγημενου",
+          "strong": "G4601",
+          "morf": "V-RPP-GSN"
+        }
+      ]
+    },
+    {
+      "vers": 25,
+      "woorden": [
+        {
+          "tekst": "φανερωθεντος",
+          "strong": "G5319",
+          "morf": "V-APP-GSM"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "νυν",
+          "strong": "G3568",
+          "morf": "ADV"
+        },
+        {
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "τε",
+          "strong": "G5037",
+          "morf": "PRT"
+        },
+        {
+          "tekst": "γραφων",
+          "strong": "G1124",
+          "morf": "N-GPF"
+        },
+        {
+          "tekst": "προφητικων",
+          "strong": "G4397",
+          "morf": "A-GPF"
+        },
+        {
+          "tekst": "κατ",
+          "strong": "G2596",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "επιταγην",
+          "strong": "G2003",
+          "morf": "N-ASF"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "αιωνιου",
+          "strong": "G166",
+          "morf": "A-GSM"
+        },
+        {
+          "tekst": "θεου",
+          "strong": "G2316",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "εις",
+          "strong": "G1519",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "υπακοην",
+          "strong": "G5218",
+          "morf": "N-ASF"
+        },
+        {
+          "tekst": "πιστεως",
+          "strong": "G4102",
+          "morf": "N-GSF"
+        },
+        {
+          "tekst": "εις",
+          "strong": "G1519",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντα",
+          "strong": "G3956",
+          "morf": "A-APN"
+        },
+        {
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
+        },
+        {
+          "tekst": "εθνη",
+          "strong": "G1484",
+          "morf": "N-APN"
+        },
+        {
+          "tekst": "γνωρισθεντος",
+          "strong": "G1107",
+          "morf": "V-APP-GSN"
+        }
+      ]
+    },
+    {
+      "vers": 26,
+      "woorden": [
+        {
+          "tekst": "μονω",
+          "strong": "G3441",
+          "morf": "A-DSM"
+        },
+        {
+          "tekst": "σοφω",
+          "strong": "G4680",
+          "morf": "A-DSM"
+        },
+        {
+          "tekst": "θεω",
+          "strong": "G2316",
+          "morf": "N-DSM"
+        },
+        {
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "ιησου",
+          "strong": "G2424",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "χριστου",
+          "strong": "G5547",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "ω",
+          "strong": "G3739",
+          "morf": "R-DSM"
+        },
+        {
+          "tekst": "η",
+          "strong": "G3588",
+          "morf": "T-NSF"
+        },
+        {
+          "tekst": "δοξα",
+          "strong": "G1391",
+          "morf": "N-NSF"
+        },
+        {
+          "tekst": "εις",
+          "strong": "G1519",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "τους",
+          "strong": "G3588",
+          "morf": "T-APM"
+        },
+        {
+          "tekst": "αιωνας",
+          "strong": "G165",
+          "morf": "N-APM"
+        },
+        {
+          "tekst": "αμην",
+          "strong": "G281",
+          "morf": "HEB"
         }
       ]
     }

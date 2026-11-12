@@ -2,7 +2,7 @@
   "boek": "heb",
   "boeknummer": 58,
   "hoofdstuk": 8,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -438,7 +438,7 @@
           "morf": "V-RPI-3S"
         },
         {
-          "tekst": "μωσης",
+          "tekst": "μωυσης",
           "strong": "G3475",
           "morf": "N-NSM"
         },
@@ -478,9 +478,9 @@
           "morf": "V-PAI-3S"
         },
         {
-          "tekst": "ποιησης",
+          "tekst": "ποιησεις",
           "strong": "G4160",
-          "morf": "V-AAS-2S"
+          "morf": "V-FAI-2S"
         },
         {
           "tekst": "παντα",
@@ -553,9 +553,9 @@
           "morf": "A-GSF-C"
         },
         {
-          "tekst": "τετευχεν",
+          "tekst": "τετυχεν",
           "strong": "G5177",
-          "morf": "V-RAI-3S"
+          "morf": "V-2RAI-3S"
         },
         {
           "tekst": "λειτουργιας",
@@ -861,6 +861,11 @@
           "tekst": "επιλαβομενου",
           "strong": "G1949",
           "morf": "V-2ADP-GSM"
+        },
+        {
+          "tekst": "μου",
+          "strong": "G1473",
+          "morf": "P-1GS"
         },
         {
           "tekst": "της",
@@ -1203,9 +1208,9 @@
           "morf": "T-ASM"
         },
         {
-          "tekst": "πλησιον",
-          "strong": "G4139",
-          "morf": "ADV"
+          "tekst": "πολιτην",
+          "strong": "G4177",
+          "morf": "N-ASM"
         },
         {
           "tekst": "αυτου",
@@ -1415,7 +1420,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "λεγειν",

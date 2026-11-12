@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 17,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -41,6 +41,11 @@
           "tekst": "εστιν",
           "strong": "G1510",
           "morf": "V-PAI-3S"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -363,16 +368,6 @@
           "morf": "V-AAS-3S"
         },
         {
-          "tekst": "επι",
-          "strong": "G1909",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "σε",
-          "strong": "G4771",
-          "morf": "P-2AS"
-        },
-        {
           "tekst": "λεγων",
           "strong": "G3004",
           "morf": "V-PAP-NSM"
@@ -473,9 +468,9 @@
           "morf": "COND"
         },
         {
-          "tekst": "ειχετε",
+          "tekst": "εχετε",
           "strong": "G2192",
-          "morf": "V-IAI-2P"
+          "morf": "V-PAI-2P"
         },
         {
           "tekst": "πιστιν",
@@ -663,9 +658,9 @@
           "morf": "V-2AAP-NSM"
         },
         {
-          "tekst": "αναπεσαι",
+          "tekst": "αναπεσε",
           "strong": "G377",
-          "morf": "V-AMM-2S"
+          "morf": "V-2AAM-2S"
         }
       ]
     },
@@ -838,11 +833,6 @@
           "morf": "V-APP-APN"
         },
         {
-          "tekst": "αυτω",
-          "strong": "G846",
-          "morf": "P-DSM"
-        },
-        {
           "tekst": "ου",
           "strong": "G3756",
           "morf": "PRT-N"
@@ -938,9 +928,9 @@
           "morf": "R-ASN"
         },
         {
-          "tekst": "ωφειλομεν",
+          "tekst": "οφειλομεν",
           "strong": "G3784",
-          "morf": "V-IAI-1P"
+          "morf": "V-PAI-1P"
         },
         {
           "tekst": "ποιησαι",
@@ -975,7 +965,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "πορευεσθαι",
@@ -1230,7 +1220,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "υπαγειν",
@@ -2053,11 +2043,6 @@
           "morf": "V-FDI-3S"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -2198,11 +2183,6 @@
           "morf": "N-DPF"
         },
         {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
           "tekst": "νωε",
           "strong": "G3575",
           "morf": "N-PRI"
@@ -2236,6 +2216,11 @@
           "tekst": "ημεραις",
           "strong": "G2250",
           "morf": "N-DPF"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
         },
         {
           "tekst": "υιου",
@@ -2893,11 +2878,6 @@
           "morf": "A-GSF"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "εις",
           "strong": "G1520",
           "morf": "A-NSM"
@@ -2963,11 +2943,6 @@
           "morf": "P-ASN"
         },
         {
-          "tekst": "η",
-          "strong": "G3588",
-          "morf": "T-NSF"
-        },
-        {
           "tekst": "μια",
           "strong": "G1520",
           "morf": "A-NSF"
@@ -2991,71 +2966,6 @@
           "tekst": "ετερα",
           "strong": "G2087",
           "morf": "A-NSF"
-        },
-        {
-          "tekst": "αφεθησεται",
-          "strong": "G863",
-          "morf": "V-FPI-3S"
-        }
-      ]
-    },
-    {
-      "vers": 36,
-      "woorden": [
-        {
-          "tekst": "δυο",
-          "strong": "G1417",
-          "morf": "A-NUI"
-        },
-        {
-          "tekst": "εσονται",
-          "strong": "G1510",
-          "morf": "V-FDI-3P"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
-          "tekst": "αγρω",
-          "strong": "G68",
-          "morf": "N-DSM"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "εις",
-          "strong": "G1520",
-          "morf": "A-NSM"
-        },
-        {
-          "tekst": "παραληφθησεται",
-          "strong": "G3880",
-          "morf": "V-FPI-3S"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "ετερος",
-          "strong": "G2087",
-          "morf": "A-NSM"
         },
         {
           "tekst": "αφεθησεται",

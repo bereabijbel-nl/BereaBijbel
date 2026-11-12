@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -278,6 +278,11 @@
           "morf": "V-AMN"
         },
         {
+          "tekst": "σε",
+          "strong": "G4771",
+          "morf": "P-2AS"
+        },
+        {
           "tekst": "απο",
           "strong": "G575",
           "morf": "PREP"
@@ -456,6 +461,11 @@
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
         },
         {
           "tekst": "ανανιας",
@@ -2198,11 +2208,6 @@
           "morf": "N-APM"
         },
         {
-          "tekst": "εξω",
-          "strong": "G1854",
-          "morf": "ADV"
-        },
-        {
           "tekst": "εστωτας",
           "strong": "G2476",
           "morf": "V-RAP-APM"
@@ -2401,11 +2406,6 @@
           "tekst": "αυτοις",
           "strong": "G846",
           "morf": "P-DPM"
-        },
-        {
-          "tekst": "λεγων",
-          "strong": "G3004",
-          "morf": "V-PAP-NSM"
         },
         {
           "tekst": "οτι",
@@ -2828,11 +2828,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "πετρος",
           "strong": "G4074",
           "morf": "N-NSM"
@@ -3173,9 +3168,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ακουσαντες",
+          "tekst": "ακουοντες",
           "strong": "G191",
-          "morf": "V-AAP-NPM"
+          "morf": "V-PAP-NPM"
         },
         {
           "tekst": "διεπριοντο",
@@ -3458,8 +3453,8 @@
           "morf": "R-DSM"
         },
         {
-          "tekst": "προσεκολληθη",
-          "strong": "G4347",
+          "tekst": "προσεκληθη",
+          "strong": "G4341",
           "morf": "V-API-3S"
         },
         {
@@ -3778,11 +3773,6 @@
           "morf": "N-NSF"
         },
         {
-          "tekst": "αυτη",
-          "strong": "G3778",
-          "morf": "D-NSF"
-        },
-        {
           "tekst": "η",
           "strong": "G2228",
           "morf": "PRT"
@@ -4048,9 +4038,14 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "ιησου",
+          "strong": "G2424",
+          "morf": "N-GSM"
         },
         {
           "tekst": "κατηξιωθησαν",

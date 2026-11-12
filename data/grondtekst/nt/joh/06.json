@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 6,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1293,11 +1293,6 @@
           "morf": "V-AAI-3S"
         },
         {
-          "tekst": "παλιν",
-          "strong": "G3825",
-          "morf": "ADV"
-        },
-        {
           "tekst": "εις",
           "strong": "G1519",
           "morf": "PREP"
@@ -1563,8 +1558,13 @@
           "morf": "N-APM"
         },
         {
-          "tekst": "εικοσιπεντε",
+          "tekst": "εικοσι",
           "strong": "G1501",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "πεντε",
+          "strong": "G4002",
           "morf": "A-NUI"
         },
         {
@@ -2178,11 +2178,6 @@
           "morf": "V-2AAI-3P"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "αυτοι",
           "strong": "G846",
           "morf": "P-NPM"
@@ -2646,11 +2641,6 @@
           "tekst": "απεκριθη",
           "strong": "G611",
           "morf": "V-ADI-3S"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "ιησους",
@@ -3713,11 +3703,6 @@
           "morf": "P-ASN"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
           "tekst": "τη",
           "strong": "G3588",
           "morf": "T-DSF"
@@ -4258,6 +4243,11 @@
           "morf": "P-ASM"
         },
         {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
+        },
+        {
           "tekst": "τη",
           "strong": "G3588",
           "morf": "T-DSF"
@@ -4323,11 +4313,6 @@
           "morf": "A-NPM"
         },
         {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
           "tekst": "θεου",
           "strong": "G2316",
           "morf": "N-GSM"
@@ -4348,9 +4333,9 @@
           "morf": "T-NSM"
         },
         {
-          "tekst": "ακουσας",
+          "tekst": "ακουων",
           "strong": "G191",
-          "morf": "V-AAP-NSM"
+          "morf": "V-PAP-NSM"
         },
         {
           "tekst": "παρα",
@@ -6738,9 +6723,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ημελλεν",
+          "tekst": "εμελλεν",
           "strong": "G3195",
-          "morf": "V-IAI-3S-ATT"
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "αυτον",

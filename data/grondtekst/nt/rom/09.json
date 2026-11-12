@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 9,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -143,7 +143,7 @@
       "vers": 3,
       "woorden": [
         {
-          "tekst": "ηυχομην",
+          "tekst": "ευχομην",
           "strong": "G2172",
           "morf": "V-INI-1S"
         },
@@ -938,6 +938,11 @@
           "morf": "N-ASF"
         },
         {
+          "tekst": "προθεσις",
+          "strong": "G4286",
+          "morf": "N-NSF"
+        },
+        {
           "tekst": "του",
           "strong": "G3588",
           "morf": "T-GSM"
@@ -946,11 +951,6 @@
           "tekst": "θεου",
           "strong": "G2316",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "προθεσις",
-          "strong": "G4286",
-          "morf": "N-NSF"
         },
         {
           "tekst": "μενη",
@@ -1158,7 +1158,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μωση",
+          "tekst": "μωυση",
           "strong": "G3475",
           "morf": "N-DSM"
         },
@@ -1516,6 +1516,11 @@
           "tekst": "τω",
           "strong": "G3588",
           "morf": "T-DSN"
+        },
+        {
+          "tekst": "γαρ",
+          "strong": "G1063",
+          "morf": "CONJ"
         },
         {
           "tekst": "βουληματι",

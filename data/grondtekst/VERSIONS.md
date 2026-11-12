@@ -9,13 +9,16 @@
 - **Versnummering**: omgezet van de Hebreeuwse naar de Engelse/KJV-hoofdstuk-en-versindeling met de officiële `VerseMap.xml` uit dezelfde bron. Zonder deze omzetting wijken minstens twee boeken (Joël, Maleachi) af in hoofdstuktelling.
 - **Bekende restafwijking**: 6 van de 929 hoofdstukken (1 Koningen 18, 20, 22; Nehemia 7; Psalm 13; Jesaja 63) hebben een verschil van precies 1 vers ten opzichte van de KJV-telling, door halve-verssamenvoegingen die niet 1-op-1 in het datamodel passen. Zie de `VerseMap.xml`-vermeldingen met `type="partial"`.
 
-## Nieuwe Testament — Elzevir Textus Receptus
+## Nieuwe Testament — Robinson–Pierpont Byzantine Textform 2018 (RP2018)
 
-- **Bron**: [byztxt/greektext-elzevir](https://github.com/byztxt/greektext-elzevir), map `parsed/`
-- **Opgehaald**: 2026-09-11, van de `master`-branch
-- **Licentie**: publiek domein, expliciet vermeld in de README ("Public Domain. Copy freely.") — geen naamsvermeldingsplicht.
-- **Tekstcodering**: de brontekst staat in een vereenvoudigde ASCII-transcriptie zonder accenten/ademingen (bijv. `logov` voor λόγος). Omgezet naar Unicode Grieks met een letter-voor-letter tabel, geverifieerd tegen Johannes 1:1 en de Unicode-editie van de verwante Byzantine Majority Text (`byztxt/byzantine-majority-text`).
-- **Beperking**: de weergegeven Griekse tekst bevat geen accenten, ademingtekens of iota subscriptum — alleen de kale letters. Dit is een bewuste, tijdelijke vereenvoudiging; geen tekst-kritische informatie gaat verloren (Strong-nummers en morfologie zijn volledig intact), maar de tekst is niet geschikt om als definitieve typografische weergave te tonen zonder dit later aan te vullen met een geaccentueerde bron.
+- **Bron**: [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text), map `csv-unicode/strongs/with-parsing/` (27 bestanden, `master`-branch)
+- **Opgehaald**: 2026-11-12
+- **Reden voor de wissel**: de aangeleverde vertaling is gemaakt uit RP2018 (ook `grondtekst_bron` in `data/bijbel/` zegt dat). De Elzevir-grondtekst op de site week in 15% van de verzen af van de vertaling en in Romeinen 14 en 16 ook in de versindeling (lofprijzing 14:24-26 in RP2018, 16:25-27 in Elzevir).
+- **Licentie**: publiek domein ("All the code and text contained in this folder is in the Public Domain"), geen naamsvermeldingsplicht.
+- **Tekst**: Unicode Grieks, kleine letters, zonder accenten en ademingen. Strong-nummer en morfologiecode per woord. Bij woorden met twee mogelijke ontledingen is de eerste overgenomen.
+- **Omzetting**: `pipeline/scripts/verwerk-rp2018.js` naar `data/grondtekst/nt/<boek>/<hoofdstuk>.json`; 260 hoofdstukken, 7.953 verzen, 140.149 woorden.
+- **Bekende afwijkingen ten opzichte van de KJV-telling**: Lucas 17:36, Handelingen 8:37, 15:34 en 24:7 bestaan niet in RP2018 (de KJV heeft ze wel). Romeinen 14 telt 26 verzen en Romeinen 16 telt 24 (KJV: 23 en 27).
+- **Eerder**: Elzevir Textus Receptus (`byztxt/greektext-elzevir`, opgehaald 2026-09-11), omgezet met `pipeline/scripts/verwerk-elzevir.js`. Dat script blijft staan; de oude data staat in de Git-geschiedenis (commit vóór de wissel).
 
 ## Concordantie-index
 

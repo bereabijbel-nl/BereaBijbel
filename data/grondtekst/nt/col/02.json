@@ -2,7 +2,7 @@
   "boek": "col",
   "boeknummer": 51,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1218,9 +1218,14 @@
           "morf": "P-2GP"
         },
         {
-          "tekst": "συνεζωποιησεν",
+          "tekst": "συνεζωοποιησεν",
           "strong": "G4806",
           "morf": "V-AAI-3S"
+        },
+        {
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
         },
         {
           "tekst": "συν",
@@ -1238,9 +1243,9 @@
           "morf": "V-ADP-NSM"
         },
         {
-          "tekst": "υμιν",
-          "strong": "G4771",
-          "morf": "P-2DP"
+          "tekst": "ημιν",
+          "strong": "G1473",
+          "morf": "P-1DP"
         },
         {
           "tekst": "παντα",
@@ -1578,11 +1583,6 @@
           "morf": "N-NSN"
         },
         {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
           "tekst": "χριστου",
           "strong": "G5547",
           "morf": "N-GSM"
@@ -1833,11 +1833,6 @@
           "morf": "COND"
         },
         {
-          "tekst": "ουν",
-          "strong": "G3767",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "απεθανετε",
           "strong": "G599",
           "morf": "V-2AAI-2P"
@@ -1846,11 +1841,6 @@
           "tekst": "συν",
           "strong": "G4862",
           "morf": "PREP"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
         },
         {
           "tekst": "χριστω",

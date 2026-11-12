@@ -2,7 +2,7 @@
   "boek": "gal",
   "boeknummer": 48,
   "hoofdstuk": 6,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -938,9 +938,9 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "περιτεμνομενοι",
+          "tekst": "περιτετμημενοι",
           "strong": "G4059",
-          "morf": "V-PPP-NPM"
+          "morf": "V-RPP-NPM"
         },
         {
           "tekst": "αυτοι",
@@ -1430,7 +1430,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "πνευματος",
@@ -1451,31 +1451,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "γαλατας",
-          "strong": "G1052",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ρωμης",
-          "strong": "G4516",
-          "morf": "N-GSF"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 13,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -63,8 +63,8 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "απο",
-          "strong": "G575",
+          "tekst": "υπο",
+          "strong": "G5259",
           "morf": "PREP"
         },
         {
@@ -513,8 +513,8 @@
           "morf": "N-NSF"
         },
         {
-          "tekst": "προτασσεσθαι",
-          "strong": "G4384",
+          "tekst": "υποτασσεσθαι",
+          "strong": "G5293",
           "morf": "V-PMN"
         },
         {
@@ -898,16 +898,6 @@
           "morf": "V-FAI-2S"
         },
         {
-          "tekst": "ου",
-          "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "ψευδομαρτυρησεις",
-          "strong": "G5576",
-          "morf": "V-FAI-2S"
-        },
-        {
           "tekst": "ουκ",
           "strong": "G3756",
           "morf": "PRT-N"
@@ -1003,9 +993,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "εαυτον",
-          "strong": "G1438",
-          "morf": "F-3ASM"
+          "tekst": "σεαυτον",
+          "strong": "G4572",
+          "morf": "F-2ASM"
         }
       ]
     },

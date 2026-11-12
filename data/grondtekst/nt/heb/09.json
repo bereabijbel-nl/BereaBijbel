@@ -2,7 +2,7 @@
   "boek": "heb",
   "boeknummer": 58,
   "hoofdstuk": 9,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -36,11 +36,6 @@
           "tekst": "πρωτη",
           "strong": "G4413",
           "morf": "A-NSF-S"
-        },
-        {
-          "tekst": "σκηνη",
-          "strong": "G4633",
-          "morf": "N-NSF"
         },
         {
           "tekst": "δικαιωματα",
@@ -523,9 +518,14 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "διαπαντος",
-          "strong": "G1275",
-          "morf": "ADV"
+          "tekst": "δια",
+          "strong": "G1223",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παντος",
+          "strong": "G3956",
+          "morf": "A-GSN"
         },
         {
           "tekst": "εισιασιν",
@@ -1163,7 +1163,7 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "ευρομενος",
+          "tekst": "ευραμενος",
           "strong": "G2147",
           "morf": "V-2AMP-NSM"
         }
@@ -2596,6 +2596,11 @@
           "tekst": "ουτως",
           "strong": "G3779",
           "morf": "ADV"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "ο",

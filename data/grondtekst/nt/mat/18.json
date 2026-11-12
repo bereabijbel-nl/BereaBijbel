@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 18,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -283,9 +283,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ταπεινωση",
+          "tekst": "ταπεινωσει",
           "strong": "G5013",
-          "morf": "V-AAS-3S"
+          "morf": "V-FAI-3S"
         },
         {
           "tekst": "εαυτον",
@@ -523,8 +523,8 @@
           "morf": "A-NSM"
         },
         {
-          "tekst": "επι",
-          "strong": "G1909",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {
@@ -1338,8 +1338,13 @@
           "morf": "T-APN"
         },
         {
-          "tekst": "εννενηκονταεννεα",
+          "tekst": "ενενηκοντα",
           "strong": "G1768",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "εννεα",
+          "strong": "G1767",
           "morf": "A-NUI"
         },
         {
@@ -1463,8 +1468,13 @@
           "morf": "T-DPN"
         },
         {
-          "tekst": "εννενηκονταεννεα",
+          "tekst": "ενενηκοντα",
           "strong": "G1768",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "εννεα",
+          "strong": "G1767",
           "morf": "A-NUI"
         },
         {
@@ -2061,6 +2071,11 @@
           "tekst": "παλιν",
           "strong": "G3825",
           "morf": "ADV"
+        },
+        {
+          "tekst": "αμην",
+          "strong": "G281",
+          "morf": "HEB"
         },
         {
           "tekst": "λεγω",
@@ -2983,9 +2998,9 @@
           "morf": "P-1DS"
         },
         {
-          "tekst": "ο",
-          "strong": "G3739",
-          "morf": "R-ASN"
+          "tekst": "ει",
+          "strong": "G1487",
+          "morf": "COND"
         },
         {
           "tekst": "τι",
@@ -3083,11 +3098,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "παντα",
-          "strong": "G3956",
-          "morf": "A-APN"
-        },
-        {
           "tekst": "αποδωσω",
           "strong": "G591",
           "morf": "V-FAI-1S"
@@ -3123,7 +3133,7 @@
           "morf": "V-IAI-3S"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -3253,9 +3263,9 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "αυτων",
-          "strong": "G846",
-          "morf": "P-GPM"
+          "tekst": "εαυτων",
+          "strong": "G1438",
+          "morf": "F-3GPM"
         },
         {
           "tekst": "παντα",

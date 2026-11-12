@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -21,6 +21,11 @@
           "tekst": "ην",
           "strong": "G1510",
           "morf": "V-IAI-3S"
+        },
+        {
+          "tekst": "η",
+          "strong": "G3588",
+          "morf": "T-NSF"
         },
         {
           "tekst": "εορτη",
@@ -403,8 +408,13 @@
           "morf": "ADV"
         },
         {
-          "tekst": "τριακονταοκτω",
+          "tekst": "τριακοντα",
           "strong": "G5144",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "οκτω",
+          "strong": "G3638",
           "morf": "A-NUI"
         },
         {
@@ -593,9 +603,9 @@
           "morf": "N-NSN"
         },
         {
-          "tekst": "βαλλη",
+          "tekst": "βαλη",
           "strong": "G906",
-          "morf": "V-PAS-3S"
+          "morf": "V-2AAS-3S"
         },
         {
           "tekst": "με",
@@ -1219,7 +1229,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -3323,7 +3333,7 @@
           "morf": "V-AAI-2P"
         },
         {
-          "tekst": "αγαλλιασθηναι",
+          "tekst": "αγαλλιαθηναι",
           "strong": "G21",
           "morf": "V-AON"
         },
@@ -3721,11 +3731,6 @@
           "tekst": "ερευνατε",
           "strong": "G2045",
           "morf": "V-PAI-2P"
-        },
-        {
-          "tekst": "",
-          "strong": "G5720",
-          "morf": "V-PAM-2P"
         },
         {
           "tekst": "τας",

@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -33,14 +33,14 @@
           "morf": "V-AOI-1S-ATT"
         },
         {
-          "tekst": "λαλησαι",
-          "strong": "G2980",
-          "morf": "V-AAN"
-        },
-        {
           "tekst": "υμιν",
           "strong": "G4771",
           "morf": "P-2DP"
+        },
+        {
+          "tekst": "λαλησαι",
+          "strong": "G2980",
+          "morf": "V-AAN"
         },
         {
           "tekst": "ως",
@@ -133,9 +133,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ηδυνασθε",
+          "tekst": "εδυνασθε",
           "strong": "G1410",
-          "morf": "V-INI-2P-ATT"
+          "morf": "V-INI-2P"
         },
         {
           "tekst": "αλλ",
@@ -883,11 +883,6 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "χριστος",
           "strong": "G5547",
           "morf": "N-NSM"
@@ -1123,7 +1118,7 @@
           "morf": "R-ASN"
         },
         {
-          "tekst": "επωκοδομησεν",
+          "tekst": "εποικοδομησεν",
           "strong": "G2026",
           "morf": "V-AAI-3S"
         },

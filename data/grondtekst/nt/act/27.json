@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 27,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -25,7 +25,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "αποπλειν",
@@ -291,6 +291,11 @@
           "tekst": "προς",
           "strong": "G4314",
           "morf": "PREP"
+        },
+        {
+          "tekst": "τους",
+          "strong": "G3588",
+          "morf": "T-APM"
         },
         {
           "tekst": "φιλους",
@@ -895,12 +900,12 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
-          "tekst": "φορτου",
-          "strong": "G5414",
-          "morf": "N-GSM"
+          "tekst": "φορτιου",
+          "strong": "G5413",
+          "morf": "N-GSN"
         },
         {
           "tekst": "και",
@@ -978,7 +983,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εκατονταρχος",
+          "tekst": "εκατονταρχης",
           "strong": "G1543",
           "morf": "N-NSM"
         },
@@ -1118,9 +1123,14 @@
           "morf": "ADV-K"
         },
         {
-          "tekst": "ειπως",
-          "strong": "G1513",
+          "tekst": "ει",
+          "strong": "G1487",
           "morf": "COND"
+        },
+        {
+          "tekst": "πως",
+          "strong": "G4459",
+          "morf": "ADV-I"
         },
         {
           "tekst": "δυναιντο",
@@ -1518,7 +1528,7 @@
           "morf": "T-ASF"
         },
         {
-          "tekst": "συρτιν",
+          "tekst": "συρτην",
           "strong": "G4950",
           "morf": "N-ASF"
         },
@@ -1745,7 +1755,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "σωζεσθαι",
@@ -1928,9 +1938,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "τανυν",
-          "strong": "G3569",
-          "morf": "ADV-C"
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
+        },
+        {
+          "tekst": "νυν",
+          "strong": "G3568",
+          "morf": "ADV"
         },
         {
           "tekst": "παραινω",
@@ -2018,6 +2033,11 @@
           "morf": "P-1DS"
         },
         {
+          "tekst": "ταυτη",
+          "strong": "G3778",
+          "morf": "D-DSF"
+        },
+        {
           "tekst": "τη",
           "strong": "G3588",
           "morf": "T-DSF"
@@ -2026,11 +2046,6 @@
           "tekst": "νυκτι",
           "strong": "G3571",
           "morf": "N-DSF"
-        },
-        {
-          "tekst": "ταυτη",
-          "strong": "G3778",
-          "morf": "D-DSF"
         },
         {
           "tekst": "αγγελος",
@@ -2513,9 +2528,9 @@
           "morf": "N-APM"
         },
         {
-          "tekst": "εκπεσωσιν",
+          "tekst": "εκπεσωμεν",
           "strong": "G1601",
-          "morf": "V-2AAS-3P"
+          "morf": "V-2AAS-1P"
         },
         {
           "tekst": "εκ",
@@ -2858,9 +2873,9 @@
           "morf": "R-GSM"
         },
         {
-          "tekst": "εμελλεν",
+          "tekst": "ημελλεν",
           "strong": "G3195",
-          "morf": "V-IAI-3S"
+          "morf": "V-IAI-3S-ATT"
         },
         {
           "tekst": "ημερα",
@@ -3228,7 +3243,12 @@
           "morf": "A-NPF"
         },
         {
-          "tekst": "εβδομηκονταεξ",
+          "tekst": "εβδομηκοντα",
+          "strong": "G1440",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "εξ",
           "strong": "G1803",
           "morf": "A-NUI"
         }
@@ -3246,6 +3266,11 @@
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "της",
+          "strong": "G3588",
+          "morf": "T-GSF"
         },
         {
           "tekst": "τροφης",
@@ -3393,9 +3418,9 @@
           "morf": "COND"
         },
         {
-          "tekst": "δυναιντο",
-          "strong": "G1410",
-          "morf": "V-PNO-3P"
+          "tekst": "δυνατον",
+          "strong": "G1415",
+          "morf": "A-NSN"
         },
         {
           "tekst": "εξωσαι",
@@ -3728,9 +3753,9 @@
           "morf": "V-AAP-NSM"
         },
         {
-          "tekst": "διαφυγοι",
+          "tekst": "διαφυγη",
           "strong": "G1309",
-          "morf": "V-2AAO-3S"
+          "morf": "V-2AAS-3S"
         }
       ]
     },

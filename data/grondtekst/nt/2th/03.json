@@ -2,7 +2,7 @@
   "boek": "2th",
   "boeknummer": 53,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -393,6 +393,11 @@
           "morf": "PREP"
         },
         {
+          "tekst": "την",
+          "strong": "G3588",
+          "morf": "T-ASF"
+        },
+        {
           "tekst": "υπομονην",
           "strong": "G5281",
           "morf": "N-ASF"
@@ -533,9 +538,9 @@
           "morf": "R-ASF"
         },
         {
-          "tekst": "παρελαβεν",
+          "tekst": "παρελαβον",
           "strong": "G3880",
-          "morf": "V-2AAI-3S"
+          "morf": "V-2AAI-3P"
         },
         {
           "tekst": "παρ",
@@ -1481,36 +1486,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "θεσσαλονικεις",
-          "strong": "G2331",
-          "morf": "N-APM"
-        },
-        {
-          "tekst": "δευτερα",
-          "strong": "G1208",
-          "morf": "A-NSF"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "αθηνων",
-          "strong": "G116",
-          "morf": "N-GPF"
         }
       ]
     }

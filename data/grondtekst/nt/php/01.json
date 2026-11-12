@@ -2,7 +2,7 @@
   "boek": "php",
   "boeknummer": 50,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -423,7 +423,7 @@
           "morf": "V-FAI-3S"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -433,13 +433,13 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "ιησου",
-          "strong": "G2424",
+          "tekst": "χριστου",
+          "strong": "G5547",
           "morf": "N-GSM"
         },
         {
-          "tekst": "χριστου",
-          "strong": "G5547",
+          "tekst": "ιησου",
+          "strong": "G2424",
           "morf": "N-GSM"
         }
       ]
@@ -561,6 +561,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "τη",
@@ -1893,8 +1898,8 @@
           "morf": "V-PPI-1S"
         },
         {
-          "tekst": "γαρ",
-          "strong": "G1063",
+          "tekst": "δε",
+          "strong": "G1161",
           "morf": "CONJ"
         },
         {
@@ -1966,11 +1971,6 @@
           "tekst": "πολλω",
           "strong": "G4183",
           "morf": "A-DSN"
-        },
-        {
-          "tekst": "γαρ",
-          "strong": "G1063",
-          "morf": "CONJ"
         },
         {
           "tekst": "μαλλον",
@@ -2613,9 +2613,9 @@
           "morf": "K-ASM"
         },
         {
-          "tekst": "ιδετε",
+          "tekst": "ειδετε",
           "strong": "G3708",
-          "morf": "V-2AAM-2P"
+          "morf": "V-2AAI-2P"
         },
         {
           "tekst": "εν",

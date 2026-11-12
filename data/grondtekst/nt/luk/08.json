@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 8,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -303,9 +303,9 @@
           "morf": "V-IAI-3P"
         },
         {
-          "tekst": "αυτω",
+          "tekst": "αυτοις",
           "strong": "G846",
-          "morf": "P-DSM"
+          "morf": "P-DPM"
         },
         {
           "tekst": "απο",
@@ -425,7 +425,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "σπειραι",
@@ -460,7 +460,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "σπειρειν",
@@ -713,8 +713,8 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "επι",
-          "strong": "G1909",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {
@@ -1803,9 +1803,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "εχη",
@@ -1833,9 +1833,9 @@
           "morf": "R-NSM"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "μη",
@@ -3528,9 +3528,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "εισηλθεν",
+          "tekst": "εισηλθον",
           "strong": "G1525",
-          "morf": "V-2AAI-3S"
+          "morf": "V-2AAI-3P"
         },
         {
           "tekst": "εις",
@@ -3651,11 +3651,6 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "απελθοντες",
-          "strong": "G565",
-          "morf": "V-2AAP-NPM"
         },
         {
           "tekst": "απηγγειλαν",
@@ -4280,7 +4275,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "υποστρεψαι",
@@ -4555,7 +4550,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "υπαγειν",
@@ -4643,14 +4638,9 @@
           "morf": "R-NSF"
         },
         {
-          "tekst": "εις",
-          "strong": "G1519",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ιατρους",
+          "tekst": "ιατροις",
           "strong": "G2395",
-          "morf": "N-APM"
+          "morf": "N-DPM"
         },
         {
           "tekst": "προσαναλωσασα",
@@ -5408,8 +5398,8 @@
       "vers": 51,
       "woorden": [
         {
-          "tekst": "εισελθων",
-          "strong": "G1525",
+          "tekst": "ελθων",
+          "strong": "G2064",
           "morf": "V-2AAP-NSM"
         },
         {
@@ -5473,8 +5463,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ιακωβον",
-          "strong": "G2385",
+          "tekst": "ιωαννην",
+          "strong": "G2491",
           "morf": "N-ASM"
         },
         {
@@ -5483,8 +5473,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ιωαννην",
-          "strong": "G2491",
+          "tekst": "ιακωβον",
+          "strong": "G2385",
           "morf": "N-ASM"
         },
         {

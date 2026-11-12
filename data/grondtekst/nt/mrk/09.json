@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 9,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -213,11 +213,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
           "tekst": "ιωαννην",
           "strong": "G2491",
           "morf": "N-ASM"
@@ -313,9 +308,9 @@
           "morf": "P-GSM"
         },
         {
-          "tekst": "εγενετο",
+          "tekst": "εγενοντο",
           "strong": "G1096",
-          "morf": "V-2ADI-3S"
+          "morf": "V-2ADI-3P"
         },
         {
           "tekst": "στιλβοντα",
@@ -413,7 +408,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "μωσει",
+          "tekst": "μωση",
           "strong": "G3475",
           "morf": "N-DSM"
         },
@@ -548,7 +543,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "μωσει",
+          "tekst": "μωση",
           "strong": "G3475",
           "morf": "N-DSM"
         },
@@ -598,9 +593,9 @@
           "morf": "I-ASN"
         },
         {
-          "tekst": "λαληση",
+          "tekst": "λαλησει",
           "strong": "G2980",
-          "morf": "V-AAS-3S"
+          "morf": "V-FAI-3S"
         },
         {
           "tekst": "ησαν",
@@ -676,11 +671,6 @@
           "tekst": "νεφελης",
           "strong": "G3507",
           "morf": "N-GSF"
-        },
-        {
-          "tekst": "λεγουσα",
-          "strong": "G3004",
-          "morf": "V-PAP-NSF"
         },
         {
           "tekst": "ουτος",
@@ -2006,6 +1996,11 @@
           "tekst": "εις",
           "strong": "G1519",
           "morf": "PREP"
+        },
+        {
+          "tekst": "το",
+          "strong": "G3588",
+          "morf": "T-ASN"
         },
         {
           "tekst": "πυρ",
@@ -3468,11 +3463,6 @@
           "morf": "P-DSM"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιωαννης",
           "strong": "G2491",
           "morf": "N-NSM"
@@ -3496,11 +3486,6 @@
           "tekst": "τινα",
           "strong": "G5100",
           "morf": "X-ASM"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
         },
         {
           "tekst": "τω",
@@ -3728,9 +3713,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
+          "tekst": "υμων",
+          "strong": "G4771",
+          "morf": "P-2GP"
         },
         {
           "tekst": "υπερ",
@@ -3738,9 +3723,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
+          "tekst": "υμων",
+          "strong": "G4771",
+          "morf": "P-2GP"
         },
         {
           "tekst": "εστιν",
@@ -3791,11 +3776,6 @@
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSN"
         },
         {
           "tekst": "ονοματι",
@@ -3883,9 +3863,9 @@
           "morf": "R-NSM"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "σκανδαλιση",

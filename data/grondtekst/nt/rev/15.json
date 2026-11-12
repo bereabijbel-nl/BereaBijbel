@@ -2,7 +2,7 @@
   "boek": "rev",
   "boeknummer": 66,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -240,26 +240,6 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSN"
-        },
-        {
-          "tekst": "χαραγματος",
-          "strong": "G5480",
-          "morf": "N-GSN"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSN"
-        },
-        {
-          "tekst": "εκ",
-          "strong": "G1537",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
           "morf": "T-GSM"
         },
         {
@@ -358,9 +338,14 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "μωσεως",
+          "tekst": "μωυσεως",
           "strong": "G3475",
           "morf": "N-GSM"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
         },
         {
           "tekst": "δουλου",
@@ -395,7 +380,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "αρνιου",
@@ -505,12 +490,12 @@
         {
           "tekst": "των",
           "strong": "G3588",
-          "morf": "T-GPM"
+          "morf": "T-GPN"
         },
         {
-          "tekst": "αγιων",
-          "strong": "G40",
-          "morf": "A-GPM"
+          "tekst": "εθνων",
+          "strong": "G1484",
+          "morf": "N-GPN"
         }
       ]
     },
@@ -583,8 +568,8 @@
           "morf": "A-NSM"
         },
         {
-          "tekst": "οσιος",
-          "strong": "G3741",
+          "tekst": "αγιος",
+          "strong": "G40",
           "morf": "A-NSM"
         },
         {
@@ -688,11 +673,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ιδου",
-          "strong": "G3708",
-          "morf": "V-2AMM-2S"
-        },
-        {
           "tekst": "ηνοιγη",
           "strong": "G455",
           "morf": "V-2API-3S"
@@ -773,6 +753,11 @@
           "morf": "N-NPM"
         },
         {
+          "tekst": "οι",
+          "strong": "G3588",
+          "morf": "T-NPM"
+        },
+        {
           "tekst": "εχοντες",
           "strong": "G2192",
           "morf": "V-PAP-NPM"
@@ -808,6 +793,16 @@
           "morf": "N-GSM"
         },
         {
+          "tekst": "οι",
+          "strong": "G3739",
+          "morf": "R-NPM"
+        },
+        {
+          "tekst": "ησαν",
+          "strong": "G1510",
+          "morf": "V-IAI-3P"
+        },
+        {
           "tekst": "ενδεδυμενοι",
           "strong": "G1746",
           "morf": "V-RMP-NPM"
@@ -821,11 +816,6 @@
           "tekst": "καθαρον",
           "strong": "G2513",
           "morf": "A-ASN"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "λαμπρον",
@@ -1088,9 +1078,9 @@
           "morf": "A-NSM-N"
         },
         {
-          "tekst": "ηδυνατο",
+          "tekst": "εδυνατο",
           "strong": "G1410",
-          "morf": "V-INI-3S-ATT"
+          "morf": "V-INI-3S"
         },
         {
           "tekst": "εισελθειν",

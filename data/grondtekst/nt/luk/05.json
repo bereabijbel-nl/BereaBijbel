@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -25,7 +25,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "τον",
@@ -50,7 +50,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ακουειν",
@@ -578,14 +578,14 @@
           "morf": "V-AAI-3P"
         },
         {
-          "tekst": "ιχθυων",
-          "strong": "G2486",
-          "morf": "N-GPM"
-        },
-        {
           "tekst": "πληθος",
           "strong": "G4128",
           "morf": "N-ASN"
+        },
+        {
+          "tekst": "ιχθυων",
+          "strong": "G2486",
+          "morf": "N-GPM"
         },
         {
           "tekst": "πολυ",
@@ -776,11 +776,6 @@
           "tekst": "γονασιν",
           "strong": "G1119",
           "morf": "N-DPN"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "ιησου",
@@ -1145,7 +1140,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ειναι",
@@ -1948,11 +1943,6 @@
           "morf": "V-2AAP-NPM"
         },
         {
-          "tekst": "δια",
-          "strong": "G1223",
-          "morf": "PREP"
-        },
-        {
           "tekst": "ποιας",
           "strong": "G4169",
           "morf": "I-GSF"
@@ -2633,9 +2623,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ω",
+          "tekst": "ο",
           "strong": "G3739",
-          "morf": "R-DSN"
+          "morf": "R-ASN"
         },
         {
           "tekst": "κατεκειτο",
@@ -2923,11 +2913,6 @@
           "morf": "A-ASF"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "λευις",
           "strong": "G3018",
           "morf": "N-NSM"
@@ -3101,6 +3086,11 @@
           "tekst": "μετα",
           "strong": "G3326",
           "morf": "PREP"
+        },
+        {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPM"
         },
         {
           "tekst": "τελωνων",
@@ -3731,11 +3721,6 @@
           "tekst": "συμφωνει",
           "strong": "G4856",
           "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "επιβλημα",
-          "strong": "G1915",
-          "morf": "N-NSN"
         },
         {
           "tekst": "το",

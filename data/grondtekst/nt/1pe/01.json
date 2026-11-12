@@ -2,7 +2,7 @@
   "boek": "1pe",
   "boeknummer": 60,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -263,9 +263,9 @@
           "morf": "V-AAP-NSM"
         },
         {
-          "tekst": "υμας",
-          "strong": "G4771",
-          "morf": "P-2AP"
+          "tekst": "ημας",
+          "strong": "G1473",
+          "morf": "P-1AP"
         },
         {
           "tekst": "εις",
@@ -373,9 +373,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ημας",
-          "strong": "G1473",
-          "morf": "P-1AP"
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
         }
       ]
     },
@@ -626,6 +626,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "εις",
+          "strong": "G1519",
+          "morf": "PREP"
         },
         {
           "tekst": "δοξαν",
@@ -1003,9 +1008,9 @@
           "morf": "F-3DPM"
         },
         {
-          "tekst": "ημιν",
-          "strong": "G1473",
-          "morf": "P-1DP"
+          "tekst": "υμιν",
+          "strong": "G4771",
+          "morf": "P-2DP"
         },
         {
           "tekst": "δε",
@@ -1373,9 +1378,9 @@
           "morf": "A-NPM"
         },
         {
-          "tekst": "γενεσθε",
+          "tekst": "γινεσθε",
           "strong": "G1096",
-          "morf": "V-2ADM-2P"
+          "morf": "V-PNM-2P"
         },
         {
           "tekst": "οτι",

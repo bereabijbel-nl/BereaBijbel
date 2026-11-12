@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 20,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -265,7 +265,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "υποστρεφειν",
@@ -413,8 +413,8 @@
           "morf": "D-NPM"
         },
         {
-          "tekst": "προελθοντες",
-          "strong": "G4281",
+          "tekst": "προσελθοντες",
+          "strong": "G4334",
           "morf": "V-2AAP-NPM"
         },
         {
@@ -528,7 +528,7 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -611,11 +611,6 @@
           "tekst": "μαθητων",
           "strong": "G3101",
           "morf": "N-GPM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "κλασαι",
@@ -743,9 +738,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ησαν",
+          "tekst": "ημεν",
           "strong": "G1510",
-          "morf": "V-IAI-3P"
+          "morf": "V-IAI-1P"
         },
         {
           "tekst": "συνηγμενοι",
@@ -1058,7 +1053,7 @@
           "morf": "V-AAP-NSM"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -1143,8 +1138,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "προελθοντες",
-          "strong": "G4281",
+          "tekst": "προσελθοντες",
+          "strong": "G4334",
           "morf": "V-2AAP-NPM"
         },
         {
@@ -1895,7 +1890,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -2040,11 +2035,6 @@
         {
           "tekst": "ιησουν",
           "strong": "G2424",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "χριστον",
-          "strong": "G5547",
           "morf": "N-ASM"
         }
       ]
@@ -2513,8 +2503,8 @@
       "vers": 26,
       "woorden": [
         {
-          "tekst": "διο",
-          "strong": "G1352",
+          "tekst": "διοτι",
+          "strong": "G1360",
           "morf": "CONJ"
         },
         {
@@ -2605,7 +2595,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -2751,6 +2741,16 @@
           "tekst": "του",
           "strong": "G3588",
           "morf": "T-GSM"
+        },
+        {
+          "tekst": "κυριου",
+          "strong": "G2962",
+          "morf": "N-GSM"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "θεου",
@@ -2930,7 +2930,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "αποσπαν",
@@ -3048,9 +3048,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "τανυν",
-          "strong": "G3569",
-          "morf": "ADV-C"
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
+        },
+        {
+          "tekst": "νυν",
+          "strong": "G3568",
+          "morf": "ADV"
         },
         {
           "tekst": "παρατιθεμαι",
@@ -3211,11 +3216,6 @@
           "tekst": "αυτοι",
           "strong": "G846",
           "morf": "P-NPM"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "γινωσκετε",
@@ -3403,14 +3403,14 @@
           "morf": "V-PAI-3S"
         },
         {
-          "tekst": "διδοναι",
-          "strong": "G1325",
-          "morf": "V-PAN"
-        },
-        {
           "tekst": "μαλλον",
           "strong": "G3123",
           "morf": "ADV"
+        },
+        {
+          "tekst": "διδοναι",
+          "strong": "G1325",
+          "morf": "V-PAN"
         },
         {
           "tekst": "η",

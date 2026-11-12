@@ -2,7 +2,7 @@
   "boek": "rev",
   "boeknummer": 66,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -36,26 +36,6 @@
           "tekst": "ραβδω",
           "strong": "G4464",
           "morf": "N-DSF"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "αγγελος",
-          "strong": "G32",
-          "morf": "N-NSM"
-        },
-        {
-          "tekst": "ειστηκει",
-          "strong": "G2476",
-          "morf": "V-LAI-3S"
         },
         {
           "tekst": "λεγων",
@@ -268,6 +248,11 @@
           "morf": "A-NUI"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "δυο",
           "strong": "G1417",
           "morf": "A-NUI"
@@ -383,6 +368,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "αι",
+          "strong": "G3588",
+          "morf": "T-NPF"
+        },
+        {
           "tekst": "δυο",
           "strong": "G1417",
           "morf": "A-NUI"
@@ -408,8 +398,8 @@
           "morf": "T-GSM"
         },
         {
-          "tekst": "θεου",
-          "strong": "G2316",
+          "tekst": "κυριου",
+          "strong": "G2962",
           "morf": "N-GSM"
         },
         {
@@ -453,9 +443,9 @@
           "morf": "P-APM"
         },
         {
-          "tekst": "θελη",
+          "tekst": "θελει",
           "strong": "G2309",
-          "morf": "V-PAS-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "αδικησαι",
@@ -533,14 +523,14 @@
           "morf": "X-NSM"
         },
         {
+          "tekst": "θελει",
+          "strong": "G2309",
+          "morf": "V-PAI-3S"
+        },
+        {
           "tekst": "αυτους",
           "strong": "G846",
           "morf": "P-APM"
-        },
-        {
-          "tekst": "θελη",
-          "strong": "G2309",
-          "morf": "V-PAS-3S"
         },
         {
           "tekst": "αδικησαι",
@@ -583,16 +573,6 @@
           "morf": "V-PAI-3P"
         },
         {
-          "tekst": "εξουσιαν",
-          "strong": "G1849",
-          "morf": "N-ASF"
-        },
-        {
-          "tekst": "κλεισαι",
-          "strong": "G2808",
-          "morf": "V-AAN"
-        },
-        {
           "tekst": "τον",
           "strong": "G3588",
           "morf": "T-ASM"
@@ -601,6 +581,16 @@
           "tekst": "ουρανον",
           "strong": "G3772",
           "morf": "N-ASM"
+        },
+        {
+          "tekst": "εξουσιαν",
+          "strong": "G1849",
+          "morf": "N-ASF"
+        },
+        {
+          "tekst": "κλεισαι",
+          "strong": "G2808",
+          "morf": "V-AAN"
         },
         {
           "tekst": "ινα",
@@ -613,29 +603,24 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "βρεχη",
-          "strong": "G1026",
-          "morf": "V-PAS-3S"
-        },
-        {
           "tekst": "υετος",
           "strong": "G5205",
           "morf": "N-NSM"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
+          "tekst": "βρεχη",
+          "strong": "G1026",
+          "morf": "V-PAS-3S"
         },
         {
-          "tekst": "ημεραις",
+          "tekst": "τας",
+          "strong": "G3588",
+          "morf": "T-APF"
+        },
+        {
+          "tekst": "ημερας",
           "strong": "G2250",
-          "morf": "N-DPF"
-        },
-        {
-          "tekst": "αυτων",
-          "strong": "G846",
-          "morf": "P-GPM"
+          "morf": "N-APF"
         },
         {
           "tekst": "της",
@@ -646,6 +631,11 @@
           "tekst": "προφητειας",
           "strong": "G4394",
           "morf": "N-GSF"
+        },
+        {
+          "tekst": "αυτων",
+          "strong": "G846",
+          "morf": "P-GPM"
         },
         {
           "tekst": "και",
@@ -718,16 +708,6 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "παση",
-          "strong": "G3956",
-          "morf": "A-DSF"
-        },
-        {
-          "tekst": "πληγη",
-          "strong": "G4127",
-          "morf": "N-DSF"
-        },
-        {
           "tekst": "οσακις",
           "strong": "G3740",
           "morf": "ADV"
@@ -741,6 +721,21 @@
           "tekst": "θελησωσιν",
           "strong": "G2309",
           "morf": "V-AAS-3P"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "παση",
+          "strong": "G3956",
+          "morf": "A-DSF"
+        },
+        {
+          "tekst": "πληγη",
+          "strong": "G4127",
+          "morf": "N-DSF"
         }
       ]
     },
@@ -818,11 +813,6 @@
           "morf": "V-FAI-3S"
         },
         {
-          "tekst": "πολεμον",
-          "strong": "G4171",
-          "morf": "N-ASM"
-        },
-        {
           "tekst": "μετ",
           "strong": "G3326",
           "morf": "PREP"
@@ -831,6 +821,11 @@
           "tekst": "αυτων",
           "strong": "G846",
           "morf": "P-GPM"
+        },
+        {
+          "tekst": "πολεμον",
+          "strong": "G4171",
+          "morf": "N-ASM"
         },
         {
           "tekst": "και",
@@ -873,14 +868,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "τα",
+          "tekst": "το",
           "strong": "G3588",
-          "morf": "T-NPN"
+          "morf": "T-NSN"
         },
         {
-          "tekst": "πτωματα",
+          "tekst": "πτωμα",
           "strong": "G4430",
-          "morf": "N-NPN"
+          "morf": "N-NSN"
         },
         {
           "tekst": "αυτων",
@@ -901,6 +896,11 @@
           "tekst": "πλατειας",
           "strong": "G4113",
           "morf": "N-GSF"
+        },
+        {
+          "tekst": "της",
+          "strong": "G3588",
+          "morf": "T-GSF"
         },
         {
           "tekst": "πολεως",
@@ -968,9 +968,9 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
+          "tekst": "αυτων",
+          "strong": "G846",
+          "morf": "P-GPM"
         },
         {
           "tekst": "εσταυρωθη",
@@ -988,9 +988,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "βλεψουσιν",
+          "tekst": "βλεπουσιν",
           "strong": "G991",
-          "morf": "V-FAI-3P"
+          "morf": "V-PAI-3P"
         },
         {
           "tekst": "εκ",
@@ -1038,14 +1038,14 @@
           "morf": "N-GPN"
         },
         {
-          "tekst": "τα",
+          "tekst": "το",
           "strong": "G3588",
-          "morf": "T-APN"
+          "morf": "T-ASN"
         },
         {
-          "tekst": "πτωματα",
+          "tekst": "πτωμα",
           "strong": "G4430",
-          "morf": "N-APN"
+          "morf": "N-ASN"
         },
         {
           "tekst": "αυτων",
@@ -1061,11 +1061,6 @@
           "tekst": "τρεις",
           "strong": "G5140",
           "morf": "A-APF"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "ημισυ",
@@ -1113,9 +1108,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "μνηματα",
+          "tekst": "μνημα",
           "strong": "G3418",
-          "morf": "N-APN"
+          "morf": "N-ASN"
         }
       ]
     },
@@ -1153,9 +1148,9 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "χαρουσιν",
+          "tekst": "χαιρουσιν",
           "strong": "G5463",
-          "morf": "V-FAI-3P"
+          "morf": "V-PAI-3P"
         },
         {
           "tekst": "επ",
@@ -1188,8 +1183,8 @@
           "morf": "N-APN"
         },
         {
-          "tekst": "πεμψουσιν",
-          "strong": "G3992",
+          "tekst": "δωσουσιν",
+          "strong": "G1325",
           "morf": "V-FAI-3P"
         },
         {
@@ -1323,8 +1318,8 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "επ",
-          "strong": "G1909",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {
@@ -1413,9 +1408,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ηκουσαν",
+          "tekst": "ηκουσα",
           "strong": "G191",
-          "morf": "V-AAI-3P"
+          "morf": "V-AAI-1S"
         },
         {
           "tekst": "φωνην",
@@ -1558,8 +1553,8 @@
           "morf": "T-DSF"
         },
         {
-          "tekst": "ωρα",
-          "strong": "G5610",
+          "tekst": "ημερα",
+          "strong": "G2250",
           "morf": "N-DSF"
         },
         {
@@ -1743,11 +1738,6 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "ιδου",
-          "strong": "G3708",
-          "morf": "V-2AMM-2S"
-        },
-        {
           "tekst": "η",
           "strong": "G3588",
           "morf": "T-NSF"
@@ -1766,6 +1756,11 @@
           "tekst": "τριτη",
           "strong": "G5154",
           "morf": "A-NSF"
+        },
+        {
+          "tekst": "ιδου",
+          "strong": "G3708",
+          "morf": "V-2AMM-2S"
         },
         {
           "tekst": "ερχεται",
@@ -1848,19 +1843,19 @@
           "morf": "V-PAP-NPF"
         },
         {
-          "tekst": "εγενοντο",
+          "tekst": "εγενετο",
           "strong": "G1096",
-          "morf": "V-2ADI-3P"
+          "morf": "V-2ADI-3S"
         },
         {
-          "tekst": "αι",
+          "tekst": "η",
           "strong": "G3588",
-          "morf": "T-NPF"
+          "morf": "T-NSF"
         },
         {
-          "tekst": "βασιλειαι",
+          "tekst": "βασιλεια",
           "strong": "G932",
-          "morf": "N-NPF"
+          "morf": "N-NSF"
         },
         {
           "tekst": "του",
@@ -1963,11 +1958,6 @@
           "morf": "A-NUI"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "τεσσαρες",
           "strong": "G5064",
           "morf": "A-NPM"
@@ -1986,6 +1976,16 @@
           "tekst": "ενωπιον",
           "strong": "G1799",
           "morf": "PREP"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "θρονου",
+          "strong": "G2362",
+          "morf": "N-GSM"
         },
         {
           "tekst": "του",
@@ -2023,7 +2023,7 @@
           "morf": "P-GPM"
         },
         {
-          "tekst": "επεσαν",
+          "tekst": "επεσον",
           "strong": "G4098",
           "morf": "V-2AAI-3P"
         },
@@ -2136,21 +2136,6 @@
           "tekst": "ην",
           "strong": "G1510",
           "morf": "V-IAI-3S"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "ερχομενος",
-          "strong": "G2064",
-          "morf": "V-PNP-NSM"
         },
         {
           "tekst": "οτι",
@@ -2503,9 +2488,14 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "κυριου",
+          "strong": "G2962",
+          "morf": "N-GSM"
         },
         {
           "tekst": "εν",
@@ -2561,16 +2551,6 @@
           "tekst": "βρονται",
           "strong": "G1027",
           "morf": "N-NPF"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "σεισμος",
-          "strong": "G4578",
-          "morf": "N-NSM"
         },
         {
           "tekst": "και",

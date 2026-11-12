@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -273,8 +273,13 @@
           "morf": "T-APN"
         },
         {
-          "tekst": "εννενηκονταεννεα",
+          "tekst": "ενενηκοντα",
           "strong": "G1768",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "εννεα",
+          "strong": "G1767",
           "morf": "A-NUI"
         },
         {
@@ -573,8 +578,13 @@
           "morf": "PREP"
         },
         {
-          "tekst": "εννενηκονταεννεα",
+          "tekst": "ενενηκοντα",
           "strong": "G1768",
+          "morf": "A-NUI"
+        },
+        {
+          "tekst": "εννεα",
+          "strong": "G1767",
           "morf": "A-NUI"
         },
         {
@@ -1703,9 +1713,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "εαυτου",
-          "strong": "G1438",
-          "morf": "F-3GSM"
+          "tekst": "αυτου",
+          "strong": "G846",
+          "morf": "P-GSM"
         },
         {
           "tekst": "ετι",

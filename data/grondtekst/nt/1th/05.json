@@ -2,7 +2,7 @@
   "boek": "1th",
   "boeknummer": 52,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -944,7 +944,7 @@
         },
         {
           "tekst": "εκπερισσου",
-          "strong": "G0",
+          "strong": "G4053",
           "morf": "ADV"
         },
         {
@@ -1326,6 +1326,11 @@
           "tekst": "παντα",
           "strong": "G3956",
           "morf": "A-APN"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "δοκιμαζετε",
@@ -1751,36 +1756,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "θεσσαλονικεις",
-          "strong": "G2331",
-          "morf": "N-APM"
-        },
-        {
-          "tekst": "πρωτη",
-          "strong": "G4413",
-          "morf": "A-NSF-S"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "αθηνων",
-          "strong": "G116",
-          "morf": "N-GPF"
         }
       ]
     }

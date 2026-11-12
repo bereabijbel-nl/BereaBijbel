@@ -2,7 +2,7 @@
   "boek": "php",
   "boeknummer": 50,
   "hoofdstuk": 4,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -143,9 +143,9 @@
       "vers": 3,
       "woorden": [
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
+          "tekst": "ναι",
+          "strong": "G3483",
+          "morf": "PRT"
         },
         {
           "tekst": "ερωτω",
@@ -998,8 +998,8 @@
           "morf": "V-RAI-1S"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
+          "tekst": "και",
+          "strong": "G2532",
           "morf": "CONJ"
         },
         {
@@ -1878,11 +1878,6 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
-        },
-        {
           "tekst": "ιησου",
           "strong": "G2424",
           "morf": "N-GSM"
@@ -1911,41 +1906,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "φιλιππησιους",
-          "strong": "G5374",
-          "morf": "N-APM"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ρωμης",
-          "strong": "G4516",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "δι",
-          "strong": "G1223",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "επαφροδιτου",
-          "strong": "G1891",
-          "morf": "N-GSM"
         }
       ]
     }

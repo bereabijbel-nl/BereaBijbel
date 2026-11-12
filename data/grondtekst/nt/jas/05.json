@@ -2,7 +2,7 @@
   "boek": "jas",
   "boeknummer": 59,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -608,19 +608,14 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτω",
+          "tekst": "αυτον",
           "strong": "G846",
-          "morf": "P-DSM"
+          "morf": "P-ASM"
         },
         {
           "tekst": "εως",
           "strong": "G2193",
           "morf": "ADV"
-        },
-        {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
         },
         {
           "tekst": "λαβη",
@@ -758,14 +753,19 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "κατακριθητε",
-          "strong": "G2632",
+          "tekst": "κριθητε",
+          "strong": "G2919",
           "morf": "V-APS-2P"
         },
         {
           "tekst": "ιδου",
           "strong": "G3708",
           "morf": "V-2AMM-2S"
+        },
+        {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
         },
         {
           "tekst": "κριτης",
@@ -808,16 +808,6 @@
           "morf": "V-2AAM-2P"
         },
         {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
-        },
-        {
-          "tekst": "κακοπαθειας",
-          "strong": "G2552",
-          "morf": "N-GSF"
-        },
-        {
           "tekst": "αδελφοι",
           "strong": "G80",
           "morf": "N-VPM"
@@ -826,6 +816,16 @@
           "tekst": "μου",
           "strong": "G1473",
           "morf": "P-1GS"
+        },
+        {
+          "tekst": "της",
+          "strong": "G3588",
+          "morf": "T-GSF"
+        },
+        {
+          "tekst": "κακοπαθειας",
+          "strong": "G2552",
+          "morf": "N-GSF"
         },
         {
           "tekst": "και",
@@ -943,9 +943,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "ειδετε",
+          "tekst": "ιδετε",
           "strong": "G3708",
-          "morf": "V-2AAI-2P"
+          "morf": "V-2AAM-2P"
         },
         {
           "tekst": "οτι",
@@ -961,16 +961,6 @@
           "tekst": "εστιν",
           "strong": "G1510",
           "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "κυριος",
-          "strong": "G2962",
-          "morf": "N-NSM"
         },
         {
           "tekst": "και",
@@ -1133,13 +1123,13 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "υπο",
-          "strong": "G5259",
+          "tekst": "εις",
+          "strong": "G1519",
           "morf": "PREP"
         },
         {
-          "tekst": "κρισιν",
-          "strong": "G2920",
+          "tekst": "υποκρισιν",
+          "strong": "G5272",
           "morf": "N-ASF"
         },
         {
@@ -1530,7 +1520,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",

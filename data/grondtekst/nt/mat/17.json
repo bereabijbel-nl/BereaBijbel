@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 17,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -213,9 +213,9 @@
           "morf": "P-GSM"
         },
         {
-          "tekst": "εγενετο",
+          "tekst": "εγενοντο",
           "strong": "G1096",
-          "morf": "V-2ADI-3S"
+          "morf": "V-2ADI-3P"
         },
         {
           "tekst": "λευκα",
@@ -783,8 +783,8 @@
           "morf": "P-GPM"
         },
         {
-          "tekst": "απο",
-          "strong": "G575",
+          "tekst": "εκ",
+          "strong": "G1537",
           "morf": "PREP"
         },
         {
@@ -1108,7 +1108,7 @@
           "morf": "P-ASM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -1303,9 +1303,9 @@
           "morf": "V-PAP-NSM"
         },
         {
-          "tekst": "αυτω",
+          "tekst": "αυτον",
           "strong": "G846",
-          "morf": "P-DSM"
+          "morf": "P-ASM"
         }
       ]
     },
@@ -2533,8 +2533,13 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "αραγε",
+          "tekst": "αρα",
           "strong": "G686",
+          "morf": "PRT"
+        },
+        {
+          "tekst": "γε",
+          "strong": "G1065",
           "morf": "PRT"
         },
         {
@@ -2628,9 +2633,9 @@
           "morf": "T-ASM"
         },
         {
-          "tekst": "αναβαντα",
+          "tekst": "αναβαινοντα",
           "strong": "G305",
-          "morf": "V-2AAP-ASM"
+          "morf": "V-PAP-ASM"
         },
         {
           "tekst": "πρωτον",

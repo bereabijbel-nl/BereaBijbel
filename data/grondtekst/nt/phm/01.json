@@ -2,7 +2,7 @@
   "boek": "phm",
   "boeknummer": 57,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -458,9 +458,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "υμιν",
-          "strong": "G4771",
-          "morf": "P-2DP"
+          "tekst": "ημιν",
+          "strong": "G1473",
+          "morf": "P-1DP"
         },
         {
           "tekst": "εις",
@@ -483,8 +483,8 @@
       "vers": 7,
       "woorden": [
         {
-          "tekst": "χαραν",
-          "strong": "G5479",
+          "tekst": "χαριν",
+          "strong": "G5485",
           "morf": "N-ASF"
         },
         {
@@ -1273,7 +1273,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εμε",
+          "tekst": "με",
           "strong": "G1473",
           "morf": "P-1AS"
         },
@@ -1810,7 +1810,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "πνευματος",
@@ -1826,46 +1826,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "φιλημονα",
-          "strong": "G5371",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ρωμης",
-          "strong": "G4516",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "δια",
-          "strong": "G1223",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ονησιμου",
-          "strong": "G3682",
-          "morf": "N-GSM"
-        },
-        {
-          "tekst": "οικετου",
-          "strong": "G3610",
-          "morf": "N-GSM"
         }
       ]
     }

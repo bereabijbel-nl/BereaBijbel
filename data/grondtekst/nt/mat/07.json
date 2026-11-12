@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -93,8 +93,8 @@
           "morf": "V-PAI-2P"
         },
         {
-          "tekst": "αντιμετρηθησεται",
-          "strong": "G488",
+          "tekst": "μετρηθησεται",
+          "strong": "G3354",
           "morf": "V-FPI-3S"
         },
         {
@@ -1223,9 +1223,9 @@
       "vers": 14,
       "woorden": [
         {
-          "tekst": "οτι",
-          "strong": "G3754",
-          "morf": "CONJ"
+          "tekst": "τι",
+          "strong": "G5101",
+          "morf": "I-NSN"
         },
         {
           "tekst": "στενη",
@@ -1698,8 +1698,13 @@
       "vers": 20,
       "woorden": [
         {
-          "tekst": "αραγε",
+          "tekst": "αρα",
           "strong": "G686",
+          "morf": "PRT"
+        },
+        {
+          "tekst": "γε",
+          "strong": "G1065",
           "morf": "PRT"
         },
         {

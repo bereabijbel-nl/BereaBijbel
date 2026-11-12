@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 4,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -173,14 +173,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "την",
+          "tekst": "των",
           "strong": "G3588",
-          "morf": "T-ASF"
-        },
-        {
-          "tekst": "εκ",
-          "strong": "G1537",
-          "morf": "PREP"
+          "morf": "T-GPM"
         },
         {
           "tekst": "νεκρων",
@@ -546,11 +541,6 @@
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSN"
         },
         {
           "tekst": "μεσω",
@@ -1078,21 +1068,6 @@
           "morf": "A-NSN"
         },
         {
-          "tekst": "υπο",
-          "strong": "G5259",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "ουρανον",
-          "strong": "G3772",
-          "morf": "N-ASM"
-        },
-        {
           "tekst": "το",
           "strong": "G3588",
           "morf": "T-NSN"
@@ -1373,9 +1348,9 @@
           "morf": "V-2AAN"
         },
         {
-          "tekst": "συνεβαλον",
+          "tekst": "συνεβαλλον",
           "strong": "G4820",
-          "morf": "V-2AAI-3P"
+          "morf": "V-IAI-3P"
         },
         {
           "tekst": "προς",
@@ -1563,9 +1538,9 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "απειλησωμεθα",
+          "tekst": "απειλησομεθα",
           "strong": "G546",
-          "morf": "V-AMS-1P"
+          "morf": "V-FMI-1P"
         },
         {
           "tekst": "αυτοις",
@@ -1918,9 +1893,9 @@
           "morf": "ADV-I"
         },
         {
-          "tekst": "κολασωνται",
+          "tekst": "κολασονται",
           "strong": "G2849",
-          "morf": "V-AMS-3P"
+          "morf": "V-FMI-3P"
         },
         {
           "tekst": "αυτους",
@@ -2328,14 +2303,9 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "παιδος",
@@ -2795,7 +2765,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "την",
@@ -3088,7 +3058,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ουδ",
+          "tekst": "ουδε",
           "strong": "G3761",
           "morf": "CONJ-N"
         },
@@ -3113,9 +3083,9 @@
           "morf": "V-PAP-GPN"
         },
         {
-          "tekst": "αυτω",
+          "tekst": "αυτων",
           "strong": "G846",
-          "morf": "P-DSM"
+          "morf": "P-GPM"
         },
         {
           "tekst": "ελεγεν",
@@ -3478,8 +3448,8 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "υπο",
-          "strong": "G5259",
+          "tekst": "απο",
+          "strong": "G575",
           "morf": "PREP"
         },
         {

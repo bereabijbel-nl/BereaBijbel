@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 22,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -493,14 +493,14 @@
       "vers": 7,
       "woorden": [
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "ακουσας",
           "strong": "G191",
           "morf": "V-AAP-NSM"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "ο",
@@ -511,6 +511,11 @@
           "tekst": "βασιλευς",
           "strong": "G935",
           "morf": "N-NSM"
+        },
+        {
+          "tekst": "εκεινος",
+          "strong": "G1565",
+          "morf": "D-NSM"
         },
         {
           "tekst": "ωργισθη",
@@ -2335,7 +2340,7 @@
         {
           "tekst": "πλανασθε",
           "strong": "G4105",
-          "morf": "V-PPM-2P"
+          "morf": "V-PPI-2P"
         },
         {
           "tekst": "μη",
@@ -2888,9 +2893,9 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "ειπεν",
-          "strong": "G3004",
-          "morf": "V-2AAI-3S"
+          "tekst": "εφη",
+          "strong": "G5346",
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "αυτω",
@@ -2933,11 +2938,6 @@
           "morf": "A-DSF"
         },
         {
-          "tekst": "τη",
-          "strong": "G3588",
-          "morf": "T-DSF"
-        },
-        {
           "tekst": "καρδια",
           "strong": "G2588",
           "morf": "N-DSF"
@@ -2961,11 +2961,6 @@
           "tekst": "ολη",
           "strong": "G3650",
           "morf": "A-DSF"
-        },
-        {
-          "tekst": "τη",
-          "strong": "G3588",
-          "morf": "T-DSF"
         },
         {
           "tekst": "ψυχη",
@@ -3278,7 +3273,7 @@
           "morf": "T-GSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         }
@@ -3308,7 +3303,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -3463,7 +3458,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },

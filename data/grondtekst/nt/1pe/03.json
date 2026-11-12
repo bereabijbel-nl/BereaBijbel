@@ -2,7 +2,7 @@
   "boek": "1pe",
   "boeknummer": 60,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -113,9 +113,9 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "κερδηθησωνται",
+          "tekst": "κερδηθησονται",
           "strong": "G2770",
-          "morf": "V-APS-3P"
+          "morf": "V-FPI-3P"
         }
       ]
     },
@@ -393,11 +393,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
           "tekst": "θεον",
           "strong": "G2316",
           "morf": "N-ASM"
@@ -633,8 +628,8 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "εκκοπτεσθαι",
-          "strong": "G1581",
+          "tekst": "εγκοπτεσθαι",
+          "strong": "G1465",
           "morf": "V-PPN"
         },
         {
@@ -905,7 +900,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "μη",
@@ -991,11 +986,6 @@
           "tekst": "οτι",
           "strong": "G3754",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "οι",
-          "strong": "G3588",
-          "morf": "T-NPM"
         },
         {
           "tekst": "οφθαλμοι",
@@ -1393,9 +1383,9 @@
           "morf": "R-DSN"
         },
         {
-          "tekst": "καταλαλωσιν",
+          "tekst": "καταλαλουσιν",
           "strong": "G2635",
-          "morf": "V-PAS-3P"
+          "morf": "V-PAI-3P"
         },
         {
           "tekst": "υμων",
@@ -1483,9 +1473,9 @@
           "morf": "COND"
         },
         {
-          "tekst": "θελει",
+          "tekst": "θελοι",
           "strong": "G2309",
-          "morf": "V-PAI-3S"
+          "morf": "V-PAO-3S"
         },
         {
           "tekst": "το",
@@ -1583,9 +1573,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ημας",
-          "strong": "G1473",
-          "morf": "P-1AP"
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
         },
         {
           "tekst": "προσαγαγη",
@@ -1626,11 +1616,6 @@
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSN"
         },
         {
           "tekst": "πνευματι",
@@ -1708,13 +1693,8 @@
           "morf": "ADV"
         },
         {
-          "tekst": "απαξ",
-          "strong": "G530",
-          "morf": "ADV"
-        },
-        {
-          "tekst": "εξεδεχετο",
-          "strong": "G1551",
+          "tekst": "απεξεδεχετο",
+          "strong": "G553",
           "morf": "V-INI-3S"
         },
         {
@@ -1823,16 +1803,6 @@
           "morf": "R-NSN"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ημας",
-          "strong": "G1473",
-          "morf": "P-1AP"
-        },
-        {
           "tekst": "αντιτυπον",
           "strong": "G499",
           "morf": "A-NSN"
@@ -1841,6 +1811,16 @@
           "tekst": "νυν",
           "strong": "G3568",
           "morf": "ADV"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "ημας",
+          "strong": "G1473",
+          "morf": "P-1AP"
         },
         {
           "tekst": "σωζει",

@@ -2,7 +2,7 @@
   "boek": "php",
   "boeknummer": 50,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -83,9 +83,9 @@
           "morf": "COND"
         },
         {
-          "tekst": "τινα",
+          "tekst": "τις",
           "strong": "G5100",
-          "morf": "X-NPN"
+          "morf": "X-NSM"
         },
         {
           "tekst": "σπλαγχνα",
@@ -1573,11 +1573,6 @@
           "morf": "T-APN"
         },
         {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
           "tekst": "χριστου",
           "strong": "G5547",
           "morf": "N-GSM"
@@ -1988,7 +1983,7 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -2029,8 +2024,8 @@
         },
         {
           "tekst": "μονον",
-          "strong": "G3440",
-          "morf": "ADV"
+          "strong": "G3441",
+          "morf": "A-ASM"
         },
         {
           "tekst": "αλλα",
@@ -2068,9 +2063,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "λυπη",
+          "tekst": "λυπην",
           "strong": "G3077",
-          "morf": "N-DSF"
+          "morf": "N-ASF"
         },
         {
           "tekst": "σχω",

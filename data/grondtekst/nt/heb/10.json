@@ -2,7 +2,7 @@
   "boek": "heb",
   "boeknummer": 58,
   "hoofdstuk": 10,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -133,9 +133,9 @@
           "morf": "ADV-N"
         },
         {
-          "tekst": "δυναται",
+          "tekst": "δυνανται",
           "strong": "G1410",
-          "morf": "V-PNI-3S"
+          "morf": "V-PNI-3P"
         },
         {
           "tekst": "τους",
@@ -161,6 +161,11 @@
           "tekst": "επει",
           "strong": "G1893",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "ουκ",
+          "strong": "G3756",
+          "morf": "PRT-N"
         },
         {
           "tekst": "αν",
@@ -490,7 +495,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ποιησαι",
@@ -655,7 +660,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ποιησαι",
@@ -753,6 +758,11 @@
           "morf": "V-PAI-1P"
         },
         {
+          "tekst": "οι",
+          "strong": "G3588",
+          "morf": "T-NPM"
+        },
+        {
           "tekst": "δια",
           "strong": "G1223",
           "morf": "PREP"
@@ -776,11 +786,6 @@
           "tekst": "σωματος",
           "strong": "G4983",
           "morf": "N-GSN"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "ιησου",
@@ -2068,7 +2073,7 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "μωσεως",
+          "tekst": "μωυσεως",
           "strong": "G3475",
           "morf": "N-GSM"
         },
@@ -2611,11 +2616,6 @@
           "tekst": "εχειν",
           "strong": "G2192",
           "morf": "V-PAN"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
         },
         {
           "tekst": "εαυτοις",

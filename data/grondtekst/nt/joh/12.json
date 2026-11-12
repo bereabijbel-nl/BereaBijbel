@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 12,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -188,9 +188,14 @@
           "morf": "T-GPM"
         },
         {
-          "tekst": "συνανακειμενων",
-          "strong": "G4873",
+          "tekst": "ανακειμενων",
+          "strong": "G345",
           "morf": "V-PNP-GPM"
+        },
+        {
+          "tekst": "συν",
+          "strong": "G4862",
+          "morf": "PREP"
         },
         {
           "tekst": "αυτω",
@@ -1073,11 +1078,6 @@
           "morf": "V-PNI-3S"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιησους",
           "strong": "G2424",
           "morf": "N-NSM"
@@ -1191,11 +1191,6 @@
           "tekst": "κυριου",
           "strong": "G2962",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "βασιλευς",
@@ -1408,11 +1403,6 @@
           "morf": "V-API-3S"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιησους",
           "strong": "G2424",
           "morf": "N-NSM"
@@ -1523,9 +1513,9 @@
           "morf": "P-GSM"
         },
         {
-          "tekst": "οτι",
-          "strong": "G3754",
-          "morf": "CONJ"
+          "tekst": "οτε",
+          "strong": "G3753",
+          "morf": "ADV"
         },
         {
           "tekst": "τον",
@@ -1719,7 +1709,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -2733,11 +2723,6 @@
           "morf": "V-ADI-3S"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ιησους",
           "strong": "G2424",
           "morf": "N-NSM"
@@ -2968,9 +2953,9 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "ημελλεν",
+          "tekst": "εμελλεν",
           "strong": "G3195",
-          "morf": "V-IAI-3S-ATT"
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "αποθνησκειν",
@@ -3081,11 +3066,6 @@
           "tekst": "λεγεις",
           "strong": "G3004",
           "morf": "V-PAI-2S"
-        },
-        {
-          "tekst": "οτι",
-          "strong": "G3754",
-          "morf": "CONJ"
         },
         {
           "tekst": "δει",

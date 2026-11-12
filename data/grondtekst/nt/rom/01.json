@@ -2,7 +2,7 @@
   "boek": "rom",
   "boeknummer": 45,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -153,7 +153,7 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -768,9 +768,14 @@
           "morf": "V-PNP-NSM"
         },
         {
-          "tekst": "ειπως",
-          "strong": "G1513",
+          "tekst": "ει",
+          "strong": "G1487",
           "morf": "COND"
+        },
+        {
+          "tekst": "πως",
+          "strong": "G4459",
+          "morf": "ADV-I"
         },
         {
           "tekst": "ηδη",
@@ -1078,14 +1083,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "καρπον",
-          "strong": "G2590",
-          "morf": "N-ASM"
-        },
-        {
           "tekst": "τινα",
           "strong": "G5100",
           "morf": "X-ASM"
+        },
+        {
+          "tekst": "καρπον",
+          "strong": "G2590",
+          "morf": "N-ASM"
         },
         {
           "tekst": "σχω",
@@ -2060,7 +2065,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ατιμαζεσθαι",
@@ -2363,7 +2368,7 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "αρσενες",
+          "tekst": "αρρενες",
           "strong": "G730",
           "morf": "A-NPM"
         },

@@ -2,7 +2,7 @@
   "boek": "1jo",
   "boeknummer": 62,
   "hoofdstuk": 4,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -128,9 +128,9 @@
           "morf": "D-DSN"
         },
         {
-          "tekst": "γινωσκετε",
+          "tekst": "γινωσκεται",
           "strong": "G1097",
-          "morf": "V-PAI-2P"
+          "morf": "V-PPI-3S"
         },
         {
           "tekst": "το",
@@ -251,11 +251,6 @@
           "tekst": "ομολογει",
           "strong": "G3670",
           "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
         },
         {
           "tekst": "ιησουν",
@@ -1801,6 +1796,11 @@
           "tekst": "αυτω",
           "strong": "G846",
           "morf": "P-DSM"
+        },
+        {
+          "tekst": "μενει",
+          "strong": "G3306",
+          "morf": "V-PAI-3S"
         }
       ]
     },

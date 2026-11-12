@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 9,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -378,9 +378,9 @@
           "morf": "V-RPI-3P"
         },
         {
-          "tekst": "σοι",
+          "tekst": "σου",
           "strong": "G4771",
-          "morf": "P-2DS"
+          "morf": "P-2GS"
         },
         {
           "tekst": "αι",
@@ -1183,7 +1183,7 @@
           "morf": "A-APM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -1733,9 +1733,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αμφοτερα",
+          "tekst": "αμφοτεροι",
           "strong": "G297",
-          "morf": "A-APN"
+          "morf": "A-NPM"
         },
         {
           "tekst": "συντηρουνται",
@@ -1776,6 +1776,11 @@
           "tekst": "αρχων",
           "strong": "G758",
           "morf": "N-NSM"
+        },
+        {
+          "tekst": "εις",
+          "strong": "G1520",
+          "morf": "A-NSM"
         },
         {
           "tekst": "ελθων",
@@ -2558,7 +2563,7 @@
           "morf": "N-VSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         }
@@ -2993,11 +2998,6 @@
           "morf": "V-PAP-NPM"
         },
         {
-          "tekst": "οτι",
-          "strong": "G3754",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ουδεποτε",
           "strong": "G3763",
           "morf": "ADV-N"
@@ -3303,8 +3303,8 @@
           "morf": "V-IAI-3P"
         },
         {
-          "tekst": "εκλελυμενοι",
-          "strong": "G1590",
+          "tekst": "εσκυλμενοι",
+          "strong": "G4660",
           "morf": "V-RPP-NPM"
         },
         {

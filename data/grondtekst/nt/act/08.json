@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 8,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -118,9 +118,9 @@
           "morf": "A-NPM"
         },
         {
-          "tekst": "τε",
-          "strong": "G5037",
-          "morf": "PRT"
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "διεσπαρησαν",
@@ -500,7 +500,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ακουειν",
@@ -583,14 +583,14 @@
           "morf": "V-PAP-NPN"
         },
         {
-          "tekst": "μεγαλη",
-          "strong": "G3173",
-          "morf": "A-DSF"
-        },
-        {
           "tekst": "φωνη",
           "strong": "G5456",
           "morf": "N-DSF"
+        },
+        {
+          "tekst": "μεγαλη",
+          "strong": "G3173",
+          "morf": "A-DSF"
         },
         {
           "tekst": "εξηρχετο",
@@ -798,11 +798,6 @@
           "morf": "V-IAI-3P"
         },
         {
-          "tekst": "παντες",
-          "strong": "G3956",
-          "morf": "A-NPM"
-        },
-        {
           "tekst": "απο",
           "strong": "G575",
           "morf": "PREP"
@@ -1008,11 +1003,6 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
           "tekst": "ιησου",
           "strong": "G2424",
           "morf": "N-GSM"
@@ -1123,9 +1113,9 @@
           "morf": "PRT"
         },
         {
-          "tekst": "σημεια",
-          "strong": "G4592",
-          "morf": "N-APN"
+          "tekst": "δυναμεις",
+          "strong": "G1411",
+          "morf": "N-APF"
         },
         {
           "tekst": "και",
@@ -1133,19 +1123,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "δυναμεις",
-          "strong": "G1411",
-          "morf": "N-APF"
+          "tekst": "σημεια",
+          "strong": "G4592",
+          "morf": "N-APN"
         },
         {
-          "tekst": "μεγαλας",
-          "strong": "G3173",
-          "morf": "A-APF"
-        },
-        {
-          "tekst": "γινομενας",
+          "tekst": "γινομενα",
           "strong": "G1096",
-          "morf": "V-PNP-APF"
+          "morf": "V-PNP-APN"
         },
         {
           "tekst": "εξιστατο",
@@ -1393,8 +1378,8 @@
           "morf": "T-GSM"
         },
         {
-          "tekst": "κυριου",
-          "strong": "G2962",
+          "tekst": "χριστου",
+          "strong": "G5547",
           "morf": "N-GSM"
         },
         {
@@ -1929,8 +1914,8 @@
         },
         {
           "tekst": "αρα",
-          "strong": "G686",
-          "morf": "PRT"
+          "strong": "G687",
+          "morf": "PRT-I"
         },
         {
           "tekst": "αφεθησεται",
@@ -3380,126 +3365,6 @@
       ]
     },
     {
-      "vers": 37,
-      "woorden": [
-        {
-          "tekst": "ειπεν",
-          "strong": "G3004",
-          "morf": "V-2AAI-3S"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
-          "tekst": "φιλιππος",
-          "strong": "G5376",
-          "morf": "N-NSM"
-        },
-        {
-          "tekst": "ει",
-          "strong": "G1487",
-          "morf": "COND"
-        },
-        {
-          "tekst": "πιστευεις",
-          "strong": "G4100",
-          "morf": "V-PAI-2S"
-        },
-        {
-          "tekst": "εξ",
-          "strong": "G1537",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ολης",
-          "strong": "G3650",
-          "morf": "A-GSF"
-        },
-        {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
-        },
-        {
-          "tekst": "καρδιας",
-          "strong": "G2588",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "εξεστιν",
-          "strong": "G1832",
-          "morf": "V-PAI-3S"
-        },
-        {
-          "tekst": "αποκριθεις",
-          "strong": "G611",
-          "morf": "V-AOP-NSM"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "ειπεν",
-          "strong": "G3004",
-          "morf": "V-2AAI-3S"
-        },
-        {
-          "tekst": "πιστευω",
-          "strong": "G4100",
-          "morf": "V-PAI-1S"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "υιον",
-          "strong": "G5207",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
-          "tekst": "θεου",
-          "strong": "G2316",
-          "morf": "N-GSM"
-        },
-        {
-          "tekst": "ειναι",
-          "strong": "G1510",
-          "morf": "V-PAN"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "ιησουν",
-          "strong": "G2424",
-          "morf": "N-ASM"
-        },
-        {
-          "tekst": "χριστον",
-          "strong": "G5547",
-          "morf": "N-ASM"
-        }
-      ]
-    },
-    {
       "vers": 38,
       "woorden": [
         {
@@ -3795,7 +3660,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ελθειν",

@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 26,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -303,14 +303,14 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "κρατησωσιν",
-          "strong": "G2902",
-          "morf": "V-AAS-3P"
-        },
-        {
           "tekst": "δολω",
           "strong": "G1388",
           "morf": "N-DSM"
+        },
+        {
+          "tekst": "κρατησωσιν",
+          "strong": "G2902",
+          "morf": "V-AAS-3P"
         },
         {
           "tekst": "και",
@@ -1258,9 +1258,9 @@
           "morf": "V-PAI-2S"
         },
         {
-          "tekst": "ετοιμασωμεν",
+          "tekst": "ετοιμασομεν",
           "strong": "G2090",
-          "morf": "V-AAS-1P"
+          "morf": "V-FAI-1P"
         },
         {
           "tekst": "σοι",
@@ -2058,8 +2058,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ευλογησας",
-          "strong": "G2127",
+          "tekst": "ευχαριστησας",
+          "strong": "G2168",
           "morf": "V-AAP-NSM"
         },
         {
@@ -2723,11 +2723,6 @@
           "morf": "COND"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "παντες",
           "strong": "G3956",
           "morf": "A-NPM"
@@ -2751,6 +2746,11 @@
           "tekst": "εγω",
           "strong": "G1473",
           "morf": "P-1NS"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "ουδεποτε",
@@ -2928,14 +2928,19 @@
           "morf": "P-2AS"
         },
         {
-          "tekst": "απαρνησομαι",
+          "tekst": "απαρνησωμαι",
           "strong": "G533",
-          "morf": "V-FDI-1S"
+          "morf": "V-ADS-1S"
         },
         {
           "tekst": "ομοιως",
           "strong": "G3668",
           "morf": "ADV"
+        },
+        {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "και",
@@ -3163,6 +3168,16 @@
           "morf": "P-DPM"
         },
         {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
+        },
+        {
+          "tekst": "ιησους",
+          "strong": "G2424",
+          "morf": "N-NSM"
+        },
+        {
           "tekst": "περιλυπος",
           "strong": "G4036",
           "morf": "A-NSF"
@@ -3238,8 +3253,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "προελθων",
-          "strong": "G4281",
+          "tekst": "προσελθων",
+          "strong": "G4334",
           "morf": "V-2AAP-NSM"
         },
         {
@@ -4618,9 +4633,9 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "απολουνται",
-          "strong": "G622",
-          "morf": "V-FMI-3P"
+          "tekst": "αποθανουνται",
+          "strong": "G599",
+          "morf": "V-FDI-3P"
         }
       ]
     },
@@ -5313,14 +5328,14 @@
           "morf": "ADV"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
-        },
-        {
           "tekst": "θανατωσωσιν",
           "strong": "G2289",
           "morf": "V-AAS-3P"
+        },
+        {
+          "tekst": "αυτον",
+          "strong": "G846",
+          "morf": "P-ASM"
         }
       ]
     },
@@ -5919,7 +5934,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -6253,6 +6268,11 @@
           "morf": "PREP"
         },
         {
+          "tekst": "αυτων",
+          "strong": "G846",
+          "morf": "P-GPM"
+        },
+        {
           "tekst": "παντων",
           "strong": "G3956",
           "morf": "A-GPM"
@@ -6343,9 +6363,9 @@
           "morf": "V-PAI-3S"
         },
         {
-          "tekst": "τοις",
-          "strong": "G3588",
-          "morf": "T-DPM"
+          "tekst": "αυτοις",
+          "strong": "G846",
+          "morf": "P-DPM"
         },
         {
           "tekst": "εκει",
@@ -6578,7 +6598,7 @@
           "morf": "V-AMI-3S"
         },
         {
-          "tekst": "καταναθεματιζειν",
+          "tekst": "καταθεματιζειν",
           "strong": "G2653",
           "morf": "V-PAN"
         },

@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 14,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -373,9 +373,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "διερμηνευη",
+          "tekst": "διερμηνευει",
           "strong": "G1329",
-          "morf": "V-PAS-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "ινα",
@@ -623,9 +623,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "δω",
+          "tekst": "διδω",
           "strong": "G1325",
-          "morf": "V-2AAS-3S"
+          "morf": "V-PAS-3S"
         },
         {
           "tekst": "πως",
@@ -1271,6 +1271,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "τω",
+          "strong": "G3588",
+          "morf": "T-DSM"
         },
         {
           "tekst": "νοι",
@@ -2358,9 +2363,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "γενεσθω",
+          "tekst": "γινεσθω",
           "strong": "G1096",
-          "morf": "V-2ADM-3S"
+          "morf": "V-PNM-3S"
         }
       ]
     },
@@ -2415,7 +2420,7 @@
         {
           "tekst": "τρεις",
           "strong": "G5140",
-          "morf": "A-NPM"
+          "morf": "A-APM"
         },
         {
           "tekst": "και",
@@ -2753,7 +2758,7 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -3126,11 +3131,6 @@
           "tekst": "οτι",
           "strong": "G3754",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "κυριου",

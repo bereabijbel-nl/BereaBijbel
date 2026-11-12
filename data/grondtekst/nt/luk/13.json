@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 13,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -558,14 +558,14 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "καρπον",
-          "strong": "G2590",
-          "morf": "N-ASM"
-        },
-        {
           "tekst": "ζητων",
           "strong": "G2212",
           "morf": "V-PAP-NSM"
+        },
+        {
+          "tekst": "καρπον",
+          "strong": "G2590",
+          "morf": "N-ASM"
         },
         {
           "tekst": "εν",
@@ -829,7 +829,7 @@
         },
         {
           "tekst": "κοπρια",
-          "strong": "G0",
+          "strong": "G2874",
           "morf": "N-APN"
         }
       ]
@@ -1408,9 +1408,9 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "υποκριτα",
+          "tekst": "υποκριται",
           "strong": "G5273",
-          "morf": "N-VSM"
+          "morf": "N-VPM"
         },
         {
           "tekst": "εκαστος",
@@ -1843,9 +1843,9 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "ο",
+          "tekst": "ον",
           "strong": "G3739",
-          "morf": "R-ASN"
+          "morf": "R-ASM"
         },
         {
           "tekst": "λαβων",
@@ -1967,11 +1967,6 @@
     {
       "vers": 20,
       "woorden": [
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
         {
           "tekst": "παλιν",
           "strong": "G3825",
@@ -2833,11 +2828,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
           "tekst": "βορρα",
           "strong": "G1005",
           "morf": "N-GSM"
@@ -3273,7 +3263,7 @@
           "morf": "T-NSF"
         },
         {
-          "tekst": "αποκτεινουσα",
+          "tekst": "αποκτενουσα",
           "strong": "G615",
           "morf": "V-PAP-NSF"
         },
@@ -3448,19 +3438,14 @@
           "morf": "A-NSM"
         },
         {
-          "tekst": "αμην",
-          "strong": "G281",
-          "morf": "HEB"
+          "tekst": "λεγω",
+          "strong": "G3004",
+          "morf": "V-PAI-1S"
         },
         {
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "λεγω",
-          "strong": "G3004",
-          "morf": "V-PAI-1S"
         },
         {
           "tekst": "υμιν",
@@ -3503,9 +3488,9 @@
           "morf": "PRT"
         },
         {
-          "tekst": "ηξη",
+          "tekst": "ηξει",
           "strong": "G2240",
-          "morf": "V-AAS-3S"
+          "morf": "V-FAI-3S"
         },
         {
           "tekst": "οτε",

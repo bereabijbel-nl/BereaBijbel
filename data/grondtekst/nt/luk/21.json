@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 21,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -83,14 +83,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "τινα",
           "strong": "G5100",
           "morf": "X-ASF"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "χηραν",
@@ -973,8 +973,8 @@
           "morf": "D-GPN"
         },
         {
-          "tekst": "απαντων",
-          "strong": "G537",
+          "tekst": "παντων",
+          "strong": "G3956",
           "morf": "A-GPN"
         },
         {
@@ -1293,16 +1293,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αδελφων",
-          "strong": "G80",
-          "morf": "N-GPM"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "συγγενων",
           "strong": "G4773",
           "morf": "A-GPM"
@@ -1316,6 +1306,16 @@
           "tekst": "φιλων",
           "strong": "G5384",
           "morf": "A-GPM"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "αδελφων",
+          "strong": "G80",
+          "morf": "N-GPM"
         },
         {
           "tekst": "και",
@@ -1720,11 +1720,11 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
-          "tekst": "πληρωθηναι",
-          "strong": "G4137",
+          "tekst": "πλησθηναι",
+          "strong": "G4130",
           "morf": "V-APN"
         },
         {
@@ -2718,8 +2718,8 @@
           "morf": "ADV-N"
         },
         {
-          "tekst": "βαρυνθωσιν",
-          "strong": "G925",
+          "tekst": "βαρηθωσιν",
+          "strong": "G916",
           "morf": "V-APS-3P"
         },
         {
@@ -2931,11 +2931,6 @@
           "tekst": "εκφυγειν",
           "strong": "G1628",
           "morf": "V-2AAN"
-        },
-        {
-          "tekst": "ταυτα",
-          "strong": "G3778",
-          "morf": "D-APN"
         },
         {
           "tekst": "παντα",

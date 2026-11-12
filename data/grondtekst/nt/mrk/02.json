@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -13,14 +13,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "παλιν",
-          "strong": "G3825",
-          "morf": "ADV"
-        },
-        {
           "tekst": "εισηλθεν",
           "strong": "G1525",
           "morf": "V-2AAI-3S"
+        },
+        {
+          "tekst": "παλιν",
+          "strong": "G3825",
+          "morf": "ADV"
         },
         {
           "tekst": "εις",
@@ -618,6 +618,11 @@
           "morf": "ADV"
         },
         {
+          "tekst": "αυτοι",
+          "strong": "G846",
+          "morf": "P-NPM"
+        },
+        {
           "tekst": "διαλογιζονται",
           "strong": "G1260",
           "morf": "V-PNI-3P"
@@ -718,9 +723,9 @@
           "morf": "V-RPI-3P"
         },
         {
-          "tekst": "σοι",
+          "tekst": "σου",
           "strong": "G4771",
-          "morf": "P-2DS"
+          "morf": "P-2GS"
         },
         {
           "tekst": "αι",
@@ -1173,9 +1178,9 @@
           "morf": "V-2AAI-3S"
         },
         {
-          "tekst": "λευιν",
+          "tekst": "λευι",
           "strong": "G3018",
-          "morf": "N-ASM"
+          "morf": "N-PRI"
         },
         {
           "tekst": "τον",
@@ -1280,7 +1285,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "κατακεισθαι",
@@ -2499,7 +2504,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -2588,7 +2593,7 @@
           "morf": "V-AAI-3S"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -2691,11 +2696,6 @@
           "tekst": "αβιαθαρ",
           "strong": "G8",
           "morf": "N-PRI"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "αρχιερεως",

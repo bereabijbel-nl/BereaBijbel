@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -443,6 +443,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
+        },
+        {
           "tekst": "ιωαννης",
           "strong": "G2491",
           "morf": "N-NSM"
@@ -753,7 +758,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ναζαρεθ",
+          "tekst": "ναζαρετ",
           "strong": "G3478",
           "morf": "N-PRI"
         },
@@ -1418,6 +1423,16 @@
           "morf": "P-GSM"
         },
         {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "σιμωνος",
+          "strong": "G4613",
+          "morf": "N-GSM"
+        },
+        {
           "tekst": "βαλλοντας",
           "strong": "G906",
           "morf": "V-PAP-APM"
@@ -1846,6 +1861,11 @@
           "tekst": "εις",
           "strong": "G1519",
           "morf": "PREP"
+        },
+        {
+          "tekst": "την",
+          "strong": "G3588",
+          "morf": "T-ASF"
         },
         {
           "tekst": "συναγωγην",
@@ -2288,9 +2308,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτους",
-          "strong": "G846",
-          "morf": "P-APM"
+          "tekst": "εαυτους",
+          "strong": "G1438",
+          "morf": "F-3APM"
         },
         {
           "tekst": "λεγοντας",
@@ -3118,14 +3138,14 @@
           "morf": "A-NPM"
         },
         {
-          "tekst": "ζητουσιν",
-          "strong": "G2212",
-          "morf": "V-PAI-3P"
-        },
-        {
           "tekst": "σε",
           "strong": "G4771",
           "morf": "P-2AS"
+        },
+        {
+          "tekst": "ζητουσιν",
+          "strong": "G2212",
+          "morf": "V-PAI-3P"
         }
       ]
     },
@@ -3178,9 +3198,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "κακει",
-          "strong": "G2546",
-          "morf": "ADV-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκει",
+          "strong": "G1563",
+          "morf": "ADV"
         },
         {
           "tekst": "κηρυξω",

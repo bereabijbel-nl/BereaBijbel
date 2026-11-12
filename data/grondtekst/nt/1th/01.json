@@ -2,7 +2,7 @@
   "boek": "1th",
   "boeknummer": 52,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -808,6 +808,16 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "τη",
+          "strong": "G3588",
+          "morf": "T-DSF"
+        },
+        {
           "tekst": "αχαια",
           "strong": "G882",
           "morf": "N-DSF"
@@ -953,9 +963,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "εχομεν",
+          "tekst": "εσχομεν",
           "strong": "G2192",
-          "morf": "V-PAI-1P"
+          "morf": "V-2AAI-1P"
         },
         {
           "tekst": "προς",
@@ -1096,6 +1106,11 @@
           "tekst": "εκ",
           "strong": "G1537",
           "morf": "PREP"
+        },
+        {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPM"
         },
         {
           "tekst": "νεκρων",

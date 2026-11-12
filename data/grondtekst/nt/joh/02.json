@@ -2,7 +2,7 @@
   "boek": "joh",
   "boeknummer": 43,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1563,9 +1563,9 @@
           "morf": "P-2GS"
         },
         {
-          "tekst": "κατεφαγεν",
+          "tekst": "καταφαγεται",
           "strong": "G2719",
-          "morf": "V-2AAI-3S"
+          "morf": "V-FDI-3S"
         },
         {
           "tekst": "με",
@@ -1656,11 +1656,6 @@
           "tekst": "απεκριθη",
           "strong": "G611",
           "morf": "V-ADI-3S"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "ιησους",
@@ -1948,11 +1943,6 @@
           "morf": "V-IAI-3S"
         },
         {
-          "tekst": "αυτοις",
-          "strong": "G846",
-          "morf": "P-DPM"
-        },
-        {
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
@@ -2031,6 +2021,11 @@
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
+        },
+        {
+          "tekst": "τοις",
+          "strong": "G3588",
+          "morf": "T-DPN"
         },
         {
           "tekst": "ιεροσολυμοις",

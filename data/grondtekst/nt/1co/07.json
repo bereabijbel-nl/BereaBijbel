@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -363,14 +363,9 @@
           "morf": "COND"
         },
         {
-          "tekst": "μη",
-          "strong": "G3361",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "τι",
-          "strong": "G5100",
-          "morf": "X-NSN"
+          "tekst": "μητι",
+          "strong": "G3385",
+          "morf": "PRT-I"
         },
         {
           "tekst": "αν",
@@ -458,9 +453,9 @@
           "morf": "P-ASN"
         },
         {
-          "tekst": "συνερχεσθε",
+          "tekst": "συνερχησθε",
           "strong": "G4905",
-          "morf": "V-PNI-2P"
+          "morf": "V-PNS-2P"
         },
         {
           "tekst": "ινα",
@@ -1039,7 +1034,7 @@
         },
         {
           "tekst": "αυτη",
-          "strong": "G3778",
+          "strong": "G846",
           "morf": "P-NSF"
         },
         {
@@ -2048,11 +2043,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
           "tekst": "θεω",
           "strong": "G2316",
           "morf": "N-DSM"
@@ -2438,11 +2428,6 @@
           "morf": "N-VPM"
         },
         {
-          "tekst": "οτι",
-          "strong": "G3754",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ο",
           "strong": "G3588",
           "morf": "T-NSM"
@@ -2481,6 +2466,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "οι",
+          "strong": "G3588",
+          "morf": "T-NPM"
         },
         {
           "tekst": "εχοντες",
@@ -2841,6 +2831,11 @@
           "tekst": "μεμερισται",
           "strong": "G3307",
           "morf": "V-RPI-3S"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "η",
@@ -3345,7 +3340,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "τηρειν",
@@ -3508,6 +3503,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "κοιμηθη",
           "strong": "G2837",
           "morf": "V-APS-3S"
@@ -3521,11 +3521,6 @@
           "tekst": "ανηρ",
           "strong": "G435",
           "morf": "N-NSM"
-        },
-        {
-          "tekst": "αυτης",
-          "strong": "G846",
-          "morf": "P-GSF"
         },
         {
           "tekst": "ελευθερα",

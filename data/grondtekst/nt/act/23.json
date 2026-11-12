@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 23,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -673,21 +673,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "των",
-          "strong": "G3588",
-          "morf": "T-GPM"
-        },
-        {
-          "tekst": "σαδδουκαιων",
-          "strong": "G4523",
-          "morf": "N-GPM"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "εσχισθη",
           "strong": "G4977",
           "morf": "V-API-3S"
@@ -1028,9 +1013,14 @@
           "morf": "N-ASN"
         },
         {
-          "tekst": "καταβαν",
+          "tekst": "καταβηναι",
           "strong": "G2597",
-          "morf": "V-2AAP-ASN"
+          "morf": "V-2AAN"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "αρπασαι",
@@ -1600,7 +1590,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "εγγισαι",
@@ -1625,7 +1615,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ανελειν",
@@ -1678,14 +1668,14 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "την",
+          "tekst": "το",
           "strong": "G3588",
-          "morf": "T-ASF"
+          "morf": "T-ASN"
         },
         {
-          "tekst": "ενεδραν",
-          "strong": "G1747",
-          "morf": "N-ASF"
+          "tekst": "ενεδρον",
+          "strong": "G1749",
+          "morf": "N-ASN"
         },
         {
           "tekst": "παραγενομενος",
@@ -2110,7 +2100,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "ερωτησαι",
@@ -2168,9 +2158,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "μελλοντες",
+          "tekst": "μελλοντα",
           "strong": "G3195",
-          "morf": "V-PAP-NPM"
+          "morf": "V-PAP-NPN"
         },
         {
           "tekst": "τι",
@@ -2963,11 +2953,6 @@
           "morf": "A-ASN-N"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "αξιον",
           "strong": "G514",
           "morf": "A-ASN"
@@ -3546,11 +3531,6 @@
           "tekst": "πραιτωριω",
           "strong": "G4232",
           "morf": "N-DSN"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "ηρωδου",

@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 21,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -48,7 +48,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "βηθφαγη",
+          "tekst": "βηθσφαγη",
           "strong": "G967",
           "morf": "N-PRI"
         },
@@ -298,9 +298,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "αποστελει",
+          "tekst": "αποστελλει",
           "strong": "G649",
-          "morf": "V-FAI-3S"
+          "morf": "V-PAI-3S"
         },
         {
           "tekst": "αυτους",
@@ -608,9 +608,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "επεκαθισαν",
+          "tekst": "επεκαθισεν",
           "strong": "G1940",
-          "morf": "V-AAI-3P"
+          "morf": "V-AAI-3S"
         },
         {
           "tekst": "επανω",
@@ -813,7 +813,7 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -998,7 +998,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ναζαρεθ",
+          "tekst": "ναζαρετ",
           "strong": "G3478",
           "morf": "N-PRI"
         },
@@ -1283,8 +1283,8 @@
           "morf": "P-DSM"
         },
         {
-          "tekst": "τυφλοι",
-          "strong": "G5185",
+          "tekst": "χωλοι",
+          "strong": "G5560",
           "morf": "A-NPM"
         },
         {
@@ -1293,8 +1293,8 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "χωλοι",
-          "strong": "G5560",
+          "tekst": "τυφλοι",
+          "strong": "G5185",
           "morf": "A-NPM"
         },
         {
@@ -1448,7 +1448,7 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -2118,9 +2118,9 @@
           "morf": "K-APN"
         },
         {
-          "tekst": "αν",
-          "strong": "G302",
-          "morf": "PRT"
+          "tekst": "εαν",
+          "strong": "G1437",
+          "morf": "COND"
         },
         {
           "tekst": "αιτησητε",
@@ -3305,7 +3305,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "πιστευσαι",
@@ -4048,7 +4048,7 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "εκδοσεται",
+          "tekst": "εκδωσεται",
           "strong": "G1554",
           "morf": "V-FDI-3S"
         },

@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 16,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -51,16 +51,6 @@
           "tekst": "μαρια",
           "strong": "G3137",
           "morf": "N-NSF"
-        },
-        {
-          "tekst": "η",
-          "strong": "G3588",
-          "morf": "T-NSF"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "ιακωβου",
@@ -484,7 +474,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -636,11 +626,6 @@
           "tekst": "εξελθουσαι",
           "strong": "G1831",
           "morf": "V-2AAP-NPF"
-        },
-        {
-          "tekst": "ταχυ",
-          "strong": "G5035",
-          "morf": "ADV"
         },
         {
           "tekst": "εφυγον",
@@ -1388,9 +1373,9 @@
           "morf": "P-APM"
         },
         {
-          "tekst": "βλαψει",
+          "tekst": "βλαψη",
           "strong": "G984",
-          "morf": "V-FAI-3S"
+          "morf": "V-AAS-3S"
         },
         {
           "tekst": "επι",
@@ -1606,6 +1591,11 @@
           "tekst": "σημειων",
           "strong": "G4592",
           "morf": "N-GPN"
+        },
+        {
+          "tekst": "αμην",
+          "strong": "G281",
+          "morf": "HEB"
         }
       ]
     }

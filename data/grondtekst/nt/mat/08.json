@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 8,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -358,14 +358,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
-        },
-        {
-          "tekst": "ιησου",
-          "strong": "G2424",
-          "morf": "N-DSM"
+          "tekst": "αυτω",
+          "strong": "G846",
+          "morf": "P-DSM"
         },
         {
           "tekst": "εις",
@@ -618,9 +613,9 @@
           "morf": "V-2AAM-2S"
         },
         {
-          "tekst": "λογον",
+          "tekst": "λογω",
           "strong": "G3056",
-          "morf": "N-ASM"
+          "morf": "N-DSM"
         },
         {
           "tekst": "και",
@@ -750,7 +745,7 @@
         {
           "tekst": "ερχου",
           "strong": "G2064",
-          "morf": "V-PNI-2S"
+          "morf": "V-PNM-2S"
         },
         {
           "tekst": "και",
@@ -1158,7 +1153,7 @@
           "morf": "T-DSM"
         },
         {
-          "tekst": "εκατονταρχω",
+          "tekst": "εκατονταρχη",
           "strong": "G1543",
           "morf": "N-DSM"
         },
@@ -1393,9 +1388,9 @@
           "morf": "V-IAI-3S"
         },
         {
-          "tekst": "αυτοις",
+          "tekst": "αυτω",
           "strong": "G846",
-          "morf": "P-DPM"
+          "morf": "P-DSM"
         }
       ]
     },
@@ -2206,11 +2201,6 @@
           "tekst": "μαθηται",
           "strong": "G3101",
           "morf": "N-NPM"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
         },
         {
           "tekst": "ηγειραν",

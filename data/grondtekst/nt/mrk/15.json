@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 15,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -324,7 +324,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {
@@ -1243,9 +1243,14 @@
           "morf": "V-PAM-2S"
         },
         {
-          "tekst": "βασιλευ",
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
+        },
+        {
+          "tekst": "βασιλευς",
           "strong": "G935",
-          "morf": "N-VSM"
+          "morf": "N-NSM"
         },
         {
           "tekst": "των",
@@ -1683,9 +1688,9 @@
           "morf": "P-ASM"
         },
         {
-          "tekst": "διεμεριζον",
+          "tekst": "διαμεριζονται",
           "strong": "G1266",
-          "morf": "V-IAI-3P"
+          "morf": "V-PMI-3P"
         },
         {
           "tekst": "τα",
@@ -2133,11 +2138,6 @@
           "morf": "ADV"
         },
         {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
@@ -2298,6 +2298,11 @@
           "morf": "V-AAS-1P"
         },
         {
+          "tekst": "αυτω",
+          "strong": "G846",
+          "morf": "P-DSM"
+        },
+        {
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
@@ -2393,7 +2398,7 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "εννατης",
+          "tekst": "ενατης",
           "strong": "G1766",
           "morf": "A-GSF"
         }
@@ -2423,7 +2428,7 @@
           "morf": "T-DSF"
         },
         {
-          "tekst": "εννατη",
+          "tekst": "ενατη",
           "strong": "G1766",
           "morf": "A-DSF"
         },
@@ -2468,7 +2473,7 @@
           "morf": "ARAM"
         },
         {
-          "tekst": "λαμμα",
+          "tekst": "λιμα",
           "strong": "G2982",
           "morf": "ARAM"
         },

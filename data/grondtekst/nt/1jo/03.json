@@ -2,7 +2,7 @@
   "boek": "1jo",
   "boeknummer": 62,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -93,9 +93,9 @@
           "morf": "V-PAI-3S"
         },
         {
-          "tekst": "ημας",
-          "strong": "G1473",
-          "morf": "P-1AP"
+          "tekst": "υμας",
+          "strong": "G4771",
+          "morf": "P-2AP"
         },
         {
           "tekst": "οτι",
@@ -1543,9 +1543,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "αυτω",
-          "strong": "G846",
-          "morf": "P-DSM"
+          "tekst": "εαυτω",
+          "strong": "G1438",
+          "morf": "F-3DSM"
         },
         {
           "tekst": "μενουσαν",
@@ -1858,6 +1858,11 @@
           "morf": "CONJ-N"
         },
         {
+          "tekst": "τη",
+          "strong": "G3588",
+          "morf": "T-DSF"
+        },
+        {
           "tekst": "γλωσση",
           "strong": "G1100",
           "morf": "N-DSF"
@@ -1866,6 +1871,11 @@
           "tekst": "αλλ",
           "strong": "G235",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "εργω",
@@ -2331,11 +2341,6 @@
           "tekst": "εντολην",
           "strong": "G1785",
           "morf": "N-ASF"
-        },
-        {
-          "tekst": "ημιν",
-          "strong": "G1473",
-          "morf": "P-1DP"
         }
       ]
     },

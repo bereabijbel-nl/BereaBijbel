@@ -2,7 +2,7 @@
   "boek": "tit",
   "boeknummer": 56,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -58,7 +58,7 @@
           "morf": "N-APM"
         },
         {
-          "tekst": "νηφαλιους",
+          "tekst": "νηφαλεους",
           "strong": "G3524",
           "morf": "A-APM"
         },
@@ -391,6 +391,11 @@
           "tekst": "σεμνοτητα",
           "strong": "G4587",
           "morf": "N-ASF"
+        },
+        {
+          "tekst": "αφθαρσιαν",
+          "strong": "G861",
+          "morf": "N-ASF"
         }
       ]
     },
@@ -453,9 +458,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "υμων",
-          "strong": "G4771",
-          "morf": "P-2GP"
+          "tekst": "ημων",
+          "strong": "G1473",
+          "morf": "P-1GP"
         },
         {
           "tekst": "λεγειν",

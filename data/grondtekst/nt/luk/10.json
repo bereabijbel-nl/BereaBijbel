@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 10,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -238,9 +238,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "εκβαλλη",
+          "tekst": "εκβαλη",
           "strong": "G1544",
-          "morf": "V-PAS-3S"
+          "morf": "V-2AAS-3S"
         },
         {
           "tekst": "εργατας",
@@ -473,11 +473,6 @@
           "morf": "COND"
         },
         {
-          "tekst": "μεν",
-          "strong": "G3303",
-          "morf": "PRT"
-        },
-        {
           "tekst": "η",
           "strong": "G1510",
           "morf": "V-PAS-3S"
@@ -486,11 +481,6 @@
           "tekst": "εκει",
           "strong": "G1563",
           "morf": "ADV"
-        },
-        {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
         },
         {
           "tekst": "υιος",
@@ -716,11 +706,6 @@
           "tekst": "ην",
           "strong": "G3739",
           "morf": "R-ASF"
-        },
-        {
-          "tekst": "δ",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "αν",
@@ -1071,11 +1056,6 @@
           "tekst": "λεγω",
           "strong": "G3004",
           "morf": "V-PAI-1S"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "υμιν",
@@ -1690,7 +1670,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "πατειν",
@@ -1778,9 +1758,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "αδικησει",
+          "tekst": "αδικηση",
           "strong": "G91",
-          "morf": "V-FAI-3S"
+          "morf": "V-AAS-3S"
         }
       ]
     },
@@ -1846,11 +1826,6 @@
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "μαλλον",
-          "strong": "G3123",
-          "morf": "ADV"
         },
         {
           "tekst": "οτι",
@@ -2103,19 +2078,49 @@
       "vers": 22,
       "woorden": [
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "στραφεις",
+          "strong": "G4762",
+          "morf": "V-2APP-NSM"
+        },
+        {
+          "tekst": "προς",
+          "strong": "G4314",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "τους",
+          "strong": "G3588",
+          "morf": "T-APM"
+        },
+        {
+          "tekst": "μαθητας",
+          "strong": "G3101",
+          "morf": "N-APM"
+        },
+        {
+          "tekst": "ειπεν",
+          "strong": "G3004",
+          "morf": "V-2AAI-3S"
+        },
+        {
           "tekst": "παντα",
           "strong": "G3956",
           "morf": "A-NPN"
         },
         {
-          "tekst": "παρεδοθη",
-          "strong": "G3860",
-          "morf": "V-API-3S"
-        },
-        {
           "tekst": "μοι",
           "strong": "G1473",
           "morf": "P-1DS"
+        },
+        {
+          "tekst": "παρεδοθη",
+          "strong": "G3860",
+          "morf": "V-API-3S"
         },
         {
           "tekst": "υπο",
@@ -3520,7 +3525,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "επανερχεσθαι",
@@ -3573,6 +3578,11 @@
           "morf": "A-GPM"
         },
         {
+          "tekst": "πλησιον",
+          "strong": "G4139",
+          "morf": "ADV"
+        },
+        {
           "tekst": "δοκει",
           "strong": "G1380",
           "morf": "V-PAI-3S"
@@ -3581,11 +3591,6 @@
           "tekst": "σοι",
           "strong": "G4771",
           "morf": "P-2DS"
-        },
-        {
-          "tekst": "πλησιον",
-          "strong": "G4139",
-          "morf": "ADV"
         },
         {
           "tekst": "γεγονεναι",
@@ -3740,7 +3745,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "πορευεσθαι",
@@ -4038,9 +4043,9 @@
           "morf": "P-1AS"
         },
         {
-          "tekst": "κατελιπεν",
+          "tekst": "κατελειπεν",
           "strong": "G2641",
-          "morf": "V-2AAI-3S"
+          "morf": "V-IAI-3S"
         },
         {
           "tekst": "διακονειν",

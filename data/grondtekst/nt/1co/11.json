@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1156,11 +1156,6 @@
           "tekst": "δεδοται",
           "strong": "G1325",
           "morf": "V-RPI-3S"
-        },
-        {
-          "tekst": "αυτη",
-          "strong": "G846",
-          "morf": "P-DSF"
         }
       ]
     },
@@ -1361,11 +1356,6 @@
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
-        },
-        {
-          "tekst": "τη",
-          "strong": "G3588",
-          "morf": "T-DSF"
         },
         {
           "tekst": "εκκλησια",
@@ -1595,7 +1585,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "φαγειν",
@@ -2253,7 +2243,7 @@
           "morf": "V-PAI-2P"
         },
         {
-          "tekst": "αχρις",
+          "tekst": "αχρι",
           "strong": "G891",
           "morf": "ADV"
         },
@@ -2348,6 +2338,16 @@
           "morf": "ADV"
         },
         {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSM"
+        },
+        {
+          "tekst": "κυριου",
+          "strong": "G2962",
+          "morf": "N-GSM"
+        },
+        {
           "tekst": "ενοχος",
           "strong": "G1777",
           "morf": "A-NSM"
@@ -2371,6 +2371,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "του",
+          "strong": "G3588",
+          "morf": "T-GSN"
         },
         {
           "tekst": "αιματος",

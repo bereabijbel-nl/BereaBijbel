@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 24,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -210,11 +210,6 @@
         {
           "tekst": "ου",
           "strong": "G3756",
-          "morf": "PRT-N"
-        },
-        {
-          "tekst": "μη",
-          "strong": "G3361",
           "morf": "PRT-N"
         },
         {
@@ -823,6 +818,11 @@
           "morf": "A-GPN"
         },
         {
+          "tekst": "των",
+          "strong": "G3588",
+          "morf": "T-GPN"
+        },
+        {
           "tekst": "εθνων",
           "strong": "G1484",
           "morf": "N-GPN"
@@ -1225,7 +1225,7 @@
         {
           "tekst": "εστως",
           "strong": "G2476",
-          "morf": "V-RAP-ASN"
+          "morf": "V-RAP-NSM"
         },
         {
           "tekst": "εν",
@@ -1348,9 +1348,9 @@
           "morf": "V-AAN"
         },
         {
-          "tekst": "τι",
-          "strong": "G5100",
-          "morf": "X-ASN"
+          "tekst": "τα",
+          "strong": "G3588",
+          "morf": "T-APN"
         },
         {
           "tekst": "εκ",
@@ -1561,11 +1561,6 @@
           "tekst": "μηδε",
           "strong": "G3366",
           "morf": "CONJ-N"
-        },
-        {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
         },
         {
           "tekst": "σαββατω",
@@ -2838,14 +2833,14 @@
           "morf": "V-2AAS-2P"
         },
         {
-          "tekst": "παντα",
-          "strong": "G3956",
-          "morf": "A-APN"
-        },
-        {
           "tekst": "ταυτα",
           "strong": "G3778",
           "morf": "D-APN"
+        },
+        {
+          "tekst": "παντα",
+          "strong": "G3956",
+          "morf": "A-APN"
         },
         {
           "tekst": "γινωσκετε",
@@ -2888,9 +2883,9 @@
           "morf": "HEB"
         },
         {
-          "tekst": "λεγων",
+          "tekst": "λεγω",
           "strong": "G3004",
-          "morf": "V-PAP-NSM"
+          "morf": "V-PAI-1S"
         },
         {
           "tekst": "υμιν",
@@ -3056,11 +3051,6 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
-        },
-        {
-          "tekst": "της",
-          "strong": "G3588",
-          "morf": "T-GSF"
         },
         {
           "tekst": "ωρας",
@@ -3920,7 +3910,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "διδοναι",

@@ -2,7 +2,7 @@
   "boek": "2co",
   "boeknummer": 47,
   "hoofdstuk": 2,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -43,11 +43,6 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ελθειν",
-          "strong": "G2064",
-          "morf": "V-2AAN"
-        },
-        {
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
@@ -66,6 +61,11 @@
           "tekst": "υμας",
           "strong": "G4771",
           "morf": "P-2AP"
+        },
+        {
+          "tekst": "ελθειν",
+          "strong": "G2064",
+          "morf": "V-2AAN"
         }
       ]
     },
@@ -463,7 +463,7 @@
           "morf": "V-RAI-3S"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -1040,7 +1040,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "μη",
@@ -1418,8 +1418,8 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "πολλοι",
-          "strong": "G4183",
+          "tekst": "λοιποι",
+          "strong": "G3062",
           "morf": "A-NPM"
         },
         {

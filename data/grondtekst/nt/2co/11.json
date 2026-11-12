@@ -2,7 +2,7 @@
   "boek": "2co",
   "boeknummer": 47,
   "hoofdstuk": 11,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -13,9 +13,9 @@
           "morf": "V-2AAI-1S"
         },
         {
-          "tekst": "ηνειχεσθε",
+          "tekst": "ανειχεσθε",
           "strong": "G430",
-          "morf": "V-PNI-2P"
+          "morf": "V-INI-2P"
         },
         {
           "tekst": "μου",
@@ -28,19 +28,14 @@
           "morf": "A-ASN"
         },
         {
-          "tekst": "τι",
-          "strong": "G5100",
-          "morf": "X-ASN"
-        },
-        {
-          "tekst": "της",
+          "tekst": "τη",
           "strong": "G3588",
-          "morf": "T-GSF"
+          "morf": "T-DSF"
         },
         {
-          "tekst": "αφροσυνης",
+          "tekst": "αφροσυνη",
           "strong": "G877",
-          "morf": "N-GSF"
+          "morf": "N-DSF"
         },
         {
           "tekst": "αλλα",
@@ -1383,6 +1378,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "καγω",
+          "strong": "G2504",
+          "morf": "P-1NS-K"
+        },
+        {
           "tekst": "μικρον",
           "strong": "G3398",
           "morf": "A-ASN"
@@ -1391,11 +1391,6 @@
           "tekst": "τι",
           "strong": "G5100",
           "morf": "X-ASN"
-        },
-        {
-          "tekst": "καγω",
-          "strong": "G2504",
-          "morf": "P-1NS-K"
         },
         {
           "tekst": "καυχησωμαι",
@@ -1983,7 +1978,7 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ερραβδισθην",
+          "tekst": "εραβδισθην",
           "strong": "G4463",
           "morf": "V-API-1S"
         },
@@ -2466,11 +2461,6 @@
           "tekst": "κυριου",
           "strong": "G2962",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
         },
         {
           "tekst": "ιησου",

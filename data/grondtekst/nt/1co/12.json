@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 12,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -66,6 +66,11 @@
           "tekst": "οτι",
           "strong": "G3754",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "οτε",
+          "strong": "G3753",
+          "morf": "ADV"
         },
         {
           "tekst": "εθνη",
@@ -1643,6 +1648,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "ο",
+          "strong": "G3588",
+          "morf": "T-NSM"
+        },
+        {
           "tekst": "οφθαλμος",
           "strong": "G3788",
           "morf": "N-NSM"
@@ -1818,7 +1828,7 @@
           "morf": "V-PAI-1P"
         },
         {
-          "tekst": "ατιμωτερα",
+          "tekst": "ατιμοτερα",
           "strong": "G820",
           "morf": "A-APN-C"
         },
@@ -2008,9 +2018,9 @@
           "morf": "V-PAS-3S"
         },
         {
-          "tekst": "σχισμα",
+          "tekst": "σχισματα",
           "strong": "G4978",
-          "morf": "N-NSN"
+          "morf": "N-NPN"
         },
         {
           "tekst": "εν",

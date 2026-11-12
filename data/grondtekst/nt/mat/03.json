@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -678,14 +678,14 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "καρπους",
+          "tekst": "καρπον",
           "strong": "G2590",
-          "morf": "N-APM"
+          "morf": "N-ASM"
         },
         {
-          "tekst": "αξιους",
+          "tekst": "αξιον",
           "strong": "G514",
-          "morf": "A-APM"
+          "morf": "A-ASM"
         },
         {
           "tekst": "της",
@@ -1096,16 +1096,6 @@
           "tekst": "αγιω",
           "strong": "G40",
           "morf": "A-DSN"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "πυρι",
-          "strong": "G4442",
-          "morf": "N-DSN"
         }
       ]
     },
@@ -1315,7 +1305,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "βαπτισθηναι",

@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 10,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -373,11 +373,6 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "ισκαριωτης",
           "strong": "G2469",
           "morf": "N-NSM"
@@ -643,16 +638,6 @@
           "morf": "V-PAM-2P"
         },
         {
-          "tekst": "νεκρους",
-          "strong": "G3498",
-          "morf": "A-APM"
-        },
-        {
-          "tekst": "εγειρετε",
-          "strong": "G1453",
-          "morf": "V-PAM-2P"
-        },
-        {
           "tekst": "δαιμονια",
           "strong": "G1140",
           "morf": "N-APN"
@@ -798,9 +783,9 @@
           "morf": "CONJ-N"
         },
         {
-          "tekst": "ραβδον",
+          "tekst": "ραβδους",
           "strong": "G4464",
-          "morf": "N-ASF"
+          "morf": "N-APF"
         },
         {
           "tekst": "αξιος",
@@ -2298,9 +2283,9 @@
           "morf": "T-APM"
         },
         {
-          "tekst": "οικιακους",
+          "tekst": "οικειακους",
           "strong": "G3615",
-          "morf": "N-APM"
+          "morf": "A-APM"
         },
         {
           "tekst": "αυτου",
@@ -2513,9 +2498,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "φοβηθητε",
+          "tekst": "φοβεισθε",
           "strong": "G5399",
-          "morf": "V-AOM-2P"
+          "morf": "V-PNM-2P"
         },
         {
           "tekst": "απο",
@@ -2528,7 +2513,7 @@
           "morf": "T-GPM"
         },
         {
-          "tekst": "αποκτεινοντων",
+          "tekst": "αποκτενοντων",
           "strong": "G615",
           "morf": "V-PAP-GPM"
         },
@@ -2603,6 +2588,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "την",
+          "strong": "G3588",
+          "morf": "T-ASF"
+        },
+        {
           "tekst": "ψυχην",
           "strong": "G5590",
           "morf": "N-ASF"
@@ -2611,6 +2601,11 @@
           "tekst": "και",
           "strong": "G2532",
           "morf": "CONJ"
+        },
+        {
+          "tekst": "το",
+          "strong": "G3588",
+          "morf": "T-ASN"
         },
         {
           "tekst": "σωμα",
@@ -3238,9 +3233,9 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "οικιακοι",
+          "tekst": "οικειακοι",
           "strong": "G3615",
-          "morf": "N-NPM"
+          "morf": "A-NPM"
         },
         {
           "tekst": "αυτου",

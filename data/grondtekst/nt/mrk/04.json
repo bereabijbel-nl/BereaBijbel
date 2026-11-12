@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 4,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -280,7 +280,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "σπειραι",
@@ -310,7 +310,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "σπειρειν",
@@ -366,16 +366,6 @@
           "tekst": "πετεινα",
           "strong": "G4071",
           "morf": "N-NPN"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
-        },
-        {
-          "tekst": "ουρανου",
-          "strong": "G3772",
-          "morf": "N-GSM"
         },
         {
           "tekst": "και",
@@ -734,8 +724,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "τριακοντα",
@@ -749,8 +739,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "εξηκοντα",
@@ -764,8 +754,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "εκατον",
@@ -786,11 +776,6 @@
           "tekst": "ελεγεν",
           "strong": "G3004",
           "morf": "V-IAI-3S"
-        },
-        {
-          "tekst": "αυτοις",
-          "strong": "G846",
-          "morf": "P-DPM"
         },
         {
           "tekst": "ο",
@@ -1598,16 +1583,6 @@
           "morf": "V-PPP-NPM"
         },
         {
-          "tekst": "ουτοι",
-          "strong": "G3778",
-          "morf": "D-NPM"
-        },
-        {
-          "tekst": "εισιν",
-          "strong": "G1510",
-          "morf": "V-PAI-3P"
-        },
-        {
           "tekst": "οι",
           "strong": "G3588",
           "morf": "T-NPM"
@@ -1849,8 +1824,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "τριακοντα",
@@ -1864,8 +1839,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "εξηκοντα",
@@ -1879,8 +1854,8 @@
         },
         {
           "tekst": "εν",
-          "strong": "G1520",
-          "morf": "A-NSN"
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "εκατον",
@@ -2718,9 +2693,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "κοκκω",
+          "tekst": "κοκκον",
           "strong": "G2848",
-          "morf": "N-DSM"
+          "morf": "N-ASM"
         },
         {
           "tekst": "σιναπεως",
@@ -2983,9 +2958,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "ηδυναντο",
+          "tekst": "εδυναντο",
           "strong": "G1410",
-          "morf": "V-INI-3P-ATT"
+          "morf": "V-INI-3P"
         },
         {
           "tekst": "ακουειν",

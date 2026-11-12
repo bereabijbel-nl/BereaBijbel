@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 19,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -25,7 +25,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "τον",
@@ -1548,9 +1548,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "κατακυριευσας",
+          "tekst": "κατακυριευσαν",
           "strong": "G2634",
-          "morf": "V-AAP-NSM"
+          "morf": "V-AAP-NSN"
         },
         {
           "tekst": "αυτων",
@@ -2723,14 +2723,14 @@
           "morf": "N-GSF"
         },
         {
-          "tekst": "αρτεμιδος",
-          "strong": "G735",
-          "morf": "N-GSF"
-        },
-        {
           "tekst": "ιερον",
           "strong": "G2411",
           "morf": "N-ASN"
+        },
+        {
+          "tekst": "αρτεμιδος",
+          "strong": "G735",
+          "morf": "N-GSF"
         },
         {
           "tekst": "εις",
@@ -2738,7 +2738,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "ουδεν",
+          "tekst": "ουθεν",
           "strong": "G3762",
           "morf": "A-ASN-N"
         },
@@ -2753,9 +2753,9 @@
           "morf": "V-PAN"
         },
         {
-          "tekst": "τε",
-          "strong": "G5037",
-          "morf": "PRT"
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
         },
         {
           "tekst": "και",
@@ -2918,6 +2918,11 @@
           "morf": "A-NSF"
         },
         {
+          "tekst": "της",
+          "strong": "G3588",
+          "morf": "T-GSF"
+        },
+        {
           "tekst": "συγχυσεως",
           "strong": "G4799",
           "morf": "N-GSF"
@@ -2981,11 +2986,6 @@
           "tekst": "συνεκδημους",
           "strong": "G4898",
           "morf": "N-APM"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "παυλου",
@@ -3293,9 +3293,9 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "προβαλλοντων",
+          "tekst": "προβαλοντων",
           "strong": "G4261",
-          "morf": "V-PAP-GPM"
+          "morf": "V-2AAP-GPM"
         },
         {
           "tekst": "αυτον",
@@ -3368,9 +3368,9 @@
       "vers": 34,
       "woorden": [
         {
-          "tekst": "επιγνοντων",
+          "tekst": "επιγνοντες",
           "strong": "G1921",
-          "morf": "V-2AAP-GPM"
+          "morf": "V-2AAP-NPM"
         },
         {
           "tekst": "δε",
@@ -3673,7 +3673,7 @@
           "morf": "A-ASN"
         },
         {
-          "tekst": "πραττειν",
+          "tekst": "πρασσειν",
           "strong": "G4238",
           "morf": "V-PAN"
         }
@@ -3733,8 +3733,8 @@
           "morf": "T-ASF"
         },
         {
-          "tekst": "θεαν",
-          "strong": "G2299",
+          "tekst": "θεον",
+          "strong": "G2316",
           "morf": "N-ASF"
         },
         {
@@ -3793,6 +3793,11 @@
           "morf": "N-NPM"
         },
         {
+          "tekst": "εχουσιν",
+          "strong": "G2192",
+          "morf": "V-PAI-3P"
+        },
+        {
           "tekst": "προς",
           "strong": "G4314",
           "morf": "PREP"
@@ -3806,11 +3811,6 @@
           "tekst": "λογον",
           "strong": "G3056",
           "morf": "N-ASM"
-        },
-        {
-          "tekst": "εχουσιν",
-          "strong": "G2192",
-          "morf": "V-PAI-3P"
         },
         {
           "tekst": "αγοραιοι",
@@ -3978,13 +3978,18 @@
           "morf": "R-GSN"
         },
         {
+          "tekst": "ου",
+          "strong": "G3756",
+          "morf": "PRT-N"
+        },
+        {
           "tekst": "δυνησομεθα",
           "strong": "G1410",
           "morf": "V-FDI-1P"
         },
         {
-          "tekst": "αποδουναι",
-          "strong": "G591",
+          "tekst": "δουναι",
+          "strong": "G1325",
           "morf": "V-2AAN"
         },
         {

@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1623,7 +1623,7 @@
           "morf": "A-NUI"
         },
         {
-          "tekst": "εικοσιν",
+          "tekst": "εικοσι",
           "strong": "G1501",
           "morf": "A-NUI"
         }
@@ -1708,7 +1708,7 @@
           "morf": "N-GSN"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -1856,11 +1856,6 @@
           "tekst": "εκ",
           "strong": "G1537",
           "morf": "PREP"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSM"
         },
         {
           "tekst": "μισθου",
@@ -2483,6 +2478,16 @@
           "morf": "V-AAM-2S"
         },
         {
+          "tekst": "ον",
+          "strong": "G3739",
+          "morf": "R-ASM"
+        },
+        {
+          "tekst": "εξελεξω",
+          "strong": "G1586",
+          "morf": "V-AMI-2S"
+        },
+        {
           "tekst": "εκ",
           "strong": "G1537",
           "morf": "PREP"
@@ -2506,16 +2511,6 @@
           "tekst": "ενα",
           "strong": "G1520",
           "morf": "A-ASM"
-        },
-        {
-          "tekst": "ον",
-          "strong": "G3739",
-          "morf": "R-ASM"
-        },
-        {
-          "tekst": "εξελεξω",
-          "strong": "G1586",
-          "morf": "V-AMI-2S"
         }
       ]
     },

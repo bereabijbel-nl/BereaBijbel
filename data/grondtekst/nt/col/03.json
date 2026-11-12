@@ -2,7 +2,7 @@
   "boek": "col",
   "boeknummer": 51,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -893,9 +893,9 @@
           "morf": "N-APN"
         },
         {
-          "tekst": "οικτιρμων",
+          "tekst": "οικτιρμου",
           "strong": "G3628",
-          "morf": "N-GPM"
+          "morf": "N-GSM"
         },
         {
           "tekst": "χρηστοτητα",
@@ -1633,9 +1633,9 @@
           "morf": "A-NSN"
         },
         {
-          "tekst": "τω",
-          "strong": "G3588",
-          "morf": "T-DSM"
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
         },
         {
           "tekst": "κυριω",
@@ -1913,8 +1913,8 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "αποληψεσθε",
-          "strong": "G618",
+          "tekst": "ληψεσθε",
+          "strong": "G2983",
           "morf": "V-FDI-2P"
         },
         {
@@ -1961,11 +1961,6 @@
           "tekst": "δουλευετε",
           "strong": "G1398",
           "morf": "V-PAI-2P"
-        },
-        {
-          "tekst": "",
-          "strong": "G5720",
-          "morf": "V-PAM-2P"
         }
       ]
     },

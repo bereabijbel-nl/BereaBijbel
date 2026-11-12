@@ -2,7 +2,7 @@
   "boek": "col",
   "boeknummer": 51,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -78,7 +78,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "κολοσσαις",
+          "tekst": "κολασσαις",
           "strong": "G2857",
           "morf": "N-DPF"
         },
@@ -491,6 +491,16 @@
           "tekst": "καρποφορουμενον",
           "strong": "G2592",
           "morf": "V-PMP-NSN"
+        },
+        {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "αυξανομενον",
+          "strong": "G837",
+          "morf": "V-PPP-NSN"
         },
         {
           "tekst": "καθως",
@@ -1263,26 +1273,6 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "δια",
-          "strong": "G1223",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "του",
-          "strong": "G3588",
-          "morf": "T-GSN"
-        },
-        {
-          "tekst": "αιματος",
-          "strong": "G129",
-          "morf": "N-GSN"
-        },
-        {
-          "tekst": "αυτου",
-          "strong": "G846",
-          "morf": "P-GSM"
-        },
-        {
           "tekst": "την",
           "strong": "G3588",
           "morf": "T-ASF"
@@ -1888,8 +1878,8 @@
           "morf": "T-APN"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
+          "tekst": "επι",
+          "strong": "G1909",
           "morf": "PREP"
         },
         {
@@ -2283,11 +2273,6 @@
           "morf": "N-DPN"
         },
         {
-          "tekst": "μου",
-          "strong": "G1473",
-          "morf": "P-1GS"
-        },
-        {
           "tekst": "υπερ",
           "strong": "G5228",
           "morf": "PREP"
@@ -2365,7 +2350,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "σωματος",
@@ -2618,19 +2603,19 @@
           "morf": "V-AAN"
         },
         {
-          "tekst": "τις",
+          "tekst": "τι",
           "strong": "G5101",
-          "morf": "I-NSM"
+          "morf": "I-NSN"
         },
         {
-          "tekst": "ο",
+          "tekst": "το",
           "strong": "G3588",
-          "morf": "T-NSM"
+          "morf": "T-NSN"
         },
         {
           "tekst": "πλουτος",
           "strong": "G4149",
-          "morf": "N-NSM"
+          "morf": "N-NSN"
         },
         {
           "tekst": "της",

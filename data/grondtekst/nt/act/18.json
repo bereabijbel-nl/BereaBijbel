@@ -2,7 +2,7 @@
   "boek": "act",
   "boeknummer": 44,
   "hoofdstuk": 18,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -173,8 +173,8 @@
           "morf": "T-ASN"
         },
         {
-          "tekst": "διατεταχεναι",
-          "strong": "G1299",
+          "tekst": "τεταχεναι",
+          "strong": "G5021",
           "morf": "V-RAN"
         },
         {
@@ -985,7 +985,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "κακωσαι",
@@ -1658,8 +1658,8 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "εμελεν",
-          "strong": "G3199",
+          "tekst": "εμελλεν",
+          "strong": "G3195",
           "morf": "V-IAI-3S"
         }
       ]
@@ -1833,9 +1833,14 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "κακεινους",
-          "strong": "G2548",
-          "morf": "D-APM-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκεινους",
+          "strong": "G1565",
+          "morf": "D-APM"
         },
         {
           "tekst": "κατελιπεν",
@@ -2066,11 +2071,6 @@
           "tekst": "θελοντος",
           "strong": "G2309",
           "morf": "V-PAP-GSM"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "ανηχθη",

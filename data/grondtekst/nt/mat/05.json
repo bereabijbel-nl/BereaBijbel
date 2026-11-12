@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 5,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -2018,9 +2018,14 @@
           "morf": "N-ASN"
         },
         {
-          "tekst": "κακει",
-          "strong": "G2546",
-          "morf": "ADV-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκει",
+          "strong": "G1563",
+          "morf": "ADV"
         },
         {
           "tekst": "μνησθης",
@@ -2438,16 +2443,6 @@
           "morf": "V-API-3S"
         },
         {
-          "tekst": "τοις",
-          "strong": "G3588",
-          "morf": "T-DPM"
-        },
-        {
-          "tekst": "αρχαιοις",
-          "strong": "G744",
-          "morf": "A-DPM"
-        },
-        {
           "tekst": "ου",
           "strong": "G3756",
           "morf": "PRT-N"
@@ -2523,9 +2518,9 @@
           "morf": "V-AAN"
         },
         {
-          "tekst": "αυτης",
+          "tekst": "αυτην",
           "strong": "G846",
-          "morf": "P-GSF"
+          "morf": "P-ASF"
         },
         {
           "tekst": "ηδη",
@@ -3653,11 +3648,6 @@
           "morf": "A-ASF"
         },
         {
-          "tekst": "σου",
-          "strong": "G4771",
-          "morf": "P-2GS"
-        },
-        {
           "tekst": "σιαγονα",
           "strong": "G4600",
           "morf": "N-ASF"
@@ -4028,14 +4018,14 @@
           "morf": "V-PAM-2P"
         },
         {
-          "tekst": "τους",
+          "tekst": "τοις",
           "strong": "G3588",
-          "morf": "T-APM"
+          "morf": "T-DPM"
         },
         {
-          "tekst": "μισουντας",
+          "tekst": "μισουσιν",
           "strong": "G3404",
-          "morf": "V-PAP-APM"
+          "morf": "V-PAP-DPM"
         },
         {
           "tekst": "υμας",
@@ -4131,6 +4121,11 @@
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
+        },
+        {
+          "tekst": "τοις",
+          "strong": "G3588",
+          "morf": "T-DPM"
         },
         {
           "tekst": "ουρανοις",
@@ -4323,9 +4318,9 @@
           "morf": "T-APM"
         },
         {
-          "tekst": "αδελφους",
-          "strong": "G80",
-          "morf": "N-APM"
+          "tekst": "φιλους",
+          "strong": "G5384",
+          "morf": "A-APM"
         },
         {
           "tekst": "υμων",

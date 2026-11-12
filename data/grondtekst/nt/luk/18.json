@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 18,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -443,7 +443,7 @@
           "morf": "V-PNP-NSF"
         },
         {
-          "tekst": "υπωπιαζη",
+          "tekst": "υποπιαζη",
           "strong": "G5299",
           "morf": "V-PAS-3S"
         },
@@ -543,9 +543,9 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "ποιησει",
+          "tekst": "ποιηση",
           "strong": "G4160",
-          "morf": "V-FAI-3S"
+          "morf": "V-AAS-3S"
         },
         {
           "tekst": "την",
@@ -755,11 +755,6 @@
         {
           "tekst": "δε",
           "strong": "G1161",
-          "morf": "CONJ"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
           "morf": "CONJ"
         },
         {
@@ -1301,6 +1296,11 @@
           "tekst": "η",
           "strong": "G2228",
           "morf": "PRT"
+        },
+        {
+          "tekst": "γαρ",
+          "strong": "G1063",
+          "morf": "CONJ"
         },
         {
           "tekst": "εκεινος",
@@ -2478,11 +2478,6 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ο",
-          "strong": "G3588",
-          "morf": "T-NSM"
-        },
-        {
           "tekst": "πετρος",
           "strong": "G4074",
           "morf": "N-NSM"
@@ -3095,7 +3090,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "εγγιζειν",
@@ -3273,7 +3268,7 @@
           "morf": "N-VSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -3358,7 +3353,7 @@
           "morf": "N-VSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },

@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 20,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -98,8 +98,8 @@
           "morf": "T-NPM"
         },
         {
-          "tekst": "αρχιερεις",
-          "strong": "G749",
+          "tekst": "ιερεις",
+          "strong": "G2409",
           "morf": "N-NPM"
         },
         {
@@ -438,11 +438,6 @@
           "morf": "I-ASN"
         },
         {
-          "tekst": "ουν",
-          "strong": "G3767",
-          "morf": "CONJ"
-        },
-        {
           "tekst": "ουκ",
           "strong": "G3756",
           "morf": "PRT-N"
@@ -701,11 +696,6 @@
           "tekst": "ανθρωπος",
           "strong": "G444",
           "morf": "N-NSM"
-        },
-        {
-          "tekst": "τις",
-          "strong": "G5100",
-          "morf": "X-NSM"
         },
         {
           "tekst": "εφυτευσεν",
@@ -1656,16 +1646,6 @@
           "tekst": "εφοβηθησαν",
           "strong": "G5399",
           "morf": "V-AOI-3P"
-        },
-        {
-          "tekst": "τον",
-          "strong": "G3588",
-          "morf": "T-ASM"
-        },
-        {
-          "tekst": "λαον",
-          "strong": "G2992",
-          "morf": "N-ASM"
         },
         {
           "tekst": "εγνωσαν",
@@ -2643,6 +2623,11 @@
           "morf": "ADV"
         },
         {
+          "tekst": "ωσαυτως",
+          "strong": "G5615",
+          "morf": "ADV"
+        },
+        {
           "tekst": "δε",
           "strong": "G1161",
           "morf": "CONJ"
@@ -2661,11 +2646,6 @@
           "tekst": "επτα",
           "strong": "G2033",
           "morf": "A-NUI"
-        },
-        {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
         },
         {
           "tekst": "ου",
@@ -2968,8 +2948,8 @@
           "morf": "CONJ-N"
         },
         {
-          "tekst": "εκγαμισκονται",
-          "strong": "G1548",
+          "tekst": "εκγαμιζονται",
+          "strong": "G1547",
           "morf": "V-PPI-3P"
         }
       ]
@@ -3388,7 +3368,7 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -3413,7 +3393,7 @@
           "morf": "P-NSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -3548,7 +3528,7 @@
       "vers": 44,
       "woorden": [
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },

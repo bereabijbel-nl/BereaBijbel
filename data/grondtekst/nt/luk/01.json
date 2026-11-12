@@ -2,7 +2,7 @@
   "boek": "luk",
   "boeknummer": 42,
   "hoofdstuk": 1,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -590,7 +590,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "ιερατευειν",
@@ -685,7 +685,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "θυμιασαι",
@@ -748,6 +748,11 @@
           "morf": "N-NSN"
         },
         {
+          "tekst": "ην",
+          "strong": "G1510",
+          "morf": "V-IAI-3S"
+        },
+        {
           "tekst": "του",
           "strong": "G3588",
           "morf": "T-GSM"
@@ -756,11 +761,6 @@
           "tekst": "λαου",
           "strong": "G2992",
           "morf": "N-GSM"
-        },
-        {
-          "tekst": "ην",
-          "strong": "G1510",
-          "morf": "V-IAI-3S"
         },
         {
           "tekst": "προσευχομενον",
@@ -1855,7 +1855,7 @@
         {
           "tekst": "τω",
           "strong": "G3588",
-          "morf": "T-DSM"
+          "morf": "T-DSN"
         },
         {
           "tekst": "χρονιζειν",
@@ -2343,7 +2343,7 @@
           "morf": "N-NSN"
         },
         {
-          "tekst": "ναζαρεθ",
+          "tekst": "ναζαρετ",
           "strong": "G3478",
           "morf": "N-PRI"
         }
@@ -2398,7 +2398,7 @@
           "morf": "N-GSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -2833,7 +2833,7 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -3193,7 +3193,7 @@
           "morf": "PREP"
         },
         {
-          "tekst": "γηρα",
+          "tekst": "γηρει",
           "strong": "G1094",
           "morf": "N-DSN"
         },
@@ -3888,16 +3888,6 @@
           "morf": "V-AAI-3S"
         },
         {
-          "tekst": "εν",
-          "strong": "G1722",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "αγαλλιασει",
-          "strong": "G20",
-          "morf": "N-DSF"
-        },
-        {
           "tekst": "το",
           "strong": "G3588",
           "morf": "T-NSN"
@@ -3906,6 +3896,16 @@
           "tekst": "βρεφος",
           "strong": "G1025",
           "morf": "N-NSN"
+        },
+        {
+          "tekst": "εν",
+          "strong": "G1722",
+          "morf": "PREP"
+        },
+        {
+          "tekst": "αγαλλιασει",
+          "strong": "G20",
+          "morf": "N-DSF"
         },
         {
           "tekst": "εν",
@@ -4675,7 +4675,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "τεκειν",
@@ -5658,7 +5658,7 @@
           "morf": "N-DSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         },
@@ -5905,7 +5905,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "δουναι",
@@ -6115,7 +6115,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "δουναι",
@@ -6280,7 +6280,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "κατευθυναι",

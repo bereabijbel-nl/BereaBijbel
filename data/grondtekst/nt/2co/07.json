@@ -2,7 +2,7 @@
   "boek": "2co",
   "boeknummer": 47,
   "hoofdstuk": 7,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1138,7 +1138,7 @@
           "morf": "N-ASM"
         },
         {
-          "tekst": "αλλ",
+          "tekst": "αλλα",
           "strong": "G235",
           "morf": "CONJ"
         },
@@ -1275,7 +1275,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "φανερωθηναι",
@@ -1293,9 +1293,9 @@
           "morf": "N-ASF"
         },
         {
-          "tekst": "ημων",
-          "strong": "G1473",
-          "morf": "P-1GP"
+          "tekst": "υμων",
+          "strong": "G4771",
+          "morf": "P-2GP"
         },
         {
           "tekst": "την",
@@ -1308,9 +1308,9 @@
           "morf": "PREP"
         },
         {
-          "tekst": "υμων",
-          "strong": "G4771",
-          "morf": "P-2GP"
+          "tekst": "ημων",
+          "strong": "G1473",
+          "morf": "P-1GP"
         },
         {
           "tekst": "προς",
@@ -1363,6 +1363,11 @@
           "morf": "PREP"
         },
         {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "τη",
           "strong": "G3588",
           "morf": "T-DSF"
@@ -1381,11 +1386,6 @@
           "tekst": "περισσοτερως",
           "strong": "G4057",
           "morf": "ADV-C"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "μαλλον",
@@ -1706,11 +1706,6 @@
           "tekst": "χαιρω",
           "strong": "G5463",
           "morf": "V-PAI-1S"
-        },
-        {
-          "tekst": "ουν",
-          "strong": "G3767",
-          "morf": "CONJ"
         },
         {
           "tekst": "οτι",

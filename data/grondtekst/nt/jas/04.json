@@ -2,7 +2,7 @@
   "boek": "jas",
   "boeknummer": 59,
   "hoofdstuk": 4,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -181,11 +181,6 @@
           "tekst": "εχετε",
           "strong": "G2192",
           "morf": "V-PAI-2P"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "δια",
@@ -608,6 +603,11 @@
           "morf": "V-2AAM-2P"
         },
         {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "τω",
           "strong": "G3588",
           "morf": "T-DSM"
@@ -1028,6 +1028,11 @@
           "morf": "P-2NS"
         },
         {
+          "tekst": "δε",
+          "strong": "G1161",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "τις",
           "strong": "G5101",
           "morf": "I-NSM"
@@ -1088,9 +1093,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "η",
-          "strong": "G2228",
-          "morf": "PRT"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
         },
         {
           "tekst": "αυριον",
@@ -1098,9 +1103,9 @@
           "morf": "ADV"
         },
         {
-          "tekst": "πορευσομεθα",
+          "tekst": "πορευσωμεθα",
           "strong": "G4198",
-          "morf": "V-FDI-1P"
+          "morf": "V-ADS-1P"
         },
         {
           "tekst": "εις",
@@ -1128,9 +1133,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ποιησομεν",
+          "tekst": "ποιησωμεν",
           "strong": "G4160",
-          "morf": "V-FAI-1P"
+          "morf": "V-AAS-1P"
         },
         {
           "tekst": "εκει",
@@ -1153,9 +1158,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εμπορευσομεθα",
+          "tekst": "εμπορευσωμεθα",
           "strong": "G1710",
-          "morf": "V-FDI-1P"
+          "morf": "V-ADS-1P"
         },
         {
           "tekst": "και",
@@ -1163,9 +1168,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "κερδησομεν",
+          "tekst": "κερδησωμεν",
           "strong": "G2770",
-          "morf": "V-FAI-1P"
+          "morf": "V-AAS-1P"
         }
       ]
     },
@@ -1238,9 +1243,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εστιν",
+          "tekst": "εσται",
           "strong": "G1510",
-          "morf": "V-PAI-3S"
+          "morf": "V-FDI-3S"
         },
         {
           "tekst": "η",
@@ -1273,6 +1278,11 @@
           "morf": "CONJ"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "αφανιζομενη",
           "strong": "G853",
           "morf": "V-PPP-NSF"
@@ -1290,7 +1300,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "λεγειν",
@@ -1338,9 +1348,9 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "ποιησομεν",
+          "tekst": "ποιησωμεν",
           "strong": "G4160",
-          "morf": "V-FAI-1P"
+          "morf": "V-AAS-1P"
         },
         {
           "tekst": "τουτο",

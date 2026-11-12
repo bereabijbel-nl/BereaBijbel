@@ -2,7 +2,7 @@
   "boek": "mat",
   "boeknummer": 40,
   "hoofdstuk": 20,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -108,14 +108,14 @@
       "vers": 2,
       "woorden": [
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
           "tekst": "συμφωνησας",
           "strong": "G4856",
           "morf": "V-AAP-NSM"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "μετα",
@@ -203,11 +203,6 @@
           "morf": "PREP"
         },
         {
-          "tekst": "την",
-          "strong": "G3588",
-          "morf": "T-ASF"
-        },
-        {
           "tekst": "τριτην",
           "strong": "G5154",
           "morf": "A-ASF"
@@ -258,9 +253,14 @@
       "vers": 4,
       "woorden": [
         {
-          "tekst": "κακεινοις",
-          "strong": "G2548",
-          "morf": "D-DPM-K"
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "εκεινοις",
+          "strong": "G1565",
+          "morf": "D-DPM"
         },
         {
           "tekst": "ειπεν",
@@ -378,7 +378,7 @@
           "morf": "CONJ"
         },
         {
-          "tekst": "εννατην",
+          "tekst": "ενατην",
           "strong": "G1766",
           "morf": "A-ASF"
         },
@@ -1228,9 +1228,9 @@
           "morf": "S-1SDPN"
         },
         {
-          "tekst": "η",
-          "strong": "G2228",
-          "morf": "PRT"
+          "tekst": "ει",
+          "strong": "G1487",
+          "morf": "COND"
         },
         {
           "tekst": "ο",
@@ -1863,6 +1863,11 @@
           "morf": "A-GPN"
         },
         {
+          "tekst": "σου",
+          "strong": "G4771",
+          "morf": "P-2GS"
+        },
+        {
           "tekst": "εν",
           "strong": "G1722",
           "morf": "PREP"
@@ -1973,9 +1978,9 @@
           "morf": "V-PAN"
         },
         {
-          "tekst": "και",
-          "strong": "G2532",
-          "morf": "CONJ"
+          "tekst": "η",
+          "strong": "G2228",
+          "morf": "PRT"
         },
         {
           "tekst": "το",
@@ -2433,9 +2438,9 @@
           "morf": "V-2ADN"
         },
         {
-          "tekst": "εστω",
+          "tekst": "εσται",
           "strong": "G1510",
-          "morf": "V-PAM-3S"
+          "morf": "V-FDI-3S"
         },
         {
           "tekst": "υμων",
@@ -2748,7 +2753,7 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         }
@@ -2838,7 +2843,7 @@
           "morf": "N-NSM"
         },
         {
-          "tekst": "δαβιδ",
+          "tekst": "δαυιδ",
           "strong": "G1138",
           "morf": "N-PRI"
         }

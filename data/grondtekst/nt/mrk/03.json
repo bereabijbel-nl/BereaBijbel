@@ -2,7 +2,7 @@
   "boek": "mrk",
   "boeknummer": 41,
   "hoofdstuk": 3,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -1068,14 +1068,14 @@
           "morf": "PRT-N"
         },
         {
-          "tekst": "αυτον",
-          "strong": "G846",
-          "morf": "P-ASM"
-        },
-        {
           "tekst": "φανερον",
           "strong": "G5318",
           "morf": "A-ASM"
+        },
+        {
+          "tekst": "αυτον",
+          "strong": "G846",
+          "morf": "P-ASM"
         },
         {
           "tekst": "ποιησωσιν",
@@ -2103,19 +2103,14 @@
       "vers": 27,
       "woorden": [
         {
-          "tekst": "ου",
-          "strong": "G3756",
-          "morf": "PRT-N"
+          "tekst": "ουδεις",
+          "strong": "G3762",
+          "morf": "A-NSM-N"
         },
         {
           "tekst": "δυναται",
           "strong": "G1410",
           "morf": "V-PNI-3S"
-        },
-        {
-          "tekst": "ουδεις",
-          "strong": "G3762",
-          "morf": "A-NSM-N"
         },
         {
           "tekst": "τα",
@@ -2223,9 +2218,9 @@
           "morf": "P-GSM"
         },
         {
-          "tekst": "διαρπασει",
+          "tekst": "διαρπαση",
           "strong": "G1283",
-          "morf": "V-FAI-3S"
+          "morf": "V-AAS-3S"
         }
       ]
     },
@@ -2623,6 +2618,26 @@
           "morf": "P-2GS"
         },
         {
+          "tekst": "και",
+          "strong": "G2532",
+          "morf": "CONJ"
+        },
+        {
+          "tekst": "αι",
+          "strong": "G3588",
+          "morf": "T-NPF"
+        },
+        {
+          "tekst": "αδελφαι",
+          "strong": "G79",
+          "morf": "N-NPF"
+        },
+        {
+          "tekst": "σου",
+          "strong": "G4771",
+          "morf": "P-2GS"
+        },
+        {
           "tekst": "εξω",
           "strong": "G1854",
           "morf": "ADV"
@@ -2754,7 +2769,7 @@
         },
         {
           "tekst": "ιδε",
-          "strong": "G3708",
+          "strong": "G2396",
           "morf": "V-2AAM-2S"
         },
         {

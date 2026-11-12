@@ -2,7 +2,7 @@
   "boek": "eph",
   "boeknummer": 49,
   "hoofdstuk": 6,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -486,6 +486,11 @@
           "tekst": "δουλευοντες",
           "strong": "G1398",
           "morf": "V-PAP-NPM"
+        },
+        {
+          "tekst": "ως",
+          "strong": "G5613",
+          "morf": "ADV"
         },
         {
           "tekst": "τω",
@@ -1423,9 +1428,9 @@
           "morf": "A-GSN"
         },
         {
-          "tekst": "δεξασθε",
+          "tekst": "δεξασθαι",
           "strong": "G1209",
-          "morf": "V-ADM-2P"
+          "morf": "V-ADN"
         },
         {
           "tekst": "και",
@@ -1633,9 +1638,9 @@
           "morf": "P-1DS"
         },
         {
-          "tekst": "δοθειη",
+          "tekst": "δοθη",
           "strong": "G1325",
-          "morf": "V-APO-3S"
+          "morf": "V-APS-3S"
         },
         {
           "tekst": "λογος",
@@ -2126,41 +2131,6 @@
           "tekst": "αμην",
           "strong": "G281",
           "morf": "HEB"
-        },
-        {
-          "tekst": "προς",
-          "strong": "G4314",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "εφεσιους",
-          "strong": "G2180",
-          "morf": "A-APM"
-        },
-        {
-          "tekst": "εγραφη",
-          "strong": "G1125",
-          "morf": "V-2API-3S"
-        },
-        {
-          "tekst": "απο",
-          "strong": "G575",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "ρωμης",
-          "strong": "G4516",
-          "morf": "N-GSF"
-        },
-        {
-          "tekst": "δια",
-          "strong": "G1223",
-          "morf": "PREP"
-        },
-        {
-          "tekst": "τυχικου",
-          "strong": "G5190",
-          "morf": "N-GSM"
         }
       ]
     }

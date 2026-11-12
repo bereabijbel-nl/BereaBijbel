@@ -2,7 +2,7 @@
   "boek": "1co",
   "boeknummer": 46,
   "hoofdstuk": 10,
-  "bron": "Elzevir TR (byztxt)",
+  "bron": "RP2018 (byztxt)",
   "verzen": [
     {
       "vers": 1,
@@ -138,7 +138,7 @@
           "morf": "T-ASM"
         },
         {
-          "tekst": "μωσην",
+          "tekst": "μωυσην",
           "strong": "G3475",
           "morf": "N-ASM"
         },
@@ -513,8 +513,8 @@
           "morf": "P-GPM"
         },
         {
-          "tekst": "ως",
-          "strong": "G5613",
+          "tekst": "ωσπερ",
+          "strong": "G5618",
           "morf": "ADV"
         },
         {
@@ -628,9 +628,14 @@
           "morf": "N-DSF"
         },
         {
-          "tekst": "εικοσιτρεις",
+          "tekst": "εικοσι",
           "strong": "G1501",
           "morf": "A-NUI"
+        },
+        {
+          "tekst": "τρεις",
+          "strong": "G5140",
+          "morf": "A-NPF"
         },
         {
           "tekst": "χιλιαδες",
@@ -1055,7 +1060,7 @@
         {
           "tekst": "του",
           "strong": "G3588",
-          "morf": "T-GSM"
+          "morf": "T-GSN"
         },
         {
           "tekst": "δυνασθαι",
@@ -2321,11 +2326,6 @@
           "tekst": "ει",
           "strong": "G1487",
           "morf": "COND"
-        },
-        {
-          "tekst": "δε",
-          "strong": "G1161",
-          "morf": "CONJ"
         },
         {
           "tekst": "εγω",
