@@ -37,9 +37,9 @@ Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenze
 | phm | 1 | gecontroleerd (opnieuw gekoppeld in compacte notatie, scriptcontrole foutloos); wacht op nakijken door de vertaler |
 | php | 1–4 | alle 4 gecontroleerd (wachten op nakijken) |
 | col | 1–4 | alle 4 gecontroleerd (wachten op nakijken) |
-| 1jo | 1–5 | open |
+| 1jo | 1–5 | alle 5 gecontroleerd (wachten op nakijken) |
 | 2jo | 1 | gecontroleerd (wacht op nakijken) |
-| rom | 1–16 | open |
+| rom | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
 | 1co | 1–16 | open |
 | mrk | 1–16 | open |
 | joh | 1–21 | open |
@@ -53,7 +53,7 @@ Meldingen over de Nederlandse tekst: `werk/meldingen.md`.
 
 ### Stand 2026-11-17 (doorgewerkt zonder nakijken)
 
-Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1. Volgende open eenheid: 1jo 1.
+Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16. Volgende open eenheid: 1co 1.
 
 Risico: de afspraken in de notatie (`=` / `~` / `+`) zijn nog niet goedgekeurd. Keurt de collega ze af, dan moeten de hoofdstukken hierboven worden omgezet. Dat kan met een script op de .txt-bestanden in `werk/koppeling/`.
 
