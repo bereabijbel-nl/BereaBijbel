@@ -5,7 +5,7 @@
 - **Bron**: [openscriptures/morphhb](https://github.com/openscriptures/morphhb), map `wlc/`
 - **Opgehaald**: 2026-09-11, van de `master`-branch
 - **Tekst**: publiek domein (Christopher V. Kimball / tanach.us)
-- **Morfologie- en Strong-laag**: **Creative Commons Attribution 4.0** (Daniel Owens, David Troidl) — dit is een licentienuance ten opzichte van wat elders in dit project als "publiek domein" is aangenomen. Naamsvermelding is vereist zolang deze laag gebruikt wordt. Zet een credit-regel op de site (bijv. bij "Over" of in de footer): "Morfologie en Strong-codering: Open Scriptures Hebrew Bible (CC BY 4.0)."
+- **Morfologie- en Strong-laag**: **Creative Commons Attribution 4.0** (Daniel Owens, David Troidl) — dit is een licentienuance ten opzichte van wat elders in dit project als "publiek domein" is aangenomen. Naamsvermelding is vereist zolang deze laag gebruikt wordt. Geaccepteerd als enige uitzondering op CC0 (beslislogboek 2026-11-17). De naamsvermelding staat op `/over#licenties`, in de footer, bij OT-verzen in het grondtekstpaneel, op `/strong/H…` en in het veld `licentie` van `/api/<boek>/<hoofdstuk>.json`.
 - **Versnummering**: omgezet van de Hebreeuwse naar de Engelse/KJV-hoofdstuk-en-versindeling met de officiële `VerseMap.xml` uit dezelfde bron. Zonder deze omzetting wijken minstens twee boeken (Joël, Maleachi) af in hoofdstuktelling.
 - **Bekende restafwijking**: 6 van de 929 hoofdstukken (1 Koningen 18, 20, 22; Nehemia 7; Psalm 13; Jesaja 63) hebben een verschil van precies 1 vers ten opzichte van de KJV-telling, door halve-verssamenvoegingen die niet 1-op-1 in het datamodel passen. Zie de `VerseMap.xml`-vermeldingen met `type="partial"`.
 
@@ -51,5 +51,5 @@
 - **Licentie**: de woordenboeken van Strong zijn publiek domein, net als de oorspronkelijke e-tekst van Michael Grier. De gecorrigeerde uitgave van OpenScriptures (2008) behoudt die status en wordt vrijgegeven met een toestemmingstekst in MIT-stijl: "Copyright (c) 2008, OpenScriptures.org … The above copyright notice and this permission notice shall be included in all copies". De kop noemt dit "GPL 3.0", maar de tekst zelf is een MIT-toestemming. Die tegenstrijdigheid staat in de bron. Naamsvermelding: *Strong's Dictionaries, e-tekst van Michael Grier, gecorrigeerd door Ulrik Sandborg-Petersen, Weston Ruter en OpenScriptures.org*.
 - **Bewust niet gebruikt**: de JSON-versie van OpenScriptures (`strongs-*-dictionary.js`) is CC-BY-SA; share-alike past niet bij onze CC0-data.
 - **Omzetting**: `pipeline/scripts/verwerk-strong-lexicon.js` naar `data/lexicon/greek.json` en `hebrew.json` (5 523 en 8 674 vermeldingen; 101 Griekse nummers zijn in de bron "Not Used"). Per nummer: transliteratie, uitspraak, definitie en de weergaven in de KJV.
-- **Taal**: Engels, niet vertaald door een model. Lexicale gegevens moeten verifieerbaar zijn in het woordenboek zelf (CLAUDE.md, notities).
+- **Taal**: Engels. Vertaling naar het Nederlands door Claude is toegestaan (beslislogboek 2026-11-17), met de Engelse bron ernaast zodat alles verifieerbaar blijft.
 - **Gebruik**: bij een aangeklikt grondtekstwoord (`Betekenissen`) en op de pagina `/strong/<nummer>`.

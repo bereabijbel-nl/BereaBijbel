@@ -356,6 +356,8 @@ const indexable = import.meta.env.PUBLIC_INDEXABLE === "true";
 			.vw { border-radius: 6px; transition: background 0.12s; }
 			.vw.licht, .vers.open .vw:hover { background: var(--markering); box-shadow: 0 0 0 2px var(--markering); }
 			.toevoeging-note { margin: 0.8rem 0 0; font-size: 0.8rem; color: var(--tertiary); }
+			.bron-credit { margin: 0.8rem 0 0; font-size: 0.75rem; color: var(--tertiary); }
+			.bron-credit a { color: inherit; }
 
 			.woord-uitleg {
 				margin-top: 1rem;
@@ -504,8 +506,8 @@ const indexable = import.meta.env.PUBLIC_INDEXABLE === "true";
 		<slot name="onder" />
 
 		<footer class="foot">
-			<p>Een betrouwbare vertaling, in begrijpelijk Nederlands. Volledig licentievrij.</p>
-			<span>CC0 — data</span><span>MIT — code</span>
+			<p>Een betrouwbare vertaling, in begrijpelijk Nederlands. Vrij te gebruiken.</p>
+			<span>CC0 — data</span><span>MIT — code</span><span><a href="/over#licenties">Bronnen en licenties</a></span>
 		</footer>
 
 		<div id="toast" class="toast" hidden></div>

@@ -74,7 +74,15 @@ export const GET: APIRoute = ({ params, props }) => {
 			...(kjvStrong.has(n) ? { kd: kjvStrong.get(n) } : kjv.has(n) ? { kjv: kjv.get(n) } : {}),
 		};
 	}
-	return new Response(JSON.stringify({ verzen }), {
+	// OT: de Strong-codering is CC BY 4.0 (zie /over#licenties); de naamsvermelding reist mee met de data.
+	const licentie =
+		props.testament === "ot" && grondtekst
+			? {
+					strong_codering:
+						"Open Scriptures Hebrew Bible (Daniel Owens, David Troidl), CC BY 4.0, https://github.com/openscriptures/morphhb",
+				}
+			: undefined;
+	return new Response(JSON.stringify(licentie ? { licentie, verzen } : { verzen }), {
 		headers: { "Content-Type": "application/json; charset=utf-8" },
 	});
 };

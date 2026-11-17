@@ -80,6 +80,13 @@ function rasterHtml(d: VersDetail): string {
 			.map((x) => esc(x.nl))
 			.join(", ")}</p>`;
 	}
+	// OT: de Strong-codering komt uit de Open Scriptures Hebrew Bible (CC BY 4.0), de enige
+	// bron op de site die niet CC0 of publiek domein is. Naamsvermelding is verplicht.
+	if (d.rtl) {
+		html +=
+			'<p class="bron-credit">Strong-codering Hebreeuws: Open Scriptures Hebrew Bible, CC BY 4.0. ' +
+			'<a href="/over#licenties">Waarom deze uitzondering</a></p>';
+	}
 	return html + '<div class="woord-uitleg" hidden></div>';
 }
 
