@@ -35,10 +35,10 @@ Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenze
 | Boek | Hoofdstukken | Stand |
 |---|---|---|
 | phm | 1 | gecontroleerd (opnieuw gekoppeld in compacte notatie, scriptcontrole foutloos); wacht op nakijken door de vertaler |
-| php | 1–4 | open |
-| col | 1–4 | open |
+| php | 1–4 | alle 4 gecontroleerd (wachten op nakijken) |
+| col | 1–4 | alle 4 gecontroleerd (wachten op nakijken) |
 | 1jo | 1–5 | open |
-| 2jo | 1 | open |
+| 2jo | 1 | gecontroleerd (wacht op nakijken) |
 | rom | 1–16 | open |
 | 1co | 1–16 | open |
 | mrk | 1–16 | open |
@@ -50,6 +50,14 @@ Totaal: 1 + 4 + 4 + 5 + 1 + 16 + 16 + 16 + 21 + 28 = 112 hoofdstukken.
 Per boek: steekproef door de vertaler, twee verzen per hoofdstuk, in de HTML-weergave.
 
 Meldingen over de Nederlandse tekst: `werk/meldingen.md`.
+
+### Stand 2026-11-17 (doorgewerkt zonder nakijken)
+
+Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1. Volgende open eenheid: 1jo 1.
+
+Risico: de afspraken in de notatie (`=` / `~` / `+`) zijn nog niet goedgekeurd. Keurt de collega ze af, dan moeten de hoofdstukken hierboven worden omgezet. Dat kan met een script op de .txt-bestanden in `werk/koppeling/`.
+
+Overzichten voor de collega: `werk/overzicht/*.html` (één per hoofdstuk).
 
 ### Resultaat Filemon (2026-11-17)
 
