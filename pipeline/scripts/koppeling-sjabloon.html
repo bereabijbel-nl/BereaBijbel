@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Woordkoppeling – proef</title>
+<style>
+:root {
+	--bg: #fbfaf7; --fg: #1d1d1b; --muted: #6b6a64; --card: #ffffff; --line: #e3e0d8;
+	--accent: #8a6d1f; --woord: #2f6f4f; --segment: #2b5fa5; --toev: #a05a00; --unc: #b3261e;
+	--hl: #fff1b8; --banner: #fff7e0;
+}
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme="light"]) {
+		--bg: #161513; --fg: #ecebe6; --muted: #a09f98; --card: #1f1e1b; --line: #36342f;
+		--accent: #d9b24a; --woord: #6fc79a; --segment: #7fb0f0; --toev: #e0a050; --unc: #ff8a80;
+		--hl: #4a3f12; --banner: #2b2614;
+	}
+}
+:root[data-theme="dark"] {
+	--bg: #161513; --fg: #ecebe6; --muted: #a09f98; --card: #1f1e1b; --line: #36342f;
+	--accent: #d9b24a; --woord: #6fc79a; --segment: #7fb0f0; --toev: #e0a050; --unc: #ff8a80;
+	--hl: #4a3f12; --banner: #2b2614;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 980px; margin: 0 auto; padding: 20px 16px 64px; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+h2 { font-size: 1.1rem; margin: 28px 0 8px; }
+.sub { color: var(--muted); margin: 0 0 16px; }
+.banner { background: var(--banner); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 8px; padding: 12px 14px; margin: 0 0 16px; }
+.banner p { margin: 0 0 6px; } .banner p:last-child { margin: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 16px; font-size: .92rem; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin: 0 0 16px; flex-wrap: wrap; }
+.tabs button { font: inherit; background: none; border: 0; border-bottom: 3px solid transparent; padding: 8px 12px; cursor: pointer; color: var(--muted); }
+.tabs button[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--accent); font-weight: 600; }
+.panel[hidden] { display: none; }
+
+.vers { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 0 0 12px; scroll-margin-top: 12px; }
+.vers.flash { outline: 3px solid var(--accent); }
+.vnr { color: var(--accent); font-weight: 700; margin-right: 8px; }
+.nl { font-size: 1.1rem; line-height: 2; }
+.n { cursor: pointer; padding: 1px 1px 2px; border-radius: 3px; border-bottom: 2px solid transparent; }
+.n.t-woord { border-bottom-color: var(--woord); }
+.n.t-segment { border-bottom: 2px dashed var(--segment); }
+.n.t-toevoeging { border-bottom: 2px dotted var(--toev); color: var(--muted); font-style: italic; }
+.gr { display: flex; flex-wrap: wrap; gap: 4px 6px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.g { cursor: pointer; text-align: center; padding: 2px 6px 3px; border-radius: 6px; border: 1px solid transparent; }
+.g .w { display: block; font: 1.2rem/1.3 "Gentium Plus", "Cardo", "Times New Roman", serif; }
+.g .s { display: block; font-size: .7rem; color: var(--muted); }
+.g.unc { border: 1px dotted var(--unc); }
+.g.unc.art { border-color: var(--line); opacity: .75; }
+.hl { background: var(--hl); }
+.info { min-height: 1.5em; margin-top: 8px; font-size: .88rem; color: var(--muted); }
+
+.tools { display: flex; gap: 10px; margin: 0 0 12px; flex-wrap: wrap; align-items: center; }
+input[type="search"] { font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg); min-width: 240px; max-width: 100%; }
+table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: .82rem; color: var(--muted); font-weight: 600; background: var(--bg); }
+tr:last-child td { border-bottom: 0; }
+.strongnr { font-weight: 600; white-space: nowrap; }
+.tr { color: var(--muted); font-size: .88rem; }
+.chip { display: inline-block; border: 1px solid var(--line); background: var(--bg); border-radius: 999px; padding: 1px 10px; margin: 2px 4px 2px 0; font: inherit; font-size: .9rem; color: var(--fg); cursor: pointer; }
+.chip.uitdr { border-style: dashed; }
+.chip.niet { border-color: var(--unc); color: var(--unc); }
+.chip small { color: var(--muted); }
+.vind { font-size: .85rem; color: var(--muted); margin: 2px 0 4px; }
+.vind a { color: var(--accent); cursor: pointer; text-decoration: underline; margin-right: 8px; }
+.lijst { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 4px 14px; }
+.lijst .rij { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.lijst .rij:last-child { border-bottom: 0; }
+.lijst a { color: var(--accent); cursor: pointer; text-decoration: underline; font-weight: 600; margin-right: 8px; }
+.gw { font: 1.1rem "Gentium Plus", "Cardo", "Times New Roman", serif; }
+.noot { color: var(--muted); font-size: .92rem; margin: 0 0 10px; }
+footer { margin-top: 32px; color: var(--muted); font-size: .85rem; }
+@media (max-width: 560px) { .nl { font-size: 1.02rem; } th:nth-child(3), td:nth-child(3) { display: none; } }
+</style>
+</head>
+<body>
+<main>
+	<h1 id="titel"></h1>
+	<p class="sub" id="ondertitel"></p>
+
+	<div class="banner">
+		<p><strong>Proef, niet nagekeken.</strong> De koppeling tussen de Nederlandse en de Griekse woorden is door Claude gemaakt en nog door niemand gecontroleerd. De Nederlandse tekst is ongewijzigd uit de bestaande vertaling.</p>
+		<p>Gevraagd: klopt de koppeling, en is dit bruikbaar? Klik op een Grieks of Nederlands woord om de koppeling te zien.</p>
+	</div>
+
+	<div class="legend" aria-label="Legenda">
+		<span><span class="n t-woord">woord</span> één Nederlands woord voor een Grieks woord</span>
+		<span><span class="n t-segment">segment</span> hoort bij een uitdrukking of werkwoordsvorm</span>
+		<span><span class="n t-toevoeging">toevoeging</span> geen Grieks equivalent</span>
+		<span><span class="g unc" style="display:inline-block;padding:0 6px">Grieks</span> geen Nederlands woord gekoppeld</span>
+	</div>
+
+	<div class="tabs" role="tablist">
+		<button role="tab" aria-selected="true" data-tab="verzen">Verzen</button>
+		<button role="tab" aria-selected="false" data-tab="weergaven">Weergaven per woord</button>
+		<button role="tab" aria-selected="false" data-tab="mist">Wat mist of is toegevoegd</button>
+	</div>
+
+	<section class="panel" id="p-verzen"></section>
+
+	<section class="panel" id="p-weergaven" hidden>
+		<p class="noot">Zo heeft de vertaling elk Grieks woord weergegeven, geteld uit de koppelingen. Dit is geen uitspraak van een model, alleen een telling. Klik op een weergave voor de vindplaatsen.</p>
+		<div class="tools"><input type="search" id="zoek" placeholder="Zoek op Strong-nummer, Grieks of Nederlands" aria-label="Zoeken"></div>
+		<div style="overflow-x:auto"><table id="tabel"></table></div>
+	</section>
+
+	<section class="panel" id="p-mist" hidden></section>
+
+	<footer>
+		Grondtekst: Robinson–Pierpont Byzantine Textform 2018 (publiek domein). Strong-nummers: openscriptures/strongs. Nederlandse tekst: BereaBijbel. Koppeling: Claude, proef.
+	</footer>
+</main>
+
+<script>
+const DATA = /*DATA*/null;
+
+const $ = (s, r = document) => r.querySelector(s);
+const el = (tag, attrs = {}, ...kids) => {
+	const e = document.createElement(tag);
+	for (const [k, v] of Object.entries(attrs)) {
+		if (k === 'class') e.className = v; else if (k === 'text') e.textContent = v; else e.setAttribute(k, v);
+	}
+	for (const kid of kids) if (kid != null) e.append(kid);
+	return e;
+};
+
+$('#titel').textContent = DATA.titel;
+$('#ondertitel').textContent = DATA.ondertitel;
+document.title = DATA.titel + ' – proef';
+
+/* ---------- Verzen ---------- */
+const versEls = new Map();
+let vast = null; // {vers, soort:'g'|'n', i}
+
+function wis() {
+	document.querySelectorAll('.hl').forEach((x) => x.classList.remove('hl'));
+	document.querySelectorAll('.info').forEach((x) => (x.textContent = ''));
+}
+function toon(verEl, v, soort, i) {
+	wis();
+	const info = $('.info', verEl);
+	if (soort === 'g') {
+		const g = v.gr[i];
+		$(`.g[data-i="${i}"]`, verEl).classList.add('hl');
+		const nl = v.nl.filter((n) => n.bron && n.bron.includes(i));
+		nl.forEach((n) => $(`.n[data-k="${n.k}"]`, verEl).classList.add('hl'));
+		info.textContent = `${g.t} · ${g.s}${g.tr ? ' (' + g.tr + ')' : ''}${g.m ? ' · ' + g.m : ''} → ` + (nl.length ? nl.map((n) => n.w).join(' ') : 'geen Nederlands woord gekoppeld');
+	} else {
+		const n = v.nl.find((x) => x.k === i);
+		$(`.n[data-k="${i}"]`, verEl).classList.add('hl');
+		(n.bron || []).forEach((b) => $(`.g[data-i="${b}"]`, verEl).classList.add('hl'));
+		const gr = (n.bron || []).map((b) => v.gr[b].t).join(' ');
+		info.textContent = `${n.w} · ${n.type} → ` + (gr || 'geen Grieks equivalent');
+	}
+}
+
+for (const v of DATA.verzen) {
+	const nl = el('div', { class: 'nl' });
+	for (const x of v.nl) {
+		if (x.k == null) { nl.append(x.txt + ' '); continue; }
+		nl.append(x.pre);
+		nl.append(el('span', { class: 'n t-' + x.type, 'data-k': x.k, text: x.w }));
+		nl.append(x.post + ' ');
+	}
+	const gr = el('div', { class: 'gr' });
+	v.gr.forEach((g, i) => {
+		const cls = 'g' + (g.unc ? ' unc' : '') + (g.unc && g.s === 'G3588' ? ' art' : '');
+		gr.append(el('span', { class: cls, 'data-i': i, title: `${g.s} ${g.tr || ''} ${g.m || ''}` }, el('span', { class: 'w', text: g.t }), el('span', { class: 's', text: g.s })));
+	});
+	const kaart = el('div', { class: 'vers', id: 'v' + v.vers }, el('div', {}, el('span', { class: 'vnr', text: v.vers }), nl), gr, el('div', { class: 'info' }));
+	versEls.set(v.vers, kaart);
+	kaart.addEventListener('mouseover', (e) => {
+		if (vast) return;
+		const t = e.target.closest('.g, .n'); if (!t) return;
+		t.classList.contains('g') ? toon(kaart, v, 'g', +t.dataset.i) : toon(kaart, v, 'n', +t.dataset.k);
+	});
+	kaart.addEventListener('mouseout', () => { if (!vast) wis(); });
+	kaart.addEventListener('click', (e) => {
+		const t = e.target.closest('.g, .n');
+		if (!t) { vast = null; wis(); return; }
+		const soort = t.classList.contains('g') ? 'g' : 'n';
+		const i = soort === 'g' ? +t.dataset.i : +t.dataset.k;
+		if (vast && vast.vers === v.vers && vast.soort === soort && vast.i === i) { vast = null; wis(); return; }
+		vast = { vers: v.vers, soort, i };
+		toon(kaart, v, soort, i);
+		e.stopPropagation();
+	});
+	$('#p-verzen').append(kaart);
+}
+document.addEventListener('click', (e) => { if (!e.target.closest('.vers')) { vast = null; wis(); } });
+
+/* ---------- Tabs en navigatie ---------- */
+function tab(naam) {
+	document.querySelectorAll('.tabs button').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === naam)));
+	document.querySelectorAll('.panel').forEach((p) => (p.hidden = p.id !== 'p-' + naam));
+}
+document.querySelectorAll('.tabs button').forEach((b) => b.addEventListener('click', () => tab(b.dataset.tab)));
+function ganaar(vers) {
+	tab('verzen');
+	const k = versEls.get(vers); if (!k) return;
+	k.scrollIntoView({ behavior: 'smooth', block: 'start' });
+	k.classList.add('flash'); setTimeout(() => k.classList.remove('flash'), 1800);
+}
+const versUit = (s) => Number(s.split(':').pop());
+
+/* ---------- Weergaven ---------- */
+const tabel = $('#tabel');
+tabel.append(el('thead', {}, el('tr', {}, el('th', { text: 'Strong' }), el('th', { text: 'Grieks' }), el('th', { text: 'Keer' }), el('th', { text: 'Onze weergaven' }))));
+const body = el('tbody');
+tabel.append(body);
+for (const r of DATA.weergaven) {
+	const cel = el('td');
+	const vind = el('div', { class: 'vind', hidden: '' });
+	r.weergaven.forEach((w) => {
+		const chip = el('button', { class: 'chip' + (w.soort === 'uitdrukking' ? ' uitdr' : '') + (w.nl == null ? ' niet' : ''), type: 'button' });
+		chip.append((w.nl ?? 'niet weergegeven') + ' ', el('small', { text: '×' + w.aantal + (w.soort === 'uitdrukking' ? ' uitdrukking' : '') }));
+		chip.addEventListener('click', () => {
+			vind.hidden = false; vind.textContent = '';
+			vind.append((w.nl ?? 'niet weergegeven') + ': ');
+			w.vindplaatsen.forEach((p) => vind.append(el('a', { text: p.replace(/^\S+\s/, '') , 'data-v': versUit(p) })));
+			vind.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => ganaar(+a.dataset.v)));
+		});
+		cel.append(chip);
+	});
+	cel.append(vind);
+	const rij = el('tr', {}, el('td', { class: 'strongnr' }, r.strong), el('td', {}, el('span', { class: 'gw', text: r.vormen.join(', ') }), el('div', { class: 'tr', text: r.translit || '' })), el('td', { text: String(r.totaal) }), cel);
+	rij.dataset.zoek = (r.strong + ' ' + r.vormen.join(' ') + ' ' + (r.translit || '') + ' ' + r.weergaven.map((w) => w.nl || '').join(' ')).toLowerCase();
+	body.append(rij);
+}
+$('#zoek').addEventListener('input', (e) => {
+	const q = e.target.value.trim().toLowerCase();
+	body.querySelectorAll('tr').forEach((r) => (r.hidden = q && !r.dataset.zoek.includes(q)));
+});
+
+/* ---------- Wat mist of is toegevoegd ---------- */
+const mist = $('#p-mist');
+const lijst = (titel, uitleg, rijen) => {
+	mist.append(el('h2', { text: titel }), el('p', { class: 'noot', text: uitleg }));
+	const box = el('div', { class: 'lijst' });
+	if (!rijen.length) box.append(el('div', { class: 'rij', text: 'Geen.' }));
+	rijen.forEach((r) => box.append(r));
+	mist.append(box);
+};
+const link = (vers) => { const a = el('a', { text: 'vers ' + vers }); a.addEventListener('click', () => ganaar(vers)); return a; };
+lijst('Griekse woorden zonder Nederlands woord (geen lidwoorden)',
+	'Hier is in het Nederlands niets gekoppeld. Soms is dat bewust (een Grieks voegwoord dat in het Nederlands niet nodig is), soms is het een omissie. Beoordeel per regel.',
+	DATA.mist.map((m) => el('div', { class: 'rij' }, link(m.vers), el('span', { class: 'gw', text: m.t }), ' ', el('span', { class: 'tr', text: `${m.s}${m.tr ? ' · ' + m.tr : ''}` }), el('div', { class: 'tr', text: m.context }))));
+lijst('Lidwoorden zonder Nederlands woord',
+	'Meestal normaal: het Nederlands gebruikt het lidwoord minder vaak dan het Grieks.',
+	[el('div', { class: 'rij' }, ...DATA.lidwoorden.flatMap((m) => [(() => { const a = link(m.vers); a.textContent = m.vers + ':' + m.i; return a; })()]), el('div', { class: 'tr', text: DATA.lidwoorden.length + ' lidwoorden' }))]);
+lijst('Nederlandse woorden zonder Grieks equivalent',
+	'Hier heeft de vertaling woorden toegevoegd. Soms is dat grammaticaal nodig, soms is het uitleg. Beoordeel per regel.',
+	DATA.toevoegingen.map((m) => el('div', { class: 'rij' }, link(m.vers), m.woorden.map((w) => el('span', { class: 'chip', text: w })), el('div', { class: 'tr', text: m.tekst }))));
+</script>
+</body>
+</html>
