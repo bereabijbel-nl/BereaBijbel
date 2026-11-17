@@ -1,0 +1,120 @@
+# Voortgang woordniveau
+
+Plan: `docs/plan-woordniveau-nederlands.md`. Volgorde volgens §9: WP3 eerst.
+
+Status per eenheid: **open** → **klaar** → **gecontroleerd** (scriptcontrole foutloos) → **nagekeken** (door de vertaler). Alles staat nu op open, tenzij anders vermeld.
+
+Elke sessie begint met lezen van dit bestand.
+
+## Besluiten
+
+- [x] B1 Strong blijft de sleutel (bevestigd en vastgelegd 2026-11-17)
+- [ ] B2 Woordenboek door een model vertalen (besloten, in logboek)
+- [ ] B3 Nederlandse glos: **open**, formulering herschrijven voor Dodson, bevestigen bij start WP4
+- [ ] B4 KJV-weergaven stap voor stap vervangen (besloten, in logboek)
+- [x] B5 Claude koppelt, vertaler zet `gewogen` (bevestigd en vastgelegd 2026-11-17)
+- [ ] B6 Lemmagroepen: **open** tot WP5
+- [ ] B7 Alles vrij over te nemen (besloten, in logboek)
+- [ ] B8 Licenties nagekeken (besloten, in logboek)
+- [ ] B9 Hebreeuwse Strong-codering CC BY 4.0 (besloten, in logboek)
+- [ ] B10 Woordenboekbronnen Dodson, Abbott-Smith, BDB (besloten, in logboek)
+
+(B2, B4, B7, B8, B9 en B10 zijn al besloten en staan in het logboek; de vinkjes hier betekenen "uitgevoerd in code of data" en blijven leeg tot dat is gebeurd.)
+
+## 1. WP3 — Woordkoppeling (eerst)
+
+Hulpmiddelen
+- [x] `pipeline/scripts/maak-koppelwerkblad.js` (getest op Filemon)
+- [x] `pipeline/scripts/koppeling-uit-tekst.js` (getest op Filemon)
+- [x] Filemon 1 opnieuw gekoppeld in de compacte notatie (`werk/koppeling/phm-01.txt`) en vergeleken met de proef uit git: 382 van 455 Nederlandse woorden identiek, zie "Resultaat Filemon" hieronder
+- [x] Overzicht voor de collega: `werk/overzicht/filemon-1-koppeling.html`
+- [ ] Steekproef Filemon door de vertaler
+
+Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenzen, 1 en 2 Johannes, dan de grote boeken.
+
+| Boek | Hoofdstukken | Stand |
+|---|---|---|
+| phm | 1 | gecontroleerd (opnieuw gekoppeld in compacte notatie, scriptcontrole foutloos); wacht op nakijken door de vertaler |
+| php | 1–4 | open |
+| col | 1–4 | open |
+| 1jo | 1–5 | open |
+| 2jo | 1 | open |
+| rom | 1–16 | open |
+| 1co | 1–16 | open |
+| mrk | 1–16 | open |
+| joh | 1–21 | open |
+| mat | 1–28 | open |
+
+Totaal: 1 + 4 + 4 + 5 + 1 + 16 + 16 + 16 + 21 + 28 = 112 hoofdstukken.
+
+Per boek: steekproef door de vertaler, twee verzen per hoofdstuk, in de HTML-weergave.
+
+Meldingen over de Nederlandse tekst: `werk/meldingen.md`.
+
+### Resultaat Filemon (2026-11-17)
+
+- Werkwijze: `maak-koppelwerkblad.js phm 01` -> koppelen in `werk/koppeling/phm-01.txt` -> `koppeling-uit-tekst.js phm 01` -> `controleer-koppeling.js`. Eerste poging foutloos.
+- Afspraak in de notatie: `=` voor het woord dat de betekenis draagt, `~` voor hulpwerkwoorden, voorzetsels bij een naamval, een onderwerp dat in de werkwoordsvorm zit en uitdrukkingsdelen, `+` zonder Grieks equivalent.
+- Verschil met de proef: 44 woorden verschillen alleen in type (vooral `woord` of `segment` bij meerwoordsuitdrukkingen), 29 ook in plaats. In de proef waren er meer `toevoeging` (65 tegen 50): de nieuwe koppeling koppelt voegwoorden en hulpwerkwoorden bij participia en infinitieven (omdat, hoewel, om, zou) aan het Griekse werkwoord.
+- `data/koppeling/weergaven.json` is opnieuw berekend.
+- Nieuwe koppeling: 304 woord, 101 segment, 50 toevoeging. Proef: 275 woord, 115 segment, 65 toevoeging.
+- Ongekoppelde Griekse woorden die geen lidwoord zijn: dezelfde acht in beide versies (zie meldingen).
+- Onafhankelijkheid: de eerste twee verzen van de oude proef waren al in beeld voordat het koppelen begon. De rest is zonder die proef gemaakt.
+
+## 2. WP1 — Datafundament
+
+- [ ] 1a. Lemma in Grieks en Hebreeuws schrift (Strong-XML; Dodson geeft het Griekse lemma ook, vergelijken)
+- [ ] 1a. Geaccentueerde RP2018 gecontroleerd (melden voor iets te wijzigen)
+- [ ] 1b. `verwerk-wlc.js`: `morph` overnemen
+- [ ] 1b. Hebreeuwse voorvoegsels als morfemen splitsen
+- [ ] 1b. Concordantie opnieuw bouwen; Genesis 1:1 als controle (zeven woorden, tien morfemen)
+
+## 3. WP2 — Morfologie in gewone taal
+
+- [ ] Alle morfcodes verzamelen
+- [ ] `pipeline/scripts/morfologie-nl.js`
+- [ ] `data/lexicon/morfologie-nl.json`
+- [ ] Lijst onbekende codes is leeg
+- [ ] 30 willekeurige regels nagekeken door de vertaler
+
+## 4. WP4 — Woordenboek (na WP3)
+
+- [ ] B3 bevestigen en herschrijven
+- [ ] Dekking Dodson ten opzichte van RP2018 gemeten (lijst nummers zonder vermelding)
+- [ ] `pipeline/scripts/maak-lexiconbrokken.js`
+- [ ] `controleer-strong-vertaling.js` uitgebreid (glos 1–4 woorden, geen Engelse restwoorden, `bron_en`)
+- [ ] 4a. Dodson, eerst de nummers uit de 112 vertaalde hoofdstukken (ca. 3.000)
+- [ ] 4a. Dodson, rest van het Grieks
+- [ ] 4b. Abbott-Smith: proef op 50 vermeldingen, daarna doorwerken
+- [ ] Samenvoegscript `greek.nl.json`
+- [ ] Steekproef per tien brokken in `werk/lexicon/steekproef.md`
+- [ ] 4c. BDB (Hebreeuws), pas bij het OT
+
+Brokken (aantal en grootte bepalen na de dekkingsmeting en de eerste vijf brokken): nog niet aangemaakt.
+
+## 5. WP5 — Weergaven berekenen
+
+- [ ] B6 besluiten
+- [ ] `bereken-weergaven.js` over alle koppelingen
+- [ ] Normalisatie (hoofdletters samen, verbuigingen apart)
+- [ ] Uitvoer per Strong-nummer, per boek
+
+## 6. WP6 — Site
+
+- [ ] Woordpaneel (§5 van het plan)
+- [ ] Tweerichtingsmarkering Nederlands ↔ grondtekst
+- [ ] `/strong/[nummer]` uitbreiden
+- [ ] KJV-weergaven per nummer vervangen (B4)
+- [ ] Concordantie in Bijbelvolgorde
+- [ ] API: lexicon, koppeling, weergaven
+- [ ] Bronvermelding op elke Strong-pagina; naamsvermelding voor CC BY-onderdelen
+- [ ] Controle in de preview: Filemon en een hoofdstuk zonder koppeling
+
+## 7. Hoofdstukken en brokken afmaken
+
+- [ ] WP4 rest van het Grieks
+- [ ] WP4 Hebreeuws (BDB) bij het OT
+
+## 8. WP7 — Kwaliteitsrapport
+
+- [ ] `pipeline/scripts/maak-kwaliteitsrapport.js` → `docs/kwaliteitsrapport.html`

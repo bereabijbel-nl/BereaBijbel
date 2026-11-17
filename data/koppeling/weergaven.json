@@ -5,7 +5,7 @@
 			{
 				"nl": null,
 				"soort": "niet weergegeven",
-				"aantal": 21,
+				"aantal": 22,
 				"vindplaatsen": [
 					"phm 1:1",
 					"phm 1:2",
@@ -15,6 +15,7 @@
 					"phm 1:5",
 					"phm 1:5",
 					"phm 1:6",
+					"phm 1:7",
 					"phm 1:10",
 					"phm 1:10",
 					"phm 1:12",
@@ -57,23 +58,15 @@
 			},
 			{
 				"nl": "dat",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:6"
 				]
 			},
 			{
-				"nl": "liefde",
-				"soort": "uitdrukking",
-				"aantal": 1,
-				"vindplaatsen": [
-					"phm 1:7"
-				]
-			},
-			{
 				"nl": "wat",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:8"
@@ -81,7 +74,7 @@
 			},
 			{
 				"nl": "hij",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:11"
@@ -271,7 +264,7 @@
 			},
 			{
 				"nl": "bovendien",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:19"
@@ -423,15 +416,6 @@
 		"totaal": 5,
 		"weergaven": [
 			{
-				"nl": "hem",
-				"soort": "woord",
-				"aantal": 2,
-				"vindplaatsen": [
-					"phm 1:11",
-					"phm 1:13"
-				]
-			},
-			{
 				"nl": null,
 				"soort": "niet weergegeven",
 				"aantal": 1,
@@ -448,8 +432,24 @@
 				]
 			},
 			{
-				"nl": "dan",
+				"nl": "hem",
 				"soort": "uitdrukking",
+				"aantal": 1,
+				"vindplaatsen": [
+					"phm 1:11"
+				]
+			},
+			{
+				"nl": "hem",
+				"soort": "woord",
+				"aantal": 1,
+				"vindplaatsen": [
+					"phm 1:13"
+				]
+			},
+			{
+				"nl": "dan",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:21"
@@ -555,7 +555,7 @@
 			},
 			{
 				"nl": "daarom",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:15"
@@ -567,20 +567,27 @@
 		"totaal": 4,
 		"weergaven": [
 			{
-				"nl": "als",
-				"soort": "woord",
-				"aantal": 2,
-				"vindplaatsen": [
-					"phm 1:14",
-					"phm 1:16"
-				]
-			},
-			{
 				"nl": "ik",
 				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:9"
+				]
+			},
+			{
+				"nl": "als het ware",
+				"soort": "uitdrukking",
+				"aantal": 1,
+				"vindplaatsen": [
+					"phm 1:14"
+				]
+			},
+			{
+				"nl": "als",
+				"soort": "woord",
+				"aantal": 1,
+				"vindplaatsen": [
+					"phm 1:16"
 				]
 			},
 			{
@@ -614,7 +621,7 @@
 				]
 			},
 			{
-				"nl": "om",
+				"nl": "om nog maar",
 				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
@@ -657,7 +664,7 @@
 		"totaal": 3,
 		"weergaven": [
 			{
-				"nl": "bij",
+				"nl": "thuis",
 				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
@@ -666,7 +673,7 @@
 			},
 			{
 				"nl": "afgedwongen",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:14"
@@ -674,7 +681,7 @@
 			},
 			{
 				"nl": "vrijwillig",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:14"
@@ -717,8 +724,8 @@
 				]
 			},
 			{
-				"nl": "ik noem",
-				"soort": "uitdrukking",
+				"nl": "noem",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:4"
@@ -732,18 +739,11 @@
 			{
 				"nl": "liefde",
 				"soort": "woord",
-				"aantal": 2,
+				"aantal": 3,
 				"vindplaatsen": [
 					"phm 1:5",
+					"phm 1:7",
 					"phm 1:9"
-				]
-			},
-			{
-				"nl": "liefde",
-				"soort": "uitdrukking",
-				"aantal": 1,
-				"vindplaatsen": [
-					"phm 1:7"
 				]
 			}
 		]
@@ -761,7 +761,7 @@
 			},
 			{
 				"nl": "bij",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:13"
@@ -834,8 +834,8 @@
 				]
 			},
 			{
-				"nl": "zou zijn",
-				"soort": "uitdrukking",
+				"nl": "zijn",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:14"
@@ -848,7 +848,7 @@
 		"weergaven": [
 			{
 				"nl": "mijn eigen",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 3,
 				"vindplaatsen": [
 					"phm 1:10",
@@ -878,7 +878,7 @@
 		"weergaven": [
 			{
 				"nl": "hij",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:12"
@@ -886,7 +886,7 @@
 			},
 			{
 				"nl": "daarom",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:15"
@@ -906,27 +906,20 @@
 		"totaal": 3,
 		"weergaven": [
 			{
+				"nl": "meer dan",
+				"soort": "woord",
+				"aantal": 2,
+				"vindplaatsen": [
+					"phm 1:16",
+					"phm 1:21"
+				]
+			},
+			{
 				"nl": "namens",
 				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:13"
-				]
-			},
-			{
-				"nl": "meer dan",
-				"soort": "uitdrukking",
-				"aantal": 1,
-				"vindplaatsen": [
-					"phm 1:16"
-				]
-			},
-			{
-				"nl": "meer",
-				"soort": "uitdrukking",
-				"aantal": 1,
-				"vindplaatsen": [
-					"phm 1:21"
 				]
 			}
 		]
@@ -992,7 +985,7 @@
 				]
 			},
 			{
-				"nl": "liefde",
+				"nl": "maakt",
 				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
@@ -1104,7 +1097,7 @@
 		"weergaven": [
 			{
 				"nl": "heel",
-				"soort": "woord",
+				"soort": "uitdrukking",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:7"
@@ -1166,18 +1159,11 @@
 		"totaal": 2,
 		"weergaven": [
 			{
-				"nl": "doe ik een beroep op",
-				"soort": "uitdrukking",
-				"aantal": 1,
+				"nl": "doe beroep",
+				"soort": "woord",
+				"aantal": 2,
 				"vindplaatsen": [
-					"phm 1:9"
-				]
-			},
-			{
-				"nl": "ik doe een beroep op",
-				"soort": "uitdrukking",
-				"aantal": 1,
-				"vindplaatsen": [
+					"phm 1:9",
 					"phm 1:10"
 				]
 			}
@@ -1477,7 +1463,7 @@
 		"weergaven": [
 			{
 				"nl": "noem",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:4"
@@ -1528,7 +1514,7 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "krachtig",
+				"nl": "krachtig doorwerken",
 				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
@@ -1541,8 +1527,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "gaat doorwerken",
-				"soort": "uitdrukking",
+				"nl": "doorwerken",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:6"
@@ -1646,7 +1632,7 @@
 		"weergaven": [
 			{
 				"nl": "oude man",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:9"
@@ -1749,8 +1735,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "ik stuur terug",
-				"soort": "uitdrukking",
+				"nl": "stuur terug",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:11"
@@ -1762,8 +1748,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "had het liefst",
-				"soort": "uitdrukking",
+				"nl": "had liefst",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:13"
@@ -1893,7 +1879,7 @@
 		"weergaven": [
 			{
 				"nl": "afgedwongen",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:14"
@@ -1906,7 +1892,7 @@
 		"weergaven": [
 			{
 				"nl": "vrijwillig",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:14"
@@ -1984,7 +1970,7 @@
 		"weergaven": [
 			{
 				"nl": "niet langer",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:16"
@@ -2074,8 +2060,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "hij onrecht heeft aangedaan",
-				"soort": "uitdrukking",
+				"nl": "onrecht aangedaan",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:18"
@@ -2100,8 +2086,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "schuldig is",
-				"soort": "uitdrukking",
+				"nl": "schuldig",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:18"
@@ -2113,8 +2099,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "breng in rekening",
-				"soort": "uitdrukking",
+				"nl": "breng rekening",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:18"
@@ -2165,8 +2151,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "je schuldig bent",
-				"soort": "uitdrukking",
+				"nl": "schuldig",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:19"
@@ -2191,8 +2177,8 @@
 		"totaal": 1,
 		"weergaven": [
 			{
-				"nl": "moge profijt hebben",
-				"soort": "uitdrukking",
+				"nl": "profijt hebben",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:20"
@@ -2257,7 +2243,7 @@
 		"weergaven": [
 			{
 				"nl": "maak gereed",
-				"soort": "uitdrukking",
+				"soort": "woord",
 				"aantal": 1,
 				"vindplaatsen": [
 					"phm 1:22"

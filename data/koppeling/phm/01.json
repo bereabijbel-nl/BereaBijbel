@@ -1,7 +1,7 @@
 {
 	"boek": "phm",
 	"hoofdstuk": 1,
-	"bron": "Proef: woordkoppeling van de bestaande vertaling aan RP2018, gemaakt door Claude. Niet door een mens nagekeken.",
+	"bron": "Woordkoppeling van de bestaande vertaling aan RP2018, gemaakt door Claude in de compacte notatie (werk/koppeling). Niet door een mens nagekeken.",
 	"notatie": "bron = plaatsen (vanaf 0) in data/grondtekst/nt/<boek>/<hoofdstuk>.json, veld verzen[].woorden. 'gewogen' ontbreekt bewust: dat is een besluit van de vertaler.",
 	"verzen": [
 		{
@@ -105,7 +105,8 @@
 						12
 					]
 				}
-			]
+			],
+			"opmerking": "11 και: 'geliefde en medearbeider' staat in het Nederlands zonder 'en'."
 		},
 		{
 			"vers": 2,
@@ -215,9 +216,10 @@
 				},
 				{
 					"nl": "bij",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
-						11
+						11,
+						12
 					]
 				},
 				{
@@ -231,6 +233,7 @@
 					"nl": "thuis",
 					"type": "woord",
 					"bron": [
+						11,
 						12
 					]
 				},
@@ -316,8 +319,10 @@
 				},
 				{
 					"nl": "van",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						4
+					]
 				},
 				{
 					"nl": "de",
@@ -387,8 +392,10 @@
 				},
 				{
 					"nl": "wanneer",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						7
+					]
 				},
 				{
 					"nl": "ik",
@@ -427,7 +434,7 @@
 				},
 				{
 					"nl": "noem",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						5,
 						7
@@ -440,8 +447,10 @@
 			"koppeling": [
 				{
 					"nl": "omdat",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						0
+					]
 				},
 				{
 					"nl": "ik",
@@ -461,7 +470,7 @@
 					"nl": "van",
 					"type": "segment",
 					"bron": [
-						0
+						1
 					]
 				},
 				{
@@ -515,8 +524,10 @@
 				},
 				{
 					"nl": "van",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						3
+					]
 				},
 				{
 					"nl": "je",
@@ -553,7 +564,8 @@
 						17
 					]
 				}
-			]
+			],
+			"opmerking": "7 ην en 8 εχεις ('die je hebt'): niet weergegeven. 13 και: tweede 'en' niet weergegeven."
 		},
 		{
 			"vers": 6,
@@ -593,6 +605,7 @@
 					"nl": "in",
 					"type": "segment",
 					"bron": [
+						3,
 						4
 					]
 				},
@@ -626,7 +639,7 @@
 				},
 				{
 					"nl": "doorwerken",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						6,
 						7
@@ -655,6 +668,7 @@
 					"nl": "van",
 					"type": "segment",
 					"bron": [
+						10,
 						11
 					]
 				},
@@ -679,7 +693,7 @@
 				},
 				{
 					"nl": "dat",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						12
 					]
@@ -705,8 +719,10 @@
 				},
 				{
 					"nl": "gericht",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						15
+					]
 				},
 				{
 					"nl": "op",
@@ -750,10 +766,8 @@
 				},
 				{
 					"nl": "liefde",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
-						6,
-						7,
 						8
 					]
 				},
@@ -761,7 +775,9 @@
 					"nl": "maakt",
 					"type": "segment",
 					"bron": [
-						2
+						0,
+						2,
+						6
 					]
 				},
 				{
@@ -773,7 +789,7 @@
 				},
 				{
 					"nl": "heel",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						3
 					]
@@ -904,8 +920,10 @@
 				},
 				{
 					"nl": "hoewel",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						5
+					]
 				},
 				{
 					"nl": "ik",
@@ -951,8 +969,10 @@
 				},
 				{
 					"nl": "om",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						6
+					]
 				},
 				{
 					"nl": "je",
@@ -977,9 +997,10 @@
 				},
 				{
 					"nl": "wat",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
-						8
+						8,
+						9
 					]
 				},
 				{
@@ -1004,14 +1025,15 @@
 					"type": "toevoeging",
 					"bron": []
 				}
-			]
+			],
+			"opmerking": "1 πολλην ('veel, groot'): weergegeven met 'alle'."
 		},
 		{
 			"vers": 9,
 			"koppeling": [
 				{
 					"nl": "doe",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -1060,7 +1082,7 @@
 				},
 				{
 					"nl": "beroep",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -1100,14 +1122,14 @@
 				},
 				{
 					"nl": "oude",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						9
 					]
 				},
 				{
 					"nl": "man",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						9
 					]
@@ -1180,7 +1202,7 @@
 				},
 				{
 					"nl": "doe",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						0
 					]
@@ -1194,7 +1216,7 @@
 				},
 				{
 					"nl": "beroep",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						0
 					]
@@ -1222,14 +1244,14 @@
 				},
 				{
 					"nl": "mijn",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
 				},
 				{
 					"nl": "eigen",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -1316,7 +1338,7 @@
 				},
 				{
 					"nl": "hij",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						0
 					]
@@ -1417,14 +1439,14 @@
 				},
 				{
 					"nl": "stuur",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						11
 					]
 				},
 				{
 					"nl": "hem",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						10
 					]
@@ -1441,7 +1463,7 @@
 				},
 				{
 					"nl": "terug",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						11
 					]
@@ -1474,7 +1496,7 @@
 				},
 				{
 					"nl": "hij",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						3
 					]
@@ -1488,14 +1510,14 @@
 				},
 				{
 					"nl": "mijn",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						6
 					]
 				},
 				{
 					"nl": "eigen",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						6
 					]
@@ -1507,7 +1529,8 @@
 						7
 					]
 				}
-			]
+			],
+			"opmerking": "0 συ ('jij', nadrukkelijk): niet weergegeven."
 		},
 		{
 			"vers": 13,
@@ -1521,7 +1544,7 @@
 				},
 				{
 					"nl": "had",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						2
 					]
@@ -1542,14 +1565,14 @@
 				},
 				{
 					"nl": "liefst",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						2
 					]
 				},
 				{
 					"nl": "bij",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						3
 					]
@@ -1577,8 +1600,10 @@
 				},
 				{
 					"nl": "hij",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						9
+					]
 				},
 				{
 					"nl": "mij",
@@ -1603,8 +1628,10 @@
 				},
 				{
 					"nl": "zou",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						9
+					]
 				},
 				{
 					"nl": "dienen",
@@ -1639,13 +1666,16 @@
 				},
 				{
 					"nl": "zit",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						13
+					]
 				},
 				{
 					"nl": "voor",
 					"type": "segment",
 					"bron": [
+						14,
 						15
 					]
 				},
@@ -1771,7 +1801,7 @@
 				},
 				{
 					"nl": "als",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
 						10
 					]
@@ -1792,7 +1822,7 @@
 				},
 				{
 					"nl": "afgedwongen",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						11,
 						12
@@ -1807,7 +1837,7 @@
 				},
 				{
 					"nl": "zijn",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						16
 					]
@@ -1821,7 +1851,7 @@
 				},
 				{
 					"nl": "vrijwillig",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						18,
 						19
@@ -1867,7 +1897,7 @@
 				},
 				{
 					"nl": "daarom",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						2,
 						3
@@ -1882,8 +1912,10 @@
 				},
 				{
 					"nl": "korte",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						6
+					]
 				},
 				{
 					"nl": "tijd",
@@ -1965,14 +1997,14 @@
 			"koppeling": [
 				{
 					"nl": "niet",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						0
 					]
 				},
 				{
 					"nl": "langer",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						0
 					]
@@ -2005,14 +2037,14 @@
 				},
 				{
 					"nl": "meer",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
 				},
 				{
 					"nl": "dan",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -2095,14 +2127,16 @@
 					"nl": "des",
 					"type": "segment",
 					"bron": [
-						10
+						10,
+						12
 					]
 				},
 				{
 					"nl": "te",
 					"type": "segment",
 					"bron": [
-						10
+						10,
+						12
 					]
 				},
 				{
@@ -2313,7 +2347,7 @@
 				},
 				{
 					"nl": "onrecht",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						3
 					]
@@ -2327,7 +2361,7 @@
 				},
 				{
 					"nl": "aangedaan",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						3
 					]
@@ -2353,7 +2387,7 @@
 				},
 				{
 					"nl": "schuldig",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						6
 					]
@@ -2367,7 +2401,7 @@
 				},
 				{
 					"nl": "breng",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						9
 					]
@@ -2400,7 +2434,7 @@
 				},
 				{
 					"nl": "rekening",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						9
 					]
@@ -2445,14 +2479,14 @@
 				},
 				{
 					"nl": "mijn",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
 				},
 				{
 					"nl": "eigen",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -2499,13 +2533,17 @@
 				},
 				{
 					"nl": "nog",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						8
+					]
 				},
 				{
 					"nl": "maar",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						8
+					]
 				},
 				{
 					"nl": "niet",
@@ -2516,8 +2554,10 @@
 				},
 				{
 					"nl": "te",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						10
+					]
 				},
 				{
 					"nl": "zeggen",
@@ -2549,9 +2589,10 @@
 				},
 				{
 					"nl": "bovendien",
-					"type": "woord",
+					"type": "segment",
 					"bron": [
-						13
+						13,
+						16
 					]
 				},
 				{
@@ -2570,7 +2611,7 @@
 				},
 				{
 					"nl": "schuldig",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						16
 					]
@@ -2636,7 +2677,7 @@
 				},
 				{
 					"nl": "profijt",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -2657,7 +2698,7 @@
 				},
 				{
 					"nl": "hebben",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						4
 					]
@@ -2718,7 +2759,7 @@
 					"nl": "op",
 					"type": "segment",
 					"bron": [
-						2
+						0
 					]
 				},
 				{
@@ -2756,8 +2797,10 @@
 				},
 				{
 					"nl": "want",
-					"type": "toevoeging",
-					"bron": []
+					"type": "segment",
+					"bron": [
+						6
+					]
 				},
 				{
 					"nl": "ik",
@@ -2796,7 +2839,7 @@
 				},
 				{
 					"nl": "meer",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						9
 					]
@@ -2817,8 +2860,9 @@
 				},
 				{
 					"nl": "dan",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
+						9,
 						10
 					]
 				},
@@ -2836,14 +2880,15 @@
 						11
 					]
 				}
-			]
+			],
+			"opmerking": "5 σοι ('aan jou'): niet weergegeven."
 		},
 		{
 			"vers": 22,
 			"koppeling": [
 				{
 					"nl": "Maak",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						3
 					]
@@ -2890,7 +2935,7 @@
 				},
 				{
 					"nl": "gereed",
-					"type": "segment",
+					"type": "woord",
 					"bron": [
 						3
 					]
@@ -2986,7 +3031,8 @@
 						13
 					]
 				}
-			]
+			],
+			"opmerking": "1 δε: niet weergegeven."
 		},
 		{
 			"vers": 23,
