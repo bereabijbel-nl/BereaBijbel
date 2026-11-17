@@ -40,7 +40,7 @@ Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenze
 | 1jo | 1–5 | alle 5 gecontroleerd (wachten op nakijken) |
 | 2jo | 1 | gecontroleerd (wacht op nakijken) |
 | rom | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
-| 1co | 1–16 | open |
+| 1co | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
 | mrk | 1–16 | open |
 | joh | 1–21 | open |
 | mat | 1–28 | open |
@@ -51,9 +51,19 @@ Per boek: steekproef door de vertaler, twee verzen per hoofdstuk, in de HTML-wee
 
 Meldingen over de Nederlandse tekst: `werk/meldingen.md`.
 
+### Lijst met vragen voor de vertaler (pas maken als de koppeling van het NT klaar is)
+
+Besluit van de gebruiker: de lijst (alleen "vraag voor de vertaler", bij voorkeur als CSV met een kolom voor het antwoord) wordt pas gemaakt als alles wat er nu is klaar is (Marcus, Johannes, Mattheüs). Tot dan blijven de vragen in `werk/meldingen.md`. Neem dan ook deze losse punten mee, die nog niet in de meldingen staan:
+
+- `data/namentabel.json` bestaat niet. Eigennamen zijn bij het koppelen niet gecontroleerd (vermeld door de agent voor 1 Korinthe 13–16).
+- "HEER" in hoofdletters staat in citaten voor κύριος (bijvoorbeeld 1 Korinthe 1:31, 10:26, 14:21). De projectconventie noemt "HEERE" voor het Tetragrammaton en "Heere" voor adonay. Vraag: welke schrijfwijze geldt in citaten uit het OT?
+- ἀδελφοί is overal als "broeders en zusters" gekoppeld (`en~ zusters=`). Het Grieks heeft alleen één woord; "en zusters" is eigenlijk een toevoeging. Vraag: koppelen als `~` (zoals nu) of als `+`?
+- Het Nederlands heeft hetzelfde Griekse woord op verschillende plekken verschillend vertaald (bijvoorbeeld βίος, δικαιόω, κατεργάζομαι, παρθένος, ἐξουσία). De losse gevallen staan in de meldingen onder de soort "controle 9: consistentie".
+- Tekstvarianten zijn alleen gesignaleerd ("vermoeden, niet nagegaan"). Het bewijs moet uit een machineleesbaar apparaat komen (absolute regel 2).
+
 ### Stand 2026-11-17 (doorgewerkt zonder nakijken)
 
-Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16. Volgende open eenheid: 1co 1.
+Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16, 1co 1–16. Volgende open eenheid: mrk 1 (op verzoek is na 1 Korinthe gestopt).
 
 Risico: de afspraken in de notatie (`=` / `~` / `+`) zijn nog niet goedgekeurd. Keurt de collega ze af, dan moeten de hoofdstukken hierboven worden omgezet. Dat kan met een script op de .txt-bestanden in `werk/koppeling/`.
 
