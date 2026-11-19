@@ -41,8 +41,8 @@ Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenze
 | 2jo | 1 | gecontroleerd (wacht op nakijken) |
 | rom | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
 | 1co | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
-| mrk | 1–16 | open |
-| joh | 1–21 | open |
+| mrk | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
+| joh | 1–21 | alle 21 gecontroleerd (wachten op nakijken) |
 | mat | 1–28 | open |
 
 Totaal: 1 + 4 + 4 + 5 + 1 + 16 + 16 + 16 + 21 + 28 = 112 hoofdstukken.
@@ -63,7 +63,7 @@ Besluit van de gebruiker: de lijst (alleen "vraag voor de vertaler", bij voorkeu
 
 ### Stand 2026-11-17 (doorgewerkt zonder nakijken)
 
-Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16, 1co 1–16. Volgende open eenheid: mrk 1 (op verzoek is na 1 Korinthe gestopt).
+Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16, 1co 1–16, mrk 1–16, joh 1–21. Volgende open eenheid: mat 1.
 
 Risico: de afspraken in de notatie (`=` / `~` / `+`) zijn nog niet goedgekeurd. Keurt de collega ze af, dan moeten de hoofdstukken hierboven worden omgezet. Dat kan met een script op de .txt-bestanden in `werk/koppeling/`.
 
