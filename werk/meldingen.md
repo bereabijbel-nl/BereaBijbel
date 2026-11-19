@@ -2050,3 +2050,869 @@ Niet weergegeven: δέ (v1, v4, v6, v8, v12, v19, v20), οὖν (v5, v6, v7, v9,
 | 25 | ἀμήν (G281) | "Amen": vermoeden, niet nagegaan: dit woord staat niet in alle handschriften | tekstvariant (vermoeden) |
 
 Versgrenzen: alle 25 verzen komen overeen met het Grieks. Tekstvarianten: behalve v25 niet gecontroleerd.
+
+## Mattheüs 1
+
+Niet weergegeven: δε (v2 tot en met v16, v18 tot en met v22 en v24; in de verwekkingsreeks soms twee keer per vers), γαρ (v18, 'want'), λεγοντος (v22, 'zeggend'; de dubbele punt staat ervoor), και (v25 aan het begin).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | γενεσεως (G1078) | "oorsprong": het Griekse woord kan 'oorsprong', 'afkomst' of 'geslacht' zijn (lexicon niet nagegaan). In v18 staat γεννησις (G1083) als "geboorte". Wat het "boek" omvat (de stamboom of het hele evangelie) laat het Nederlands open | toelichting |
+| 3, 5, 6 | εκ (G1537) | "bij Tamar", "bij Rachab", "bij Ruth", "bij de vrouw van Uria": εκ is 'uit'. In v16 staat εξ ης als "uit haar". Hetzelfde voorzetsel is in v3, v5 en v6 "bij" en in v16 "uit" | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 6 | της του ουριου (G3774) | "de vrouw van Uria": "vrouw" is aangevuld; het Grieks heeft alleen 'die van Uria'. Dat het om Uria's vrouw gaat is een conclusie uit de context | toelichting (controle 2: toevoeging) |
+| 11, 12, 17 | βαβυλωνος (G897) | "wegvoering naar Babylon": het Grieks heeft een tweede naamval ('wegvoering van Babylon'). "naar" kiest de richting en laat andere lezingen ('door Babylon') vallen | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 11 | επι (G1909) | "in de tijd van": het Grieks heeft 'op, bij'. "tijd" is aangevuld | toelichting |
+| 16, 20 | εγεννηθη, γεννηθεν (G1080) | v16 "werd ... geboren", v20 "verwekt": hetzelfde lijdende werkwoord is twee keer anders weergegeven. In v2-v16 is de bedrijvende vorm εγεννησεν "verwekte". Het onderscheid 'verwekt' (v20) en 'geboren' (v16) volgt de context, maar is een keuze | vraag voor de vertaler (controle 9: consistentie) |
+| 18 | γαρ (G1063) | niet weergegeven. "en voordat zij samenkwamen" heeft een aangevuld "en"; het Grieks heeft 'want' (verklarend) | toelichting (controle 5: discourse-relaties) |
+| 18, 23 | εν γαστρι εχουσα, εν γαστρι εξει (G1064, G2192) | "zwanger" (v18) en "zwanger worden" (v23): het Grieks heeft 'in de buik hebben'. Het Nederlands gebruikt een vaste uitdrukking. In v23 is 'zal hebben' (toestand) "zal ... worden" (verandering) | toelichting (controle 4) |
+| 19 | παραδειγματισαι (G3856) | "in het openbaar te schande maken": vermoeden, lexicon niet nagegaan: het werkwoord bevat misschien zelf het openbare ('tot voorbeeld stellen'). Dan is "in het openbaar" geen toevoeging | toelichting |
+| 19 | απολυσαι (G630) | "verstoten": het Grieks heeft 'laten gaan, wegsturen, scheiden'. "verstoten" is sterker dan het Griekse woord | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 20, 24 | παραλαβειν, παρελαβεν (G3880) | "bij u te nemen" (v20) en "nam ... bij zich" (v24): "bij u" en "bij zich" zijn aangevuld; het Grieks heeft 'tot zich nemen' met één werkwoord. In beide verzen gelijk weergegeven | toelichting |
+| 21 | αυτος (G846) | "Hij is het die": het Grieks heeft alleen een nadrukkelijk onderwerp ('Hijzelf'). Het Nederlands gebruikt een uitgesproken zinsvorm | toelichting |
+| 21, 23, 25 | καλεσεις, καλεσουσιν, εκαλεσεν (G2564) | "de naam ... geven": het Grieks heeft 'noemen, roepen'. In alle drie de verzen hetzelfde weergegeven | toelichting |
+| 25 | εγινωσκεν (G1097) | "had geen gemeenschap met haar": het Grieks heeft 'kende haar niet' (eufemisme). De beeldspraak is door een uitleg vervangen | vraag voor de vertaler (controle 6: beeldspraak vervangen) |
+| 25 | τον υιον αυτης τον πρωτοτοκον (G4416) | "haar eerstgeboren zoon": vermoeden, niet nagegaan: andere uitgaven hebben hier mogelijk een kortere lezing ('een zoon'). Hier niet beoordeeld | tekstvariant (vermoeden) |
+
+Versgrenzen: alle 25 verzen komen overeen met het Grieks. De verwekkingsreeks v2 tot en met v16 is in het Nederlands en het Grieks gelijk verdeeld; v17 sluit er als samenvatting op aan.
+
+## Mattheüs 2
+
+Niet weergegeven: δε (v1, v3, v5, v9, v10, v13, v14, v19, v21, v22 (de eerste)), και (v11 tussen goud en wierook, een komma; v13 tussen "vlucht naar Egypte" en "Blijf daar"; v15 aan het begin; v18 twee keer, een komma en een punt; v23 aan het begin), λεγοντος (v15 en v17, 'zeggend'; de dubbele punt staat ervoor), ελθων (v9, 'gekomen zijnde'; het zit in "stilstond"), εν (v16, tweede 'in' bij "de hele omgeving"; het eerste "in" is gedeeld).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1, 2, 9 | ανατολων, ανατολη (G395) | v1 "oosten", v2 en v9 "zien opkomen": hetzelfde stamwoord ('opkomst, oosten') is twee keer anders weergegeven. Het verband tussen "wijzen uit het oosten" en de ster "in het oosten" is verloren. Of de ster 'bij haar opkomen' of 'in het oosten' werd gezien, is een exegetische keuze | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9) |
+| 2, 5 | λεγοντες, ειπον (G3004) | v2 "Zij vroegen" voor 'zeggend', v5 "Zij antwoordden" voor 'zij zeiden'. Het Nederlands kiest een eigen spreekwerkwoord naar de context | toelichting (controle 3) |
+| 2, 8, 11 | προσκυνησαι, προσκυνησω, προσεκυνησαν (G4352) | "neer te buigen", "bogen zich ... neer": het Griekse werkwoord kan 'zich neerbuigen' of 'aanbidden' zijn. In 4:9 en 4:10 staat dezelfde stam als "aanbidt" en "aanbidden". Het Nederlands geeft in dit hoofdstuk de lichamelijke houding | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9: consistentie met Mattheüs 4) |
+| 6 | ηγεμοσιν, ηγουμενος (G2232, G2233) | "vorsten" en "leider": zelfde stam, twee Nederlandse woorden. Het woordspel is verloren | toelichting (controle 9) |
+| 7, 16, 17 | τοτε (G5119) | "Daarop" (v7), "nu" (v16), "Toen" (v17). Hetzelfde woord heeft drie weergaven; "nu" in v16 is het verst van het Grieks | vraag voor de vertaler (controle 9: consistentie) |
+| 7 | του φαινομενου αστερος (G5316) | "wanneer de ster verschenen was": het Grieks heeft een tegenwoordig deelwoord ('de zich vertonende ster'). Het Nederlands kiest een voltooid verleden tijd | toelichting (controle 4: tijd) |
+| 8 | δε (G1161) | "dan" in "laat het mij dan weten": δε is hier met 'dan' weergegeven, elders in dit hoofdstuk niet weergegeven | toelichting |
+| 9 | επανω ου (G1883, G3757) | "boven de plaats waar": "de plaats" is aangevuld; het Grieks heeft 'boven waar' | toelichting (controle 2: toevoeging) |
+| 10 | εχαρησαν χαραν μεγαλην σφοδρα (G5463, G5479) | "werden ... vervuld van overweldigende vreugde": het Grieks heeft 'verheugden zich met zeer grote vreugde'. Het werkwoord is een lijdende constructie geworden en "overweldigend" is sterker dan 'zeer groot' | toelichting (controle 3) |
+| 11 | θησαυρους (G2344) | "schatkisten": het Grieks heeft 'schatten, schatkamers'. "kisten" is een uitleg (vermoeden, lexicon niet nagegaan) | toelichting |
+| 12 | αυτων (G846) | "hun eigen land": "eigen" is aangevuld | toelichting (controle 2) |
+| 14, 21 | ο δε (G3588, G1161) | "Jozef": het Grieks heeft 'hij'; de naam is aangevuld. Hetzelfde in v9 ("zij") waar het Grieks οι δε heeft | toelichting (controle 2) |
+| 16 | ενεπαιχθη (G1702) | "bedrogen": vermoeden, lexicon niet nagegaan: het werkwoord betekent 'bespot, voor de gek gehouden'. "bedrogen" is een andere betekenis | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 16 | αποστειλας ανειλεν (G649, G337) | "liet ... doden": het Grieks heeft 'zendend ... doodde'. Het zenden is niet apart weergegeven; "liet" draagt het | toelichting (controle 1: omissie) |
+| 16 | παιδας (G3816) | "jongens": παις kan 'kind' of 'jongen' zijn. Het Nederlands kiest 'jongens'; 'kinderen' is ook mogelijk | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 16 | εν πασιν τοις οριοις αυτης (G3725) | "de hele omgeving": het Grieks heeft 'in al haar gebieden'. "haar" (van Bethlehem) is in "omgeving" opgenomen | toelichting |
+| 18 | πολυς (G4183) | "luid" bij "geweeklaag": het Grieks heeft 'veel, groot' (lexicon niet nagegaan). "luid" is een uitleg | toelichting |
+| 20 | ζητουντες την ψυχην του παιδιου (G2212, G5590) | "die het kind zochten te doden": het Grieks heeft 'zij die het leven (de ziel) van het kind zochten'. De uitdrukking is vervangen door een gewone zin; ψυχην is niet apart weergegeven | vraag voor de vertaler (controle 6: beeldspraak vervangen) |
+| 23 | ναζωραιος (G3480) | "Nazarener": vermoeden, niet nagegaan: de Griekse vorm komt misschien niet rechtstreeks van ναζαρετ (G3478). "Nazarener" legt het verband met de stad vast. Het citaat "door de profeten" is een exegetische kwestie en hier niet uitgewerkt | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+
+Versgrenzen: alle 23 verzen komen overeen met het Grieks. v5 eindigt op een dubbele punt en v6 bevat het citaat. v19 en v20 zijn in het Grieks één zin; v20 begint daar met λεγων ('zeggend') en in het Nederlands met "Die zei". v14-15 en v16-17 sluiten aan zoals in het Grieks.
+
+## Mattheüs 3
+
+Niet weergegeven: δε (v1, v4 twee keer, v10, v15), λεγοντος (v3, 'zeggend'; de dubbele punt staat ervoor), αυτου (v4, 'zijn' bij "kleding"), και (v5 tussen "Jeruzalem" en "heel Judea", een komma; v10 'ook' in ηδη δε και; v12 voor διακαθαριει, een nieuwe zin; v16 aan het begin), οτι (v9, na "ik zeg jullie"; de dubbele punt staat ervoor), λεγουσα (v17, 'zeggend').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1-2 | κηρυσσων, λεγων (G2784, G3004) | v1 "Hij predikte": het tegenwoordig deelwoord ('predikend') is een nieuwe zin met "Hij" geworden. v1 eindigt zonder punt en v2 begint met "en zei" voor λεγων | toelichting |
+| 3 | κυριου (G2962) | "de HEER" in hoofdletters: het Grieks heeft alleen κυριου. De hoofdletters volgen het Oude Testament (vermoeden, niet nagegaan: Jesaja 40:3 heeft daar de Godsnaam). Elders in Mattheüs staat "Heer" voor hetzelfde Griekse woord. Zelfde keuze in 4:7 en 4:10 | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9) |
+| 3 | φωνη βοωντος (G5456, G994) | "Een stem van iemand die roept": "iemand" is aangevuld; het Grieks heeft 'stem van een roepende' | toelichting |
+| 7 | υπεδειξεν (G5263) | "gewaarschuwd": vermoeden, lexicon niet nagegaan: het werkwoord is 'aanwijzen, tonen'. "waarschuwen" is een uitleg | toelichting (controle 3) |
+| 8, 10 | ποιησατε, ποιουν (G4160) | "Draag ... vrucht", "draagt": het Grieks heeft 'maak/doe'. "vrucht dragen" is een Nederlands idioom. In v3 is dezelfde stam ποιειτε "maak" | toelichting (controle 9) |
+| 9 | δοξητε λεγειν (G1380, G3004) | "denk niet dat jullie ... kunnen zeggen": het Grieks heeft 'meen niet te zeggen'. "dat" en "kunnen" zijn aangevuld en maken er een mogelijkheid van | vraag voor de vertaler (controle 2: toevoeging; controle 3) |
+| 9 | εν εαυτοις (G1722, G1438) | "bij jezelf": het Grieks heeft een meervoud ('bij/onder uzelf'), dat 'in gedachte' of 'onder elkaar' kan zijn. Het Nederlands kiest een enkelvoud en 'in gedachte' | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 9 | εγειραι (G1453) | "voortbrengen": het Grieks heeft 'doen opstaan, wekken'. Het Nederlands is abstracter | vraag voor de vertaler (controle 6: beeldspraak vervangen) |
+| 10 | ηδη δε και (G2235) | "Nu al": δε en και ('ook, zelfs') zijn niet weergegeven | toelichting |
+| 11 | εις μετανοιαν (G1519, G3341) | "met het oog op bekering": εις is 'tot, naar'. "met het oog op" kiest voor doel; 'tot bekering' kan ook gevolg of bedoeling zijn | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 11 | εν (G1722) | "met water", "met de Heilige Geest": εν is 'in'. Het Nederlands kiest 'met' (middel) en laat 'in' (sfeer) vallen. In v6 is εν τω ιορδανη "in de Jordaan" | vraag voor de vertaler (controle 7; controle 9) |
+| 11 | ικανος (G2425) | "waard": vermoeden, lexicon niet nagegaan: het Griekse woord is 'geschikt, bevoegd, voldoende'. 'Waard' is een ander woord | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 12 | πτυον (G4425) | "wanschop": het woord is oud en zeldzaam; of het B2 is, is de vraag | vraag voor de vertaler (controle 10: Nederlands) |
+| 14 | και (G2532) | "en toch": "toch" is aangevuld. και heeft hier een tegenstellende kleur, die het Nederlands uitdrukkelijk maakt | toelichting (controle 5: discourse-relaties) |
+| 15 | αποκριθεις ειπεν (G611, G3004) | "antwoordde": ειπεν is niet apart weergegeven | toelichting (controle 1) |
+| 5, 13, 15 | τοτε (G5119) | "Toen" (v5, v13), "Daarop" (v15). Zie ook 2:7, 2:16 en 2:17 | toelichting (controle 9) |
+| 2, 16, 17 | ουρανων, ουρανοι (G3772) | v2 "hemelen", v16 "de hemel" (voor οι ουρανοι, meervoud), v17 "de hemel" (voor των ουρανων, meervoud) | vraag voor de vertaler (controle 9: consistentie) |
+| 16 | ειδεν (G3708) | "Hij zag": het Grieks heeft geen uitdrukkelijk onderwerp. Het Nederlands kiest Jezus als onderwerp (hoofdletter "Hij") en ook "op Zich" verwijst dan naar Hem | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 16 | ερχομενον επ αυτον (G2064, G1909) | "op Zich komen zitten": "zitten" is aangevuld; het Grieks heeft 'komend op hem' | toelichting (controle 2: toevoeging) |
+| 17 | ευδοκησα (G2106) | "in wie Ik vreugde vind": het Grieks heeft een verleden tijd (aoristus). Het Nederlands kiest de tegenwoordige tijd en omschrijft het werkwoord ('welbehagen hebben') | vraag voor de vertaler (controle 4: tijd) |
+| 17 | (zinsbouw) | "er klonk een stem": "klonk" is aangevuld. λεγουσα ('zeggend') is niet weergegeven; de dubbele punt staat ervoor | toelichting |
+
+Versgrenzen: alle 17 verzen komen overeen met het Grieks. v1 eindigt zonder punt en v2 begint met "en zei"; dat klopt met het Grieks (και λεγων). v8 en v9 zijn één zin in het Nederlands ("Draag dan vrucht ..., en denk niet ..."). v12 begint in het Grieks met een betrekkelijk voornaamwoord (ου, 'wiens') en in het Nederlands met een nieuwe zin ("Hij heeft").
+
+## Mattheüs 4
+
+Niet weergegeven: δια (v4, 'door' bij "de mond"; 'uit' zit al in εκπορευομενω), και (v6 aan het begin; v8 voor δεικνυσιν, een nieuwe zin; v16 tussen de twee zinnen; v19 aan het begin; v21 voor εκαλεσεν, een nieuwe zin; v23 aan het begin en voor κηρυσσων; v24 aan het begin, voor προσηνεγκαν, twee keer in de opsomming (komma's) en voor εθεραπευσεν; v25 aan het begin en drie keer in de opsomming van plaatsen), οτι (v6, na "er staat geschreven"; de dubbele punt staat ervoor), δε (v12, v18), λεγοντος (v14, 'zeggend'; de dubbele punt staat ervoor), εκειθεν (v21, 'vandaar').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1, 3, 7 | πειρασθηναι, πειραζων, εκπειρασεις (G3985, G1598) | v1 "op de proef gesteld", v3 "De verzoeker", v7 "op de proef stellen": hetzelfde stamwoord is als werkwoord en als zelfstandig gebruikt deelwoord met twee verschillende Nederlandse woorden weergegeven. Het verband tussen 'verzoeker' en 'op de proef stellen' is verloren | vraag voor de vertaler (controle 9: consistentie) |
+| 3, 6 | υιος του θεου (G5207) | "de Zoon van God": het Grieks heeft geen lidwoord bij υιος. Het Nederlands kiest 'de Zoon'; 'een zoon van God' is ook mogelijk | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 3 | ειπε (G3004) | "beveel": het Grieks heeft 'zeg'. "dan" is aangevuld | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 2) |
+| 4 | ζησεται (G2198) | "leeft": het Grieks heeft een toekomende tijd; het Nederlands een tegenwoordige tijd voor een algemene uitspraak | toelichting (controle 4) |
+| 5 | πτερυγιον (G4419) | "rand": vermoeden, lexicon niet nagegaan: het Griekse woord is eigenlijk 'vleugeltje, uitstekend deel'. "rand" is algemener | toelichting (controle 3) |
+| 1, 5, 10, 11, 17 | τοτε (G5119) | v1 "Toen", v5 "Vervolgens", v10 "Toen", v11 "Daarop", v17 απο τοτε "Vanaf dat moment" | toelichting (controle 9) |
+| 6 | βαλε σεαυτον κατω (G906, G4572) | "spring naar beneden": het Grieks heeft 'werp jezelf naar beneden'. "spring" is een andere handeling dan 'werpen' | toelichting (controle 3) |
+| 6 | μηποτε (G3379) | "zodat U ... niet stoot": μηποτε is 'opdat niet, voor het geval dat'. "zodat" maakt van een negatief doel een gevolg | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 7, 8 | παλιν (G3825) | v7 "ook", v8 "Opnieuw": hetzelfde Griekse woord is twee keer anders weergegeven | toelichting (controle 9) |
+| 7, 10 | κυριον (G2962) | "de HEER" in hoofdletters: het Grieks heeft alleen κυριον. Zie de melding bij 3:3 | vraag voor de vertaler (controle 7; controle 9) |
+| 8 | δοξαν (G1391) | "pracht": elders wordt δοξα vaak als "heerlijkheid" weergegeven (bijvoorbeeld Kolossenzen 1:11, 1:27). Controle met het vertaalgeheugen niet gedaan | vraag voor de vertaler (controle 9: consistentie met het vertaalgeheugen) |
+| 9, 10 en 2:2, 2:8, 2:11 | προσκυνησης, προσκυνησεις (G4352) | v9 "aanbidt", v10 "aanbidden": in hoofdstuk 2 is hetzelfde werkwoord "neer te buigen", "bogen zich ... neer". In v9 staat bovendien πεσων ('neervallend') als "neervalt" | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 10, 11 | λατρευσεις, διηκονουν (G3000, G1247) | v10 "dienen", v11 "dienden": twee verschillende Griekse werkwoorden hebben één Nederlands woord | vraag voor de vertaler (controle 9) |
+| 11 | αφιησιν (G863) | "liet ... met rust": het Grieks heeft 'laat gaan, verlaat'. "met rust" is een uitleg | toelichting (controle 3) |
+| 13, 15, 18 | θαλασσα, παραθαλασσιαν (G2281, G3864) | v13 "aan het meer", v15 "de zee" (θαλασσης), v18 "het meer van Galilea" en "in het meer" (θαλασσαν). Hetzelfde Griekse woord ('zee') is "zee" en "meer". "meer" is een geografische keuze (Meer van Galilea) | vraag voor de vertaler (controle 9: consistentie) |
+| 15 | εθνων (G1484) | "heidenen": het Grieks heeft 'volken'. "heidenen" kiest voor 'niet-Joden' | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 16 | τοις καθημενοις ... αυτοις (G2521, G846) | "Over hen die ... zaten": het Grieks heeft twee aanduidingen ('hen die zaten' en 'voor hen'). Het Nederlands heeft één "hen" | toelichting |
+| 19 | ποιησω, και (G4160, G2532) | "dan maak Ik": het Grieks heeft een toekomende tijd (ποιησω) en 'en' (και). Het Nederlands kiest de tegenwoordige tijd en "dan" | toelichting (controle 4; controle 5) |
+| 21 | του ζεβεδαιου (G2199) | "de zoon van Zebedeüs": "zoon" is aangevuld; het Grieks heeft alleen 'de van Zebedeüs'. "zaten" is eveneens aangevuld (bij καταρτιζοντας, 'herstellend') | toelichting (controle 2: toevoeging) |
+| 24 | σεληνιαζομενους (G4583) | "mensen die aan toevallen leden": het Griekse woord is afgeleid van 'maan' (σεληνη). Of het hier om epilepsie gaat, is een medische conclusie. Vermoeden, niet nagegaan | vraag voor de vertaler (controle 6; controle 3) |
+| 24 | (zinsbouw) | "mensen" (twee keer) is aangevuld bij deelwoorden; "bezetenen" is voor δαιμονιζομενους ('door demonen bevangen') | toelichting (controle 2) |
+
+Versgrenzen: alle 25 verzen komen overeen met het Grieks. v13 en v14 zijn één zin ("... opdat vervuld zou worden"); v14 eindigt op een dubbele punt en v15-16 vormen het citaat, met een gedachtestreep aan het eind van v15.
+
+## Mattheüs 5
+
+Niet weergegeven: δε (v21, v22 twee keer, v29, v37), και (v1, v11, v15, v30, v40 twee keer, v41, v47), λεγων (v2), οτι (v20, v22, v28, v31, v32), ρημα (v11), ο λογος (v37, bij υμων), αλλ (v39), υμας (v44, tweede, bij διωκοντων), παραδω (v25, tweede, gapping). In v23 staan negen Nederlandse woorden die in het Grieks bij v24 horen (zie tabel).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2 | ανοιξας το στομα αυτου (G455, G4750) | "Hij begon te spreken": het Griekse 'zijn mond openend' (een bekende uitdrukking voor het begin van een toespraak) is vervangen door een uitleg. "begon" is een aangevulde beginbepaling; εδιδασκεν is verder een onvolmaakt verleden tijd ('onderwees') | vraag voor de vertaler (controle 6: beeldspraak vervangen door uitleg) |
+| 3 | πνευματι (G4151) | "arm zijn in hun geest": "hun" is aangevuld. Het Grieks heeft alleen 'arm in/voor de geest' (datief). Wat de geest is en wiens geest, blijft in het Grieks open | toelichting (controle 2: toevoeging; controle 7) |
+| 3, 10, 19, 20 | των ουρανων (G3772) | "koninkrijk der hemelen": "der" valt buiten B2 (zelfde keuze als in 13) | stijl |
+| 12, 16, 45, 48 | τοις ουρανοις (G3772) | het Grieks heeft meervoud ('in de hemelen'); het Nederlands heeft overal "in de hemel" (enkelvoud), alleen in "koninkrijk der hemelen" blijft het meervoud. Zo gaat het ook in 6 en 7 | toelichting (controle 9) |
+| 11 | ρημα (G4487), ψευδομενοι (G5574) | "allerlei kwaad van jullie spreken": παν πονηρον ρημα is 'elk slecht woord'; ρημα ('woord') is niet apart weergegeven | toelichting (controle 1: omissie) |
+| 13 | μωρανθη (G3471) | "als het zout zijn smaak verliest": het Grieks heeft 'dwaas/laf worden' (hetzelfde stamwoord als μωρος, 'dwaas'); het Nederlands geeft de uitleg in plaats van het woord. Ook zijn "dan weer" en "het" aangevuld bij αλισθησεται ('waarmee zal het gezouten worden') | vraag voor de vertaler (controle 6: beeldspraak vervangen door uitleg; controle 2) |
+| 15, 41 | μοδιον (G3426), μιλιον (G3400) | "korenmaat" (een Romeinse inhoudsmaat) en "mijl" (Romeinse mijl, ruim 1,4 km): letterlijk weergegeven, omrekening in de voetnoot ontbreekt (afspraak: maten en munten letterlijk, omrekening in de voetnoot) | toelichting |
+| 17, 19 | καταλυσαι (G2647), λυση (G3089) | v17 "af te schaffen" (twee keer) en v19 "afschaft": twee verschillende Griekse werkwoorden ('afbreken, ontbinden' en 'losmaken, buiten werking stellen'), één Nederlands woord | vraag voor de vertaler (controle 9: consistentie) |
+| 17 | πληρωσαι (G4137) | "in vervulling te laten gaan": één Grieks werkwoord ('vervullen, vol maken') wordt een omschrijving ('laten gaan'), waarin de wet of de profeten het werkwoord niet meer zelf krijgen. In 3:15 is hetzelfde werkwoord "te vervullen". Voetnoot bij 17 geeft de alternatieven al | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 18 | παρελθη (G3928) | "vergaan" (drie keer, ook voor jota en tittel): het Grieks heeft 'voorbijgaan, verdwijnen'. "Vergaan" is sterker ('te gronde gaan'). In 8:25 is "we vergaan" een ander Grieks woord (απολλυμεθα, G622) | toelichting (controle 3: betekenisverschuiving) |
+| 20 | περισσευση ... πλειον (G4052, G4183) | "niet veel verder gaat dan": het Grieks heeft 'meer overvloedig is dan' (een vergelijking waarin de gerechtigheid de schriftgeleerden moet overtreffen). "Niet veel verder" laat open of een kleine overschrijding volstaat; het beeld van overvloed is weg | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 6) |
+| 21, 22 | ενοχος (G1777) | v21 en v22a "moet zich voor het gericht verantwoorden", v22b "moet zich voor het Sanhedrin verantwoorden", v22c "verdient het vuur van de hel". Eén Grieks woord ('schuldig aan, onderworpen aan') wordt twee uitdrukkingen. "Verantwoorden" is zwakker dan 'schuldig aan'. Het climaxpatroon (drie keer ενοχος εσται) is niet te horen. Ook staat "het vuur van de hel" in omgekeerde volgorde: het Grieks heeft 'de gehenna van het vuur' | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 9) |
+| 22 | εικη (G1500) | "zonder reden": Vermoeden, niet nagegaan: andere uitgaven hebben dit woord mogelijk niet. De voetnoot bij v22 zegt zelf dat "veel Nederlandse Bijbels" het niet hebben. Die uitspraak komt niet uit een machineleesbaar apparaat en verwijst naar andere vertalingen. Volgens absolute regel 2 moet bewijs voor een variant uit het apparaat komen; de voetnoot is te herschrijven of te schrappen (beslissing voor de vertaler) | tekstvariant (vermoeden); voetnoot nakijken |
+| 22, 29, 30 | γεεννα (G1067) | "hel": het Grieks is een plaatsnaam (Gehenna, het Hinnomdal). "Hel" is een uitleg; in 10:28, 18:9, 23:15 en 23:33 is het ook "hel" | toelichting (controle 3) |
+| 23, 24 | αφες εκει το δωρον σου εμπροσθεν του θυσιαστηριου (G863, G1435, G2379) | versgrens: "laat je gave dan daar voor het altaar achter" staat in het Nederlands aan het eind van v23, in het Grieks is dit het begin van v24. De koppeling van v23 heeft daar geen Grieks equivalent, de koppeling van v24 mist die woorden | vraag voor de vertaler (versgrens klopt niet met het Grieks) |
+| 23, 24 | προσφερης, προσφερε (G4374), δωρον (G1435) | hetzelfde werkwoord is v23 "brengt" en v24 "te offeren"; δωρον is in v23 "offergave" en daarna "gave" (twee keer), in v24 "gave". In 8:4 is προσενεγκε "offer" en δωρον "gave" | vraag voor de vertaler (controle 9: consistentie) |
+| 25 | ευνοων (G2132) | "Kom snel tot een schikking": het Grieks heeft 'wees welwillend (goed gezind) jegens je tegenpartij'. Het Nederlands maakt er een rechtshandeling van (schikking). Een houding wordt een handeling | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 25 | μηποτε (G3379) | "Anders levert je tegenpartij je over": μηποτε leidt een doelzin in ('opdat niet'); het Nederlands maakt er een voorwaardelijke zin van. Dezelfde keuze in 7:6 en 13:15 | toelichting (controle 5: discourse-relaties) |
+| 33 | παλιν (G3825) | "Jullie hebben ook gehoord": παλιν is 'opnieuw, weer'. "Ook" geeft een ander verband (optelling in plaats van herhaling) | toelichting (controle 3) |
+| 37 | ναι ναι, ου ου (G3483, G3756), λογος (G3056) | "Laat jullie ja gewoon ja zijn, en jullie nee nee": het Grieks heeft 'laat uw woord zijn: ja ja, nee nee'. "Gewoon" en het tweede "jullie" zijn aangevuld, ο λογος ('het woord') is niet weergegeven. Het Grieks laat open of het een dubbel 'ja' is of 'ja moet ja zijn'; het Nederlands kiest het tweede | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 2; controle 1) |
+| 37, 39, 45 | πονηρος (G4190) | v11 "kwaad" (onzijdig), v37 "de boze", v39 "wie kwaad doet" (τω πονηρω, zelfde vorm als v37 maar met een andere keuze), v45 "slechten". Voetnoot bij v37 noemt de keuze, de hoofdtekst kiest toch verschillend voor persoon of abstractum | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 9, 45 | υιοι (G5207) | "kinderen van God" en "kinderen ... van jullie Vader": het Grieks heeft 'zonen'. In 7:9 is υιος "zoon" en in 8:29 "Zoon van God". Zie ook 13 (v38) | vraag voor de vertaler (controle 9: consistentie) |
+| 44 | ευλογειτε ... επηρεαζοντων (G2127, G1908) | "zegen wie jullie vervloeken, doe goed aan wie jullie haten ... slecht behandelen": Vermoeden, niet nagegaan: andere uitgaven hebben dit stuk korter of anders. Niet beoordeeld | tekstvariant (vermoeden) |
+| 47 | τι περισσον (G4053), τελωναι (G5057) | "wat doen jullie dan meer dan anderen": "dan anderen" is aangevuld; het Grieks heeft 'wat doen jullie buitengewoons'. Ook "Doen ook de tollenaars dat niet?": Vermoeden, niet nagegaan: andere uitgaven hebben hier 'de heidenen' in plaats van 'de tollenaars'. Niet beoordeeld | tekstvariant (vermoeden); toelichting (controle 2: toevoeging) |
+| 48 | εσεσθε (G1510) | "Jullie moeten dus volmaakt zijn": het Grieks heeft een toekomende tijd (zoals φονευσεις in v21, "U zult"). Het Nederlands maakt er een gebod met "moeten" van en laat de belofte-lezing vallen. In v21, 27, 33, 43 blijft de toekomende tijd wel ("U zult") | vraag voor de vertaler (controle 4: modus; controle 7) |
+
+Versgrenzen: 48 verzen. v23 en v24 komen niet overeen met het Grieks (zie tabel: negen woorden van Grieks v24 staan in Nederlands v23). v34 en v35 eindigen met een komma: in het Grieks loopt μητε ... μητε door tot v36, het Nederlands volgt dat. v44 eindigt met een komma en v45 begint met "opdat": de zin loopt in het Grieks over de versgrens (οπως).
+
+## Mattheüs 6
+
+Niet weergegeven: δε (v7, v16, v27, v30), και (v4, v5, v6 bij 'en je Vader', v13, v18, v28), γαρ (v7), οτι (v26), η (v31, 'of' tussen eten en drinken), εμπροσθεν σου (v2), σου (v6, bij 'de deur'), τι (v25, tweede, bij 'drinken').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1-4 | ελεημοσυνη (G1654) | "liefdadigheid" (v1, 2, 3, 4, consistent): het Grieks heeft een woord voor 'het geven van aalmoezen, daad van barmhartigheid'. "Liefdadigheid" is ruimer (het hele goede doen) | toelichting (controle 3) |
+| 1 | ελεημοσυνην (G1654) | Vermoeden, niet nagegaan: andere uitgaven hebben in v1 een ander woord ('gerechtigheid') en daarmee een andere inleiding op de drie voorbeelden. Niet beoordeeld | tekstvariant (vermoeden) |
+| 2 | εμπροσθεν σου σαλπισης (G1715, G4537) | "bazuin het dan niet rond": 'voor je uit' (εμπροσθεν σου) is niet weergegeven en "het ... rond" is aangevuld. Of het Grieks letterlijk bedoeld is (een trompet laten klinken) of een beeld, laat het Nederlands daardoor open | vraag voor de vertaler (controle 1: omissie; controle 6) |
+| 2, 5, 16 | απεχουσιν (G568) | "zij hebben hun loon al binnen": 'ze hebben hun loon ontvangen'. "Al" en "binnen" zijn een Nederlandse uitdrukking in plaats van het Griekse (kwitantie)woord | stijl |
+| 2 | δοξασθωσιν (G1392) | "geëerd worden". In 5:16 is hetzelfde werkwoord (actief) "verheerlijken"; in 9:8 en 15:31 ook "verheerlijkten". Het zelfstandig naamwoord δοξα is in v13 "heerlijkheid" en in v29 "pracht" | vraag voor de vertaler (controle 9: consistentie) |
+| 4, 6 | εν τω φανερω (G5318) | "in het openbaar": Vermoeden, niet nagegaan: andere uitgaven hebben deze woorden hier niet. In v18 staan ze in de Griekse tekst niet en ook niet in het Nederlands. Niet beoordeeld | tekstvariant (vermoeden) |
+| 5, 16, 18 | φανωσιν, φανης (G5316) | het Grieks heeft 'opdat zij zichtbaar zijn voor de mensen'. Het Nederlands zet het onderwerp om: "opdat de mensen hen zien", "opdat de mensen zien dat ze vasten", "opdat de mensen niet zien dat je vast" | toelichting (controle 4: onderwerp) |
+| 7 | βαττολογησητε (G945), πολυλογια (G4180) | "ratel dan niet maar door": de betekenis van βαττολογεω is onzeker (stamelen of herhalen). "Ratel ... door" legt het accent op snel praten, "maar" is aangevuld. πολυλογια is "veel woorden" | toelichting (controle 3; controle 2) |
+| 7, 32 | εθνικοι (G1482), εθνη (G1484) | beide "heidenen". In 10:5, 10:18, 12:18, 12:21 en 20:19 is εθνη "heidenen", in 20:25, 24:9, 24:14, 25:32 en 28:19 "volken". Twee Griekse woorden, één Nederlands woord; εθνη wisselt van weergave per context | toelichting (controle 9) |
+| 9 | προσευχεσθε (G4336) | "Jullie moeten dus zo bidden": een gewone gebiedende wijs wordt een verplichting met "moeten". Dezelfde keuze in 5:48 | toelichting (controle 4: modus) |
+| 12 | αφιεμεν (G863) | "zoals ook wij onze schuldenaars vergeven": tegenwoordige tijd. Vermoeden, niet nagegaan: andere uitgaven kunnen hier een verleden tijd hebben ('hebben vergeven'). Niet beoordeeld | tekstvariant (vermoeden) |
+| 13 | οτι σου εστιν η βασιλεια ... αμην (G3754) | de lofprijzing aan het slot ("Want van U is het koninkrijk ... Amen"). Vermoeden, niet nagegaan: in andere uitgaven ontbreekt dit slot. Er is geen voetnoot; bewijs hoort uit het apparaat te komen | tekstvariant (vermoeden) |
+| 13 | εις τους αιωνας (G165) | "tot in eeuwigheid": Grieks 'tot in de eeuwen' (meervoud). In 13:22, 39, 40, 49 is αιων "wereld". Eén Grieks woord, twee heel verschillende Nederlandse weergaven | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 16, 19, 20 | αφανιζουσιν, αφανιζει (G853) | v16 "maken hun gezicht onherkenbaar", v19 en v20 "wegvreten/wegvreet": hetzelfde werkwoord ('doen verdwijnen, onzichtbaar maken'), twee weergaven. Het woordspel (zij maken hun gezicht onzichtbaar; mot en roest laten schatten verdwijnen) valt weg. Ook is "onherkenbaar" een uitleg | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 19, 20 | σης και βρωσις (G4597, G1035) | "mot en roest": βρωσις betekent 'eten, het opvreten, voedsel' en pas daarna 'roest'. "Roest" is een keuze; "ze" is aangevuld | toelichting (controle 3) |
+| 22, 23 | απλους (G573), πονηρος (G4190) | "gul" en "gierig": Grieks 'enkelvoudig, oprecht, gezond' en 'slecht'. Het Nederlands kiest de exegetische lezing (bezit); voetnoot bij v22 noemt het alternatief al. In 7:11 en 7:17 is πονηρος "slecht" | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9) |
+| 24 | η ... η, μισησει/αγαπησει | "óf ... óf" en "God én ... mammon": de nadruk met accenten is aangevuld; het Grieks heeft gewone voegwoorden | stijl |
+| 25 | ψυχη (G5590) | "jullie leven" (twee keer): ψυχη is 'ziel, leven'. In 10:28, 11:29, 16:26 en 22:37 is het "ziel". Hier past "leven" bij het voedsel, maar de wisseling is niet gemarkeerd | toelichting (controle 9) |
+| 26 | και ... τρεφει, μαλλον (G2532, G3123) | "en toch voedt jullie hemelse Vader ze": "toch" is aangevuld (het Grieks heeft 'en'). "Veel meer waard" voegt "veel" en 'waard' toe aan μαλλον διαφερετε ('meer verschillen/uitmunten') | toelichting (controle 2: toevoeging) |
+| 33 | προστεθησεται (G4369) | "zullen jullie erbij krijgen": het Grieks heeft een lijdende vorm ('zal worden toegevoegd', waarbij God de handelende is). Het Nederlands zet het om in een actieve vorm met 'jullie' als onderwerp | vraag voor de vertaler (controle 4: genus; controle 3) |
+| 34 | κακια (G2549) | "zijn eigen ellende": κακια is 'slechtheid, kwaad'. "Ellende" is een uitleg (moeite, tegenslag) | toelichting (controle 3) |
+
+Versgrenzen: alle 34 verzen komen overeen met het Grieks. v3 eindigt met een komma en v4 begint met "opdat": de zin loopt in het Grieks over de versgrens (οπως). Hetzelfde voor v17 en v18. In het Onze Vader (v9-13) lopen de zinnen over de versgrenzen en volgen de Griekse indeling.
+
+## Mattheüs 7
+
+Niet weergegeven: δε (v3, v15), και (v23, v25 drie keer, v27 vier keer, v28), οτι (v23), μη (v9 en v10, vraagpartikel), επιδωσει (v10), αυτω (v9, v10), αυτον (v24), υμεις (v12), ποιειν (v18, tweede), εγενετο (v28, de formule 'en het geschiedde' wordt "Toen").
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 5 | διαβλεψεις (G1227) | "dan zul je scherp genoeg zien om": het Grieks heeft 'dan zul je helder zien (om) uit te halen'. "Genoeg" is aangevuld | toelichting (controle 2: toevoeging) |
+| 6 | μηποτε (G3379) | "Anders zullen ze die ... vertrappen": μηποτε leidt een doelzin in ('opdat ze niet'); het Nederlands maakt er een voorwaardelijke zin van. Zelfde keuze in 5:25 en 13:15 | toelichting (controle 5: discourse-relaties) |
+| 9, 10 | μη (G3361), επιδωσει (G1929) | in het Grieks is elk van de twee vragen een vraag die 'nee' verwacht ('zal hij hem soms een steen geven?'). Het Nederlands zegt "zou geven" één keer in v9 en laat het werkwoord in v10 doorlopen. De zin loopt over de versgrens | toelichting (controle 5) |
+| 11, 17, 18 | πονηρος (G4190) | v11 "slecht als jullie zijn", v17 en v18 "slechte vruchten". In 6:23 is hetzelfde woord "gierig" (voetnoot), in 6:13 "de boze", in 5:11 "kwaad". Zie 5 en 6 | vraag voor de vertaler (controle 9: consistentie) |
+| 14 | τι (G5101) | "Hoe smal is de poort": Vermoeden, niet nagegaan: andere uitgaven hebben hier een voegwoord ('want smal is de poort'). Niet beoordeeld | tekstvariant (vermoeden) |
+| 17, 18 | σαπρον (G4550), καλος (G2570), αγαθος (G18) | "rotte boom" (v17, v18); in 13:48 is σαπρα "onbruikbare". Ook: twee Griekse woorden voor 'goed' (αγαθος in 'goede boom', καλος in 'goede vruchten') worden beide "goed" | vraag voor de vertaler (controle 9: consistentie) |
+| 21 | ου πας (G3756, G3956) | "Niet iedereen die ... zal binnengaan": het Nederlands kiest 'niet iedereen'. Vermoeden, niet nagegaan: ου πας kan in een Semitisch gekleurde zin ook 'niemand die' betekenen. Niet beoordeeld. Ook is "wel" bij "maar wel wie" aangevuld (αλλ ο ποιων: 'maar wie doet') | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 2) |
+| 23 | ομολογησω (G3670) | "zal Ik hun openlijk verklaren": "openlijk" is aangevuld; ομολογεω is 'erkennen, verklaren' | toelichting (controle 2: toevoeging) |
+| 24, 26 | ομοιωσω (G3666), ομοιωθησεται | v24 "zal Ik ... vergelijken" (actief, eerste persoon), v26 "zal vergeleken worden" (lijdend). Het Nederlands volgt het Grieks. Vermoeden, niet nagegaan: andere uitgaven hebben in v24 dezelfde lijdende vorm als in v26. Niet beoordeeld | tekstvariant (vermoeden) |
+| 25 | τεθεμελιωτο γαρ επι την πετραν (G2311) | "want het was op de rots gefundeerd": Vermoeden, niet nagegaan: andere uitgaven hebben hier een andere redenzin. Niet beoordeeld | tekstvariant (vermoeden) |
+| 25 | και ουκ επεσεν (G2532) | "Toch stortte het niet in": και ('en') is "toch" geworden, een tegenstellende relatie. Het Grieks laat die verbinding open | toelichting (controle 5: discourse-relaties; controle 2) |
+| 28 | και εγενετο οτε (G1096) | "Toen Jezus deze woorden beëindigd had": de Hebreeuwse formule 'en het geschiedde, toen' is als "Toen" weergegeven. Dezelfde keuze in 13:53 | toelichting (controle 1: omissie) |
+
+Versgrenzen: alle 29 verzen komen overeen met het Grieks. v9 eindigt met een komma en v10 begint met "of": de vraag loopt in het Grieks over de versgrens (και in v10). v28 eindigt met een komma en v29 begint met "want": de zin loopt over de versgrens (γαρ).
+
+## Mattheüs 8
+
+Niet weergegeven: δε (v1, v5, v10, v11, v16, v18, v21, v27, v30, v31, v32 'ze', v33), και (v3, v4, v7, v8, v9 twee keer, v10, v13 drie keer, v15 twee keer, v16, v20, v23, v25, v26, v28, v32, v34), λεγοντος (v17), λεγοντες (v29, v31), χοιρων (v32, tweede).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1, 18 | οχλοι πολλοι (G3793, G4183) | "grote menigten": het Grieks heeft 'veel menigten' (πολλοι is 'veel', niet 'groot'). Het Nederlands geeft het aantal als omvang | toelichting (controle 3) |
+| 2 | προσεκυνει (G4352) | "boog zich voor Hem neer": προσκυνεω is 'neerknielen, hulde bewijzen, aanbidden'. Het Nederlands kiest een lichamelijke handeling. In 4:9, 4:10 en 14:33 is hetzelfde werkwoord "aanbidden"; in 2:2, 9:18, 15:25, 18:26 en 20:20 is het "(zich) neerbuigen". De wisseling volgt de context, maar in 8:2 (een man die om genezing vraagt) is niet zichtbaar of het hulde of aanbidding is | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9) |
+| 3 | εκαθαρισθη αυτου η λεπρα (G2511, G3014) | "hij werd van zijn melaatsheid gereinigd": het Grieks heeft 'zijn melaatsheid werd gereinigd' (de melaatsheid is het onderwerp). Het Nederlands maakt de man het onderwerp ("hij" is aangevuld) | toelichting (controle 4: onderwerp) |
+| 8 | ικανος (G2425) | "ik ben het niet waard": ικανος is 'geschikt, toereikend'. "Waard" geeft een morele lading ('verdienen') die het Grieks niet noemt | toelichting (controle 3) |
+| 9 | υπο εξουσιαν (G1849) | "iemand die onder gezag staat": ανθρωπος ('mens') is "iemand". Vermoeden, niet nagegaan: andere uitgaven hebben hier een deelwoord erbij ('onder gezag gesteld'). Niet beoordeeld | tekstvariant (vermoeden) |
+| 10 | ουδε εν τω Ισραηλ (G3761, G2474) | "zelfs in Israël heb Ik zo'n groot geloof niet gevonden": Vermoeden, niet nagegaan: andere uitgaven hebben de zinsbouw anders ('bij niemand in Israël'). Niet beoordeeld | tekstvariant (vermoeden) |
+| 12 | υιοι (G5207) | "de kinderen van het koninkrijk": υιοι is 'zonen'. In 8:29 is υιε "Zoon" (van God), in 7:9 υιος "zoon". Vergelijk 5:9, 5:45 en 13:38 | vraag voor de vertaler (controle 9: consistentie) |
+| 12 | το σκοτος το εξωτερον (G4655, G1857) | "de duisternis daarbuiten": εξωτερον is 'buitenste' (een overtreffende trap). Weergave is wel consistent in 22:13 en 25:30 | toelichting (controle 3) |
+| 13 | γενηθητω σοι (G1096) | "het zal u gebeuren zoals u geloofd hebt": het Grieks is een gebiedende wijs in de derde persoon ('laat het u gebeuren'). Het Nederlands maakt er een mededeling van. In 6:10 is dezelfde vorm (γενηθητω) wel "laat ... gebeuren" | vraag voor de vertaler (controle 4: modus; controle 9) |
+| 14 | βεβλημενην (G906) | "met koorts op bed liggen": "daar" en "op bed" zijn aangevuld; het Grieks heeft 'liggend en koortsig' | toelichting (controle 2: toevoeging) |
+| 15 | διηκονει αυτω (G1247) | "diende Hem": Vermoeden, niet nagegaan: andere uitgaven hebben 'hun' in plaats van 'Hem'. Niet beoordeeld | tekstvariant (vermoeden) |
+| 19 | σοι (G4771) | "ik zal u volgen": de schriftgeleerde krijgt "u" in kleine letter, de melaatse (v2), de centurio (v8) en de demonen (v29, v31) hebben hoofdletter "U". Het verschil volgt de houding van de spreker, een exegetische keuze die in het Grieks niet te zien is | stijl; vraag voor de vertaler of dit zo bedoeld is |
+| 24 | σεισμος μεγας (G4578) | "een grote storm": σεισμος is 'beving, schudding', elders in dit boek "aardbeving" (24:7, 27:54, 28:2). Hier wordt het 'storm', een interpretatie. | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 9) |
+| 24, 26, 27, 32 | θαλασση (G2281) | "meer": θαλασσα is 'zee'. Hier gekozen voor "meer" (de Zee van Galilea). Elders in 4:15 "zee" in een citaat, 4:18 "meer van Galilea" | toelichting (controle 9) |
+| 25 | απολλυμεθα (G622) | "we vergaan": ander Grieks woord dan in 5:18 (παρελθη) waar ook "vergaan" staat | toelichting (controle 9) |
+| 26 | δειλοι (G1169) | "zo laf": δειλος is 'bang, angstig'. "Laf" legt een verwijt op. "Zo" is aangevuld | toelichting (controle 3; controle 2: toevoeging) |
+| 28 | Γεργεσηνων (G1086) | "de Gergesenen": Vermoeden, niet nagegaan: andere uitgaven hebben hier een andere plaatsnaam. Er staat geen `data/namentabel.json` in de repository, dus de naam is niet getoetst | tekstvariant (vermoeden); namen |
+| 29 | Ιησου (G2424) | "Jezus, Zoon van God": Vermoeden, niet nagegaan: andere uitgaven hebben 'Jezus' hier niet. Niet beoordeeld | tekstvariant (vermoeden) |
+| 31 | επιτρεψον (G2010) | "sta ons dan toe": Vermoeden, niet nagegaan: andere uitgaven hebben hier een ander werkwoord ('stuur ons'). "Dan" is aangevuld. Niet beoordeeld | tekstvariant (vermoeden) |
+| 32 | υπαγετε ... απηλθον, απεθανον (G5217, G565, G599) | "Ze verlieten de mannen en gingen de kudde varkens in": "de mannen" is aangevuld, het Grieks heeft alleen 'uitgaan'. "De dieren" is aangevuld en απεθανον ('stierven') is "verdronken" (uitleg). εν τοις υδασιν is meervoud ('in de wateren') | toelichting (controle 2: toevoeging) |
+| 33 | τα των δαιμονιζομενων (G1139) | "ook wat er met de bezetenen gebeurd was": het Grieks heeft 'de zaken van de bezetenen'; "wat er ... gebeurd was" is een uitbreiding | toelichting (controle 2: toevoeging) |
+
+Versgrenzen: alle 34 verzen komen overeen met het Grieks. v5 eindigt zonder leesteken en v6 begint met "en zei": de zin loopt in het Grieks over de versgrens (και λεγων). v16 eindigt met een komma en v17 begint met "opdat": de zin loopt over de versgrens (οπως).
+
+## Mattheüs 9
+
+Niet weergegeven: δε (v8, v12, v13, v16, v22, v25, v28, v32, v36), και (v1 aan het begin, v2 bij ιδων, v9 twee keer, v10 twee keer, v11, v15, v17 de eerste, v22 voor εσωθη, v23, v24, v26, v27 twee keer, v28, v30, v33 twee keer, v35 twee keer), σου (v6, 'uw' bij huis), αυτου (v7, 'zijn' bij huis; v16, bij πληρωμα), οτι (v18, inleiding van de aanhaling), λεγοντες (v27), λεγων (v30), αυτω (v28, tweede, 'tegen Hem'), μεν (v37).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2, 5 | τεκνον (G5043) | "zoon": het Grieks heeft 'kind' (onzijdig, zonder geslacht). Het Nederlands legt het geslacht vast. In v22 staat voor θυγατερ (G2364) "dochter" | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 3 | βλασφημει (G987) | "lastert God": het Grieks heeft geen object. "God" is aangevuld | toelichting |
+| 10 | αυτου (G846) | "Terwijl Hij ... aan tafel lag": het Grieks laat open wie dit is (Jezus of Matteüs, na v9). De hoofdletter in "Hij" kiest Jezus | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 13 | μαθετε (G3129) | "Ga maar eens leren": "maar eens" is aangevuld; het Grieks heeft 'gegaan zijnde, leer' en geen verzachting | toelichting |
+| 15 | υιοι του νυμφωνος (G5207, G3567) | "vrienden van de bruidegom": het Grieks heeft 'zonen van de bruidskamer' (vermoeden, lexicon niet nagegaan). Het Nederlands vervangt de beeldspraak door een uitleg, en νυμφων en νυμφιος (G3566) krijgen allebei "bruidegom" | vraag voor de vertaler (controle 6: beeldspraak vervangen; controle 9) |
+| 16 | αιρει (G142) | "scheurt los": het Grieks heeft 'neemt weg, trekt weg'. "scheurt" is een uitleg | vraag voor de vertaler (controle 3) |
+| 16 | επιβλημα, πληρωμα (G1915, G4138) | beide "lap": twee Griekse woorden, één Nederlands woord. πληρωμα is 'het aanvullende stuk'. αυτου (bij πληρωμα) is niet weergegeven | vraag voor de vertaler (controle 9: consistentie) |
+| 18, 23 en 34 | αρχων (G758) | v18 en v23 "leider", v34 "vorst" (van de demonen). Hetzelfde Griekse woord, twee Nederlandse woorden | vraag voor de vertaler (controle 9: consistentie) |
+| 18 | προσεκυνει (G4352) | "boog zich ... neer": het Grieks kan 'zich neerbuigen' of 'aanbidden' zijn. Het Nederlands kiest de eerste lezing. Niet nagegaan hoe het woord elders in Mattheüs is weergegeven | vraag voor de vertaler (controle 7) |
+| 21, 22 | σωθησομαι, σεσωκεν, εσωθη (G4982) | v21 en v22a "gered", v22b "genezen". Eén Grieks werkwoord, twee Nederlandse. In v22b valt daardoor 'redden' weg | vraag voor de vertaler (controle 9: consistentie) |
+| 25, 33, 34, 38 | εκβαλλω (G1544) | v25 "naar buiten gestuurd", v33 "uitgedreven", v34 "uit", v38 "uitstuurt". Hetzelfde stamwoord, wisselende weergave | vraag voor de vertaler (controle 9: consistentie) |
+| 28 | εις την οικιαν (G1519, G3614) | "thuiskwam": het Grieks heeft 'in het huis kwam'. "thuis" legt vast dat het zijn eigen huis is; dat is een exegetische keuze | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 29 | γενηθητω (G1096) | "Het zal u gebeuren": het Grieks is een gebiedende wijs (derde persoon, 'laat het u geschieden'). Het Nederlands maakt er een toekomende tijd van | vraag voor de vertaler (controle 4: modus) |
+| 30 | ενεβριμησατο (G1690) | "sprak hen streng toe": het Grieks heeft een sterk, emotioneel werkwoord (vermoeden, lexicon niet nagegaan). "streng toe" is een uitleg | toelichting |
+| 32, 33 | κωφον, κωφος (G2974) | "niet kon spreken", "de man die niet had kunnen spreken": κωφος kan 'stom' of 'doof' zijn (vermoeden, niet nagegaan). Het Nederlands kiest 'stom' en maakt er een bijzin van | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 34 | εν τω αρχοντι (G1722) | "Door de vorst": εν is 'in'. Het Nederlands kiest 'door' (middel). Vermoeden, niet nagegaan: v34 ontbreekt in sommige uitgaven | tekstvariant (vermoeden) |
+| 36 | εσκυλμενοι, ερριμμενοι (G4660, G4496) | "afgemat en hulpeloos": het Grieks heeft twee lijdende deelwoorden (vermoeden, lexicon niet nagegaan: 'gemold, neergeworpen'). Het Nederlands geeft een abstracte omschrijving | toelichting |
+| 36 | εσπλαγχνισθη (G4697) | "kreeg Hij medelijden": het werkwoord komt van het woord voor 'ingewanden' (vermoeden, niet nagegaan). De lichamelijke beeldspraak is een idioom geworden | toelichting |
+
+Versgrenzen: de Nederlandse versverdeling volgt het Grieks. v6 loopt door na de tussenzin 'toen zei Hij tegen de verlamde' (zo ook in het Grieks), v23 eindigt op "zag," en v24 begint met "zei Hij". Geen afwijkingen gevonden.
+
+## Mattheüs 10
+
+Niet weergegeven: δε (v2, v6, v7, v11 (als δ), v12, v17, v19, v21, v23, v30), και (v4 bij παραδους, v13, v14, v18 aan het begin, v21 de tweede, v22, v28, v35 de eerste, v36, v42), αν (v11, v23, v33), αυτοις (v5), λεγων (v5), λεγοντες (v7), οτι (v7), μηδε (v9, het eerste), μεν (v13), ουτος (v22, 'die' na de aanhef), ουν (v32).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2, 3 | του Ζεβεδαιου, του Αλφαιου (G2199, G256) | "de zoon van Zebedeüs", "de zoon van Alfeüs": "zoon" is aangevuld. Het Grieks heeft alleen het genitief ('de van Zebedeüs') | toelichting |
+| 3 | λεββαιος ο επικληθεις θαδδαιος (G3002, G2280) | "Lebbeüs, bijgenaamd Thaddeüs": vermoeden, niet nagegaan: de naamlezing in v3 verschilt in andere uitgaven | tekstvariant (vermoeden) |
+| 4 | ο και παραδους (G3860) | "die Hem heeft overgeleverd": het "και" ('ook') is niet weergegeven | toelichting |
+| 5, 18 | εθνων, εθνεσιν (G1484) | "heidenen": het Grieks heeft 'volken'. "heidenen" is een keuze die het woord beperkt tot niet-Joden | vraag voor de vertaler (controle 3) |
+| 5 | εις οδον εθνων (G1519, G3598) | "de weg naar de heidenen": het Grieks heeft 'de weg van volken' (genitief). Het Nederlands maakt er een richting van | toelichting |
+| 8 | (zinsbouw) | vermoeden, niet nagegaan: andere uitgaven hebben in v8 een extra zinsdeel (doden opwekken) | tekstvariant (vermoeden) |
+| 14 | εκεινης (G1565) | "dat huis of die stad": het Grieks heeft één aanwijzend woord, dat bij beide zelfstandige naamwoorden kan horen. Het Nederlands verdeelt het ("dat" is aangevuld) | toelichting |
+| 16 | ακεραιοι (G185) | "onschuldig": het woord heeft de betekenis 'ongemengd, zuiver' (vermoeden, lexicon niet nagegaan). "onschuldig" is een uitleg | vraag voor de vertaler (controle 3) |
+| 17 | συνεδρια (G4892) | "gerechtshoven": het Grieks heeft 'raden' (vermoeden, lexicon niet nagegaan). "gerechtshoven" is een uitleg | toelichting |
+| 18 | δε και (G1161, G2532) | "Zelfs": het Grieks heeft 'en ook'. "Zelfs" voegt nadruk toe | toelichting |
+| 19 | μη μεριμνησητε (G3309) | "maak je dan geen zorgen": het Grieks is meervoud. Het Nederlands heeft "je" naast "jullie" in dezelfde zin. "dan" is aangevuld | vraag voor de vertaler (controle 10: Nederlands) |
+| 23 | αλλην (G243) | "de volgende": het Grieks heeft 'de andere'. "volgende" legt een volgorde vast | vraag voor de vertaler (controle 3) |
+| 23 | εως αν ελθη (G2193) | "voordat de Mensenzoon komt": het Grieks heeft 'totdat ... komt'. Het Nederlands kiest 'voordat'. "klaar zijn met" is een omschrijving van τελεσητε ('voltooien') | toelichting |
+| 24, 25 | κυριος (G2962) | "meester": hetzelfde Griekse woord is in 9:38 "Heer" (van de oogst). Hier is 'meester' contextueel verdedigbaar, maar de weergave wisselt | vraag voor de vertaler (controle 9: consistentie) |
+| 27 | ακουετε (G191) | "in het oor gefluisterd wordt": het Grieks heeft 'jullie horen'. "gefluisterd" en de lijdende vorm zijn aangevuld. "vanaf de daken" geeft επι ('op') anders weer | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 28, 39 | ψυχη (G5590) | v28 "ziel", v39 "leven". Hetzelfde Griekse woord, twee Nederlandse. In v28 staat ψυχη tegenover σωμα | vraag voor de vertaler (controle 9: consistentie) |
+| 28 | γεεννη (G1067) | "de hel": het Grieks heeft de naam Gehenna. "de hel" is een uitleg; het lidwoord is aangevuld | toelichting |
+| 28, 39, 42, 6 | απολλυμι (G622) | v6 "verloren", v28 "vernietigen", v39 "verliezen/verliest", v42 "mislopen". Eén stamwoord, vier weergaven | vraag voor de vertaler (controle 9: consistentie) |
+| 32 | ομολογησει εν εμοι (G3670, G1722) | "Mij erkent": het Grieks heeft 'in Mij belijden'. εν is niet weergegeven. "belijden" wordt "erkennen" | toelichting |
+| 32, 33 | ουρανοις (G3772) | "in de hemel": het Grieks heeft een meervoud ('in de hemelen'). In v7 is het meervoud wel weergegeven ("hemelen") | vraag voor de vertaler (controle 9: consistentie) |
+| 34 | βαλειν (G906) | "brengen": het Grieks heeft 'werpen' (beeldspraak). Het Nederlands heeft een abstract werkwoord | vraag voor de vertaler (controle 6) |
+| 35 | διχασαι (G1369) | "tegen ... op te zetten": het werkwoord is 'tweedelen, verdelen' (vermoeden, lexicon niet nagegaan). Het Nederlands gebruikt een idioom | toelichting |
+| 41, 42 | εις ονομα (G1519, G3686) | "omdat het een profeet/rechtvaardige/discipel is": het Grieks heeft 'in de naam van'. Het Nederlands vervangt het idioom door een oorzaaksbepaling en laat ονομα weg. Dat is een exegetische keuze | vraag voor de vertaler (controle 6; controle 7) |
+| 42 | ποτηριον ψυχρου (G4221, G5593) | "een beker koud water": "water" is aangevuld; het Grieks heeft 'een beker koud' | toelichting |
+
+Versgrenzen: de Nederlandse versverdeling volgt het Grieks. De aanhaling loopt door van v5 tot en met v42. Geen afwijkingen gevonden.
+
+## Mattheüs 11
+
+Niet weergegeven: δε (v2, v7, v12, v16), και (v1 aan het begin, v4, v6, v14, v17 aan het begin, v27 de eerste), εγενετο (v1), λεγουσιν (v17), υμιν (v17, de tweede, 'voor jullie' bij εθρηνησαμεν), ανθρωπος (v19, bij φαγος), οτι (v24).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2, 3 | ακουσας, πεμψας, ειπεν (G191, G3992, G3004) | v2 "hoorde" is hoofdwerkwoord, v3 "om Hem te vragen" is een doelzin. Het Grieks heeft 'hoorde ... stuurde ... zei' met ειπεν als hoofdwerkwoord. De zinsbouw is omgezet en "zei" is "vragen" geworden | toelichting |
+| 5 | κωφοι (G2974) | "doven": κωφος is in 9:32-33 "niet kon spreken". Hetzelfde Griekse woord, twee betekenissen. Hier geeft ακουουσιν de betekenis 'doof' aan | vraag voor de vertaler (controle 9: consistentie) |
+| 5 | αναβλεπουσιν (G308) | "kunnen weer zien": "kunnen" is aangevuld; het Grieks heeft 'zien (weer)' in de tegenwoordige tijd, zonder bekwaamheid | vraag voor de vertaler (controle 2: toevoeging) |
+| 7 | σαλευομενον (G4531) | "heen en weer wordt bewogen": "heen en weer" is aangevuld; het Grieks heeft 'bewogen, geschud' | toelichting |
+| 8 | μαλακοις ιματιοις (G3120, G2440) | "fijne kleren": het Grieks heeft 'zachte kleren'. "fijn" is een uitleg. In de tweede zin (τα μαλακα) is "kleren" aangevuld | vraag voor de vertaler (controle 3) |
+| 11 | μικροτερος (G3398) | "de kleinste": het Grieks heeft een vergrotende trap ('de kleinere, de mindere'). Het Nederlands kiest een overtreffende trap | vraag voor de vertaler (controle 4: grammatica) |
+| 12 | βιαζεται, βιασται (G971, G973) | "wordt bestormd", "bestormers": βιαζεται kan lijdend of medium zijn ('wordt geweld aangedaan' of 'dringt met geweld binnen'; vermoeden, niet nagegaan). Het Nederlands kiest één lezing en weegt βιασται zwaar ('bestormers') | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 13 | εως ιωαννου (G2193) | "tot Johannes kwam": "kwam" is aangevuld. Het Grieks heeft 'tot Johannes' | toelichting |
+| 16 | εταιροις (G2083) | "vriendjes": het Grieks heeft 'gezellen, kameraden' (vermoeden, lexicon niet nagegaan). De verkleinvorm is een keuze | toelichting |
+| 17, 19 | και (G2532) | v17 twee keer "maar" en v19 "Maar": het Grieks heeft 'en'. "Maar" maakt de tegenstelling uitdrukkelijk | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 17 | εκοψασθε (G2875) | "gerouwd": vermoeden, niet nagegaan: het werkwoord is 'slaan' in de medium vorm, hier 'zich op de borst slaan'. Het Nederlands heeft een abstract werkwoord | vraag voor de vertaler (controle 6: beeldspraak vervangen) |
+| 18, 19 | εσθιων, πινων (G2068, G4095) | "at ... dronk": het Grieks heeft deelwoorden ('etend, drinkend'), het Nederlands gebruikt hoofdwerkwoorden. In v18 is μητε ... μητε 'noch ... noch' weergegeven als "niet ... niet" | toelichting |
+| 19 | ανθρωπος φαγος (G444, G5314) | "een veelvraat": ανθρωπος ('mens') is niet weergegeven | toelichting |
+| 19 | τεκνων (G5043) | "door haar kinderen": vermoeden, niet nagegaan: andere uitgaven lezen hier 'werken' | tekstvariant (vermoeden) |
+| 23 | υψωθεισα, καταβιβασθηση (G5312, G2601) | "verheven bent", "neergehaald worden": vermoeden, niet nagegaan: v23 kent in andere uitgaven een andere lezing (andere werkwoordsvormen, een vraagvorm) | tekstvariant (vermoeden) |
+| 23 | εμειναν (G3306) | "had het ... bestaan": het Grieks heeft 'zou zijn gebleven'. "het" (Sodom) is aangevuld | toelichting |
+| 25 | εξομολογουμαι (G1843) | "Ik prijs U": het Grieks heeft 'ik belijd, ik erken openlijk' (vermoeden, lexicon niet nagegaan). In 10:32 is ομολογεω "erkennen" | vraag voor de vertaler (controle 9: consistentie) |
+| 26 | ευδοκια εγενετο εμπροσθεν σου (G2107, G1096, G1715) | "hebt U het graag gewild": het Grieks heeft 'zo is het welbehagen geworden voor U'. Het Nederlands maakt er een bedrijvende zin met U als onderwerp van | vraag voor de vertaler (controle 4: grammatica) |
+| 27 | παρεδοθη (G3860) | "toevertrouwd": hetzelfde werkwoord is in hoofdstuk 10 (v4, v17, v19, v21) "overleveren" | vraag voor de vertaler (controle 9: consistentie) |
+| 29 | ψυχαις (G5590) | "ziel": in 10:39 is ψυχη "leven" (zie de melding bij Mattheüs 10) | vraag voor de vertaler (controle 9: consistentie) |
+
+Versgrenzen: de Nederlandse versverdeling volgt het Grieks. v2 eindigt midden in een zin ("Hij stuurde twee van zijn discipelen") en v3 gaat daar op door, zoals in het Grieks. Geen afwijkingen gevonden.
+
+## Mattheüs 12
+
+Niet weergegeven: δε (v1, v2, v3, v7, v11, v14, v15, v25, v39, v43, v46, v47, v48), και (v10, v11, v13, v15 twee keer, v21, v22 twee keer, v23, v26, v27, v32, v44), ουν (v12), ει (v10, inleiding van de vraag), εσται (v11, koppelwerkwoord), οτι (v6, v36), λεγοντος (v17), λεγοντες (v38), αν (v50), αυτου (v29, v36).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2, 4, 10, 12 | εξεστιν, εξον (G1832) | v2, v10 en v12 "geoorloofd", v4 "mocht" voor hetzelfde stamwoord | stijl |
+| 5 | και αναιτιοι εισιν (G338) | "en toch schuldeloos zijn": "toch" is aangevuld. Het Grieks heeft alleen 'en zonder schuld zijn'. "Toch" legt een tegenstelling in de zin die het Grieks niet noemt | toelichting (controle 2: toevoeging; controle 5) |
+| 5, 6 | ιερω, ιερου (G2411) | "tempel" in v5 en v6. In 23:16-22 staat "tempel" voor een ander Grieks woord (ναος, G3485). Twee Griekse woorden, één Nederlands woord | vraag voor de vertaler (controle 9: consistentie) |
+| 6, 41, 42 | μειζον (G3173), πλειον (G4183) | v6 "meer dan de tempel", v41 en v42 "meer dan Jona", "meer dan Salomo". Het Grieks heeft in v6 'groter' (onzijdig, 'iets groters') en in v41 en v42 'meer'. Het Nederlands maakt er hetzelfde van | toelichting (controle 9; controle 3) |
+| 12 | ουν (G3767) | "Hoeveel meer is een mens waard": ουν ('dus, dan') is niet weergegeven. Daardoor wordt de gevolgtrekking uit v11 minder zichtbaar. "Daarom" staat pas bij ωστε | toelichting (controle 1: omissie; controle 5) |
+| 15, 16, 17 | επετιμησεν (G2008) | v16 "verbood hun met klem": het Grieks heeft het werkwoord dat elders "bestraffen" is (8:26 "bestrafte", 17:18 "bestrafte", 16:22 "bestraffen"). "Met klem" is aangevuld | vraag voor de vertaler (controle 9: consistentie; controle 2) |
+| 18 | παις (G3816), ψυχη (G5590) | "Mijn dienaar": παις kan 'kind' of 'knecht' zijn (in 8:6 is het "knecht"). Het Nederlands kiest 'dienaar'. ψυχη ('ziel') is hier "Ik" geworden en komt als "leven" en "ziel" terug in 16:25-26 | toelichting (controle 7: ambiguïteit opgelost; controle 9) |
+| 18, 21 | εθνεσιν, εθνη (G1484) | "heidenen". In 24:9 en 28:19 is hetzelfde woord "volken" | vraag voor de vertaler (controle 9: consistentie) |
+| 18, 20, 36, 41, 42 | κρισιν, κρισεως, κρισει (G2920) | v18 en v20 "recht", v36 "oordeel", v41 en v42 "oordeel". Eén Grieks woord, twee Nederlandse weergaven. In 23:23 "recht", in 23:33 "oordeel" | vraag voor de vertaler (controle 9: consistentie) |
+| 22 | κωφος (G2974) | "niet kon spreken": κωφος kan 'doof' of 'stom' zijn. Het Nederlands kiest 'stom' (zo ook 9:32). In 11:5 is het woord "doven". De volgorde 'blind en ... spreken en zien' in het Grieks maakt 'stom' aannemelijk, maar bewezen is het niet | toelichting (controle 7: ambiguïteit opgelost) |
+| 27 | υιοι υμων (G5207) | "uw eigen mensen": het Grieks heeft 'uw zonen'. Het Nederlands lost op wie bedoeld wordt (volgelingen, leerlingen, familie). Het Grieks laat dat open. "Eigen" en "mensen" zijn aangevuld | vraag voor de vertaler (controle 7: ambiguïteit ten onrechte opgelost; controle 3) |
+| 31 | βλασφημια (G988) | "godslastering": het Grieks heeft 'lastering', ook als die tegen mensen is gericht ("alle zonde en lastering ... de mensen"). Het Nederlands smalt het woord in v31 en v32 in tot lastering van God. In 15:19 is hetzelfde woord "lastering" | vraag voor de vertaler (controle 3; controle 9) |
+| 32 | αιωνι (G165) | "tijdperk". In 13:22 is αιων "wereld" en in 28:20 "voltooiing van de wereld" | vraag voor de vertaler (controle 9: consistentie) |
+| 33 | ποιησατε (G4160), σαπρον (G4550) | "noem de boom goed": het Grieks heeft 'maak de boom goed' (ποιεω). "Noemen" verschuift 'maken' naar 'beoordelen'. "dan ook" is aangevuld. σαπρον is "rot" en in 13:48 "onbruikbare" | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 9) |
+| 35 | θησαυρου (G2344) | "voorraadkamer", dus ook in 13:52. In 13:44 is hetzelfde woord "schat". "Goede voorraadkamer" leest vreemd. Vermoeden, niet nagegaan: andere uitgaven hebben hier een uitbreiding ('van het hart') die in dit Grieks ontbreekt | vraag voor de vertaler (controle 9; controle 10); tekstvariant (vermoeden) |
+| 37 | δικαιωθηση (G1344) | "vrijgesproken": het Grieks heeft 'rechtvaardig verklaard', hetzelfde stamwoord als δικαιος ('rechtvaardig'). Het verband met "rechtvaardig" (o.a. 23:28) valt weg | toelichting (controle 9; controle 3) |
+| 38 | απεκριθησαν (G611) | "namen het woord", in v39 is hetzelfde werkwoord "antwoordde". Het Nederlands lost op dat er nog geen vraag is gesteld, maar maakt twee weergaven van één werkwoord | stijl |
+| 39, 45 | πονηρα (G4190) | v39 "slechte generatie", v45 "verdorven generatie". Eén Grieks woord, twee Nederlandse weergaven (16:4 "slechte") | vraag voor de vertaler (controle 9: consistentie) |
+| 39, 16:4 | επιζητει (G1934) | "eist" voor 'zoekt, verlangt'. "Eisen" is sterker dan het Grieks | toelichting (controle 3) |
+| 40 | κητους (G2785) | "zeemonster": het Grieks heeft 'groot zeedier'. De keuze voor 'monster' is een invulling | toelichting (controle 3; controle 8) |
+| 41 | εις το κηρυγμα (G2782) | "bekeerden zich op de prediking": "op" laat open of de prediking aanleiding of doel van de bekering is. Het Grieks heeft εις ('tot, naar') | stijl |
+| 43-45 | τα εσχατα (G2078) | "de laatste toestand": "toestand" is aangevuld. Het Grieks heeft alleen 'het laatste' (meervoud) | toelichting (controle 2: toevoeging) |
+| 46, 47, 48, 49 | αδελφοι (G80) | "broers", in 23:8 "broeders en zusters" (daar is "zusters" aangevuld). In v50 "broer en zus" staat wel voor twee Griekse woorden | vraag voor de vertaler (controle 9; controle 2) |
+| 47 | ειπεν δε τις αυτω ... (v47 als geheel) | Vermoeden, niet nagegaan: in andere uitgaven kan dit vers ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+
+Versgrenzen: alle 50 verzen komen overeen met het Grieks. v15 eindigt zonder punt en v16 begint met "en verbood": de zin loopt over de versgrens (Grieks και). v16 eindigt met een komma en v17 begint met "opdat" (οπως). v17 eindigt met een dubbele punt, het citaat staat in v18-21.
+
+## Mattheüs 13
+
+Niet weergegeven: δε (v1, v5, v11, v20, v22, v23, v26, v27, v28 twee keer, v37, v38 drie keer, v39 drie keer, v52, v57), και (v2 twee keer, v3, v4, v5, v14 twee keer, v15 drie keer, v23, v25, v30, v34, v36, v42, v44, v48, v50, v53, v55 twee keer, v56, v57, v58), λεγων (v3, v24, v31), λεγοντος (v35), λεγουσα (v14), οτι (v11, v17), τοτε (v26, 'dan'), εγενετο (v53, de formule 'en het geschiedde' wordt "Toen").
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1, 2 | εκαθητο (G2521), καθησθαι (G2521) | v1 "ging ... zitten" en v2 "ging zitten" (vergelijk 15:29 "ging daar zitten" voor hetzelfde εκαθητο): het Grieks heeft bij εκαθητο een onvolmaakt verleden tijd ('zat') en bij καθησθαι een tegenwoordige onbepaalde wijs. Het Nederlands maakt er een begin van de handeling van ('ging zitten') | vraag voor de vertaler (controle 4: aspect) |
+| 2, 48 | αιγιαλον (G123) | v2 "oever", v48 "strand": hetzelfde Griekse woord, twee Nederlandse woorden | vraag voor de vertaler (controle 9: consistentie) |
+| 13 | βλεποντες ου βλεπουσιν (G991) | "zij zien en toch niet zien": "toch" en "het" zijn aangevuld. Het Grieks heeft een deelwoord met een eigen werkwoord ('ziend zien ze niet') zonder tegenstellend voegwoord. "toch" is een exegetische keuze | toelichting (controle 2: toevoeging) |
+| 14 | ιδητε (G3708) | "beslist geen inzicht hebben": het Grieks heeft 'zien' (ιδητε), in de parallel βλεποντες βλεψετε is het ook 'zien'. Het Nederlands vervangt 'zien' door een uitleg ('inzicht hebben'), terwijl v15 wel "zien" heeft. Ook "u zult horen en horen" geeft ακοη ακουσετε ('met het gehoor zult u horen') weer zonder het naamwoord | vraag voor de vertaler (controle 6: beeldspraak vervangen door uitleg; controle 9) |
+| 15 | μηποτε (G3379) | "Anders zouden zij ... zien": μηποτε leidt een doelzin in ('opdat zij niet ... zien'). Het Nederlands maakt er een voorwaardelijke zin van ('anders zouden zij'). Dezelfde partikel is in v29 "anders" en in 15:32 "want dan zouden ze" | vraag voor de vertaler (controle 5: discourse-relaties; controle 9) |
+| 19, 20, 22, 23 | ο ... σπαρεις (G4687) | v19 "Dat is wat langs het pad gezaaid is" (onzijdig 'wat'); v20, v22 en v23 "Wat ... gezaaid is, dat is degene die het woord hoort". Het Grieks heeft overal de mannelijke vorm (een persoon). In v19 is ook παντος ('ieder') niet weergegeven ("iemand") en is "van die mens" (αυτου) een uitleg | vraag voor de vertaler (controle 3; controle 9) |
+| 21, 41, 57 | σκανδαλιζεται, σκανδαλα, εσκανδαλιζοντο (G4624, G4625) | v21 "komt hij ten val", v41 "alles wat mensen ten val brengt" ("mensen" is aangevuld), v57 "namen aanstoot aan Hem". Het zelfde stamwoord wordt drie verschillende Nederlandse uitdrukkingen. Vergelijk 15:12 "aanstoot namen" (G4624) en 16:23 "struikelblok" (σκανδαλον, G4625) | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 21 | προσκαιρος (G4340) | "houdt het maar even vol": het Grieks heeft één bijvoeglijk naamwoord ('voor een tijd, tijdelijk'). Het Nederlands maakt er een uitdrukking van met "maar" en "even" | toelichting |
+| 22 | και (G2532) | "zodat hij geen vrucht draagt": και ('en') is "zodat" geworden, een gevolgrelatie. Het Grieks laat die verbinding open | vraag voor de vertaler (controle 5: discourse-relaties; ambiguïteit opgelost) |
+| 22, 35, 38, 39, 40, 49 | αιωνος (G165), κοσμος (G2889), κοσμου | v22 "deze wereld" (αιων), v35 "de grondlegging van de wereld" (κοσμος), v38 "De akker is de wereld" (κοσμος), v39, v40, v49 "voltooiing van de wereld" (αιων). Twee verschillende Griekse woorden hebben één Nederlands woord | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 19, 38, 49 | πονηρος (G4190) | v19 en v38 "de boze", v49 "de slechten". Vergelijk 15:19 "kwade gedachten" en 16:4 "slechte generatie". Eén Grieks woord, vier Nederlandse weergaven. Dat de boze in v19 en v38 een persoon is, is een exegetische keuze van het Nederlands (ο πονηρος staat in het enkelvoud met lidwoord) | vraag voor de vertaler (controle 9: consistentie) |
+| 27, 52 | οικοδεσποτου (G3617), οικοδεσποτη | v27 "eigenaar", v52 "heer des huizes": hetzelfde Griekse woord, twee weergaven. "des huizes" en "der hemelen" vallen bovendien buiten B2 | vraag voor de vertaler (controle 9; taalniveau) |
+| 44, 52 | θησαυρω, θησαυρου (G2344) | v44 "schat", v52 "voorraadkamer": hetzelfde Griekse woord, twee weergaven | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 28 | εχθρος ανθρωπος (G2190, G444) | "een vijand": ανθρωπος ('mens, man') is niet apart weergegeven | toelichting |
+| 33 | σατα τρια (G4568) | "drie sata": de maat is letterlijk weergegeven. Omrekening in de voetnoot ontbreekt nog (afspraak: maten en munten letterlijk, omrekening in de voetnoot) | toelichting |
+| 35 | κοσμου (G2889), δια του προφητου | "sinds de grondlegging van de wereld" en "door de profeet". Vermoeden, niet nagegaan: in andere uitgaven kan κοσμου ontbreken en kan de profeet bij naam genoemd worden. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 38 | υιοι (G5207), τεκνων (G5043) | v38 "de kinderen van het koninkrijk", "de kinderen van de boze" (υιοι, 'zonen'); in 15:26 is "kinderen" ook τεκνων. Twee Griekse woorden, één Nederlands woord. "Zoon" staat wel bij υιος in "Mensenzoon" | vraag voor de vertaler (controle 9: consistentie) |
+| 44 | εκρυψεν (G2928) | "verborg hem weer": "weer" is aangevuld; het Grieks heeft alleen 'verborg' | toelichting (controle 2: toevoeging) |
+| 47, 48 | γενους, σαπρα (G4550) | "allerlei soorten vissen" en "de goede vissen": "vissen" is aangevuld (het Grieks heeft alleen 'uit elke soort' en 'de goede'). Ook "de vissers" (v48) is aangevuld: het Grieks heeft alleen deelwoorden. σαπρα is 'verrot, waardeloos'; "onbruikbare" is milder | toelichting (controle 2: toevoeging; controle 3) |
+| 51 | λεγει αυτοις ο ιησους, κυριε | Vermoeden, niet nagegaan: "Jezus" in v51a en "Heer" in v51b kunnen in andere uitgaven ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 52 | μαθητευθεις εις (G3100) | "een discipel van het koninkrijk der hemelen is geworden": het Grieks heeft een lijdend deelwoord ('onderwezen/tot leerling gemaakt') met εις ('voor, tot'). "van" verschuift de verhouding | toelichting (controle 3, controle 4) |
+| 54 | δυναμεις (G1411) | "machtige daden", ook v58. In 14:2 is hetzelfde woord "krachten" | vraag voor de vertaler (controle 9: consistentie) |
+| 55 | ιωσης (G2500) | Vermoeden, niet nagegaan: andere uitgaven hebben hier een andere vorm van de naam ('Joseph'). Controleren tegen `data/namentabel.json` | tekstvariant (vermoeden); namen |
+| 56 | εισιν (G1510) | "Wonen Zijn zussen niet allemaal bij ons?": het Grieks heeft alleen 'zijn ze niet allemaal bij ons'. "Wonen" is een exegetische invulling | vraag voor de vertaler (controle 2: toevoeging) |
+
+Versgrenzen: alle 58 verzen komen overeen met het Grieks. v34 eindigt met een komma en v35 begint met "opdat": de zin loopt in het Grieks over de versgrens (οπως).
+## Mattheüs 14
+
+Niet weergegeven: δε (v6, v8, v15, v17, v18, v21, v23, v25, v27, v28, v29, v31, v33), και (v2, v9, v11 twee keer, v12, v13 twee keer, v14, v19, v20 twee keer, v23, v26 twee keer, v30, v34, v35, v36 twee keer), λεγων (v27, v30), οτι (v26), αυτον (v22, bij προαγειν: 'voor Hem uit').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2 | παισιν (G3816) | "hovelingen": het Grieks heeft 'dienaren, knechten'. "hovelingen" is een nadere invulling | toelichting |
+| 2 | δυναμεις (G1411) | "die krachten": in 13:54 en 13:58 is hetzelfde woord "machtige daden" | vraag voor de vertaler (controle 9: consistentie) |
+| 2 | ηγερθη (G1453) | "is opgestaan": het Grieks heeft een lijdende vorm ('is opgewekt'). In 16:21 is εγερθηναι "worden opgewekt". Het Nederlands maakt het hier bedrijvend | vraag voor de vertaler (controle 4: grammatica; controle 9) |
+| 5 | και (G2532) | "Hij wilde hem wel doden, maar hij was bang": και ('en') is "maar"; "wel" is aangevuld. Het Grieks heeft een gewoon bijvoeglijk deelwoord ('willend doden') en geen tegenstelling | toelichting (controle 5: discourse-relaties) |
+| 6 | εν τω μεσω (G3319) | "voor de gasten": het Grieks heeft 'in het midden'. "de gasten" is aangevuld | toelichting (controle 2: toevoeging) |
+| 10 | εν τη φυλακη (G1722, G5438) | "Hij stuurde iemand naar de gevangenis": het Grieks heeft 'in de gevangenis'. "iemand" is aangevuld, "naar" maakt het richtinggevend en "liet ... onthoofden" maakt van απεκεφαλισεν een opdracht | toelichting (controle 2: toevoeging; controle 3) |
+| 12 | αυτου (G846), σωμα | "De discipelen van Johannes": αυτου ('zijn') is opgelost met "van Johannes". Vermoeden, niet nagegaan: andere uitgaven hebben voor "lichaam" een ander woord ('lijk') | vraag voor de vertaler (controle 7: ambiguïteit opgelost); tekstvariant (vermoeden) |
+| 13 | κατ ιδιαν (G2596, G2398) | "om alleen te zijn": een doelzin is aangevuld; het Grieks heeft alleen 'afzonderlijk, alleen'. In v23 is hetzelfde "alleen" | toelichting (controle 2: toevoeging) |
+| 13, 15 | ερημον (G2048) | "een eenzame plaats": ερημος is 'verlaten, onbewoond'. "eenzame" legt de nadruk op 'alleen', niet op 'verlaten'. In 15:33 is ερημια (G2047) "wildernis" | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 14 | εξελθων (G1831) | "stapte uit de boot": "uit de boot" is aangevuld. Het Grieks heeft 'uitgaand' en laat open of dat uit de boot of uit de eenzame plaats is | vraag voor de vertaler (controle 2: toevoeging; controle 7: ambiguïteit opgelost) |
+| 22 | ηναγκασεν (G315) | "stond erop dat": het Grieks heeft 'dwong'. Het Nederlands is zwakker | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 22 | εως ου (G2193, G3739) | "terwijl Hij de menigten zou wegsturen": εως ου is 'totdat'. In 13:33 is hetzelfde "totdat". Ook αυτον (προαγειν αυτον, 'voor Hem uit') is niet weergegeven; "alvast" dekt het voorvoegsel | vraag voor de vertaler (controle 5: discourse-relaties; controle 9) |
+| 24 | μεσον της θαλασσης (G3319) | "midden op het meer": vermoeden, niet nagegaan: in andere uitgaven staat hier een andere aanduiding van de afstand tot het land. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 13, 24 | θαλασσα (G2281) | "meer" in v24, v25, v26 (en 13:1, 15:29), maar 13:47 "de zee": hetzelfde Griekse woord, twee Nederlandse woorden | vraag voor de vertaler (controle 9: consistentie) |
+| 27, 28 | εγω ειμι (G1473, G1510) | "Ik ben het": "het" is aangevuld. εγω ειμι kan ook een zelfbekendmaking zijn ('Ik ben'). Het Nederlands kiest de eerste lezing | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 29 | ελθειν (G2064) | "om naar Jezus toe te gaan": ελθειν is een onbepaalde wijs. Vermoeden, niet nagegaan: andere uitgaven hebben een persoonsvorm ('en kwam naar Jezus'). Dat verandert of Petrus bij Jezus aankomt | tekstvariant (vermoeden) |
+| 30 | ισχυρον (G2478) | "hoe hard het waaide": vermoeden, niet nagegaan: ισχυρον kan in andere uitgaven ontbreken | tekstvariant (vermoeden) |
+| 32 | και (G2532), εμβαντων αυτων | "Ze stapten in de boot, en de wind ging liggen": het Grieks heeft een tijdsbepaling (genitivus absolutus: 'toen zij in de boot stapten'). Het Nederlands maakt er twee hoofdzinnen van | toelichting (controle 5: discourse-relaties) |
+| 33 | θεου υιος (G2316, G5207) | "Gods Zoon": het Grieks heeft geen lidwoorden ('Zoon van God'), dus ook 'een zoon van God' is mogelijk. In 16:16 is ο υιος του θεου "de Zoon van ... God". Het Nederlands kiest 'de' | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 33 | προσεκυνησαν (G4352) | "aanbidden": hetzelfde werkwoord is in 15:25 "boog zich ... neer". Het Grieks kan 'aanbidden' of 'zich neerbuigen' zijn | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 35 | απεστειλαν (G649) | "stuurden bericht rond": "bericht" is aangevuld; het Grieks heeft alleen 'zonden uit naar de hele omgeving' | toelichting (controle 2: toevoeging) |
+| 36 | διεσωθησαν (G1295) | "werden genezen": het Grieks is 'werden gered, werden veilig doorheen gebracht' (stam van σωζω, zoals σωσον in v30 "red mij"). Het Nederlands kiest 'genezen' | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+
+Versgrenzen: alle 36 verzen komen overeen met het Grieks. In v19 is "gaven ze" bij οι δε μαθηται aangevuld (het werkwoord is in het Grieks weggelaten); dat blijft binnen het vers.
+
+## Mattheüs 15
+
+Niet weergegeven: δε (v3, v13, v14, v15, v16, v24, v26, v27, v32, v34, v38), και (v5, v28, v30 twee keer, v32, v33, v34, v35, v36, v37 twee keer, v39), λεγων (v4, v7), λεγουσα (v22), λεγοντες (v23), αν (v5), εαν (v5), αυτου (v5, de tweede 'zijn'), αυτων (v8, 'hun' bij 'mond'), ωστε (v33).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 3, 6 | δια την παραδοσιν υμων (G1223) | v3 "omwille van uw overlevering", v6 "door uw overlevering": dezelfde Griekse woorden, twee weergaven. In v6 verschuift 'vanwege' naar 'door middel van' | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 4 | πατερα, μητερα (G3962, G3384) | "uw vader en uw moeder": "uw" is aangevuld; het Grieks heeft 'de vader en de moeder'. Ook "zijn vader of moeder" is aangevuld | toelichting (controle 2: toevoeging) |
+| 5 | και ου μη τιμηση (G5091) | "die hoeft zijn vader of moeder niet te eren": het Grieks zegt 'en hij zal zijn vader beslist niet eren' en heeft geen woord voor 'hoeft'. "hoeft" legt een bevrijding van de plicht vast, "die" is aangevuld. Ook "had kunnen krijgen" geeft ωφεληθης (G5623, 'zou je gebaat zijn') weer met een eigen modaliteit en "is een offergave" voegt een koppelwerkwoord toe (δωρον, 'gave'). Vermoeden, niet nagegaan: in andere uitgaven staat hier een andere vorm van τιμηση | vraag voor de vertaler (controle 2: toevoeging; controle 4: modus) |
+| 6 | την εντολην (G1785) | "het gebod van God": vermoeden, niet nagegaan: andere uitgaven hebben hier een ander object ('het woord'). Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 8 | αυτων (G846) | "met de mond": 'hun' (αυτων) is niet weergegeven. Vermoeden, niet nagegaan: de woorden 'met hun mond en' staan niet in alle uitgaven | tekstvariant (vermoeden) |
+| 9 | δε (G1161), ενταλματα (G1778) | "Tevergeefs vereren zij Mij, want zij onderwijzen ...": δε is "want" geworden (een reden), het Grieks heeft een gewoon voegwoord ('maar/en'). "die geboden van mensen zijn" maakt van een bijstelling een bijzin | toelichting (controle 5: discourse-relaties) |
+| 15 | παραβολην (G3850) | "dit gezegde": hetzelfde Griekse woord is in hoofdstuk 13 steeds "gelijkenis". Hier verwijst het naar de uitspraak in v11 | vraag voor de vertaler (controle 9: consistentie) |
+| 19 | πονηροι (G4190) | "kwade gedachten": in 13:19 en 13:38 "de boze", in 13:49 "de slechten", in 16:4 "slechte" | vraag voor de vertaler (controle 9: consistentie) |
+| 23 | ηρωτων (G2065) | "drongen er bij Hem op aan": het Grieks heeft 'vroegen' (onvolmaakt verleden tijd). Het Nederlands versterkt | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 23 | απολυσον (G630) | "Stuur haar weg": απολυω is 'wegsturen' maar ook 'laten gaan, vrijlaten'. Het Nederlands kiest 'wegsturen' (zoals 14:15, 14:22, 14:23, 15:32, 15:39) | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 25 | προσεκυνησεν (G4352) | "boog zich voor Hem neer": hetzelfde werkwoord is in 14:33 "aanbidden" | vraag voor de vertaler (controle 9: consistentie) |
+| 27 | και γαρ (G2532, G1063) | "maar zelfs": 'ja, want ook'. Het Nederlands maakt er een tegenstelling van | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 28 | γενηθητω (G1096) | "Het zal u gebeuren": γενηθητω is een gebiedende wijs van de derde persoon ('laat het gebeuren'). Het Nederlands maakt er een toekomstige zin van | vraag voor de vertaler (controle 4: modus) |
+| 29 | εκαθητο (G2521) | "ging daar zitten": zie 13:1, de Griekse vorm is 'zat' | vraag voor de vertaler (controle 4: aspect) |
+| 30, 31 | κωφους (G2974) | "stommen": κωφος kan 'doof' of 'stom' zijn. In v31 volgt λαλουντας ('sprekend'), wat bij 'stom' past. Het Nederlands kiest 'stommen' | toelichting (controle 7) |
+| 30 | ερριψαν (G4496) | "legden hen ... neer": het Grieks heeft 'wierpen' (ριπτω). Het Nederlands is milder | toelichting (controle 3) |
+| 32 | μηποτε (G3379) | "want dan zouden ze ... kunnen bezwijken": μηποτε is 'opdat niet'. Zie 13:15 ("Anders") en 13:29 ("anders") | vraag voor de vertaler (controle 5; controle 9) |
+| 33 | ποθεν (G4159) | "Waar halen wij hier ... vandaan": "halen" en "hier" zijn aangevuld; het Grieks heeft geen werkwoord ('vanwaar voor ons in de wildernis zoveel broden') | toelichting (controle 2: toevoeging) |
+| 39 | μαγδαλα (G3093) | "Magdala": vermoeden, niet nagegaan: andere uitgaven hebben een andere plaatsnaam. Controleren tegen `data/namentabel.json` | tekstvariant (vermoeden); namen |
+
+Versgrenzen: alle 39 verzen komen overeen met het Grieks. v30 eindigt met een komma ("en Hij genas hen,") en v31 begint met "zodat" (ωστε): de zin loopt in het Grieks over de versgrens. v8-9 vormen één citaat uit Jesaja en lopen over de versgrens zoals in het Grieks.
+
+## Mattheüs 16
+
+Niet weergegeven: δε (v6, v7, v8, v13, v14 twee keer, v16), και (v1, v5, v17, v19 twee keer, v21 twee keer, v24), λεγοντες (v7), λεγων (v13, v22), οτι (v7, v18), εαν (v19 twee keer), μεν (v3), υμιν (v11), αν (v28).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2, 3 | v2b-3 als geheel | Vermoeden, niet nagegaan: de woorden over het avond- en ochtendweer ("Als het avond wordt ... de tekenen van de tijd") kunnen in andere uitgaven ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 3 | καιρων (G2540), διακρινειν (G1252) | "de tekenen van de tijd": het Grieks heeft 'de tijden' (meervoud). "Weet u te duiden" en "kunt u niet duiden" gebruiken beide "duiden", omdat het Grieks διακρινειν maar één keer heeft (bij γινωσκετε) en bij δυνασθε weglaat. Het tweede "duiden" is dus aangevuld | toelichting (controle 2: toevoeging) |
+| 4 | επιζητει (G1934) | "eist": het Grieks heeft 'zoekt, verlangt'. Zie ook 12:39 | toelichting (controle 3: betekenisverschuiving) |
+| 4 | του προφητου (G4396) | Vermoeden, niet nagegaan: "de profeet" kan in andere uitgaven ontbreken. In 12:39 staat dezelfde zin met dezelfde woorden | tekstvariant (vermoeden) |
+| 9, 10 | ελαβετε (G2983) | "opgehaald" (v9, v10), terwijl hetzelfde werkwoord in v5, v7 en v8 "meenemen" is. "Toen" is in v9 en v10 aangevuld | toelichting (controle 9; controle 2) |
+| 11 | ειπον υμιν προσεχειν απο (G4337) | "toen Ik zei: 'Wees op je hoede ...'": het Grieks heeft een afhankelijke zin ('dat Ik niet over brood tot jullie sprak om op te letten voor ...'). Het Nederlands maakt er een direct citaat van en laat υμιν ('tot jullie') weg. "Kunnen" en "nu" zijn aangevuld | toelichting (controle 2: toevoeging; controle 5) |
+| 13 | με ... τον υιον του ανθρωπου (G1473, G5207) | "dat Ik, de Mensenzoon, ben": het Grieks heeft 'wie zeggen de mensen dat de Mensenzoon is' met aanvulling με ('mij'). Het Nederlands zet beide naast elkaar als aanvulling bij elkaar ("Ik, de Mensenzoon"). Dat sluit een lezing uit waarin Jezus over een derde spreekt, en maakt een verband dat het Grieks aan het lezen overlaat. Vermoeden, niet nagegaan: in andere uitgaven kan με ontbreken. Hier niet beoordeeld | vraag voor de vertaler (controle 7: ambiguïteit ten onrechte opgelost); tekstvariant (vermoeden) |
+| 17 | σαρξ και αιμα (G4561, G129) | "een mens van vlees en bloed": "een mens" is aangevuld. Het Grieks heeft alleen 'vlees en bloed' als uitdrukking, zonder "mens". "Dit" is ook aangevuld | toelichting (controle 2: toevoeging; controle 6) |
+| 18 | πετρος, πετρα (G4074, G4073) | "Petrus" en "op deze rots": het woordspel van het Grieks (πετρος, πετρα) is in het Nederlands niet te zien, omdat "Petrus" een naam blijft. Het Nederlands houdt wel open wat "deze rots" is, dat is wat het Grieks ook doet | toelichting (controle 6: beeldspraak; controle 7) |
+| 18 | καγω (G2504) | "En Ik zeg jou": καγω is 'ook Ik' (και εγω). Het Nederlands laat 'ook' weg | toelichting (controle 1: omissie) |
+| 19 | ουρανων, ουρανοις (G3772) | "koninkrijk der hemelen" naast "in de hemel", beide voor een Grieks meervoud. "Der" valt bovendien buiten B2 | vraag voor de vertaler (controle 9; taalniveau) |
+| 20 | διεστειλατο (G1291), τοτε | "Daarop gebood Hij ... nadrukkelijk": "nadrukkelijk" is aangevuld. Het Grieks heeft alleen 'gebood'. Dezelfde toevoeging komt voor bij "met klem" in 12:16 | toelichting (controle 2: toevoeging) |
+| 20 | ιησους (G2424) | Vermoeden, niet nagegaan: "Jezus" kan in andere uitgaven ontbreken (bij "dat Hij de Christus was"). Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 21 | δεικνυειν (G1166) | "te laten zien" voor 'tonen, laten zien'. "Door toedoen van" voor απο ('van de kant van') is een invulling | toelichting (controle 3) |
+| 22 | ιλεως σοι (G2436) | "God verhoede het": het Grieks heeft ιλεως σοι ('genadig voor u'), zonder "God". Het Nederlands kiest een vaste uitdrukking en voegt "God" toe | toelichting (controle 2: toevoeging; controle 6) |
+| 23 | σκανδαλον (G4625) | "struikelblok". In 13:21 "komt hij ten val", 13:41 "ten val brengt" en 13:57 "namen aanstoot" voor hetzelfde stamwoord | vraag voor de vertaler (controle 9: consistentie) |
+| 24 | αρατω (G142) | "zijn kruis opnemen". De drie gebiedende wijzen in de derde persoon ('laat hij ... verloochenen') zijn "moet hij" geworden. "Moeten" is sterker dan 'laat hij' | stijl |
+| 25, 26 | ψυχη (G5590), απολλυμι (G622), ζημιοω (G2210) | v25 "leven", v26 "ziel" voor hetzelfde Griekse woord (de voetnoot in v25 zegt dat al). In v25 is απολεσει "verliezen" en in v26 is ζημιωθη ook "verliest": twee Griekse werkwoorden, één Nederlands werkwoord. De zakelijke tegenstelling κερδηση / ζημιωθη ('winst / verlies') is minder zichtbaar | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 27 | μελλει (G3195) | "zal komen": μελλει ερχεσθαι is 'staat op het punt te komen' of 'zal zeker komen'. "Zal" legt dat niet vast | toelichting (controle 4: tijd en aspect) |
+| 27 | εν τη δοξη (G1391) | "met de heerlijkheid": het Grieks heeft εν ('in'). 'Met' en 'in' zijn niet hetzelfde ('gekleed in' of 'vergezeld van') | toelichting (controle 3) |
+| 27 | την πραξιν αυτου (G4234) | "naar wat hij gedaan heeft": het Grieks heeft een zelfstandig naamwoord ('naar zijn daad, handelwijze'). Het Nederlands maakt er een bijzin van met voltooide tijd | toelichting (controle 4) |
+| 28 | εως αν (G2193) | "voordat ze ... zien": het Grieks heeft 'totdat'. In 12:20 en 23:39 is het "totdat", in hoofdstuk 24 "voordat". "Voordat" kan lezen als: daarna sterven zij wel | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+
+Versgrenzen: alle 28 verzen komen overeen met het Grieks. v2 eindigt met een komma en v3 begint met "en 's morgens": de zin loopt in het Grieks over de versgrens. v4 sluit het citaat af en gaat verder met "Hij liet hen achter".
+
+## Mattheüs 17
+
+Niet weergegeven: καί (v1 twee keer, v2 twee keer, v4, v6, v7, v9, v10, v12, v14, v16, v18 twee keer, v20, v23 twee keer, v24, v25, v27: 'en' aan het begin of midden van een zin, het Nederlands zet een punt of komma), δέ (v11, v17, v20, v22, v24), ὅτι (v12 en v15, inleiding bij directe rede), λέγων, λέγοντες, λέγουσα (v5, v9, v10: 'zeggend', de dubbele punt dient daarvoor), μόνον (v8), αὐτῷ (v26, 'tegen hem' bij Petrus' antwoord).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 4 | ἀποκριθεὶς (G611) | "nam het woord": het Grieks heeft 'antwoordend'. In v11 en v17 is hetzelfde woord "antwoordde" | vraag voor de vertaler (controle 9: consistentie) |
+| 5 | εὐδόκησα (G2106) | "vind": het Grieks is een aoristus ('ik heb vreugde gevonden'), het Nederlands heeft een tegenwoordige tijd | toelichting (controle 4: tijd) |
+| 6 | ἐπὶ πρόσωπον (G1909, G4383) | "met hun gezicht op de grond": het Grieks heeft 'op hun gezicht'. "de grond" is aangevuld | toelichting |
+| 8 | μόνον (G3440) | niet weergegeven: het Grieks heeft 'niemand dan Jezus alleen' | omissie (controle 1) |
+| 8 | ἐπάραντες τοὺς ὀφθαλμοὺς (G1869, G3788) | "keken op": het Grieks heeft 'hun ogen opheffen'. Idioom weergegeven als werkwoord, "ogen" valt weg | toelichting (controle 6: beeldspraak) |
+| 13 | εἶπεν (G3004) | "had gesproken": het Grieks is een aoristus, het Nederlands een voltooid verleden tijd | toelichting (controle 4: tijd) |
+| 15 | σεληνιάζεται (G4583) | "hij heeft toevallen": het Grieks heeft 'hij is maanziek'. Zelfde weergave als 4:24 | toelichting |
+| 17 | ἔσομαι, ἀνέξομαι (G1510, G430) | "moet Ik ... zijn", "moet Ik ... verdragen": "moet" is aangevuld. Het Grieks is toekomende tijd | vraag voor de vertaler (controle 2: toevoeging; controle 4) |
+| 18 | ἐπετίμησεν αὐτῷ (G2008, G846) | "bestrafte de demon": het Grieks heeft 'bestrafte hem/het' (onzijdig). "de demon" staat pas daarna in de Griekse zin (τὸ δαιμόνιον, G1140). Het Nederlands zet het zelfstandig naamwoord eerder | toelichting |
+| 18 | ὥρας (G5610) | "Vanaf dat ogenblik": het Grieks heeft 'uur'. Zelfde weergave als 9:22 | toelichting |
+| 20 | ἀπιστίαν (G570) | "ongeloof". Vermoeden, niet nagegaan: andere uitgaven hebben hier een ander woord | tekstvariant (vermoeden) |
+| 21 | τοῦτο δὲ τὸ γένος ... (v21 als geheel) | Vermoeden, niet nagegaan: dit vers ontbreekt in andere uitgaven | tekstvariant (vermoeden) |
+| 22 | ἀναστρεφομένων (G390) | "Toen ze in Galilea waren": het Grieks heeft 'terwijl zij zich ophielden/verbleven'. Vermoeden, niet nagegaan: andere uitgaven lezen hier een ander woord | toelichting; tekstvariant (vermoeden) |
+| 25 | λέγει (G3004) | "Hij antwoordde": het Grieks heeft 'hij zegt' (tegenwoordige tijd) | toelichting (controle 4: tijd) |
+| 25, 26 | ἀλλοτρίων (G245) | "anderen": het Grieks heeft 'vreemden, niet-verwanten'. Het Nederlands is algemener | vraag voor de vertaler (controle 3) |
+| 27 | ἵνα ... μὴ σκανδαλίσωμεν (G2443, G4624) | "we willen hun geen aanstoot geven": het Grieks is een doelzin ('opdat wij hen niet ergeren'). Het Nederlands maakt er een hoofdzin van | vraag voor de vertaler (controle 5: discourse-relatie) |
+| 27 | πορευθεὶς (G4198) | "Ga daarom naar het meer": "daarom" is aangevuld, het Grieks heeft alleen 'gaande' | toevoeging (controle 2) |
+| 27 | θάλασσαν (G2281) | "meer": 4:18 en 8:24 "meer", maar 4:15 en 13:47 "zee": hetzelfde woord | vraag voor de vertaler (controle 9: consistentie) |
+
+Versgrenzen: Grieks en Nederlands lopen gelijk. v14 en v15 zijn bij beide één zin (het Grieks heeft 'knielend ... en zeggend', het Nederlands maakt er twee werkwoorden van over de versgrens heen). De rede van Jezus loopt in het Nederlands door van v26 naar v27.
+
+## Mattheüs 18
+
+Niet weergegeven: καί (v2, v5, v9, v13, v25, v28, v31, v33 en overal waar het Nederlands een punt of komma zet), δέ (v8, v15, v17 twee keer, v24, v25, v27, v31), οὗτος (v4, 'deze', tweede aanwijzend woord), ἐάν en ἄν (v5, v6, v18: de voorwaarde of onbepaaldheid zit in 'wie' en 'wat'), ἐκείνῳ (v7, 'die' bij 'de mens'), ὅτι (v10, v13, v19, inleiding bij directe rede), παρά (v19, 'van' bij 'Mijn Vader'), ἀνθρώπῳ (v23), μοι (v28, 'mij' bij 'betaal terug'), λέγων (v29, 'zeggend'), ἀλλά (v30), tweede καί (v33, 'ook').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | ὥρᾳ (G5610) | "Op dat moment": het Grieks heeft 'uur'. In 9:22 en 17:18 is hetzelfde woord "ogenblik" | vraag voor de vertaler (controle 9: consistentie) |
+| 3 | στραφῆτε (G4762) | "veranderen": het Grieks heeft 'zich omkeren, zich omdraaien'. Het Nederlands geeft een uitleg | vraag voor de vertaler (controle 3; controle 6: beeldspraak) |
+| 6 | μύλος ὀνικός (G3458, G3684) | "een zware molensteen": het Grieks heeft 'molensteen van een ezel' (een steen die door een ezel gedraaid wordt). "zware" is een uitleg | toelichting |
+| 6 | συμφέρει αὐτῷ ἵνα (G4851, G2443) | "zou beter af zijn als": het Grieks heeft 'het is voordelig voor hem dat'. Het Nederlands maakt er een voorwaarde van | toelichting (controle 5: discourse-relatie) |
+| 6, 7, 8, 9 | σκανδαλίσῃ (G4624), σκάνδαλα (G4625) | v6, v8, v9 "ten val brengen", v7 "struikelblok(ken)": één woordfamilie, twee Nederlandse weergaven | vraag voor de vertaler (controle 9: consistentie) |
+| 9 | τὴν γέενναν τοῦ πυρός (G1067, G4442) | "het vuur van de hel": het Grieks heeft 'de hel (Gehenna) van het vuur'. De genitiefrelatie is omgekeerd | toelichting |
+| 10, 14, 19 | οὐρανοῖς (G3772) | "in de hemel": het Grieks heeft meervoud ('in de hemelen'). In v1, v3 en v4 is het meervoud wel behouden ("der hemelen") | vraag voor de vertaler (controle 9: consistentie) |
+| 11 | v11 als geheel | Vermoeden, niet nagegaan: dit vers ontbreekt in andere uitgaven | tekstvariant (vermoeden) |
+| 14 | ἔμπροσθεν (G1715), ὑμῶν (G4771) | "van jullie Vader": het Grieks heeft 'voor (het aangezicht van) jullie Vader'. Vermoeden, niet nagegaan: andere uitgaven hebben hier 'Mijn' in plaats van 'jullie' | toelichting; tekstvariant (vermoeden) |
+| 15 | μεταξὺ σοῦ καὶ αὐτοῦ μόνου (G3342, G3441) | "onder vier ogen": het Grieks heeft 'tussen jou en hem alleen'. Idioom in plaats van een letterlijke uitdrukking | toelichting (controle 6: beeldspraak) |
+| 16 | ῥῆμα, στόματος (G4487, G4750) | "elke zaak" en "wat ... verklaren": het Grieks heeft 'elk woord' en 'op de mond van'. Beide zijn uitleg | toelichting |
+| 19 | γενήσεται αὐτοῖς παρὰ τοῦ πατρός (G1096, G3844) | "zal Mijn Vader ... het hun laten gebeuren": het Grieks heeft 'het zal hun gebeuren van (de kant van) Mijn Vader'. Andere zinsbouw, Vader wordt onderwerp | toelichting (controle 4) |
+| 21 | ἁμαρτήσει ... καὶ ἀφήσω (G264, G863) | "als mijn broeder tegen mij zondigt ... moet ik hem dan vergeven": het Grieks heeft 'hoe vaak zal mijn broeder tegen mij zondigen en zal ik hem vergeven'. "als" en "moet" zijn aangevuld | vraag voor de vertaler (controle 2: toevoeging; controle 4) |
+| 22 | ἑβδομηκοντάκις ἑπτά (G1441, G2033) | "zevenenzeventig keer": het Grieks heeft 'zeventigmaal zeven' en laat in het midden of dat 77 of 490 is. Het Nederlands kiest 77. De keuze is een exegetische conclusie | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 23 | ὠμοιώθη ἀνθρώπῳ βασιλεῖ (G3666, G444, G935) | "is te vergelijken met een koning": het Grieks heeft 'is gelijk geworden aan een mens, een koning'. "mens" ontbreekt; de tijd is aoristus, het Nederlands heeft een tegenwoordige tijd | omissie (controle 1); toelichting (controle 4: tijd) |
+| 25, 26 | κύριος (G2962) | v25 en v27 "meester", maar v26 de slaaf zegt "Heer" tegen dezelfde κύριος. In v21 is κύριε "Heer" | vraag voor de vertaler (controle 9: consistentie) |
+| 25 | ἀποδοθῆναι (G591) | "en dat de schuld daarmee terugbetaald zou worden": "de schuld" en "daarmee" zijn aangevuld, het Grieks heeft alleen 'terugbetaald worden' | toevoeging (controle 2) |
+| 28 | ἀπόδος μοι (G591, G1473) | "Betaal terug": 'mij' (μοι) ontbreekt | omissie (controle 1) |
+| 35 | ἐὰν μὴ ἀφῆτε (G1437, G863) | "doen die ... niet vergeeft": het Grieks heeft een voorwaardezin ('als jullie niet vergeven'), het Nederlands een betrekkelijke bijzin met "ieder van jullie" | toelichting (controle 5: discourse-relatie) |
+| 35 | τὰ παραπτώματα αὐτῶν (G3900) | "zijn overtredingen". Vermoeden, niet nagegaan: de slotwoorden ontbreken in andere uitgaven | tekstvariant (vermoeden) |
+
+Versgrenzen: Grieks en Nederlands lopen gelijk. v2 en v3 zijn bij beide één zin (v2 eindigt in het Nederlands zonder punt). v25 loopt in het Nederlands over twee 'dat'-bijzinnen, het Grieks heeft twee infinitieven (πραθῆναι, ἀποδοθῆναι). De gelijkenis begint in v23 en loopt tot en met v35.
+
+## Mattheüs 19
+
+Niet weergegeven: καί (v1, v2, v3, v12, v21, v29: 'en' aan het begin of midden van een zin, het Nederlands zet een punt of komma), δέ (v4, v11, v13, v17, v18, v22, v23, v24, v25, v26, v28), ὅτι (v8, v9, v23, v28, inleiding bij directe rede), αὐτῷ (v3, 'tegen Hem' bij 'vroegen'), αὐτοῖς (v4, 'tegen hen'), ἤ (v29 vijf van de zes keer, 'of' in de opsomming, het Nederlands gebruikt komma's; alleen voor "akkers" staat "of").
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 3, 5, 6 | ἀνθρώπῳ, ἄνθρωπος (G444) | v3 en v5 "man", v6 "mens": hetzelfde woord. In v10 en v12 is het "man" en "mensen" | vraag voor de vertaler (controle 9: consistentie) |
+| 4 | ὁ ποιήσας (G4160) | "de Schepper": het Grieks heeft 'die gemaakt heeft' (deelwoord). "Schepper" is een titel, het Grieks heeft een werkwoordsvorm die in dezelfde zin als "heeft gemaakt" terugkomt. Vermoeden, niet nagegaan: andere uitgaven hebben hier een ander werkwoord | toelichting (controle 6); tekstvariant (vermoeden) |
+| 4 | ἀποκριθεὶς (G611) | "Hij antwoordde"; in v27 is hetzelfde woord "nam ... het woord". In 17:4 ook "nam het woord" | vraag voor de vertaler (controle 9: consistentie) |
+| 9 | μὴ ἐπὶ πορνείᾳ (G3361, G4202) | "anders dan wegens ontucht". Vermoeden, niet nagegaan: de formulering (en ook het slot van het vers, "Ook wie met een verstoten vrouw trouwt") staat anders of ontbreekt in andere uitgaven | tekstvariant (vermoeden) |
+| 10 | αἰτία (G156) | "zo gesteld is": v3 heeft hetzelfde woord als "reden". Het Grieks heeft 'de zaak, de reden' | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 10 | οὐ συμφέρει (G3756, G4851) | "is het beter niet te trouwen": het Grieks heeft 'het is niet voordelig te trouwen'. De ontkenning staat anders | toelichting (controle 4) |
+| 11, 12 | χωροῦσιν, χωρεῖν (G5562) | "aanvaarden": het Grieks heeft 'ruimte maken voor, bevatten'. Het Nederlands geeft een uitleg | toelichting |
+| 13 | ἐπετίμησαν (G2008) | "snauwden ... af": in 17:18 en 8:26 is hetzelfde woord "bestraffen", in 20:31 "snauwen ... af" | vraag voor de vertaler (controle 9: consistentie) |
+| 14 | τῶν τοιούτων (G5108) | "van mensen zoals zij": "mensen" is aangevuld | toelichting |
+| 17 | v17 als geheel | "Waarom noemt u Mij goed? Niemand is goed, behalve God alleen": vermoeden, niet nagegaan: de eerste helft van het antwoord staat in andere uitgaven anders geformuleerd | tekstvariant (vermoeden) |
+| 22 | ἀκούσας τὸν λόγον (G191, G3056) | "Op dat woord": het Grieks heeft 'toen hij het woord hoorde'. "hoorde" is niet weergegeven | omissie (controle 1) |
+| 24 | τρυπήματος (G5169) | "het oog van een naald": het Grieks heeft 'doorboring, gat'. "oog" is een idioom. Vermoeden, niet nagegaan: andere uitgaven hebben hier een ander woord voor 'naald' of 'gat' | toelichting; tekstvariant (vermoeden) |
+| 28 | ἐν τῇ παλιγγενεσίᾳ (G1722, G3824) | "wanneer alles nieuw wordt": het Grieks heeft 'bij/in de wedergeboorte'. "alles" is aangevuld en een zelfstandig naamwoord is een bijzin geworden. Het Grieks laat ook open of 'in de wedergeboorte' bij "Mij gevolgd zijn" of bij "plaatsnemen" hoort. Het Nederlands koppelt het aan het eerste (via "wanneer") | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 6) |
+| 28 | κρίνοντες (G2919) | "en ... oordelen": het Grieks heeft 'oordelend' (deelwoord, bijwoordelijk) | toelichting |
+| 29 | ἢ γυναῖκα (G1135), ἑκατονταπλασίονα (G1542) | Vermoeden, niet nagegaan: 'of vrouw' en het woord voor 'honderdvoudig' staan anders in andere uitgaven | tekstvariant (vermoeden) |
+
+Versgrenzen: Grieks en Nederlands lopen gelijk. v4 en v5 zijn bij beide één zin (de vraag "Hebt u niet gelezen ..." loopt over de versgrens). In v18 is de spreker in het Nederlands "Hij" (de man uit v16); het Grieks heeft alleen "zegt hem".
+
+## Mattheüs 20
+
+Niet weergegeven: καί (v2, v4, v6, v7, v17, v18, v19, v20, v23, v24, v29, v32, v34: 'en' aan het begin of midden van een zin, het Nederlands zet een punt, komma of puntkomma), δέ (v5, v6, v8, v10, v14, v21, v22, v25, v31), ὅτι (v12, inleiding bij directe rede), ἀλλ' (v23, v26: 'maar'), λέγοντες (v30, v31: 'zeggend', de dubbele punt dient daarvoor), ἀνθρώπῳ (v1, 'een mens', bij 'landeigenaar').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | ἀνθρώπῳ οἰκοδεσπότῃ (G444, G3617) | "een landeigenaar": het Grieks heeft 'een mens, een heer des huizes'. "mens" ontbreekt; "landeigenaar" is een uitleg van 'huisheer' | omissie (controle 1); toelichting |
+| 3, 6 | ἐξελθών (G1831) | v3 "ging hij opnieuw op pad", v6 "ging hij nog eens op pad": "opnieuw" en "nog eens" zijn aangevuld. Pas in v5 heeft het Grieks 'weer' (πάλιν) | toevoeging (controle 2) |
+| 8 | κύριος (G2962) | "de heer van de wijngaard". In 18:25-34 is dezelfde κύριος "meester" | vraag voor de vertaler (controle 9: consistentie) |
+| 11 | λαβόντες (G2983) | "Ze namen hem in ontvangst": "hem" is aangevuld; het Grieks heeft alleen 'ontvangend' (geen object). Het is niet gezegd dat het om de denarie gaat | toevoeging (controle 2) |
+| 12 | ἐποίησαν (G4160) | "maar één uur gewerkt": het Grieks heeft 'één uur gedaan/gemaakt'. "maar" is aangevuld | toevoeging (controle 2) |
+| 15 | ὁ ὀφθαλμός σου πονηρός ἐστιν (G3788, G4190) | "Ben je afgunstig": het Grieks heeft 'is jouw oog boos?'. Beeldspraak vervangen door uitleg | vraag voor de vertaler (controle 6: beeldspraak) |
+| 16 | πολλοὶ γάρ εἰσιν κλητοί ... (v16b) | Vermoeden, niet nagegaan: de tweede helft van dit vers ("want velen zijn geroepen ...") ontbreekt in andere uitgaven | tekstvariant (vermoeden) |
+| 22, 23 | ἢ τὸ βάπτισμα ... βαπτισθῆναι (G908, G907) | "of gedoopt worden met de doop ..." (v22) en "met de doop waarmee Ik gedoopt word, zullen jullie gedoopt worden" (v23): vermoeden, niet nagegaan: deze delen ontbreken in andere uitgaven | tekstvariant (vermoeden) |
+| 23 | τὸ καθίσαι (G2523), ἡτοίμασται ὑπὸ τοῦ πατρός (G2090, G5259) | "de plaatsen aan Mijn rechterhand ... zijn niet aan Mij om te geven": het Grieks heeft 'het zitten' (infinitief), het Nederlands "de plaatsen". "voor wie Mijn Vader ze bereid heeft": het Grieks is lijdend ('voor wie het bereid is door Mijn Vader') | toelichting (controle 4) |
+| 25 | ἐθνῶν (G1484) | "de volken": in 19:19 is hetzelfde woord "de heidenen" | vraag voor de vertaler (controle 9: consistentie) |
+| 28 | ἀντὶ πολλῶν (G473, G4183) | "voor velen": het Grieks heeft ἀντί ('in plaats van'). Het Nederlands "voor" laat de verhouding open | toelichting (controle 3) |
+| 31 | ἐπετίμησεν (G2008) | "snauwde ... af": in 8:26 en 17:18 is hetzelfde woord "bestraffen" | vraag voor de vertaler (controle 9: consistentie) |
+| 33 | ἵνα ἀνοιχθῶσιν (G2443, G455) | "wij willen dat onze ogen opengaan": "wij willen" is aangevuld, het Grieks heeft 'dat onze ogen geopend worden' | toevoeging (controle 2) |
+| 34 | ἀνέβλεψαν αὐτῶν οἱ ὀφθαλμοί (G308, G3788) | "konden ze weer zien": het Grieks heeft 'hun ogen kregen weer zicht'. Het onderwerp is in het Nederlands 'ze' (de blinden) | toelichting |
+
+Versgrenzen: Grieks en Nederlands lopen gelijk. v11 en v12 zijn bij beide één zin (v11 eindigt in het Nederlands zonder punt, het Grieks heeft 'en zeggend'). v26 en v27 zijn bij beide één zin (v26 eindigt op een komma). De gelijkenis loopt van v1 tot en met v15, v16 is de afsluiting.
+
+## Mattheüs 21
+
+Niet weergegeven: δε (v4, v6, v8 twee keer, v9, v11, v15, v16, v18, v21, v24, v25, v28, v29, v30, v34, v37), και (v1, v3, v10, v12 twee keer, v13, v14, v20, v22, v23, v27, v39, v44, v45 aan het begin; v2 twee keer, v7, v15, v17, v19 twee keer, v33 twee keer in het midden: 'en', het Nederlands zet een punt of komma of gebruikt een ander voegwoord), οτι (v3, v16, v31, v43: 'dat', inleiding van een citaat of rede), λεγοντος, λεγοντες, λεγοντας (v4, v9, v15, v25: 'zeggend', het Nederlands zet een dubbele punt), τοτε (v1, 'dan'), αυτων (v7, 'hun' bij mantels), εν τω ιερω (v12, 'in de tempel'), μονον (v19, 'alleen', zit in 'niets dan'), μεν (v35), εαν (v22), αν (v44, partikel), αυτω (v31, 'tegen hem' bij 'Ze zeiden'), ουτος (v42, 'deze' bij 'steen').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 3 | αποστελλει (G649) | "Dan worden ze meteen meegegeven": het Grieks is bedrijvend ('hij stuurt ze meteen'), het onderwerp is de Heer of de eigenaar. Het Nederlands maakt er een lijdende vorm van en laat het onderwerp weg | toelichting (controle 4: grammatica) |
+| 7 | αυτων (G846, plaats 9, 12 en 16) | "legden mantels op hen": 'hun' bij mantels (plaats 12) ontbreekt. Het Grieks heeft drie keer αυτων. Wat 'op hen' en 'erop' precies aanwijzen (de dieren of de mantels) laat het Grieks niet eenduidig; het Nederlands laat 'erop' ook open. Niet nagegaan | mogelijke omissie |
+| 8 | πλειστος οχλος (G4183, G3793) | "De meeste mensen uit de menigte": het Grieks heeft 'de zeer grote menigte' (overtreffende trap bij 'menigte'). Het Nederlands leest het als 'het grootste deel van de menigte' en voegt "mensen" toe | vraag voor de vertaler (controle 3; controle 7: ambiguïteit opgelost) |
+| 9, 42 | κυριου (G2962) | "HEER" in kleine kapitalen in citaten (Psalm 118 in v9 en v42, vermoeden, niet nagegaan). Het Grieks heeft hetzelfde woord als elders ("Heer"). De projectconventie noemt HEERE, de tekst heeft HEER | vraag voor de vertaler (controle 9: consistentie met de conventie) |
+| 12 | εν τω ιερω (G1722, G2411) | "joeg alle verkopers en kopers eruit": 'in de tempel' (na 'kopers') heeft geen eigen weergave; "eruit" verwijst terug naar de tempel | kleine omissie |
+| 19 | μηκετι ... εις τον αιωνα (G3371, G165) | "nooit meer": het Grieks heeft 'niet langer ... tot in de eeuwigheid' (twee uitdrukkingen). Ook γενηται ('worde, zij') is "groeien" geworden en εκ σου ('uit jou') is "aan je". Het Grieks heeft 'vrucht' als onderwerp; "er" is aangevuld | toelichting (controle 3; controle 2) |
+| 21 | αρθητι, βληθητι (G142, G906) | "Kom van je plaats en werp jezelf in zee": beide werkwoorden zijn lijdend ('word opgenomen, word geworpen'). Het Nederlands kiest een bedrijvende en een terugwijzende vorm; "van je plaats" is uitleg | toelichting (controle 4; controle 6) |
+| 21 | το της συκης (G3588, G4808) | "wat er met de vijgenboom is gebeurd": het Grieks heeft 'het [ding] van de vijgenboom'. "er met", "is gebeurd" zijn aangevuld | toelichting (controle 2) |
+| 22 | πιστευοντες (G4100) | "als jullie geloven": het Grieks is een deelwoord ('gelovend'). Het Nederlands maakt er een voorwaardelijke bijzin van | toelichting (controle 5: discourse-relaties) |
+| 30 | εγω κυριε (G1473, G2962) | "Ik ga, heer": "ga" is aangevuld; het Grieks heeft geen werkwoord | toevoeging (controle 2) |
+| 31 | λεγουσιν (G3004), αυτω (G846) | "Ze zeiden:" zonder 'tegen hem' | kleine omissie |
+| 32 | υστερον, του πιστευσαι (G5305, G4100) | "En ook toen u dat zag, kreeg u later geen spijt en bent u hem niet alsnog gaan geloven": "alsnog" en "ook" zijn aangevuld, "gaan" ook. Het Grieks heeft 'om hem te geloven' | toelichting (controle 2) |
+| 33 | ανθρωπος τις οικοδεσποτης (G444, G3617) | "een landeigenaar": het Grieks heeft 'een zeker mens, een huisheer'. "mens" valt weg. In 24:43 is οικοδεσποτης "huiseigenaar" | vraag voor de vertaler (controle 9: consistentie) |
+| 33 | ληνον (G3025) | "een kuil voor de wijnpers": het Grieks heeft 'een wijnpers(bak)'. "kuil voor" is uitleg | toelichting (controle 2) |
+| 36 | πλειονας των πρωτων (G4183, G4413) | "meer dan de eerste keer": het Grieks heeft 'meer dan de eersten' (de eerste slaven). Het Nederlands verschuift naar een tijdsaanduiding | toelichting (controle 3) |
+| 37 | εντραπησονται (G1788) | "ontzag hebben": het woord kan ook 'zich schamen' betekenen. Het Nederlands kiest een lezing; niet nagegaan in een lexicon | ambiguïteit opgelost (controle 7) |
+| 41 | κακους κακως (G2556, G2560) | "Die ellendelingen ... aan een ellendig einde": de woordspeling blijft behouden via 'ellende'. "einde laten komen" is uitleg bij απολεσει ('verderven') | toelichting (controle 6) |
+| 41 | εν τοις καιροις αυτων (G2540, G846) | "op de juiste tijden": 'op hun tijden'. "juiste" vervangt αυτων | toelichting (controle 1; controle 3) |
+| 42 | απεδοκιμασαν (G593) | "afgekeurd hadden": het Grieks is een aoristus ('verwierpen'), het Nederlands een voltooid verleden tijd | toelichting (controle 4: tijd) |
+| 42 | κεφαλην γωνιας (G2776, G1137) | "de hoeksteen": het Grieks heeft 'hoofd van de hoek' | toelichting (controle 6) |
+| 43 | εθνει (G1484) en λαου (G2992, v23) | beide "volk". Twee Griekse woorden, één Nederlands woord | toelichting (controle 9: consistentie) |
+| 44 | (hele vers) | "Wie op deze steen valt ...": 'de steen' en 'hij' zijn aangevuld als onderwerp. Vermoeden, niet nagegaan: dit vers ontbreekt mogelijk in sommige uitgaven | tekstvariant (vermoeden) |
+| 46 | και (G2532, plaats 0) | "maar ze waren bang": het Grieks heeft 'en'. Het Nederlands zet er een tegenstelling van | toelichting (controle 5) |
+
+Versgrenzen: het Grieks en het Nederlands lopen gelijk. Het gesprek over het gezag van Jezus loopt van v23 tot v27; de gelijkenis van de twee zonen van v28 tot v31 en die van de wijngaard van v33 tot v41. De redenering van de menigte in v25 loopt door in v26.
+
+## Mattheüs 22
+
+Niet weergegeven: δε (v6, v11, v19, v27, v29, v31, v34, v37, v39, v41), και (v3, v7 twee keer, v12, v16 aan het begin, v20, v22, v35 aan het begin: 'en'; v10, v16, v25 twee keer, v26, v32, v35, v37 in het midden: het Nederlands zet een punt of komma of gebruikt een ander voegwoord), λεγων, λεγοντες, λεγοντος (v1, v24, v31, v35, v42: 'zeggend', het Nederlands zet een dubbele punt of begint een nieuwe zin), εκεινος (v7, 'die' bij 'koning'), μεν (v8), αν (v9, v44, partikel).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | αποκριθεις ειπεν (G611, G3004) | "nam opnieuw het woord en sprak": het Grieks heeft 'antwoordde en zei'. "Het woord nemen" is een uitdrukking, geen letterlijke weergave | toelichting |
+| 2 | ανθρωπω βασιλει (G444, G935) | "een koning": het Grieks heeft 'een mens, een koning'. 'Mens' valt weg | kleine omissie |
+| 2-12 | γαμους, γαμος (G1062) | "bruiloftsfeest" in v2, "bruiloft" in v3, v4, v8, v9, v10, "bruiloftskleding" in v11 en v12: één Grieks woord, wisselende weergave binnen één gelijkenis | vraag voor de vertaler (controle 9: consistentie) |
+| 3, 14, 43 | καλεσαι, κεκλημενους, κλητοι, καλει (G2564, G2822) | "roepen" en "genodigden" in v3 (het Grieks heeft een woordspeling 'de geroepenen roepen'), "geroepen" in v14, "noemen" in v43. De band tussen deze woorden is in het Nederlands niet te zien | toelichting (controle 9: consistentie) |
+| 9 | διεξοδους των οδων (G1327, G3598) | "de plekken waar de wegen de stad uit gaan": het Grieks heeft 'de uitgangen/uitlopen van de wegen'. "de stad" is aangevuld en de uitdrukking is uitgeschreven. Wat precies bedoeld is (kruispunten of de rand van de stad), is niet eenduidig | toelichting (controle 2; controle 7: ambiguïteit opgelost) |
+| 10 | ανακειμενων (G345) | "De bruiloft raakte vol gasten die aan tafel lagen": "gasten" is aangevuld, het Grieks heeft 'vol met (de) aanliggenden' | toevoeging (controle 2) |
+| 12 | εφιμωθη (G5392) | "zweeg": het Grieks is lijdend ('werd het zwijgen opgelegd'). In v34 is εφιμωσεν "tot zwijgen had gebracht" | toelichting (controle 4) |
+| 13 | ποδας και χειρας (G4228, G5495) | "aan handen en voeten": het Grieks heeft 'voeten en handen' | stijl |
+| 15 | παγιδευσωσιν εν λογω (G3802, G3056) | "door een uitspraak in de val te lokken": het Grieks heeft 'in een woord'. "uitspraak" is een keuze | toelichting |
+| 16 | μελει σοι περι ουδενος (G3199) | "U laat zich door niemand beïnvloeden": het Grieks is 'het ligt u aan niemand' of 'u bekommert u om niemand'. "Beïnvloeden" is een lezing | mogelijke betekenisverschuiving (controle 3) |
+| 16 | βλεπεις εις προσωπον ανθρωπων (G991, G4383) | "u kijkt niet naar wie iemand is": het Grieks heeft 'u kijkt niet naar het gezicht van mensen'. Beeldspraak is vervangen door uitleg | beeldspraak vervangen door uitleg (controle 6) |
+| 17, 21 | καισαρι, καισαρος (G2541) | "keizer": Καισαρ is in het Grieks een naam of titel ('Caesar'). Controle tegen de namentabel is nodig; in deze map is geen namentabel gevonden | vraag voor de vertaler (controle 9: eigennamen) |
+| 18 | πονηριαν (G4189) | "kwade opzet": het Grieks heeft 'boosheid, slechtheid'. "opzet" is aangevuld | toelichting (controle 2; controle 3) |
+| 19 | το νομισμα του κηνσου (G3546, G2778) | "de munt waarmee de belasting betaald wordt": het Grieks heeft 'de munt van de belasting'. Het Nederlands maakt er een bijzin van | toelichting |
+| 23 | εν εκεινη τη ημερα (G1565) | "Diezelfde dag": het Grieks heeft 'op die dag'. "zelfde" is aangevuld | toelichting (controle 2) |
+| 24 | επιγαμβρευσει (G1918), γυναικα (G1135) | "moet ... trouwen": het Grieks is een toekomende tijd ('zal trouwen'), het Nederlands maakt er een gebod van. "weduwe" is γυνη ('vrouw'); in v25 en v27 is hetzelfde woord "vrouw" | vraag voor de vertaler (controle 4: modus; controle 9: consistentie) |
+| 25 | και μη εχων (G3361, G2192) | "Omdat hij geen nakomelingen had": het Grieks is een deelwoord ('en niet hebbend'). Het Nederlands geeft het een oorzakelijk verband | toelichting (controle 5) |
+| 29 | μη ειδοτες (G1492) | "omdat u ... niet kent": het Grieks is een deelwoord ('niet wetend'). Het Nederlands maakt er een oorzaaksbijzin van | toelichting (controle 5) |
+| 31 | υπο του θεου (G5259) | "wat God tegen u gezegd heeft": het Grieks is lijdend ('wat door God tot u gezegd is') | toelichting (controle 4) |
+| 36 | μεγαλη (G3173) | "het grootste": het Grieks heeft de gewone trap ('groot'). Zo ook v38 | toelichting (controle 3) |
+| 37, 44 | κυριον, κυριος (G2962) | "HEER" in kleine kapitalen in de citaten uit Deuteronomium (v37) en Psalm 110 (v44), vermoeden, niet nagegaan. De conventie noemt HEERE, de tekst heeft HEER | vraag voor de vertaler (controle 9: consistentie met de conventie) |
+| 43 | πνευματι (G4151) | "door de Geest": het Grieks heeft 'in [de] geest' zonder lidwoord. Hoofdletter en lidwoord zijn een keuze, een exegetische conclusie | ambiguïteit opgelost (controle 7) |
+| 44 | κυριος, κυριω (G2962) | "De HEER zei tegen mijn Heer": het Grieks heeft twee keer hetzelfde woord. Het onderscheid komt niet uit het Grieks. Vermoeden, niet nagegaan: het volgt uit de Hebreeuwse tekst van Psalm 110 | toelichting (keuze volgt het Oude Testament) |
+| 46 | λογον (G3056) | "ook maar iets antwoorden": het Grieks heeft 'een woord antwoorden'. Beeldspraak is vervangen door uitleg | toelichting (controle 6) |
+
+Versgrenzen: het Grieks en het Nederlands lopen gelijk. De vraag van Jezus loopt van v31 tot v32 (het citaat sluit in v32 met 'het vraagteken na het citaat'), die over David van v43 tot v45. De zin met 'terwijl de Farizeeën bijeen waren' in v41 loopt door in v42.
+
+## Mattheüs 23
+
+Niet weergegeven: δε (v5 twee keer, v11, v12), και (v4, v7, v15, v21, v22, v23 twee keer, v34 twee keer), λεγων (v2, het Nederlands zet een dubbele punt aan het eind van v1), εαν (v3, v18), αν (v16 twee keer, v18, v39), τε (v6), γαρ (v14), μεν (v28), οτι (v36), αυτων (v34, tweede keer).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 3 | τηρειτε και ποιειτε, ποιειτε, ποιουσιν (G4160) | v3 "naleven en doen", "richt je niet naar hun daden", "doen het niet". Het Grieks speelt met ποιεω ('doen') in drie vormen: 'doet', 'doe niet naar', 'doen niet'. Het Nederlands heeft in de middelste plaats "richt je" gekozen, waardoor het herhaalde 'doen' niet meer zichtbaar is | toelichting (controle 6: beeldspraak; controle 9) |
+| 4 | κινησαι (G2795) | "geen vinger naar uitsteken": het Grieks heeft 'met hun vinger niet willen bewegen'. Het Nederlands kiest een eigen uitdrukking. "Zelf" is aangevuld voor δε | toelichting (controle 6: uitleg vervangt beeld; controle 2) |
+| 4 | δυσβαστακτα (G1419) | Vermoeden, niet nagegaan: "en moeilijk te dragen" kan in andere uitgaven ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 5 | φυλακτηρια, κρασπεδα (G5440, G2899) | "gebedsriemen" en "kwasten": beide zijn een uitleg. Het Grieks heeft 'bewaarmiddelen, amuletten' en 'zomen'. De voetnoot bij 9:20 noemt "kwast" al. Dat het gaat om gebedsriemen is een identificatie, geen lexicaal gegeven | toelichting (controle 6: uitleg vervangt woord; controle 3) |
+| 6 | δειπνοις (G1173) | "feestmaaltijden": "feest" is aangevuld. Het Grieks heeft 'maaltijden, avondmaaltijden' | toelichting (controle 2: toevoeging) |
+| 8, 9 | αδελφοι (G80) | "broeders en zusters": "zusters" is aangevuld. In 12:46-49 is αδελφοι "broers". Het Grieks heeft alleen het mannelijke meervoud | vraag voor de vertaler (controle 2: toevoeging; controle 9) |
+| 8, 10 | καθηγητης, καθηγηται (G2519) | "leraar" (v8, v10) voor een ander Grieks woord dan in 12:38 en in hoofdstuk 22 ("Leraar", διδασκαλος, G1320). Twee Griekse woorden, één Nederlands woord. Vermoeden, niet nagegaan: in andere uitgaven kan in v8 een ander woord staan en kan "de Christus" in v8 en v10 anders zijn. Hier niet beoordeeld | vraag voor de vertaler (controle 9: consistentie); tekstvariant (vermoeden) |
+| 13, 14 | volgorde van v13 en v14 | In dit Grieks staat in v13 de zin over het verslinden van de huizen van weduwen en in v14 de zin over het afsluiten van het koninkrijk. Vermoeden, niet nagegaan: in andere uitgaven is de volgorde omgekeerd, of ontbreekt het vers over de weduwen, waardoor de versnummering afwijkt. Hier niet beoordeeld. Voor doorverwijzingen en de download is dit van belang | tekstvariant (vermoeden) |
+| 13 | περισσοτερον κριμα (G4053, G2917) | "een des te strenger vonnis": het Grieks heeft 'groter, overvloediger vonnis'. "Strenger" is een invulling | toelichting (controle 3: betekenisverschuiving) |
+| 14 | εμπροσθεν των ανθρωπων (G1715) | "af voor de mensen": εμπροσθεν is 'voor het gezicht van', dus 'in het bijzijn van' of 'tegen'. "Voor de mensen" laat dat open, maar "afsluiten voor" legt de nadruk op 'tegen' | toelichting (controle 7) |
+| 14 | εισερχομενους (G1525) | "wie binnen willen gaan": het Grieks heeft een deelwoord ('degenen die binnengaan'). "Willen" is aangevuld en maakt er een voornemen van | vraag voor de vertaler (controle 2: toevoeging; controle 4) |
+| 15 | προσηλυτον (G4339) | "bekeerling": het Grieks heeft 'proseliet', iemand die tot het Jodendom overgaat. "Bekeerling" past ook bij 'zich bekeren' (12:41, μετανοεω, G3340) en kan door de lezer als hetzelfde woord gelezen worden | toelichting (controle 3) |
+| 15, 33 | γεεννης (G1067) | "hel", ook in v33. Het Grieks heeft een plaatsnaam ('Gehenna', het dal van Hinnom). "Hel" is elders in dit boek de vaste weergave. Het verschil met "dodenrijk" (αδης, 16:18) blijft zo wel zichtbaar | toelichting (controle 3) |
+| 15, 31, 35 | υιον, υιοι, υιου (G5207), τεκνα (G5043) | v15 "kind van de hel", v31 "kinderen van hen", v35 "de zoon van Berechja". In v37 "jouw kinderen" voor τεκνα. Twee Griekse woorden, twee Nederlandse weergaven die elkaar overlappen. Vergelijk 13:38 en 12:23 ("Zoon van David") | vraag voor de vertaler (controle 9: consistentie) |
+| 15 | διπλοτερον υμων (G1362) | "twee keer zo erg als uzelf": "erg" is aangevuld. Het Grieks heeft alleen 'tweemaal meer dan u' | toelichting (controle 2: toevoeging) |
+| 16, 18 | ουδεν εστιν, οφειλει (G3762, G3784) | "betekent dat niets" en "is hij aan zijn eed gebonden": het Grieks heeft 'het is niets' en 'is schuldig, verplicht'. "Aan zijn eed" is aangevuld. Eed-woorden zijn herhaald in de Nederlandse tekst, niet in het Grieks | toelichting (controle 2: toevoeging) |
+| 16-22 | ιερον / ναος | "tempel" voor ναος (G3485). In 12:5-6 is "tempel" een ander Grieks woord (ιερον, G2411) | vraag voor de vertaler (controle 9) |
+| 21 | κατοικησαντι (G2730) | "Hem die erin woont": het Grieks heeft een verleden deelwoord ('die erin heeft gewoond' of 'die er woning heeft genomen'). Het Nederlands zet het in de tegenwoordige tijd | toelichting (controle 4: tijd en aspect) |
+| 23 | κρισιν (G2920), πιστιν (G4102) | "het recht" en "het geloof": κρισις is in v33 "oordeel" (zie ook 12:18, 12:20). πιστις heeft ook de betekenis 'trouw'; "geloof" is een exegetische keuze | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 25, 26 | αρπαγης, αδικιας (G724, G93) | "roof en onrecht". Vermoeden, niet nagegaan: in andere uitgaven staat in v25 een ander woord voor "onrecht", en "blinde" (v26) en "en de schaal" kunnen anders zijn. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 29 | μνημεια (G3419) | "grafmonumenten": in 27:60 is hetzelfde woord "graf". ταφους (G5028) is hier "graven" | stijl |
+| 30 | κοινωνοι (G2844) | "zich schuldig hebben gemaakt aan het bloed": het Grieks heeft 'deelgenoten ... in het bloed'. "Schuldig" is een oordeel dat het Grieks niet uitspreekt. "Hadden geleefd" is ook aangevuld | vraag voor de vertaler (controle 6: uitleg vervangt woord; controle 2) |
+| 31 | μαρτυρειτε εαυτοις (G3140) | "getuigt u tegen uzelf": εαυτοις is een datief ('aan, over, tegen uzelf'). "Tegen" kiest één van de mogelijkheden | toelichting (controle 7: ambiguïteit opgelost) |
+| 33 | φυγητε (G5343) | "hoe zou u ... kunnen ontkomen": het Grieks heeft 'hoe zult u vluchten'. "Zou" en "kunnen" zijn aangevuld, "ontkomen" is een invulling van 'vluchten' | toelichting (controle 4; controle 3) |
+| 35 | εκχυνομενον (G1632) | "vergoten is": het Grieks heeft een tegenwoordig deelwoord ('wordt vergoten'). Het Nederlands zet het in de voltooide tijd. "Dat geldt" is aangevuld: de ene Griekse zin is in twee Nederlandse zinnen gesplitst | toelichting (controle 4; controle 2) |
+| 35 | υιου βαραχιου (G5207, G914) | Vermoeden, niet nagegaan: "de zoon van Berechja" kan in andere uitgaven ontbreken. De naamvorm ("Zacharia", "Berechja", "Abel") moet nog gecontroleerd worden tegen de namentabel. Het bestand `data/namentabel.json` is in deze controle niet aangetroffen | tekstvariant (vermoeden); namen |
+| 38 | ερημος (G2048) | "ligt er verlaten bij": "ligt er ... bij" is aangevuld. Vermoeden, niet nagegaan: ερημος ('woest') kan in andere uitgaven ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 39 | κυριου (G2962), απ αρτι | "van de HEER": het Grieks heeft κυριου zonder lidwoord in een citaat (Psalm 118:26). De keuze voor "HEER" is een exegetische keuze. De afspraak in CLAUDE.md is "HEERE", elders staat "HEER" (bijvoorbeeld 22:37). "Niet meer" bij "zien": "meer" is aangevuld | vraag voor de vertaler (controle 9: consistentie met de afspraak; controle 2) |
+
+Versgrenzen: alle 39 verzen komen overeen met het Grieks. v1 eindigt met een dubbele punt, het citaat begint in v2 (Grieks λεγων aan het begin van v2). v6 eindigt met een komma en v7 begint met "van de begroetingen": de zin loopt over de versgrens. v34 eindigt met een komma en v35 begint met "opdat" (οπως).
+
+## Mattheüs 24
+
+Niet weergegeven: δε (v2, v3, v6, v8, v19, v20, v29, v32, v37), και (v1, v4, v7, v9, v10, v11, v12, v14, v18, v22, v24, v30 twee keer, v31, v39, v40, v41, v51), γαρ (v7, 'want'), ου (v2, 'niet' in de vraag), ουτος (v13, 'deze'), αυτης (v29, 'haar'), εαν (v28, 'ook maar'), αν (v34), ωσπερ (v38, 'zoals'), οτι (v43, v47).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 2 | ου βλεπετε (G3756, G991) | "Zien jullie dit alles?": ου ('niet') is niet weergegeven. Het Grieks heeft een ontkenning in de vraag, die gewoonlijk een bevestigend antwoord verwacht ('zien jullie niet dit alles?'). De Nederlandse vraag is neutraal. Ook ος ου καταλυθησεται ('die niet afgebroken zal worden') is een aparte zin geworden: "alles zal worden afgebroken" | vraag voor de vertaler (controle 1: omissie; controle 5: discourse-relaties) |
+| 3, 14, 21 | αιωνος (G165), οικουμενη (G3625), κοσμου (G2889) | v3 "voltooiing van de wereld" (αιων), v14 "bewoonde wereld" (οικουμενη), v21 "begin van de wereld" (κοσμος). Twee Griekse woorden voor 'wereld' hebben dezelfde Nederlandse weergave, hetzelfde patroon als in 13:22-49. Zie ook 28:20 | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 5 | επι τω ονοματι μου (G1909, G3686) | "zich op Mijn naam beroepen": het Grieks heeft 'komen op/in Mijn naam'. Dat kan 'als mijn vertegenwoordiger' of 'met Mijn naam voor zichzelf' betekenen. Het Nederlands kiest 'zich beroepen op' en legt zo vast hoe het verband tussen 'komen' en 'naam' ligt | vraag voor de vertaler (controle 7: ambiguïteit ten onrechte opgelost) |
+| 15 | βδελυγμα (G946), εστως (G2476) | "de gruwel ... op een heilige plaats zien staan": βδελυγμα is onzijdig, maar εστως ('staande') is mannelijk. Het Grieks laat dus een persoonlijke trek zien. "zien staan" laat dat niet merken. De zin loopt bovendien door naar v16 ("dan") | toelichting (controle 3: betekenisverschuiving) |
+| 15 | του προφητου (G4396) | Vermoeden, niet nagegaan: in andere uitgaven kan 'door de profeet' bij Daniël ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 22 | πασα σαρξ (G3956, G4561) | "geen mens": σαρξ ('vlees') is vervangen door 'mens'. In 16:17 staat voor σαρξ wel "vlees en bloed" en in 19:5-6 "vlees" | vraag voor de vertaler (controle 6: beeldspraak vervangen door uitleg; controle 9) |
+| 24 | ωστε πλανησαι (G5620, G4105) | "om, als het mogelijk is, zelfs de uitverkorenen te misleiden": ωστε geeft gevolg ('zodat'), "om ... te" geeft doel. Dezelfde verschuiving in 27:1 (ωστε θανατωσαι). In 27:14 is ωστε wel "zodat" | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 26 | εαν ουν ειπωσιν ... ιδου εν τοις ταμειοις (G1437, G5009) | "Of als ze zeggen: ... hij is in de binnenkamers": het Grieks heeft één voorwaardelijke zin met twee aanwijzingen. Het Nederlands maakt er twee voorwaarden van en vult "Of als ze zeggen" aan | toelichting (controle 2: toevoeging) |
+| 28 | αετοι (G105) | "gieren": voetnoot aanwezig. Het gewone woord is 'arend'. De keuze 'gieren' is een uitleg uit de context | toelichting (controle 7: ambiguïteit opgelost; voetnoot aanwezig) |
+| 29, 31, 36 | ουρανων (G3772) | "de krachten van de hemel", "van het ene einde van de hemel tot het andere", "de engelen in de hemel": het Grieks heeft het meervoud ('hemelen'), het Nederlands het enkelvoud. In 13:52 en elders staat "koninkrijk der hemelen" wel in het meervoud | vraag voor de vertaler (controle 9: consistentie) |
+| 30 | φυλαι της γης (G5443, G1093) | "alle stammen van de aarde": γη kan 'aarde' of 'land' zijn. Hier geen voetnoot. In 27:45 staat voor hetzelfde woord "land", met voetnoot, en in 27:51 "aarde" | vraag voor de vertaler (controle 7; controle 9) |
+| 31 | σαλπιγγος φωνης μεγαλης (G4536, G5456, G3173) | "met luid bazuingeschal": 'bazuin' en 'klank' zijn in één samenstelling gezet en μεγαλης ('groot') is "luid" geworden | toelichting |
+| 32 | παραβολην (G3850) | "Leer deze les van de vijgenboom": hetzelfde woord is in 13, 21 en 22 "gelijkenis". "les" is een uitleg | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 32, 33, 39, 43, 50 | γινωσκετε, εγνωσαν, γινωσκει (G1097) | v32 "weten jullie" (aantonend), v33 "weet dan" (gebiedend; de vorm is gelijk), v39 "beseften", v43 "begrijp dit goed", v50 "weet". Vijf weergaven van één stam. In v33 heeft het Grieks geen onderwerp bij εγγυς εστιν (voetnoot aanwezig) | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 34 | εως αν (G2193, G302) | "voordat dit alles gebeurd is": εως αν is 'totdat'. "voordat" geeft een andere tijdsrelatie. Het Nederlands zegt wat er vóór het voorbijgaan moet gebeuren, het Grieks tot wanneer | toelichting (controle 5: discourse-relaties) |
+| 36 | ουδε ο υιος | Vermoeden, niet nagegaan: in andere uitgaven kan na 'de engelen in de hemel' ook 'noch de Zoon' staan. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 38 | ωσπερ ... ησαν τρωγοντες και πινοντες (G5618, G1510, G5176, G4095) | "Want in de dagen vóór de vloed was het eten en drinken, trouwen en uithuwelijken": ωσπερ ('zoals') is niet weergegeven. De omschreven onvoltooide tijd ('waren etend en drinkend', een voortdurende toestand) is een zelfstandig-naamwoordelijke zin geworden | toelichting (controle 1: omissie; controle 4: aspect) |
+| 39 | ουκ εγνωσαν (G1097) | "De mensen beseften niets": "De mensen" en "niets" zijn aangevuld. Het Grieks heeft alleen 'en zij wisten het niet' | toelichting (controle 2: toevoeging) |
+| 40 | δυο ... ο εις (G1417, G1520) | "twee mannen": 'mannen' is aangevuld. Het Grieks heeft 'twee' en mannelijke 'de een ... de ander'. In v41 is het vrouwelijke wel uit de vorm af te leiden (αληθουσαι) | toelichting (controle 2: toevoeging) |
+| 42, 45, 46, 48, 50 | κυριος (G2962) | v42 "jullie Heer", maar v45-50 "meester" voor het Griekse woord dat in de toepassing en in de gelijkenis hetzelfde is. De verwijzing van de gelijkenis naar Jezus zelf valt hierdoor minder op. In 18 en 25 gebruikt het Nederlands in gelijkenissen ook "meester" | toelichting (controle 9: consistentie) |
+| 43 | οικοδεσποτης (G3617) | "huiseigenaar": hetzelfde woord is in 13:27 "eigenaar", in 13:52 "heer des huizes" en in 20:1 "landeigenaar". Vier weergaven | vraag voor de vertaler (controle 9: consistentie) |
+| 43 | διορυγηναι (G1358) | "dat er in zijn huis werd ingebroken": het Grieks heeft 'doorgraven' (door de lemen muur), het Nederlands de algemene uitdrukking 'inbreken' | toelichting (controle 6: beeldspraak vervangen door uitleg) |
+| 44, 50 | δοκειτε (G1380), προσδοκα (G4328) | v44 "waarop jullie het niet verwachten" (δοκεω, 'menen, denken'), v50 "waarop hij het niet verwacht" (προσδοκαω, 'verwachten'). Twee Griekse werkwoorden, één Nederlands | toelichting (controle 9: consistentie) |
+| 42 | ωρα (G5610) | Vermoeden, niet nagegaan: in andere uitgaven kan hier 'dag' staan in plaats van 'uur'. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 48 | εαν δε ειπη ο κακος δουλος εκεινος (G1437, G2556) | "Maar stel dat die slaaf slecht is en in zijn hart zegt": in het Grieks is alleen het zeggen de voorwaarde. 'Die slechte slaaf' wordt als bekend voorondersteld. Het Nederlands maakt ook het slecht-zijn tot een veronderstelling | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 4: modus) |
+
+Versgrenzen: alle 51 verzen komen overeen met het Grieks. v15 eindigt met een gedachtestreep en de zin loopt door in v16 ("dan"), net als in het Grieks (οταν ... τοτε). v48 eindigt met een komma, de zin loopt via v49 door in v50. v34 en v35 vallen samen met het Grieks.
+
+## Mattheüs 25
+
+Niet weergegeven: δε (v2, v5, v6, v8, v9 twee keer, v10, v11, v15, v16, v19, v21, v22, v24, v26, v31, v33, v38, v39), και (v10, v15 aan het begin, v17, v30, v31, v32, v40, v46: 'en' aan het begin of midden van een zin, het Nederlands zet een punt of komma), μεν (v15, v33), αν (v27, partikel), αυτων (v4, 'hun' bij de kruikjes), απ αυτου (v29, 'van hem' bij 'afgenomen'), η (v44, drie keer, 'of' tussen de opsomming), τοτε (v45, 'dan').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | παρθενοις (G3933) | "meisjes": het Grieks heeft 'maagden'. In 1 Korinthe 7 is hetzelfde woord "maagd". Dat 'meisjes' de maagdelijkheid weglaat is een keuze | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 1 | λαμπαδας (G2985) | "lampen": vermoeden, niet nagegaan: het woord kan ook 'fakkels' zijn | toelichting |
+| 1 | ομοιωθησεται (G3666) | "te vergelijken zijn met": het Grieks is een toekomende tijd, lijdend ('zal gelijk gemaakt worden aan'). "erop" bij "uitgingen" is aangevuld | toelichting |
+| 3 | αιτινες μωραι (G3748, G3474) | "De dwaze meisjes namen wel hun lampen mee, maar geen olie": het Grieks heeft een betrekkelijk voornaamwoord en geen voegwoord. "wel" en "maar" zijn aangevuld, het deelwoord λαβουσαι is een hoofdwerkwoord geworden | toelichting (controle 5: discourse-relaties) |
+| 4 | αγγειοις αυτων (G30, G846) | "in kruikjes": het Grieks heeft 'in hun vaten'. "hun" valt weg en "kruikjes" is een verkleinwoord, het Grieks heeft dat niet | toelichting (controle 1; controle 2) |
+| 9 | μηποτε ουκ αρκεση (G3379, G714) | "Nee, straks is er niet genoeg": het Grieks heeft 'opdat nooit genoeg zij' en is onvolledig. "Nee" en "straks" zijn aangevuld, het Nederlands maakt er een volledige zin van. Vermoeden, niet nagegaan: de lezing van deze zin kan tussen uitgaven verschillen | tekstvariant (vermoeden); toelichting (controle 7: ambiguïteit opgelost) |
+| 10 | αγορασαι (G59) | "om olie te kopen": "olie" is aangevuld, het Grieks heeft geen object | toevoeging (controle 2) |
+| 13 | ημεραν, ωραν (G2250, G5610) | "op welke dag en op welk uur": het Grieks heeft 'de dag noch het uur waarin' (ουδε, 'noch'). "op welke" bij 'dag' is aangevuld en 'noch' is "en" geworden | toelichting (controle 4: grammatica) |
+| 14 | ωσπερ γαρ (G5618, G1063) | "Want het is als met een man die op reis zou gaan": het Grieks heeft geen hoofdzin ('want zoals een man op reis gaand'). "het is als met" is aangevuld en "zou" is een toevoeging bij het tegenwoordig deelwoord. De zin wordt in het Nederlands gesplitst bij "Hij riep" | toelichting (controle 5; controle 2) |
+| 15 | δυναμιν (G1411) | "bekwaamheid": het Grieks heeft 'kracht, vermogen'. "bekwaamheid" is een uitleg; of dit woord elders anders is weergegeven is niet nagegaan | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 15, 16 | ευθεως (G2112) | v15 eindigt met "meteen" bij 'vertrok'. Vermoeden, niet nagegaan: het woord kan in andere interpunctie bij v16 horen ('meteen ging de ...') | versgrens (vermoeden) |
+| 16 | ειργασατο εν αυτοις (G2038, G1722) | "ging ermee handelen": het Grieks heeft 'werkte daarmee'. "handelen" is een uitleg; "winst" in "maakte nog eens vijf talenten winst" is aangevuld | toelichting (controle 2; controle 6) |
+| 18, 27 | αργυριον (G694) | "geld": het Grieks heeft 'zilver(geld)'. In v18 staat "het geld van zijn meester" naast "het ene talent" | toelichting |
+| 21, 23 | επι (G1909) | "in het kleine" en "over veel": hetzelfde voorzetsel heeft twee Nederlandse voorzetsels | toelichting (controle 9: consistentie) |
+| 24, 26 | εγνων, ηδεις (G1097, G1492) | v24 "ik wist" en v26 "Je wist": twee verschillende Griekse werkwoorden, één Nederlands woord. Vermoeden, niet nagegaan: ηδεις kan als vraag gelezen worden; het Nederlands kiest een stelling | vraag voor de vertaler (controle 9: consistentie; controle 7: ambiguïteit opgelost) |
+| 27 | ουν, και (G3767, G2532) | "Dan had je ...": ουν ('dus, daarom') is "Dan" geworden. In v13 en v28 is ουν "dus", en "Dan" is elders τοτε. "zodat" geeft het eerste και ('en') een doelrelatie | vraag voor de vertaler (controle 9: consistentie; controle 5: discourse-relaties) |
+| 29 | περισσευθησεται (G4052) | "hij zal overvloed hebben": het Grieks is lijdend ('zal rijkelijk gegeven worden'). Het Nederlands maakt er een bedrijvende vorm van | toelichting (controle 4) |
+| 31 | μετ αυτου (G3326, G846) | "samen met alle heilige engelen": het Grieks heeft 'met Hem'. "Hem" is niet apart weergegeven, "samen" vervangt het | omissie (controle 1) |
+| 32, 33 | εριφων, εριφια (G2056, G2055) | "geiten": twee Griekse woorden (het tweede is een verkleinwoord) hebben één Nederlands woord | toelichting |
+| 33, 41 | ευωνυμων (G2176) | "linkerhand": vermoeden, niet nagegaan: het Grieks heeft letterlijk 'goed genaamd' als eufemisme voor links. Dat gaat verloren. In v33 en v41 is "Zijn" bij "linkerhand" aangevuld | toelichting (controle 6: beeldspraak) |
+| 34 | βασιλευς (G935) | "Koning": hoofdletter in het Nederlands, het Grieks heeft geen onderscheid | toelichting |
+| 35, 38, 43 | συναγω (G4863) | "namen Mij op" en "opgenomen": het Grieks heeft 'verzamelen, bijeenbrengen'. In v24 en v26 is hetzelfde woord "verzamelen" en in v32 "bijeengebracht". "opnemen" is een uitleg (gastvrij ontvangen) | vraag voor de vertaler (controle 9: consistentie; controle 6) |
+| 35, 37 | εδωκατε φαγειν, εθρεψαμεν (G1325, G5142) | v35 "gaven Mij te eten" en v37 "U te eten gegeven": twee verschillende Griekse uitdrukkingen ('gaven te eten' en 'voedden'), één Nederlandse. "U" bij 'gegeven' is in v37 en v38 aangevuld bij het tweede werkwoord | toelichting (controle 9) |
+| 40 | αδελφων (G80) | "broeders en zusters": het Grieks heeft alleen 'broeders'. "en zusters" is aangevuld. In v45 staat alleen "geringsten" | vraag voor de vertaler (controle 2: toevoeging; controle 7) |
+| 41 | τοτε (G5119) | "Daarna": elders is τοτε "Dan" (v1, v34, v37, v44) of "Toen" (v7). Hier is het "Daarna" | vraag voor de vertaler (controle 9: consistentie) |
+| 44 | η (G2228) | het Grieks heeft vijf keer 'of'; het Nederlands heeft twee keer "of" en komma's. Het Nederlands zet "als" voor "vreemdeling" | toelichting |
+| 46 | κολασιν (G2851) | "straf": het Grieks heeft 'bestraffing'. "eeuwige" bij straf en leven is beide αιωνιον | toelichting |
+
+Versgrenzen: het Grieks en het Nederlands lopen gelijk. De rede van Jezus opent in Mattheüs 24:3 (dubbel aanhalingsteken) en sluit in v46. Binnen v14 tot v30 loopt de gelijkenis door. v26-v30 is één citaat van de meester, dat in v30 sluit. v15 en v16 zijn bij het Grieks verbonden door "meteen" (zie hierboven).
+
+## Mattheüs 26
+
+Niet weergegeven: δε (v6, v8, v10, v15, v17, v18, v20, v23, v25, v26, v29, v33 twee keer, v48, v50, v56, v57, v58, v59, v61, v66, v67, v71, v73), και (v1, v3 bij 'de schriftgeleerden', v4, v7, v16, v19, v21, v26 twee keer, v30, v39, v40 twee keer, v43, v47 twee keer, v59, v69, v72, v74, v75: 'en' aan het begin of midden van een zin, het Nederlands zet een punt of komma), οτι (v21, v29, v34, v65, v72, v74, v75, 'dat', inleiding bij directe rede), γαρ (v10, v12, 'want'), αυτω (v17 en v33, 'tegen hem'), αυτων (v22, 'van hen'), παλιν (v42, 'weer'), λεγων (v48, 'zeggend', de dubbele punt dient daarvoor), αν (v48, partikel), τοτε (v52, 'dan'), ινα (v63, 'opdat'), ιδε (v65, 'zie').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 3 | και οι γραμματεις (G2532, G1122) | "de schriftgeleerden": vermoeden, niet nagegaan: 'en de schriftgeleerden' kan een tekstvariant zijn (afwezig in andere uitgaven) | tekstvariant (vermoeden) |
+| 3, 58, 69 | αυλη (G833) | v3 en v58 "residentie", v69 "binnenplaats": één Grieks woord, twee Nederlandse woorden. Het Grieks heeft 'binnenplaats, hof' (vermoeden, lexicon niet nagegaan) | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 3, 14, 31, 36, 45, 50, 56, 65, 67, 74 | τοτε (G5119) | "Toen" (v3, v31, v36, v45, v56, v65, v74), "Daarop" (v14, v38, v50) en "Daarna" (v67): één Grieks woord, drie Nederlandse. In v52 niet weergegeven | vraag voor de vertaler (controle 9: consistentie) |
+| 5 | ινα μη (G2443, G3361) | "anders ontstaat er opschudding": het Grieks heeft 'opdat er niet opschudding ontstaat' (doelzin). Het Nederlands maakt er een bijzin van met "anders" | toelichting (controle 5: discourse-relaties) |
+| 7 | εχουσα (G2192) | "met een albasten flesje vol ... reukolie": het Grieks heeft 'een albasten (flesje) reukolie hebbend'. "vol" is aangevuld; "flesje" en "een" zijn aangevuld | toelichting |
+| 8 | απωλεια (G684) | "verspilling": het Grieks heeft 'verderf, vernietiging' (vermoeden, lexicon niet nagegaan). "verspilling" is een uitleg | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 12 | ενταφιασαι (G1779) | "met het oog op Mijn begrafenis": het Grieks is een werkwoord ('om mij te begraven, gereed te maken voor de begrafenis'), het Nederlands een zelfstandig naamwoord | toelichting |
+| 15 | εστησαν (G2476) | "betaalden ... uit": het Grieks heeft 'zetten, stelden vast'. Vermoeden, niet nagegaan: het woord kan 'afwegen' betekenen. "uitbetalen" is een uitleg | toelichting |
+| 17 | τη πρωτη των αζυμων (G4413, G106) | "Op de eerste dag van het feest van het ongezuurde brood": het Grieks heeft 'op de eerste (dag) van de ongezuurde (broden)'. "dag", "feest van" en "brood" zijn aangevuld. "zodat U het kunt eten" is een uitbreiding van φαγειν ('te eten') | toelichting (controle 2) |
+| 18 | ποιω (G4160) | "vier Ik het Pascha": het Grieks heeft 'ik maak/doe het Pascha'. In v17 is "klaarmaken" ετοιμασομεν en in v19 ητοιμασαν. "vieren" is een uitleg | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 23 | εμβαψας (G1686) | "doopt": het Grieks is een aoristus-deelwoord ('die gedoopt heeft'), het Nederlands heeft een tegenwoordige tijd | toelichting (controle 4: tijd) |
+| 2, 15, 16, 21, 23, 24, 25, 45, 46, 48 | παραδιδωμι (G3860) | v2 en v45 "overgeleverd" (παραδιδοται), v24 "verraden wordt" (zelfde vorm παραδιδοται), v15, v16, v21, v23, v25 en v46 "verraden": één Grieks woord, twee Nederlandse. De keuze tussen 'overleveren' en 'verraden' is een exegetische conclusie | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 25 | παραδιδους (G3860) | "die Hem zou verraden": het Grieks heeft een tegenwoordig deelwoord ('de verradende'). "zou" is aangevuld; "Jezus" bij "zei" is aangevuld (het Grieks heeft 'hij zegt') | toelichting (controle 2; controle 4) |
+| 26, 27 | ευχαριστησας (G2168) | "sprak een dankgebed uit": het Grieks heeft 'dankend' (deelwoord van 'danken') | toelichting |
+| 28 | καινης (G2537) | "nieuwe verbond": vermoeden, niet nagegaan: 'nieuwe' kan een tekstvariant zijn (afwezig in andere uitgaven) | tekstvariant (vermoeden) |
+| 29 | καινον (G2537) | "op een nieuwe manier": het Grieks heeft alleen 'nieuw' en kan een bijwoord ('op nieuwe wijze') of een bijvoeglijk naamwoord bij 'dit' zijn. Het Nederlands kiest 'op een nieuwe manier'. In v28 is hetzelfde woord "nieuwe" | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 9) |
+| 31, 33 | σκανδαλισθησεσθε (G4624) | "afvallen": het Grieks heeft 'aanstoot nemen, struikelen' (vermoeden, lexicon niet nagegaan) en 'in Mij' (εν εμοι). "afvallen" is een uitleg en laat 'in Mij' weg | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 6: beeldspraak) |
+| 31 | διασκορπισθησεται (G1287) | "uiteengedreven worden": in 25:24 en 25:26 is hetzelfde stamwoord "uitstrooien" | vraag voor de vertaler (controle 9: consistentie) |
+| 33 | ει (G1487) | "Ook al vallen ze U allemaal af": het Grieks heeft 'als (allen)', een voorwaarde. "Ook al" legt een toegeving vast | toelichting (controle 7) |
+| 36 | εως ου (G2193, G3739) | "terwijl": vermoeden, niet nagegaan: εως ου betekent gewoonlijk 'totdat'. "terwijl" is een andere relatie | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 38 | περιλυπος εως θανατου (G4036, G2288) | "dodelijk bedroefd": het Grieks heeft 'bedroefd tot de dood toe'. "dodelijk" is een bijvoeglijke weergave van het voorzetsel εως | toelichting (controle 6) |
+| 39 | επι προσωπον αυτου (G1909, G4383) | "viel met Zijn gezicht ter aarde": het Grieks heeft 'viel op zijn gezicht'. "ter aarde" is aangevuld; "wilt" bij "zoals U" is aangevuld (het Grieks heeft 'maar zoals jij') | toelichting |
+| 40 | ουτως (G3779) | "Konden jullie dan niet eens ...": het Grieks heeft 'zo' (of 'dus') en geen "eens". "dan" en "eens" zijn aangevuld of vrije weergave | toelichting |
+| 41 | πνευμα (G4151) | "geest": het Grieks heeft geen hoofdletter en geen onderscheid; het Nederlands kiest de menselijke geest en laat de andere lezing ('de Geest') weg | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 42 | εαν μη (G1437, G3361) | "zonder dat Ik hem drink": het Grieks heeft 'als niet ik hem drink' (voorwaarde). Het Nederlands maakt er een 'zonder dat' van. "Voor de tweede keer": παλιν ('weer') is niet weergegeven | toelichting (controle 5) |
+| 45 | καθευδετε, αναπαυεσθε (G2518, G373) | "Slaap nu maar door en rust uit": het Grieks kan een gebod of een vraag zijn ('slapen jullie nog en rusten jullie?', vermoeden, niet nagegaan). Het Nederlands kiest het gebod. "maar door" is aangevuld | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 2) |
+| 47 | απο (G575) | "in opdracht van": het Grieks heeft 'van (de kant van)'. "in opdracht" is een uitleg. "gewapend" en het tweede "kwam" zijn aangevuld | toelichting (controle 2) |
+| 49 | κατεφιλησεν (G2705) | "kuste": in v48 is φιλησω (G5368) "kus". Vermoeden, niet nagegaan: het voorvoegsel κατα- kan versterkend zijn | toelichting (controle 3) |
+| 50 | εφ ω παρει (G1909, G3739, G3918) | "waarvoor ben je hier?": het Grieks is dubbelzinnig. Vermoeden, niet nagegaan: het kan ook een stelling zijn ('doe waarvoor je gekomen bent'). Het Nederlands kiest een vraag | vraag voor de vertaler (controle 7: ambiguïteit opgelost) |
+| 51 | αφειλεν (G851) | "hieuw ... af": het Grieks heeft 'nam weg' (vermoeden, lexicon niet nagegaan). "hieuw af" is specifieker | toelichting |
+| 53 | παρακαλεσαι, παραστησει (G3870, G3936) | "om hulp kan vragen" en "zou Mij ... sturen": het Grieks heeft 'aanroepen' en 'zal laten bijstaan' (toekomstige tijd). "om hulp" is een uitleg; "zou" is een modale weergave van een toekomende tijd | toelichting (controle 4: tijd) |
+| 54 | οτι ουτως δει γενεσθαι (G3754, G3779, G1163) | "die zeggen dat het zo moet gebeuren": "die zeggen" is aangevuld. Het Grieks heeft 'dat het zo moet gebeuren' zonder werkwoord van zeggen | toevoeging (controle 2) |
+| 55, 61 | ιερω, ναον (G2411, G3485) | "tempel" in beide verzen, voor twee verschillende Griekse woorden | toelichting (controle 9: consistentie) |
+| 58 | υπηρετων (G5257) | "gerechtsdienaars": het Grieks heeft 'dienaars, bedienden'. "gerechts-" is aangevuld en vergt een exegetische keuze. "hoe het zou aflopen" is een uitleg van το τελος ('het einde') | vraag voor de vertaler (controle 2; controle 6) |
+| 59 | θανατωσωσιν (G2289) | "ter dood te kunnen brengen": "kunnen" is aangevuld | toevoeging (controle 2) |
+| 60 | και ουχ ευρον (G2532, G3756, G2147) | "maar ze vonden niets": "maar" is aangevuld, het Grieks heeft 'en'. Vermoeden, niet nagegaan: v60 kent in andere uitgaven een andere lezing (herhaling van 'ze vonden niets') | tekstvariant (vermoeden); toelichting (controle 5) |
+| 61 | καταλυσαι, οικοδομησαι (G2647, G3618) | "afbreken" en "weer opbouwen": "weer" is aangevuld. "Die man": "man" is aangevuld (het Grieks heeft 'deze') | toelichting (controle 2) |
+| 64 | δυναμεως (G1411) | "de Macht": in 25:15 is hetzelfde woord "bekwaamheid". De hoofdletter is een exegetische keuze (omschrijving van God) | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 64 | υμιν (G4771) | "u allen": "allen" is aangevuld om het meervoud aan te geven. "zien komen": "zien" is aangevuld | toelichting (controle 2) |
+| 65 | εβλασφημησεν (G987) | "Hij heeft God gelasterd": "God" is aangevuld, het Grieks heeft alleen 'hij heeft gelasterd'. ιδε ('zie') is niet weergegeven; "zelf" is aangevuld | toevoeging (controle 2); omissie (controle 1) |
+| 66 | ενοχος θανατου (G1777, G2288) | "verdient de dood": het Grieks heeft 'is schuldig aan de dood' (vermoeden, lexicon niet nagegaan). "verdient" verschuift de nadruk van schuld naar straf | vraag voor de vertaler (controle 3: betekenisverschuiving) |
+| 71 | αλλη (G243) | "een ander dienstmeisje": "dienstmeisje" is aangevuld uit v69. "de mensen die daar stonden" is een uitleg van αυτοις ('tegen hen'). "Die man": "man" is aangevuld | toelichting |
+| 73 | λαλια (G2981) | "accent": het Grieks heeft 'je spraak, manier van spreken' (vermoeden, lexicon niet nagegaan). "accent" is een uitleg | toelichting (controle 3) |
+| 74 | καταθεματιζειν (G2653) | "zichzelf te vervloeken": "zichzelf" is aangevuld. Het Grieks heeft geen voorwerp ('vervloeken') en het is niet vast te stellen of hij zichzelf of anderen vervloekt | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 2) |
+
+Versgrenzen: het Grieks en het Nederlands lopen gelijk. De zin van v6 loopt door in v7 ("Terwijl Jezus ... was, ... kwam er een vrouw"). v14 en v15 zijn bij beide één zin; "en" bij "zei" in v15 is aangevuld. v27 eindigt in het Nederlands op een komma en v28 begint met "want". v59 eindigt op een komma en v60 begint met "maar". v65 opent een aanhalingsteken dat in v66 sluit. v67 eindigt zonder punt en loopt door in v68 ("Anderen gaven Hem klappen en zeiden"): het Grieks heeft λεγοντες ('zeggend') in v68, waarvan het onderwerp (de anderen of allen) vermoeden is, niet nagegaan. De rede van Jezus loopt in het Nederlands van v31 door in v32.
+
+## Mattheüs 27
+
+Niet weergegeven: δε (v1, v6, v7, v11 twee keer, v15, v16, v19, v21 twee keer, v23, v24, v32, v35, v39, v41, v44, v45, v46, v47, v50, v54, v55, v57, v61, v62, v65, v66), και (v2, v5 twee keer, v9, v10, v12, v25, v30, v31, v33, v37, v41, v48 twee keer, v51, v52, v53, v56, v60), τε (v48), λεγοντος (v9), λεγοντες (v29), λεγων (v46), οτι (v43, v47), αυτω (v22, 'tegen hem'), εστιν (v62), τοτε (v27, 'dan').
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1, 7 | συμβουλιον ελαβον, συμβουλιον λαβοντες (G4824, G2983) | v1 "beraamden ... een plan" (zoals 12:14 en 22:15), v7 "overlegden". Ook 28:12 heeft "overlegden". Dezelfde uitdrukking, twee weergaven | vraag voor de vertaler (controle 9: consistentie) |
+| 1 | ωστε θανατωσαι (G5620, G2289) | "om Hem ter dood te brengen": ωστε geeft gevolg ('zodat'), "om" geeft doel. Dezelfde verschuiving als in 24:24 | vraag voor de vertaler (controle 5: discourse-relaties) |
+| 2, 3, 4, 18, 26 | παραδιδωμι (G3860) | v2, v18 en v26 "overleveren", maar v3 "Zijn verrader" (ο παραδιδους) en v4 "verraden" (παραδους). Het verband tussen v2 ("leverden Hem over") en Judas' daad gaat zo verloren. 26 gebruikt wel "verraden", 10, 15, 20 en 24 "overleveren" | vraag voor de vertaler (controle 9: consistentie) |
+| 6 | κορβαναν, τιμη αιματος (G2878, G5092, G129) | "tempelschat": een leenwoord is met een uitleg weergegeven. "bloedgeld" voegt τιμη αιματος ('prijs van bloed') samen. In v9 is τιμη wel "prijs" en v8 heeft "Bloedakker" | toelichting |
+| 9 | ον ετιμησαντο απο υιων ισραηλ (G5091, G5207) | "de prijs die de zonen van Israël op Hem hadden gezet": ετιμησαντο is een middelvorm ('zij schatten'). απο υιων ισραηλ kan 'door' of 'van de kant van' de zonen van Israël zijn. Het Nederlands kiest de zonen van Israël als onderwerp en voegt "op Hem" en "voor Hem op wie" toe. De naam in het citaat heeft een voetnoot | vraag voor de vertaler (controle 7: ambiguïteit opgelost; controle 2: toevoeging) |
+| 9 | ιερεμιου (G2408) | Vermoeden, niet nagegaan: in andere uitgaven kan de naam van de profeet anders zijn of ontbreken. Hier niet beoordeeld (voetnoot over Jeremia en Zacharia is er al) | tekstvariant (vermoeden) |
+| 15 | κατα εορτην (G2596, G1859) | "bij elk feest": κατα met de vierde naamval kan verdelend ('bij elk feest') of tijdsbepalend ('op het feest') zijn. Het Nederlands kiest het eerste | vraag voor de vertaler (controle 7: ambiguïteit ten onrechte opgelost) |
+| 16 | επισημον (G1978) | "beruchte": het Grieks is neutraal ('opvallend, bekend'). "berucht" legt een negatieve lading vast | vraag voor de vertaler (controle 7; controle 3) |
+| 16, 17 | βαραββαν (G912) | Vermoeden, niet nagegaan: in sommige uitgaven kan Barabbas in v16-17 ook 'Jezus' heten. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 19, 24 | δικαιω, δικαιου (G1342) | "die rechtvaardige man", "deze rechtvaardige man": "man" is aangevuld. In v19 is επαθον "veel te verduren gehad", terwijl 16:21 en 17:12 voor hetzelfde werkwoord "lijden" hebben | toelichting (controle 2: toevoeging; controle 9) |
+| 23 | περισσως (G4057) | "steeds harder": het Grieks heeft 'overmatig'. "steeds harder" voegt een oplopende reeks toe | toelichting (controle 3: betekenisverschuiving) |
+| 26 | φραγελλωσας (G5417) | "Jezus liet hij geselen, en daarna leverde hij Hem over": het deelwoord in de aoristus ('na Hem gegeseld te hebben') is een hoofdzin geworden. "liet" (opdracht geven) en "daarna" zijn aangevuld | toelichting (controle 2: toevoeging; controle 4) |
+| 28, 29, 31 | εκδυσαντες αυτον, ακανθων, εξεδυσαν, τα ιματια αυτου (G1562, G173, G2440) | v28 "Hem Zijn kleren uit" (Grieks alleen 'Hem uitkledend'), v29 "doorntakken" ('van doorns': 'takken' is aangevuld), v31 "Zijn eigen kleren weer aan" ('eigen' en 'weer' staan niet in het Grieks) | toelichting (controle 2: toevoeging) |
+| 29, 30, 48 | καλαμος (G2563) | "rietstok" in v29, v30, v48. In 11:7 en 12:20 is hetzelfde woord "rietstengel". "stok" is een uitleg uit de context | toelichting (controle 9: consistentie) |
+| 34 | οξος (G3690) | "zure wijn" (ook v48) voor οξος ('azijn'). Vermoeden, niet nagegaan: in andere uitgaven kan in v34 'wijn' (οινος) staan in plaats van οξος. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 35 | βαλλοντες κληρον (G906, G2819) | Vermoeden, niet nagegaan: in sommige uitgaven volgt hier een langere lezing met een citaat uit een profeet. De werkbladtekst heeft die niet. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 40 | οικοδομων (G3618) | "in drie dagen weer opbouwt": "weer" is aangevuld. Het Grieks heeft 'bouwt op' | toelichting (controle 2: toevoeging) |
+| 40, 43, 54 | υιος του θεου, θεου υιος (G5207, G2316) | v40 "de Zoon van God", v43 en v54 "Gods Zoon". Het Grieks heeft de titel zonder lidwoord. Het Nederlands met hoofdletter en bepaald lidwoord legt vast dat het de bekende titel is. Voetnoot bij v54 aanwezig | toelichting (controle 7: ambiguïteit opgelost; voetnoot aanwezig) |
+| 43 | ει θελει αυτον (G2309) | "als Hij iets om Hem geeft": θελει is 'wil' of 'heeft behagen in'. "iets om Hem geeft" is een uitleg. Vermoeden, niet nagegaan: de woorden kunnen teruggaan op een psalm | toelichting (controle 7; controle 6) |
+| 45 | γην (G1093) | "het hele land": voetnoot aanwezig ('Of: over de hele aarde'). In 24:30 en 27:51 is hetzelfde woord "aarde" | vraag voor de vertaler (controle 9: consistentie; controle 7) |
+| 46 | ηλι ηλι λιμα σαβαχθανι (G2241, G2982, G4518) | Vermoeden, niet nagegaan: de spelling van deze aanhaling kan in andere uitgaven afwijken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 49 | αφες ιδωμεν ... σωσων (G863, G4982) | Vermoeden, niet nagegaan: in sommige uitgaven staat in v49 een extra zin over een speerstoot. De werkbladtekst heeft die niet. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 51 | εσχισθη, εσεισθη, εσχισθησαν (G4977, G4579) | "scheurde", "beefde", "scheurden": de Griekse lijdende vormen ('werd gescheurd, werd geschud') zijn onovergankelijk geworden. Wie het doet blijft in het Grieks open, het Nederlands leest als gebeurtenis zonder handelende. Vergelijk 28:4 ("beefden") | toelichting (controle 4: lijdende vorm) |
+| 53 | μετα την εγερσιν αυτου (G3326, G1454) | "Ze kwamen na Zijn opwekking uit de graven, gingen ... in": het Grieks laat open of 'na Zijn opwekking' bij het uitgaan of bij het binnengaan hoort. Voetnoot aanwezig | toelichting (controle 7: ambiguïteit opgelost; voetnoot aanwezig) |
+| 55 | διακονουσαι (G1247) | "om Hem te dienen": het deelwoord ('dienend', gelijktijdig) is een doelzin geworden. Dat verandert de verhouding tussen volgen en dienen | vraag voor de vertaler (controle 5: discourse-relaties; controle 4) |
+| 60, 61, 64 | μνημειω (G3419), ταφου (G5028), ταφον | v60 "graf" (μνημειον), v61 en v64 "graf" (ταφος). Twee Griekse woorden, één Nederlands. In v7 is ταφην (G5027) "begraafplaats" | toelichting (controle 9: consistentie) |
+| 63 | εγειρομαι (G1453) | "word Ik opgewekt": de vorm is middelvormig of lijdend ('Ik word opgewekt' of 'Ik sta op'). Het Nederlands kiest het lijdende | toelichting (controle 7: ambiguïteit opgelost) |
+| 63, 64 | πλανος, πλανη (G4108, G4106) | "bedrieger", "bedrog": van dezelfde stam als πλαναω, in 24:4, 5, 11 en 24 "misleiden". Het verband gaat zo verloren | toelichting (controle 9: consistentie) |
+| 64 | μηποτε (G3379) | "Anders komen Zijn discipelen misschien": μηποτε leidt een vrees of doel in ('opdat niet'). Het Nederlands maakt er "anders ... misschien" van. In 13:15 "anders zouden zij", in 13:29 "anders" en in 15:32 "want dan zouden ze" | vraag voor de vertaler (controle 5: discourse-relaties; controle 9) |
+| 65 | εχετε κουστωδιαν, ως οιδατε (G2192, G2892, G1492) | "Neem een wacht" en "zo goed als u kunt": voetnoot aanwezig bij 'neem'/'u hebt'. ως οιδατε is 'zoals u weet', "zo goed als u kunt" is een uitleg | toelichting (controle 7: ambiguïteit opgelost; voetnoot aanwezig) |
+
+Versgrenzen: alle 66 verzen komen overeen met het Grieks. v3 eindigt zonder punt ("de oudsten") en v4 begint met "en zei": de zin loopt door. v33 eindigt met een gedachtestreep en v34 begint met "en daar gaven". v39 eindigt zonder punt en v40 begint met "en zeiden". Het citaat in v9-10 gaat over twee verzen: v9 opent het aanhalingsteken, v10 sluit het.
+
+## Mattheüs 28
+
+Niet weergegeven: δε (v1, v3, v4, v9 twee keer, v11, v15, v16), και (v9, v10, v14, v15, v19, v20), τε (v12), οτι (v7, v13, inleiding van het citaat).
+
+| Vers | Grieks | Wat | Soort |
+|---|---|---|---|
+| 1 | οψε σαββατων, μιαν σαββατων (G3796, G4521) | "Na de sabbat, toen de eerste dag van de week aanbrak": οψε kan 'laat op' of 'na' zijn. De voetnoot geeft het alternatief al. "de eerste dag van de week" is een vaste uitdrukking voor het Griekse 'één van de sabbatten' | toelichting (voetnoot aanwezig; controle 7: ambiguïteit opgelost) |
+| 2 | εκαθητο, προσελθων (G2521, G4334) | "ging erop zitten": de onvolmaakt verleden tijd ('zat erop') is een begin van de handeling geworden. Dezelfde keuze als in 13:1-2, daar gemeld. "ging naar het graf": προσελθων heeft geen voorwerp, "het graf" is aangevuld | vraag voor de vertaler (controle 4: aspect; controle 2: toevoeging) |
+| 3 | αστραπη (G796) | "bliksemflits": in 24:27 is hetzelfde woord "bliksem" | vraag voor de vertaler (controle 9: consistentie) |
+| 5, 10 | μη φοβεισθε (G5399) | v5 "Jullie hoeven niet bang te zijn", v10 "Wees niet bang". Het Grieks heeft twee keer dezelfde gebiedende wijs (in v5 met nadrukkelijk υμεις). Het Nederlands maakt van het verbod in v5 een geruststelling. Elders (1:20, 10:26-31, 14:27, 17:7) is het "wees niet bang" | vraag voor de vertaler (controle 3: betekenisverschuiving; controle 9: consistentie) |
+| 6 | ο κυριος (G2962) | Vermoeden, niet nagegaan: in andere uitgaven kan 'de Heer' in v6 ontbreken ('waar Hij lag'). Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 8 | φοβου (G5401) | "met angst en grote vreugde": φοβος kan 'angst' of 'ontzag' zijn. Het Nederlands kiest "angst", net als in v4 | toelichting (controle 7: ambiguïteit opgelost) |
+| 9 | ως δε επορευοντο απαγγειλαι τοις μαθηταις αυτου | Vermoeden, niet nagegaan: in andere uitgaven kan dit zinsdeel ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+| 9, 17 | προσεκυνησαν (G4352) | "aanbaden": de voetnoot noemt 'zich neerbuigen voor' als weergave elders (2:2, 8:2). Het Nederlands heeft hier "aanbaden" en in 14:33 "aanbidden"; de weergave in 2:2 en 8:2 is niet nagegaan | toelichting (voetnoot aanwezig; controle 9: consistentie) |
+| 10 | υπαγετε απαγγειλατε ... ινα απελθωσιν (G5217, G518, G2443) | "Ga Mijn broeders vertellen dat ze naar Galilea moeten gaan": twee gebiedende wijzen zijn één uitdrukking geworden. ινα met de aanvoegende wijs is "dat ze ... moeten gaan": "moeten" is aangevuld | toelichting (controle 3: betekenisverschuiving) |
+| 11 | τινες της κουστωδιας, αυτων (G5100, G2892) | "enkele mannen van de wacht" en "Terwijl de vrouwen": "mannen" en "de vrouwen" zijn aangevuld. Het Grieks heeft 'sommigen van de wacht' en een voornaamwoord | toelichting (controle 2: toevoeging) |
+| 12 | συναχθεντες ... συμβουλιον τε λαβοντες (G4863, G4824, G2983) | "Die kwamen met de oudsten bijeen en overlegden samen": "Die" en "samen" zijn aangevuld. συμβουλιον λαμβανω is in 27:1 "beraamden een plan", in 27:7 "overlegden". Zie de melding bij 27 | vraag voor de vertaler (controle 9: consistentie; controle 2) |
+| 14 | αμεριμνους ποιησομεν (G275, G4160) | "jullie buiten schot houden": een Nederlandse uitdrukking voor 'zorgeloos maken' | stijl |
+| 15 | εδιδαχθησαν (G1321) | "wat hun was opgedragen": het Grieks heeft 'zoals zij onderwezen waren'. "opgedragen" is in 27:10 de weergave van συνεταξεν (G4929) en in v20 is διδασκοντες "te leren". Eén Nederlands woord voor twee Griekse, één Grieks woord voor twee Nederlandse | vraag voor de vertaler (controle 9: consistentie; controle 3) |
+| 15 | λογος (G3056) | "Dit verhaal": in 13:19-23 is λογος "woord". Het Nederlands kiest hier een ander woord. "De soldaten" (onderwerp) is aangevuld | toelichting (controle 9; controle 2) |
+| 16 | εταξατο (G5021) | "de berg die Jezus hun had aangewezen": τασσω is 'vaststellen, opdragen'. "aanwijzen" beperkt dat tot het aangeven van een plaats | toelichting (controle 3: betekenisverschuiving) |
+| 17 | οι δε εδιστασαν (G1365) | "maar sommigen twijfelden": voetnoot aanwezig. οι δε kan 'maar zij' of 'maar sommigen' zijn | toelichting (voetnoot aanwezig; controle 7: ambiguïteit opgelost) |
+| 19, 20 | πορευθεντες μαθητευσατε ... βαπτιζοντες ... διδασκοντες (G4198, G3100, G907, G1321) | "Ga op weg en maak ... tot discipelen door hen te dopen ... en hun te leren": het Grieks heeft twee deelwoorden bij μαθητευσατε. Het Nederlands maakt van het eerste een middel ("door ... te dopen") en voegt het tweede daaraan toe. Het Grieks laat open of dopen en leren wijze, gelijktijdigheid of onderdeel zijn. πορευθεντες ('gaande') is een gebiedende wijs geworden | vraag voor de vertaler (controle 7: ambiguïteit ten onrechte opgelost; controle 4) |
+| 20 | συντελειας του αιωνος (G4930, G165) | "tot de voltooiing van de wereld": zelfde weergave als 13:39-49 en 24:3. αιων en κοσμος zijn beide "wereld" (zie 24:21) | vraag voor de vertaler (controle 9: consistentie) |
+| 20 | αμην (G281) | Vermoeden, niet nagegaan: in andere uitgaven kan 'Amen' aan het eind van het evangelie ontbreken. Hier niet beoordeeld | tekstvariant (vermoeden) |
+
+Versgrenzen: alle 20 verzen komen overeen met het Grieks. v12 eindigt zonder punt ("zilverstukken") en v13 begint met "en zeiden": de zin loopt over de versgrens (λεγοντες). v19 eindigt met een komma en v20 begint met "en hun te leren", net als in het Grieks. Het citaat in v13-14 en de woorden van Jezus in v18-20 lopen over de versgrenzen heen en worden daar niet afgesloten.

@@ -43,7 +43,7 @@ Hoofdstukken (112), in deze volgorde: eerst Filemon, dan Filippenzen, Kolossenze
 | 1co | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
 | mrk | 1–16 | alle 16 gecontroleerd (wachten op nakijken) |
 | joh | 1–21 | alle 21 gecontroleerd (wachten op nakijken) |
-| mat | 1–28 | open |
+| mat | 1–28 | alle 28 gecontroleerd (wachten op nakijken) |
 
 Totaal: 1 + 4 + 4 + 5 + 1 + 16 + 16 + 16 + 21 + 28 = 112 hoofdstukken.
 
@@ -60,10 +60,12 @@ Besluit van de gebruiker: de lijst (alleen "vraag voor de vertaler", bij voorkeu
 - ἀδελφοί is overal als "broeders en zusters" gekoppeld (`en~ zusters=`). Het Grieks heeft alleen één woord; "en zusters" is eigenlijk een toevoeging. Vraag: koppelen als `~` (zoals nu) of als `+`?
 - Het Nederlands heeft hetzelfde Griekse woord op verschillende plekken verschillend vertaald (bijvoorbeeld βίος, δικαιόω, κατεργάζομαι, παρθένος, ἐξουσία). De losse gevallen staan in de meldingen onder de soort "controle 9: consistentie".
 - Tekstvarianten zijn alleen gesignaleerd ("vermoeden, niet nagegaan"). Het bewijs moet uit een machineleesbaar apparaat komen (absolute regel 2).
+- Mattheüs 5:22: de voetnoot in de Nederlandse tekst verwijst naar "veel Nederlandse Bijbels" en lijkt niet uit een apparaat te komen. Dat botst met absolute regel 1 en 2. Vraag: herschrijven of schrappen? (gemeld door de agent bij Mattheüs 5-8; niet zelf nagegaan)
+- Mattheüs 5:23/24, Marcus 10:29/30 en Johannes 7:21/22: de Nederlandse versgrens valt niet samen met het Grieks.
 
 ### Stand 2026-11-17 (doorgewerkt zonder nakijken)
 
-Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16, 1co 1–16, mrk 1–16, joh 1–21. Volgende open eenheid: mat 1.
+Op verzoek is doorgewerkt terwijl de collega Filemon nog niet heeft nagekeken. Klaar en scriptmatig foutloos: phm 1, php 1–4, col 1–4, 2jo 1, 1jo 1–5, rom 1–16, 1co 1–16, mrk 1–16, joh 1–21, mat 1–28. De koppeling van het NT is hiermee compleet (112 hoofdstukken). Volgende stap: de lijst met vragen voor de vertaler (CSV).
 
 Risico: de afspraken in de notatie (`=` / `~` / `+`) zijn nog niet goedgekeurd. Keurt de collega ze af, dan moeten de hoofdstukken hierboven worden omgezet. Dat kan met een script op de .txt-bestanden in `werk/koppeling/`.
 

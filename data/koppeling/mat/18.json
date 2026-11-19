@@ -1,0 +1,6004 @@
+{
+	"boek": "mat",
+	"hoofdstuk": 18,
+	"bron": "Woordkoppeling van de bestaande vertaling aan RP2018, gemaakt door Claude in de compacte notatie (werk/koppeling). Niet door een mens nagekeken.",
+	"notatie": "bron = plaatsen (vanaf 0) in data/grondtekst/nt/<boek>/<hoofdstuk>.json, veld verzen[].woorden. 'gewogen' ontbreekt bewust: dat is een besluit van de vertaler.",
+	"verzen": [
+		{
+			"vers": 1,
+			"koppeling": [
+				{
+					"nl": "Op",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "moment",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "kwamen",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "discipelen",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "Jezus",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "toe",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "en",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "vroegen",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "Wie",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "grootste",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "koninkrijk",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "der",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "hemelen",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				}
+			]
+		},
+		{
+			"vers": 2,
+			"koppeling": [
+				{
+					"nl": "Jezus",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "riep",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "een",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "kind",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "bij",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Zich",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "zette",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "hun",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "midden",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				}
+			],
+			"opmerking": "0 και ('en' voor 'Jezus riep'): niet weergegeven."
+		},
+		{
+			"vers": 3,
+			"koppeling": [
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "zei",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Waarlijk",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "als",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "veranderen",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "zoals",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "kinderen",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "zullen",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "koninkrijk",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "der",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "hemelen",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "zeker",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "binnengaan",
+					"type": "woord",
+					"bron": [
+						15,
+						16
+					]
+				}
+			]
+		},
+		{
+			"vers": 4,
+			"koppeling": [
+				{
+					"nl": "Wie",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "zich",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "vernedert",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "zoals",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "dit",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "kind",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "grootste",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "koninkrijk",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "der",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "hemelen",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				}
+			],
+			"opmerking": "8 ουτος ('deze'): niet weergegeven, het Nederlands heeft maar één aanwijzend woord (\"dit kind\")."
+		},
+		{
+			"vers": 5,
+			"koppeling": [
+				{
+					"nl": "Wie",
+					"type": "woord",
+					"bron": [
+						1,
+						2
+					]
+				},
+				{
+					"nl": "één",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zo'n",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "kind",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "Mijn",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "naam",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "ontvangt",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "ontvangt",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "Mij",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				}
+			],
+			"opmerking": "0 και ('en' voor 'wie'): niet weergegeven."
+		},
+		{
+			"vers": 6,
+			"koppeling": [
+				{
+					"nl": "Maar",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "wie",
+					"type": "woord",
+					"bron": [
+						0,
+						2
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "deze",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "kleinen",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "die",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "Mij",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "geloven",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "ten",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "val",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "brengt",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "zou",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "beter",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "af",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "als",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "er",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "een",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "zware",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "molensteen",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "om",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "hals",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "werd",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "gehangen",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "midden",
+					"type": "woord",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "op",
+					"type": "segment",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "zee",
+					"type": "woord",
+					"bron": [
+						28
+					]
+				},
+				{
+					"nl": "werd",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "verdronken",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				}
+			]
+		},
+		{
+			"vers": 7,
+			"koppeling": [
+				{
+					"nl": "Wee",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "wereld",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "vanwege",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "struikelblokken",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "Het",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "immers",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "onvermijdelijk",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "ze",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "komen",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "maar",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "wee",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "mens",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "door",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "wie",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "struikelblok",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "komt",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				}
+			],
+			"opmerking": "16 εκεινω ('die'): niet weergegeven."
+		},
+		{
+			"vers": 8,
+			"koppeling": [
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "hand",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "voet",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "ten",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "val",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "brengt",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "hak",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "af",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "gooi",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "weg",
+					"type": "woord",
+					"bron": [
+						15,
+						16
+					]
+				},
+				{
+					"nl": "Het",
+					"type": "segment",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "beter",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "voor",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "om",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "kreupel",
+					"type": "woord",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "verminkt",
+					"type": "woord",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "leven",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "in",
+					"type": "segment",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "gaan",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "woord",
+					"bron": [
+						27
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						33
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						28
+					]
+				},
+				{
+					"nl": "handen",
+					"type": "woord",
+					"bron": [
+						29
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						30
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						31
+					]
+				},
+				{
+					"nl": "voeten",
+					"type": "woord",
+					"bron": [
+						32
+					]
+				},
+				{
+					"nl": "in",
+					"type": "segment",
+					"bron": [
+						35
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						36
+					]
+				},
+				{
+					"nl": "eeuwige",
+					"type": "woord",
+					"bron": [
+						39
+					]
+				},
+				{
+					"nl": "vuur",
+					"type": "woord",
+					"bron": [
+						37
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						34
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "segment",
+					"bron": [
+						34
+					]
+				},
+				{
+					"nl": "gegooid",
+					"type": "woord",
+					"bron": [
+						34
+					]
+				}
+			],
+			"opmerking": "1 δε ('maar/en'): niet weergegeven."
+		},
+		{
+			"vers": 9,
+			"koppeling": [
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "oog",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "ten",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "val",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "brengt",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "ruk",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "uit",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "gooi",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "het",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "weg",
+					"type": "woord",
+					"bron": [
+						11,
+						12
+					]
+				},
+				{
+					"nl": "Het",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "beter",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "voor",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "om",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "één",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "oog",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "leven",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "in",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "gaan",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "ogen",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "in",
+					"type": "segment",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "het",
+					"type": "segment",
+					"bron": [
+						29
+					]
+				},
+				{
+					"nl": "vuur",
+					"type": "woord",
+					"bron": [
+						30
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						29
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						27
+					]
+				},
+				{
+					"nl": "hel",
+					"type": "woord",
+					"bron": [
+						28
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "segment",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "gegooid",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				}
+			],
+			"opmerking": "0 και ('en' voor 'als je oog'): niet weergegeven."
+		},
+		{
+			"vers": 10,
+			"koppeling": [
+				{
+					"nl": "Pas",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "op",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "neerkijken",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "op",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "deze",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "kleinen",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "Want",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "hun",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "engelen",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "zien",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "altijd",
+					"type": "woord",
+					"bron": [
+						16,
+						17
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "aangezicht",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "Mijn",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "Vader",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						26
+					]
+				}
+			],
+			"opmerking": "10 οτι ('dat'): niet weergegeven, de dubbele punt dient daarvoor."
+		},
+		{
+			"vers": 11,
+			"koppeling": [
+				{
+					"nl": "Want",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "Mensenzoon",
+					"type": "woord",
+					"bron": [
+						3,
+						5
+					]
+				},
+				{
+					"nl": "is",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "gekomen",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "om",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "redden",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "verloren",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "is",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				}
+			]
+		},
+		{
+			"vers": 12,
+			"koppeling": [
+				{
+					"nl": "Wat",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "denken",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "iemand",
+					"type": "woord",
+					"bron": [
+						5,
+						6
+					]
+				},
+				{
+					"nl": "honderd",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "schapen",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "heeft",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "daarvan",
+					"type": "woord",
+					"bron": [
+						12,
+						13
+					]
+				},
+				{
+					"nl": "verdwaalt",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "laat",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "negenennegentig",
+					"type": "woord",
+					"bron": [
+						17,
+						18
+					]
+				},
+				{
+					"nl": "achter",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "en",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "gaat",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "bergen",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "in",
+					"type": "segment",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "om",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "verdwaalde",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "schaap",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "zoeken",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				}
+			]
+		},
+		{
+			"vers": 13,
+			"koppeling": [
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "vindt",
+					"type": "woord",
+					"bron": [
+						2,
+						3
+					]
+				},
+				{
+					"nl": "waarlijk",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "is",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "blijer",
+					"type": "woord",
+					"bron": [
+						9,
+						12
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "ene",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "schaap",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "dan",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "negenennegentig",
+					"type": "woord",
+					"bron": [
+						16,
+						17
+					]
+				},
+				{
+					"nl": "die",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "verdwaald",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				}
+			],
+			"opmerking": "0 και ('en' voor 'als'): niet weergegeven. 8 οτι ('dat'): niet weergegeven, de dubbele punt dient daarvoor."
+		},
+		{
+			"vers": 14,
+			"koppeling": [
+				{
+					"nl": "Zo",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "is",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "het",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "wil",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "Vader",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "deze",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "kleinen",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "verloren",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "gaat",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				}
+			]
+		},
+		{
+			"vers": 15,
+			"koppeling": [
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "broeder",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "tegen",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "zondigt",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "ga",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "naar",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "hem",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "toe",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "wijs",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "onder",
+					"type": "woord",
+					"bron": [
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"nl": "vier",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "ogen",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "terecht",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "luistert",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "heb",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "je",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "broeder",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "teruggewonnen",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				}
+			],
+			"opmerking": "1 δε ('maar/en'): niet weergegeven."
+		},
+		{
+			"vers": 16,
+			"koppeling": [
+				{
+					"nl": "Maar",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "als",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "luistert",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "neem",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "nog",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "anderen",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "met",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "mee",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "zodat",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "elke",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "zaak",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "wordt",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "vastgesteld",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "op",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "grond",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "drie",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "getuigen",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "verklaren",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				}
+			]
+		},
+		{
+			"vers": 17,
+			"koppeling": [
+				{
+					"nl": "Als",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "hen",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "wil",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "luisteren",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "het",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "tegen",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "gemeente",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "Wil",
+					"type": "segment",
+					"bron": [
+						7,
+						12
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "zelfs",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "gemeente",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "luisteren",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "laat",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "voor",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "als",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "heiden",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "tollenaar",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				}
+			],
+			"opmerking": "1 δε en 8 δε ('maar'): niet weergegeven."
+		},
+		{
+			"vers": 18,
+			"koppeling": [
+				{
+					"nl": "Waarlijk",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "alles",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						3,
+						4
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "op",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "aarde",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "binden",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "gebonden",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "alles",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						15,
+						16
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "op",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "aarde",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "ontbinden",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "ontbonden",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						21
+					]
+				}
+			]
+		},
+		{
+			"vers": 19,
+			"koppeling": [
+				{
+					"nl": "Nogmaals",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "waarlijk",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "als",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "het",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "op",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "aarde",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "eens",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "over",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "woord",
+					"bron": [
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"nl": "ze",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "ook",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "maar",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "vragen",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "Mijn",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "Vader",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						25
+					]
+				},
+				{
+					"nl": "de",
+					"type": "segment",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "hemel",
+					"type": "woord",
+					"bron": [
+						26
+					]
+				},
+				{
+					"nl": "het",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "hun",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "laten",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "gebeuren",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				}
+			],
+			"opmerking": "4 οτι ('dat'): niet weergegeven, de dubbele punt dient daarvoor. 20 παρα ('van', bij 'Mijn Vader'): niet weergegeven, 'Mijn Vader' is in het Nederlands onderwerp."
+		},
+		{
+			"vers": 20,
+			"koppeling": [
+				{
+					"nl": "Want",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "waar",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "twee",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "of",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "drie",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "Mijn",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "naam",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "bijeen",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "daar",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "ben",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "hun",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "midden",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				}
+			]
+		},
+		{
+			"vers": 21,
+			"koppeling": [
+				{
+					"nl": "Toen",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "kwam",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Petrus",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "Hem",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "toe",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "en",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "vroeg",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "Heer",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "als",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "mijn",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "broeder",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "tegen",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "mij",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "zondigt",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "hoe",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "vaak",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "moet",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "ik",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "vergeven",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "Tot",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "zeven",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "keer",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "toe",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				}
+			]
+		},
+		{
+			"vers": 22,
+			"koppeling": [
+				{
+					"nl": "Jezus",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "zei",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "tegen",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Ik",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "zeg",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "tot",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "zeven",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "keer",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "maar",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "tot",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "zevenenzeventig",
+					"type": "woord",
+					"bron": [
+						11,
+						12
+					]
+				},
+				{
+					"nl": "keer",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				}
+			]
+		},
+		{
+			"vers": 23,
+			"koppeling": [
+				{
+					"nl": "Daarom",
+					"type": "woord",
+					"bron": [
+						0,
+						1
+					]
+				},
+				{
+					"nl": "is",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "het",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "koninkrijk",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "der",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hemelen",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "vergelijken",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "een",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "koning",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "die",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "de",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "rekeningen",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "met",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "slaven",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "wilde",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "vereffenen",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				}
+			],
+			"opmerking": "7 ανθρωπω ('een mens'): niet weergegeven."
+		},
+		{
+			"vers": 24,
+			"koppeling": [
+				{
+					"nl": "Toen",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "daarmee",
+					"type": "segment",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "begon",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "werd",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "er",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "iemand",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "bij",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "gebracht",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "die",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "tienduizend",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "talenten",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "schuldig",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				}
+			],
+			"opmerking": "1 δε ('maar/en'): niet weergegeven."
+		},
+		{
+			"vers": 25,
+			"koppeling": [
+				{
+					"nl": "Omdat",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "kon",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "terugbetalen",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "beval",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "meester",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "verkocht",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "zou",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "vrouw",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "kinderen",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "alles",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "had",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "de",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "schuld",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "daarmee",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "terugbetaald",
+					"type": "woord",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "zou",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				},
+				{
+					"nl": "worden",
+					"type": "segment",
+					"bron": [
+						23
+					]
+				}
+			],
+			"opmerking": "2 δε ('maar/en'): niet weergegeven. 15 και ('en' voor 'zijn kinderen'): niet weergegeven, het Nederlands gebruikt een komma."
+		},
+		{
+			"vers": 26,
+			"koppeling": [
+				{
+					"nl": "Daarop",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "viel",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "slaaf",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "neer",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "boog",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "zich",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "voor",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "neer",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "en",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zei",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "Heer",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "heb",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "geduld",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "met",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "mij",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "ik",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "u",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "alles",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "terugbetalen",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				}
+			]
+		},
+		{
+			"vers": 27,
+			"koppeling": [
+				{
+					"nl": "De",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "meester",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "die",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "slaaf",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "kreeg",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "medelijden",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "Hij",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "liet",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "gaan",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "vergaf",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "schuld",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				}
+			],
+			"opmerking": "1 δε ('maar/en'): niet weergegeven."
+		},
+		{
+			"vers": 28,
+			"koppeling": [
+				{
+					"nl": "Maar",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "toen",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "die",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "slaaf",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "wegging",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "kwam",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "een",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "medeslaven",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "tegen",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "die",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "honderd",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "denariën",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "schuldig",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "Hij",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "greep",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "vast",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "begon",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "te",
+					"type": "segment",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "wurgen",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "en",
+					"type": "segment",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "zei",
+					"type": "woord",
+					"bron": [
+						19
+					]
+				},
+				{
+					"nl": "Betaal",
+					"type": "woord",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "terug",
+					"type": "segment",
+					"bron": [
+						20
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "woord",
+					"bron": [
+						22,
+						23
+					]
+				},
+				{
+					"nl": "je",
+					"type": "segment",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "schuldig",
+					"type": "woord",
+					"bron": [
+						24
+					]
+				},
+				{
+					"nl": "bent",
+					"type": "segment",
+					"bron": [
+						24
+					]
+				}
+			],
+			"opmerking": "15 και ('en' voor 'Hij greep'): niet weergegeven. 21 μοι ('mij', bij 'betaal terug'): niet weergegeven."
+		},
+		{
+			"vers": 29,
+			"koppeling": [
+				{
+					"nl": "Daarop",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "viel",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "medeslaaf",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "aan",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "voeten",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "neer",
+					"type": "segment",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "en",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "smeekte",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "Heb",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "geduld",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "mij",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "dan",
+					"type": "segment",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "ik",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "terugbetalen",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				}
+			],
+			"opmerking": "11 λεγων ('zeggend'): niet weergegeven, de dubbele punt dient daarvoor."
+		},
+		{
+			"vers": 30,
+			"koppeling": [
+				{
+					"nl": "Maar",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "dat",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "wilde",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "Hij",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "ging",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "weg",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "en",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "gooide",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "in",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "de",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "gevangenis",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "totdat",
+					"type": "woord",
+					"bron": [
+						10,
+						11
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "zou",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "hebben",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "terugbetaald",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "schuldig",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				}
+			],
+			"opmerking": "4 αλλα ('maar'): niet weergegeven, het Nederlands zet 'maar' aan het begin van de zin."
+		},
+		{
+			"vers": 31,
+			"koppeling": [
+				{
+					"nl": "Zijn",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "medeslaven",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "zagen",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "er",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "gebeurd",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "en",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "werden",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "heel",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "bedroefd",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "Ze",
+					"type": "segment",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "gingen",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "naar",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "hun",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "meester",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "en",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "vertelden",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "precies",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "er",
+					"type": "toevoeging",
+					"bron": []
+				},
+				{
+					"nl": "allemaal",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "gebeurd",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				}
+			],
+			"opmerking": "1 δε ('maar/en') en 9 και ('en'): niet weergegeven."
+		},
+		{
+			"vers": 32,
+			"koppeling": [
+				{
+					"nl": "Toen",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "riep",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "meester",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "bij",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "zich",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "en",
+					"type": "segment",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zei",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "tegen",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "Slechte",
+					"type": "woord",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "slaaf",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "Die",
+					"type": "woord",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "hele",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "schuld",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "heb",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "ik",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "vergeven",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "omdat",
+					"type": "woord",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "je",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "mij",
+					"type": "woord",
+					"bron": [
+						18
+					]
+				},
+				{
+					"nl": "erom",
+					"type": "segment",
+					"bron": [
+						17
+					]
+				},
+				{
+					"nl": "smeekte",
+					"type": "woord",
+					"bron": [
+						17
+					]
+				}
+			]
+		},
+		{
+			"vers": 33,
+			"koppeling": [
+				{
+					"nl": "Had",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "ook",
+					"type": "woord",
+					"bron": [
+						2
+					]
+				},
+				{
+					"nl": "jij",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "barmhartig",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "moeten",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "segment",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "voor",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "je",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "medeslaaf",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "zoals",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "ik",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "jou",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "barmhartig",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "ben",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "geweest",
+					"type": "segment",
+					"bron": [
+						12
+					]
+				}
+			],
+			"opmerking": "9 και ('ook', tweede keer): niet weergegeven."
+		},
+		{
+			"vers": 34,
+			"koppeling": [
+				{
+					"nl": "Zijn",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "meester",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "werd",
+					"type": "segment",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "woedend",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "en",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "leverde",
+					"type": "woord",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "over",
+					"type": "segment",
+					"bron": [
+						5
+					]
+				},
+				{
+					"nl": "aan",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "de",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "folteraars",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "totdat",
+					"type": "woord",
+					"bron": [
+						9,
+						10
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "alles",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "zou",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "hebben",
+					"type": "segment",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "terugbetaald",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				},
+				{
+					"nl": "wat",
+					"type": "segment",
+					"bron": [
+						13
+					]
+				},
+				{
+					"nl": "hij",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "hem",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "schuldig",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "was",
+					"type": "segment",
+					"bron": [
+						14
+					]
+				}
+			]
+		},
+		{
+			"vers": 35,
+			"koppeling": [
+				{
+					"nl": "Zo",
+					"type": "woord",
+					"bron": [
+						0
+					]
+				},
+				{
+					"nl": "zal",
+					"type": "segment",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "ook",
+					"type": "woord",
+					"bron": [
+						1
+					]
+				},
+				{
+					"nl": "Mijn",
+					"type": "woord",
+					"bron": [
+						4
+					]
+				},
+				{
+					"nl": "hemelse",
+					"type": "woord",
+					"bron": [
+						6
+					]
+				},
+				{
+					"nl": "Vader",
+					"type": "woord",
+					"bron": [
+						3
+					]
+				},
+				{
+					"nl": "met",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "ieder",
+					"type": "woord",
+					"bron": [
+						12
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "jullie",
+					"type": "woord",
+					"bron": [
+						8
+					]
+				},
+				{
+					"nl": "doen",
+					"type": "woord",
+					"bron": [
+						7
+					]
+				},
+				{
+					"nl": "die",
+					"type": "segment",
+					"bron": [
+						9
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						15
+					]
+				},
+				{
+					"nl": "broeder",
+					"type": "woord",
+					"bron": [
+						14
+					]
+				},
+				{
+					"nl": "zijn",
+					"type": "woord",
+					"bron": [
+						22
+					]
+				},
+				{
+					"nl": "overtredingen",
+					"type": "woord",
+					"bron": [
+						21
+					]
+				},
+				{
+					"nl": "niet",
+					"type": "woord",
+					"bron": [
+						10
+					]
+				},
+				{
+					"nl": "van",
+					"type": "segment",
+					"bron": [
+						16
+					]
+				},
+				{
+					"nl": "harte",
+					"type": "woord",
+					"bron": [
+						18,
+						19
+					]
+				},
+				{
+					"nl": "vergeeft",
+					"type": "woord",
+					"bron": [
+						11
+					]
+				}
+			]
+		}
+	]
+}
