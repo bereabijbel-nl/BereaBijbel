@@ -85,6 +85,28 @@ export function laadLexiconItem(strong: string): LexiconItem | null {
 	return lexiconCache[taal][strong] ?? null;
 }
 
+export interface NlLexiconItem {
+	translit: string;
+	glos: string;
+	definitie: string;
+	bron: string;
+	bron_en: { kort: string; lang: string };
+}
+
+let nlLexicon: Record<string, NlLexiconItem> | null = null;
+
+// Nederlandse glos en definitie (Dodson, vertaald door een model, nog niet nagelezen), alleen Grieks.
+// Null als het nummer nog niet vertaald is: dan blijft Strong (Engels) de terugval.
+export function laadNlLexiconItem(strong: string): NlLexiconItem | null {
+	if (strong.startsWith("H")) return null;
+	if (!nlLexicon) {
+		nlLexicon = JSON.parse(
+			fs.readFileSync(path.join(process.cwd(), "..", "data", "lexicon", "greek.nl.json"), "utf-8"),
+		);
+	}
+	return nlLexicon?.[strong] ?? null;
+}
+
 export interface VindplaatsenResultaat {
 	totaal: number;
 	voorbeelden: Vindplaats[];

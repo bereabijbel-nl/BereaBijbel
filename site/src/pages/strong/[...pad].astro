@@ -5,7 +5,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import Base from "../../layouts/Base.astro";
-import { alleStrongNummers, alleVindplaatsen, laadLexiconItem } from "../../lib/grondtekst";
+import { alleStrongNummers, alleVindplaatsen, laadLexiconItem, laadNlLexiconItem } from "../../lib/grondtekst";
 
 interface BoekInfo {
 	code: string;
@@ -35,6 +35,7 @@ const van = (pagina - 1) * PER_PAGINA;
 const getoond = alle.slice(van, van + PER_PAGINA);
 const rtl = nummer.startsWith("H");
 const lexicon = laadLexiconItem(nummer);
+const nl = laadNlLexiconItem(nummer);
 const adres = (p: number) => (p === 1 ? `/strong/${nummer}` : `/strong/${nummer}/${p}`);
 
 // Per boek groeperen (de concordantie staat al in Bijbelvolgorde).
@@ -60,14 +61,31 @@ for (const vp of getoond) {
 			<section id="betekenissen" class="betekenissen">
 				<h3>Betekenissen</h3>
 				<p class="woord"><b>{lexicon.translit}</b> <span class="uitspraak">({lexicon.uitspraak})</span></p>
-				<p>{lexicon.definitie}</p>
+				{nl ? (
+					<>
+						<p class="bet-glos"><b>{nl.glos}</b></p>
+						<p>{nl.definitie}</p>
+						<details>
+							<summary>Engelse bron tonen</summary>
+							<p><b>Dodson (kort):</b> {nl.bron_en.kort}</p>
+							<p><b>Dodson (lang):</b> {nl.bron_en.lang}</p>
+							<p><b>Strong (1890):</b> {lexicon.definitie}</p>
+						</details>
+					</>
+				) : (
+					<p>{lexicon.definitie}</p>
+				)}
 				{lexicon.kjv.length > 0 && (
 					<>
 						<h3>In de KJV vertaald als</h3>
 						<p class="bet-kjv">{lexicon.kjv.map((k) => <span class="chip">{k}</span>)}</p>
 					</>
 				)}
-				<p class="bron">Bron: Strong's Exhaustive Concordance (1890), in het Engels, via Open Scriptures.</p>
+				<p class="bron">
+					{nl
+						? "Bron: Dodson Greek Lexicon (publiek domein), vertaald door een model; nog niet nagelezen. Terugval en Engelse bron: Strong's Exhaustive Concordance (1890), via Open Scriptures."
+						: "Bron: Strong's Exhaustive Concordance (1890), in het Engels, via Open Scriptures."}
+				</p>
 				{rtl && (
 					<p class="bron">Strong-codering van de Hebreeuwse vindplaatsen: Open Scriptures Hebrew Bible, CC BY 4.0. <a href="/over#licenties">Waarom deze uitzondering</a></p>
 				)}

@@ -168,18 +168,43 @@ function haalLexicon(strong: string): Promise<Record<string, LexiconItem> | null
 	return p;
 }
 
+interface NlLexiconItem {
+	glos: string;
+	definitie: string;
+}
+let nlLexiconPromise: Promise<Record<string, NlLexiconItem> | null> | null = null;
+
+function haalNlLexicon(): Promise<Record<string, NlLexiconItem> | null> {
+	nlLexiconPromise ??= fetch("/api/lexicon/greek.nl.json")
+		.then((r) => (r.ok ? (r.json() as Promise<Record<string, NlLexiconItem>>) : null))
+		.catch(() => null);
+	return nlLexiconPromise;
+}
+
 // Betekenissen uit Strong's woordenboek (Engels, 1890): de definitie en hoe de KJV het woord
 // weergeeft. Een klik op een weergave opent de pagina van het Strong-nummer met alle betekenissen.
 async function vulBetekenissen(doel: HTMLElement, strong: string): Promise<void> {
-	const item = (await haalLexicon(strong))?.[strong];
-	if (!item || !doel.isConnected) return;
+	const [item, nl] = await Promise.all([
+		haalLexicon(strong).then((l) => l?.[strong]),
+		strong.startsWith("H") ? Promise.resolve(undefined) : haalNlLexicon().then((l) => l?.[strong]),
+	]);
+	if ((!item && !nl) || !doel.isConnected) return;
 	const pagina = `/strong/${strong}#betekenissen`;
-	const chips = item.kjv.map((k) => `<a class="chip" href="${pagina}">${esc(k)}</a>`).join("");
+	const chips = (item?.kjv ?? []).map((k) => `<a class="chip" href="${pagina}">${esc(k)}</a>`).join("");
+	// Is er een Nederlandse vertaling (Dodson), dan staat die voorop; Strong in het Engels blijft de terugval.
+	const hoofd = nl
+		? `<p class="bet-glos"><b>${esc(nl.glos)}</b></p><p class="bet-def">${esc(nl.definitie)}</p>`
+		: item
+			? `<p class="bet-def">${esc(item.definitie)}</p>`
+			: "";
+	const bron = nl
+		? "Dodson, vertaald door een model; nog niet nagelezen."
+		: "Strong (1890), Engels.";
 	doel.innerHTML =
 		'<p class="field-label">Betekenissen</p>' +
-		`<p class="bet-def">${esc(item.definitie)}</p>` +
+		hoofd +
 		(chips ? `<p class="field-label">In de KJV vertaald als</p><p class="bet-kjv">${chips}</p>` : "") +
-		`<p class="vindplaatsen-note">Strong (1890), Engels. <a class="alle-link" href="${pagina}">Alle betekenissen &rarr;</a></p>`;
+		`<p class="vindplaatsen-note">${bron} <a class="alle-link" href="${pagina}">Alle betekenissen &rarr;</a></p>`;
 }
 
 function woordUitlegHtml(w: WoordDetail): string {

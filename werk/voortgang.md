@@ -121,9 +121,9 @@ Brokken (aantal en grootte bepalen na de dekkingsmeting en de eerste vijf brokke
 
 ## 6. WP6 — Site
 
-- [ ] Woordpaneel (§5 van het plan)
+- [ ] Woordpaneel (§5 van het plan): glos en NL-definitie uit greek.nl.json getoond (2026-11-20); weergaven en morfologie nog niet
 - [ ] Tweerichtingsmarkering Nederlands ↔ grondtekst
-- [ ] `/strong/[nummer]` uitbreiden
+- [ ] `/strong/[nummer]` uitbreiden: glos, NL-definitie en Engelse bron (uitklapbaar) staan er; eigen weergaven nog niet
 - [ ] KJV-weergaven per nummer vervangen (B4)
 - [ ] Concordantie in Bijbelvolgorde
 - [ ] API: lexicon, koppeling, weergaven

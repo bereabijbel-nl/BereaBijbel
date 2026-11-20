@@ -5,7 +5,8 @@ import path from "node:path";
 import type { APIRoute } from "astro";
 
 export function getStaticPaths() {
-	return [{ params: { taal: "greek" } }, { params: { taal: "hebrew" } }];
+	// greek.nl: Nederlandse glos en definitie (Dodson, vertaald), alleen voor nummers die al vertaald zijn
+	return [{ params: { taal: "greek" } }, { params: { taal: "hebrew" } }, { params: { taal: "greek.nl" } }];
 }
 
 export const GET: APIRoute = ({ params }) => {
