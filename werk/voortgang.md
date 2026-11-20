@@ -100,13 +100,13 @@ Overzichten voor de collega: `werk/overzicht/*.html` (één per hoofdstuk).
 ## 4. WP4 — Woordenboek (na WP3)
 
 - [ ] B3 bevestigen en herschrijven
-- [ ] Dekking Dodson ten opzichte van RP2018 gemeten (lijst nummers zonder vermelding)
-- [ ] `pipeline/scripts/maak-lexiconbrokken.js`
-- [ ] `controleer-strong-vertaling.js` uitgebreid (glos 1–4 woorden, geen Engelse restwoorden, `bron_en`)
-- [ ] 4a. Dodson, eerst de nummers uit de 112 vertaalde hoofdstukken (ca. 3.000)
+- [x] Dekking Dodson ten opzichte van RP2018 gemeten: alle 3.165 nummers gedekt (2026-11-20)
+- [x] `pipeline/scripts/maak-lexiconbrokken.js`
+- [x] `controleer-strong-vertaling.js` uitgebreid (glos 1–4 woorden, geen Engelse restwoorden, `bron_en`)
+- [x] 4a. Dodson, de 3.165 nummers uit de 112 vertaalde hoofdstukken: 22 brokken vertaald, controle 0 fouten, nog niet nagelezen (steekproef en vragen: werk/lexicon/)
 - [ ] 4a. Dodson, rest van het Grieks
 - [ ] 4b. Abbott-Smith: proef op 50 vermeldingen, daarna doorwerken
-- [ ] Samenvoegscript `greek.nl.json`
+- [x] Samenvoegscript `greek.nl.json` (pipeline/scripts/voeg-lexicon-samen.js)
 - [ ] Steekproef per tien brokken in `werk/lexicon/steekproef.md`
 - [ ] 4c. BDB (Hebreeuws), pas bij het OT
 
