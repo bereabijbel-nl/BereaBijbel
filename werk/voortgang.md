@@ -137,4 +137,4 @@ Brokken (aantal en grootte bepalen na de dekkingsmeting en de eerste vijf brokke
 
 ## 8. WP7 — Kwaliteitsrapport
 
-- [ ] `pipeline/scripts/maak-kwaliteitsrapport.js` → `docs/kwaliteitsrapport.html`
+- [x] `pipeline/scripts/maak-kwaliteitsrapport.js` → `docs/kwaliteitsrapport.html` (2026-11-20)
